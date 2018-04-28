@@ -1,7 +1,7 @@
 ---
 ---
 
-## Lajur daftar
+## Penggunaan lajur
 
 Pada asalnya, daftar dwibahasa mempunyai dua lajur sahaja,
 iaitu satu bahasa untuk setiap lajur. Apabila dua ahli
