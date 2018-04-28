@@ -36,6 +36,6 @@ tersebut dalam helaian rebak.
 | #CC4125     | teks yang dikemas kini secara auto (nilai dalam jadual) |
 | **#CC4125** | teks yang dikemas kini secara auto                      |
 
-Fail dokumentasi ini adalah salinan teks daripada jadual
+Fail dokumentasi ini adalah berdasarkan teks daripada jadual
 dalam helaian rebak, kecuali semua warna visual telah
 diganti dengan kod warna hex supaya dapat diguna semula.
