@@ -1,7 +1,7 @@
 ---
 ---
 
-## Contoh rekaan daftar
+## Contoh daftar
 
 | inggeris    | ke | melayu                         | di |
 | ----------- | -- | ------------------------------ | -- |
