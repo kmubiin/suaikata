@@ -2,12 +2,34 @@
 layout: default
 ---
 
-Dokumentasi perkamusan akan diterbitkan di laman ini.
+> Tulis satu perenggan untuk pengenalan projek suaikata
 
-Cuba lihat:
+Dokumentasi Panduan:
 
-* [Panduan asas][P1]
-* [Contoh daftar][R1]
+* [Pengetahuan asas][PN1]
+* [Penggunaan kamus][PN2]
+* [Bahasa Melayu piawai][PN3]
+* [Pemilihan sumber kata masukan][PN4]
 
-  [P1]: panduan/asas.md
-  [R1]: rekaan/contoh.md
+Dokumentasi Rekaan:
+
+* [Contoh daftar][RN1]
+* [Mengenali kejadian][RN2]
+* [Penggunaan lajur][RN3]
+* [Penggunaan tanda][RN4]
+* [Penggunaan warna][RN5]
+
+Laman ini hanya menyediakan kemudahan untuk melayari fail
+dokumentasi. Untuk kemudahan lain, sila layari laman utama
+repositori projek di GitHub.
+
+
+  [PN1]: panduan/asas.md
+  [PN2]: panduan/kamus.md
+  [PN3]: panduan/piawai.md
+  [PN4]: panduan/sumber.md
+  [RN1]: rekaan/contoh.md
+  [RN2]: rekaan/kejadian.md
+  [RN3]: rekaan/lajur.md
+  [RN4]: rekaan/tanda.md
+  [RN5]: rekaan/warna.md
