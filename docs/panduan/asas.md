@@ -1,7 +1,9 @@
 ---
 ---
 
-## Panduan asas
+## Pengetahuan asas
+
+> Laman ini belum habis ditulis
 
 Secara umum, kita anggap kebanyakan kata masukan Inggeris
 boleh disuaikan dengan kata masukan Melayu yang sama makna.
@@ -31,3 +33,11 @@ Takrif yang bermula dengan 'sesuatu', 'sejenis', 'orang yang
 ...', 'benda yang...' dan seumpamanya mungkin menandakan
 kata masukan Inggeris tersebut tidak ada perkataan jitu yang
 sama makna dalam bahasa Melayu.
+
+> Sambung tulis di sini
+
+Fail dokumentasi ini adalah berdasarkan teks daripada komen
+dalam [isu #10][#10] di GitHub Issues.
+
+
+  [#10]: https://github.com/kmubiin/suaikata/issues/10
