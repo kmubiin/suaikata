@@ -54,7 +54,12 @@ dengan sepintas lalu.
 
 Apabila daftar dwibahasa beregu telah lengkap, semua lajur
 kecuali lajur-lajur terjemah akan disalin ke fail baru dan
-diterbit di repositori. Lihat [contoh daftar][R1].
+diterbit di repositori. Lihat [contoh daftar][RN1].
+
+Fail dokumentasi ini adalah berdasarkan teks daripada komen
+dalam [isu #9][#9], kecuali perkembangan lajur dalam daftar
+dwibahasa beregu diterangkan dengan lengkap di sini.
 
 
-  [R1]: contoh.md
+  [RN1]: contoh.md
+  [#9]: https://github.com/kmubiin/suaikata/issues/9
