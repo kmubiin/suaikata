@@ -22,6 +22,8 @@ kegunaan yang khusus, misalnya:
 * Kamus istilah
 * Kamus singkatan (akronim)
 
+> Sambung tulis di sini
+
 Fail dokumentasi ini adalah berdasarkan teks daripada komen
 dalam [isu #10][#10] di GitHub Issues, kecuali perincian
 jenis kamus telah ditulis kemudian berdasarkan pengetahuan
