@@ -16,6 +16,7 @@ dikenal pasti dalam helaian rebak di Google Sheets.
 | abstract | 1  | abstrak            | M  | abstrak    |            |
 | abstract | 1  | tak zahir          | A  |            | tak zahir  |
 | abstract | 1  | abstrak            | X1 | abstrak    | ?tak zahir |
+| abstract | 1  | tak zahir          | X1 | ?abstrak   | tak zahir  |
 | abstract | 1  | abstrak            | M+ | abstrak    | #tak zahir |
 | abstract | 1  | tak zahir          | A+ | #abstrak   | tak zahir  |
 | abstract | 1  | [eh, dua salinan?] | X2 | abstrak    | tak zahir  |
