@@ -51,7 +51,7 @@ atau kata masukan Melayu yang berkaitan. Setiap kata masukan
 Melayu yang berkaitan akan membawa takrif tersendiri dan
 tidak semestinya didapati dalam satu perkataan.
 
-> catatan sejarah, peristiwa, kisah, cerita, riwayat
+> catatan sejarah, kisah, cerita, rentetan peristiwa, riwayat
 >
 > Sumber: Pengetahuan sendiri, kamus kata sama dan lain-lain
 
@@ -59,9 +59,9 @@ Kemudian, bandingkan setiap kata itu dengan takrif dalam
 bahasa asal.
 
 > * chronicle ?= catatan sejarah
-> * chronicle ?= peristiwa
 > * chronicle ?= kisah
 > * chronicle ?= cerita
+> * chronicle ?= rentetan peristiwa
 > * chronicle ?= riwayat
 
 Kata masukan Melayu yang paling sesuai akan dipilih,
