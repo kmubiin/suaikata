@@ -3,8 +3,6 @@
 
 ## Pengetahuan asas
 
-> Laman ini belum habis ditulis
-
 Secara umum, kita anggap kebanyakan kata masukan Inggeris
 boleh disuaikan dengan kata masukan Melayu yang sama makna.
 Setiap kata masukan Inggeris-Melayu yang sama makna
@@ -34,10 +32,52 @@ Takrif yang bermula dengan 'sesuatu', 'sejenis', 'orang yang
 kata masukan Inggeris tersebut tidak ada perkataan jitu yang
 sama makna dalam bahasa Melayu.
 
-> Sambung tulis di sini
+Sebelum kata masukan Inggeris dapat disuaikan dengan kata
+masukan Melayu, kita seharusnya memahami takrif dalam bahasa
+asal.
+
+| inggeris   | melayu       |
+| ---------- | ------------ |
+| chronicle  | ?            |
+
+> chronicle (plural chronicles)
+>
+> 1. A written account of events and when they happened, ordered by time.
+>
+> Sumber: [chronicle di Wiktionary][wkt]
+
+Setelah fahamkan takrif itu, barulah mula mencari kata kunci
+atau kata masukan Melayu yang berkaitan. Setiap kata masukan
+Melayu yang berkaitan akan membawa takrif tersendiri dan
+tidak semestinya didapati dalam satu perkataan.
+
+> catatan sejarah, peristiwa, kisah, cerita, riwayat
+>
+> Sumber: Pengetahuan sendiri, kamus kata sama dan lain-lain
+
+Kemudian, bandingkan setiap kata itu dengan takrif dalam
+bahasa asal.
+
+> * chronicle ?= catatan sejarah
+> * chronicle ?= peristiwa
+> * chronicle ?= kisah
+> * chronicle ?= cerita
+> * chronicle ?= riwayat
+
+Kata masukan Melayu yang paling sesuai akan dipilih,
+sebaiknya melalui semakan dengan sumber rujukan rasmi dan
+perbincangan antara dua atau lebih penutur bahasa.
+
+| inggeris   | melayu       |
+| ---------- | ------------ |
+| chronicle  | riwayat      |
+
+Tuntasnya, bahasa asal kata masukan perlu dikuasai terlebih
+dahulu. Penguasaan bahasa asal mempengaruhi tahap kesesuaian
+takrif yang akan dibawakan oleh penutur bahasa.
 
 Fail dokumentasi ini adalah berdasarkan teks daripada komen
 dalam [isu #10][#10] di GitHub Issues.
 
-
+  [wkt]: https://en.wiktionary.org/wiki/chronicle
   [#10]: https://github.com/kmubiin/suaikata/issues/10
