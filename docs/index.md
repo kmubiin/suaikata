@@ -4,7 +4,8 @@ layout: default
 
 Projek suaikata adalah projek perkamusan sumber terbuka yang
 dimulakan oleh dua ahli projek. Repositori projek ini
-pertama kali dicipta di GitHub pada 1 Mac 2018.
+pertama kali dicipta di GitHub pada 1 Mac 2018. Projek ini
+menggunakan lesen CC-BY-4.0 untuk kemudahan data terbuka.
 
 Dokumentasi Panduan:
 
