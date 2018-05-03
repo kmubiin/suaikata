@@ -10,10 +10,9 @@ Ada tiga jenis kamus yang boleh dikenal pasti:
 * Kamus dua bahasa (dwibahasa)
 * Kamus aneka bahasa
 
-Kamus ekabahasa mengandungi takrif yang diterangkan dalam
-bahasa asal yang digunakan oleh kamus itu sendiri. Kamus
-ekabahasa juga merangkumi pelbagai kamus terbitan untuk
-kegunaan yang khusus, misalnya:
+Kamus ekabahasa dan sebilangan kecil kamus dwibahasa boleh
+didapati sebagai kamus terbitan untuk kegunaan yang khusus,
+misalnya:
 
 * Kamus kata sama dan kata lawan (tesaurus)
 * Kamus peribahasa atau simpulan bahasa
