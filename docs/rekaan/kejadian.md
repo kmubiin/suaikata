@@ -3,11 +3,11 @@
 
 ## Mengenali kejadian
 
-Helaian rebak dalam projek suaikata mengenal pasti dan juga
-mengendali beberapa keadaan terjemah semasa daftar dwibahasa
+Projek suaikata telah mengenal pasti dan mengendali beberapa
+keadaan terjemah dalam helaian rebak, semasa daftar pertama
 dibangunkan oleh dua ahli projek.
 
-Jadual berikut menyenaraikan semua kejadian biasa yang
+Jadual berikut menyenaraikan semua kejadian yang biasa
 dikenal pasti dalam helaian rebak di Google Sheets.
 
 | inggeris | ke | melayu             | di | terjemah M | terjemah A |
