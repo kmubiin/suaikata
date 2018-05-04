@@ -69,9 +69,11 @@ takrif perkataan 'transparent' sebenarnya tidak terhad pada
 makna 'lut sinar' atau 'jernih' semata-mata.
 
 Penutur bahasa yang menguasai bahasa asal dengan baik boleh
-mengenal pasti kebetulan dan kesalahan sesuatu takrif. Oleh
-itu, kamus dwibahasa harus dianggap sebagai bukan rujukan
-utama tetapi rujukan sampingan untuk perbandingan takrif.
+mengenal pasti kebetulan dan kesalahan sesuatu takrif.
+
+Oleh itu, kamus dwibahasa harus dianggap sebagai bukan
+rujukan utama tetapi rujukan sampingan untuk perbandingan
+takrif. Lihat [contoh perbandingan takrif][PN5].
 
 Fail dokumentasi ini adalah berdasarkan teks daripada komen
 dalam [isu #10][#10] di GitHub Issues, kecuali perincian
@@ -81,3 +83,4 @@ dwibahasa digantikan dengan misalan perbandingan takrif.
 
   [wkt]: https://en.wiktionary.org/wiki/transparent
   [#10]: https://github.com/kmubiin/suaikata/issues/10
+  [PN5]: takrif.md
