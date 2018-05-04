@@ -6,34 +6,14 @@ Projek suaikata adalah projek perkamusan sumber terbuka yang
 dimulakan oleh dua ahli projek. Projek ini menggunakan lesen
 CC-BY-4.0 untuk kemudahan data terbuka.
 
-Dokumentasi Panduan:
+* Senarai laman ulasan (belum dicipta)
+* [Senarai laman panduan][PN]
+* [Senarai laman rekaan][RN]
 
-* [Pengetahuan asas][PN1]
-* [Penggunaan kamus][PN2]
-* [Bahasa Melayu piawai][PN3]
-* [Pemilihan sumber kata masukan][PN4]
-* [Contoh perbandingan takrif][PN5]
-
-Dokumentasi Rekaan:
-
-* [Contoh daftar][RN1]
-* [Mengenali kejadian][RN2]
-* [Penggunaan lajur][RN3]
-* [Penggunaan tanda][RN4]
-* [Penggunaan warna][RN5]
-
-Laman ini hanya menyediakan kemudahan untuk melayari fail
+Laman ini hanya menyediakan kemudahan untuk membaca teks
 dokumentasi. Untuk kemudahan lain, sila layari laman utama
 repositori projek di GitHub.
 
 
-  [PN1]: panduan/asas.md
-  [PN2]: panduan/kamus.md
-  [PN3]: panduan/piawai.md
-  [PN4]: panduan/sumber.md
-  [PN5]: panduan/takrif.md
-  [RN1]: rekaan/contoh.md
-  [RN2]: rekaan/kejadian.md
-  [RN3]: rekaan/lajur.md
-  [RN4]: rekaan/tanda.md
-  [RN5]: rekaan/warna.md
+  [PN]: panduan.md
+  [RN]: rekaan.md
