@@ -3,9 +3,9 @@
 
 ## Penggunaan tanda
 
-Helaian rebak menggunakan tanda untuk mengenal pasti keadaan
-terjemah dalam daftar dwibahasa. Kebanyakan tanda digunakan
-oleh formula untuk menyokong fungsi kemas kini secara auto.
+Tanda atau aksara bukan abjad digunakan untuk mengenal
+pasti keadaan terjemah dalam helaian rebak. Kebanyakan tanda
+digunakan oleh formula untuk fungsi kemas kini.
 
 Jadual berikut menyenaraikan tanda dan nama tanda yang
 digunakan dalam helaian rebak di Google Sheets.
@@ -51,10 +51,10 @@ tersebut dalam helaian rebak.
 | ;     | pengasing terjemah mudah dan sukar         |
 | ()    | pengiring kata pembayang atau teks bantuan |
 
-Semasa mengisi lajur yang akan mengandungi terjemah, ada
-beberapa tanda yang boleh digunakan oleh ahli projek tetapi
-tidak dimestikan. Lima tanda tersebut ialah `? # , ; ()`
+Semasa mengisi lajur terjemah, ada beberapa tanda yang boleh
+digunakan oleh ahli projek tetapi tidak dimestikan. Lima
+tanda tersebut ialah `? # , ; ()`
 
 Fail dokumentasi ini adalah berdasarkan teks daripada jadual
 dalam helaian rebak, kecuali beberapa tanda dan keterangan
-disemak dan lajur yang mengandungi teks mesej dilupakan.
+telah disemak dan lajur mesej dilupakan.
