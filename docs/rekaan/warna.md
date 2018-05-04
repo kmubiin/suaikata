@@ -3,10 +3,10 @@
 
 ## Penggunaan warna
 
-Helaian rebak menggunakan warna untuk membezakan ruang teks
-yang ada formula dan teks yang dikemas kini secara auto.
-Dengan itu, ruang teks lain dalam helaian rebak boleh
-dikemas kini tanpa menjejaskan fungsi tersebut.
+Warna digunakan untuk membezakan ruang teks yang ada formula
+dan teks yang berubah sendiri dalam helaian rebak. Dengan
+itu, ruang teks lain dalam helaian rebak boleh dikemas kini
+tanpa menjejaskan fungsi tersebut.
 
 Jadual berikut menyenaraikan warna dan nama warna yang
 digunakan dalam helaian rebak di Google Sheets.
@@ -25,17 +25,17 @@ digunakan dalam helaian rebak di Google Sheets.
 Jadual berikut menyenaraikan warna dan kegunaan warna
 tersebut dalam helaian rebak.
 
-| warna       | kegunaan warna                                          |
-| ----------- | ------------------------------------------------------- |
-| #F3F3F3     | ruang teks tetap                                        |
-| #EAD1DC     | ruang teks boleh ubah, untuk kegunaan formula           |
-| #FFF2CC     | ruang teks boleh ubah, untuk kegunaan pengguna          |
-| #000000     | teks bacaan dan tulisan pengguna                        |
-| **#000000** | teks bacaan untuk tajuk dan nota sampingan              |
-| **#1C4587** | teks yang diperoleh daripada sumber dalaman atau luaran |
-| #CC4125     | teks yang dikemas kini secara auto (nilai dalam jadual) |
-| **#CC4125** | teks yang dikemas kini secara auto                      |
+| warna       | kegunaan warna                                 |
+| ----------- | ---------------------------------------------- |
+| #F3F3F3     | ruang teks tetap                               |
+| #EAD1DC     | ruang teks boleh ubah, untuk kegunaan formula  |
+| #FFF2CC     | ruang teks boleh ubah, untuk kegunaan pengguna |
+| #000000     | teks bacaan dan tulisan pengguna               |
+| **#000000** | teks bacaan untuk tajuk dan nota sampingan     |
+| **#1C4587** | teks salinan sendiri                           |
+| #CC4125     | teks berubah sendiri (nilai dalam jadual)      |
+| **#CC4125** | teks berubah sendiri                           |
 
 Fail dokumentasi ini adalah berdasarkan teks daripada jadual
-dalam helaian rebak, kecuali semua warna visual telah
-diganti dengan kod warna hex supaya dapat diguna semula.
+dalam helaian rebak, kecuali warna visual telah diganti
+dengan kod warna hex supaya dapat diguna semula.
