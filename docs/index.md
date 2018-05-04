@@ -12,6 +12,7 @@ Dokumentasi Panduan:
 * [Penggunaan kamus][PN2]
 * [Bahasa Melayu piawai][PN3]
 * [Pemilihan sumber kata masukan][PN4]
+* [Contoh perbandingan takrif][PN5]
 
 Dokumentasi Rekaan:
 
@@ -30,6 +31,7 @@ repositori projek di GitHub.
   [PN2]: panduan/kamus.md
   [PN3]: panduan/piawai.md
   [PN4]: panduan/sumber.md
+  [PN5]: panduan/takrif.md
   [RN1]: rekaan/contoh.md
   [RN2]: rekaan/kejadian.md
   [RN3]: rekaan/lajur.md
