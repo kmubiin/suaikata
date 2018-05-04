@@ -60,8 +60,8 @@ Apabila daftar dwibahasa beregu telah lengkap, semua lajur
 kecuali lajur-lajur terjemah akan disalin ke fail baru dan
 diterbit di repositori. Lihat [contoh daftar][RN1].
 
-Fail dokumentasi ini adalah berdasarkan teks daripada komen
-dalam [isu #9][#9], kecuali perkembangan lajur dalam daftar
+Laman ini adalah berdasarkan teks daripada komen dalam
+[isu #9][#9], kecuali perkembangan lajur dalam daftar
 dwibahasa beregu diterangkan dengan lengkap di sini.
 
 

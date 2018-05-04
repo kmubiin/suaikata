@@ -55,6 +55,6 @@ Semasa mengisi lajur terjemah, ada beberapa tanda yang boleh
 digunakan oleh ahli projek tetapi tidak dimestikan. Lima
 tanda tersebut ialah `? # , ; ()`
 
-Fail dokumentasi ini adalah berdasarkan teks daripada jadual
-dalam helaian rebak, kecuali beberapa tanda dan keterangan
-telah disemak dan lajur mesej dilupakan.
+Laman ini adalah berdasarkan teks daripada jadual dalam
+helaian rebak, kecuali beberapa tanda dan keterangan telah
+disemak dan lajur mesej dilupakan.

@@ -43,9 +43,9 @@ Melayu yang diiktiraf oleh pihak pemantau bahasa serta yang
 digunakan oleh penerbit kamus yang disanjung tinggi. Lihat
 juga rencana di pautan luar: [garis panduan wiki][wpp].
 
-Fail dokumentasi ini adalah berdasarkan teks daripada komen
-dalam [isu #10][#10] di GitHub Issues, kecuali sebahagian
-teks telah disemak untuk penjelasan.
+Laman ini adalah berdasarkan teks daripada komen dalam
+[isu #10][#10] di GitHub Issues, kecuali sebahagian teks
+telah disemak untuk penjelasan.
 
 
   [wpp]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai

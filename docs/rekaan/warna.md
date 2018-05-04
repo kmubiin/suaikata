@@ -36,6 +36,6 @@ tersebut dalam helaian rebak.
 | #CC4125     | teks berubah sendiri (nilai dalam jadual)      |
 | **#CC4125** | teks berubah sendiri                           |
 
-Fail dokumentasi ini adalah berdasarkan teks daripada jadual
-dalam helaian rebak, kecuali warna visual telah diganti
-dengan kod warna hex supaya dapat diguna semula.
+Laman ini adalah berdasarkan teks daripada jadual dalam
+helaian rebak, kecuali lajur warna mengandungi kod warna hex
+yang menggantikan warna visual untuk kegunaan semula.

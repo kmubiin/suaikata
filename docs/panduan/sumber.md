@@ -10,9 +10,9 @@ sumber kata masukan.
 
 > Sambung tulis di sini
 
-Fail dokumentasi ini adalah berdasarkan teks daripada komen
-dalam [isu #7][#7] di GitHub Issues, kecuali sebahagian teks
-telah disemak semula untuk penjelasan.
+Laman ini adalah berdasarkan teks daripada komen dalam
+[isu #7][#7] di GitHub Issues, kecuali sebahagian teks telah
+disemak semula untuk penjelasan.
 
 
   [#7]: https://github.com/kmubiin/suaikata/issues/7

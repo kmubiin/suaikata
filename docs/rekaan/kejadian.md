@@ -26,10 +26,10 @@ semua kejadian yang tersenarai di atas boleh diperhatikan
 pada satu-satu masa. Ada beberapa kejadian lain yang mungkin
 diperhatikan tetapi tidak bermakna untuk diketahui.
 
-Fail dokumentasi ini adalah berdasarkan teks daripada komen
-dalam [isu #12][#12] di GitHub Issues, kecuali jadual
-ditambah dengan kejadian X1 dan baris penjarak yang tidak
-bermakna dilupakan.
+Laman ini adalah berdasarkan teks daripada komen dalam
+[isu #12][#12] di GitHub Issues, kecuali jadual ditambah
+dengan kejadian X1 dan baris penjarak yang tidak bermakna
+dilupakan.
 
 
  [#12]: https://github.com/kmubiin/suaikata/issues/12

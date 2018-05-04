@@ -77,9 +77,9 @@ dahulu. Penguasaan bahasa asal mempengaruhi tahap kesesuaian
 takrif yang akan dibawakan oleh penutur bahasa. Ini adalah
 pengetahuan asas dalam projek suaikata.
 
-Fail dokumentasi ini adalah berdasarkan teks daripada komen
-dalam [isu #10][#10] di GitHub Issues, kecuali perenggan
-keempat dan seterusnya adalah teks baharu.
+Laman ini adalah berdasarkan teks daripada komen dalam
+[isu #10][#10] di GitHub Issues, kecuali perenggan keempat
+dan seterusnya adalah teks baharu.
 
 
   [wkt]: https://en.wiktionary.org/wiki/chronicle

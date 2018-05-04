@@ -54,9 +54,9 @@ perkataan 'accessible' ialah:
 
 > mudah sampai, capai atau dapat
 
-Fail dokumentasi ini adalah berdasarkan teks daripada komen
-dalam [isu #10][#10] di GitHub Issues, kecuali sebahagian
-teks telah disemak untuk penjelasan.
+Laman ini adalah berdasarkan teks daripada komen dalam
+[isu #10][#10] di GitHub Issues, kecuali sebahagian teks
+telah disemak untuk penjelasan.
 
 
   [#10]: https://github.com/kmubiin/suaikata/issues/10

@@ -75,10 +75,10 @@ Oleh itu, kamus dwibahasa harus dianggap sebagai bukan
 rujukan utama tetapi rujukan sampingan untuk perbandingan
 takrif. Lihat [contoh perbandingan takrif][PN5].
 
-Fail dokumentasi ini adalah berdasarkan teks daripada komen
-dalam [isu #10][#10] di GitHub Issues, kecuali perincian
-jenis kamus telah ditambah dan penerangan masalah kamus
-dwibahasa digantikan dengan misalan perbandingan takrif.
+Laman ini adalah berdasarkan teks daripada komen dalam
+[isu #10][#10] di GitHub Issues, kecuali perincian jenis
+kamus telah ditambah dan penerangan masalah kamus dwibahasa
+digantikan dengan misalan perbandingan takrif.
 
 
   [wkt]: https://en.wiktionary.org/wiki/transparent
