@@ -9,10 +9,10 @@
 * [Pemilihan sumber kata masukan][PN4]
 * [Contoh perbandingan takrif][PN5]
 
-Kembali ke [laman utama][LU]
+Kembali ke [laman utama dokumentasi][LUD]
 
 
-  [LU]: index.md
+  [LUD]: index.md
   [PN1]: panduan/asas.md
   [PN2]: panduan/kamus.md
   [PN3]: panduan/piawai.md
