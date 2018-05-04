@@ -3,24 +3,28 @@
 
 ## Penggunaan lajur
 
-Pada asalnya, daftar dwibahasa mempunyai dua lajur sahaja,
-iaitu satu bahasa untuk setiap lajur. Apabila dua ahli
-projek ingin bekerjasama, dua lajur sudah tidak memadai.
+Daftar dwibahasa yang lazim ada dua lajur sahaja, iaitu satu
+bahasa untuk setiap lajur. Apabila dua ahli projek ingin
+bekerjasama, dua lajur sudah tidak memadai.
 
 | inggeris | melayu |
 | -------- | ------ |
 | ...      | ...    |
 
-Sebagai contoh, lajur 'melayu' akan mengandungi terjemah
-daripada dua ahli (M dan A). Oleh itu, lajur tersebut
-sewajarnya dipecah menjadi dua lajur baru.
+Sebagai contoh, ahli M telah mengisi lajur 'melayu' dengan
+satu terjemah tetapi ahli A ada cadangan terjemah lain yang
+hendak diisi dalam ruang terjemah yang sama. Dalam hal ini,
+lajur tersebut sewajarnya dipecah menjadi dua lajur baru.
 
 | inggeris | terjemah M | terjemah A |
 | -------- | ---------- | ---------- |
 | ...      | ...        | ...        |
 
-Projek suaikata menamakan daftar yang menggunakan lajur
-sedemikian sebagai 'daftar dwibahasa beregu'.
+Apabila sesuatu daftar hendak dibangunkan oleh dua atau
+lebih ahli projek dan daftar itu ada lajur terjemah, lajur
+itu dipecah menjadi beberapa lajur baru untuk setiap ahli.
+Projek suaikata menamakan daftar yang dicipta sedemikian
+sebagai 'daftar dwibahasa beregu'.
 
 Beberapa lajur lain ditambah secara beransur-ansur semasa
 pembangunan projek. Bilangan lajur bertambah daripada 3
@@ -46,7 +50,7 @@ daripada satu makna dapat dikenal pasti dalam lajur itu.
 Daftar dwibahasa beregu 2.6 mempunyai enam lajur. Daftar
 ini menambah lajur 'di' supaya pra-syarat formula menjadi
 lebih ringkas. Keadaan terjemah juga dapat dikenal pasti
-dengan sepintas lalu.
+dengan sepintas lalu. Lihat [mengenali kejadian][RN2].
 
 | inggeris | ke  | melayu | di  | terjemah M | terjemah A |
 | -------- | --- | ------ | --- | ---------- | ---------- |
@@ -61,5 +65,6 @@ dalam [isu #9][#9], kecuali perkembangan lajur dalam daftar
 dwibahasa beregu diterangkan dengan lengkap di sini.
 
 
+  [RN2]: kejadian.md
   [RN1]: contoh.md
   [#9]: https://github.com/kmubiin/suaikata/issues/9
