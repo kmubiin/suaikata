@@ -20,8 +20,8 @@ atau seluruh kandungan yang ada dalam repositori.
 
 Sebelum mana-mana sumber boleh digunakan oleh orang ramai,
 pemilik sumber perlu mengesahkan syarat penggunaan sumber
-dengan memilih [lesen yang sesuai][OSL]. Lesen itu
-sebaiknya ada [saranan daripada badan bebas][RCL].
+dengan memilih [lesen yang sesuai][osl]. Lesen itu
+sebaiknya ada [saranan daripada badan bebas][rcl].
 
 Untuk projek suaikata, lesen sumber terbuka yang diperlukan
 adalah lesen untuk sumber bukan atur cara. Dua ahli projek
@@ -30,14 +30,14 @@ sebagai syarat penggunaan sudah memadai.
 
 Maka CC-BY-4.0 adalah lesen pilihan projek ini.
 
-Untuk maklumat lanjut, lihat [kenyataan rasmi lesen][CCL]
-atau [salinan lesen di repositori][GHL].
+Untuk maklumat lanjut, lihat [kenyataan rasmi lesen][ccl]
+atau [salinan lesen di repositori][ghl].
 
 Kembali ke [laman utama dokumentasi][LUD]
 
 
   [LUD]: index.md
-  [OSL]: https://choosealicense.com/
-  [RCL]: https://opendefinition.org/licenses/
-  [CCL]: https://creativecommons.org/licenses/by/4.0/
-  [GHL]: https://github.com/kmubiin/suaikata/blob/master/LICENSE
+  [osl]: https://choosealicense.com/
+  [rcl]: https://opendefinition.org/licenses/
+  [ccl]: https://creativecommons.org/licenses/by/4.0/
+  [ghl]: https://github.com/kmubiin/suaikata/blob/master/LICENSE
