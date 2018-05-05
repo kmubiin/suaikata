@@ -33,7 +33,10 @@ Maka CC-BY-4.0 adalah lesen pilihan projek ini.
 Untuk maklumat lanjut, lihat [kenyataan rasmi lesen][CCL]
 atau [salinan lesen di repositori][GHL].
 
+Kembali ke [laman utama dokumentasi][LUD]
 
+
+  [LUD]: index.md
   [OSL]: https://choosealicense.com/
   [RCL]: https://opendefinition.org/licenses/
   [CCL]: https://creativecommons.org/licenses/by/4.0/
