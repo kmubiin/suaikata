@@ -41,7 +41,7 @@ kata mudah dan biasa digunakan.
 Secara tidak langsung, bahasa Melayu piawai adalah bahasa
 Melayu yang diiktiraf oleh pihak pemantau bahasa serta yang
 digunakan oleh penerbit kamus yang disanjung tinggi. Lihat
-juga rencana di pautan luar: [garis panduan wiki][wpp].
+juga teks penuh [garis panduan di Wikipedia][wpp].
 
 Laman ini adalah berdasarkan teks daripada komen dalam
 [isu #10][#10] di GitHub Issues, kecuali sebahagian teks
