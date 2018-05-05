@@ -3,8 +3,8 @@ layout: default
 ---
 
 Projek suaikata adalah projek perkamusan sumber terbuka yang
-dimulakan oleh dua ahli projek. Projek ini menggunakan lesen
-CC-BY-4.0 untuk kemudahan data terbuka.
+dimulakan oleh dua ahli projek. Projek ini menggunakan
+[lesen sumber terbuka][LN].
 
 * Senarai laman ulasan (belum dicipta)
 * [Senarai laman panduan][PN]
@@ -15,5 +15,6 @@ dokumentasi. Untuk kemudahan lain, sila layari laman utama
 repositori projek di GitHub.
 
 
+  [LN]: lesen.md
   [PN]: panduan.md
   [RN]: rekaan.md
