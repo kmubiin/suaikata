@@ -7,10 +7,10 @@ Semua daftar tersedia yang dimuat naik ke repositori akan
 disenarai bersama jumlah kata masukan dan pautan ke teks
 dokumentasi berkenaan dalam jadual di bawah.
 
-| nama daftar     | jumlah  | selidik      | ulasan       |
-| --------------- | ------: | ------------ | ------------ |
-| psat            | 339     | [ada][AA1]   | [bakal][UN1] |
-| katakerap       | 23020   | tiada        | tiada        |
+| nama daftar     | kata masukan | ulasan       |
+| --------------- | -----------: | ------------ |
+| psat            | [339][AA1]   | [bakal][UN1] |
+| katakerap       | 23020        | tiada        |
 
 Kembali ke [laman utama dokumentasi][LUD]
 
