@@ -1,7 +1,7 @@
 ---
 ---
 
-## Contoh daftar
+### Contoh daftar
 
 | inggeris    | ke | melayu                         | di |
 | ----------- | -- | ------------------------------ | -- |

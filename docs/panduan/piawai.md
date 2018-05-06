@@ -1,7 +1,7 @@
 ---
 ---
 
-## Bahasa Melayu piawai
+### Bahasa Melayu piawai
 
 Wikipedia bahasa Melayu mempunyai garis panduan tersendiri
 yang menerangkan bahasa Melayu piawai. Rencana tersebut agak

@@ -1,7 +1,7 @@
 ---
 ---
 
-## Pemilihan sumber kata masukan
+### Pemilihan sumber kata masukan
 
 > Laman ini belum habis ditulis
 

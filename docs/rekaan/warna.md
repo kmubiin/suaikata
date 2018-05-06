@@ -1,7 +1,7 @@
 ---
 ---
 
-## Penggunaan warna
+### Penggunaan warna
 
 Warna digunakan untuk membezakan ruang teks yang ada formula
 dan teks yang berubah sendiri dalam helaian rebak. Dengan

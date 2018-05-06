@@ -1,7 +1,7 @@
 ---
 ---
 
-## Contoh perbandingan takrif
+### Contoh perbandingan takrif
 
 Kosa kata dalam bahasa asal: **accessible**
 

@@ -1,7 +1,7 @@
 ---
 ---
 
-## Penggunaan tanda
+### Penggunaan tanda
 
 Tanda atau aksara bukan abjad digunakan untuk mengenal
 pasti keadaan terjemah dalam helaian rebak. Kebanyakan tanda

@@ -1,7 +1,7 @@
 ---
 ---
 
-## Penggunaan kamus
+### Penggunaan kamus
 
 Usaha mendapatkan takrif bermula dengan merujuk pada kamus.
 Ada tiga jenis kamus yang boleh dikenal pasti:
