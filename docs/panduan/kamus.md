@@ -6,9 +6,9 @@
 Usaha mendapatkan takrif bermula dengan merujuk pada kamus.
 Ada tiga jenis kamus yang boleh dikenal pasti:
 
-* Kamus satu bahasa (ekabahasa)
-* Kamus dua bahasa (dwibahasa)
-* Kamus aneka bahasa
+1. Kamus satu bahasa (ekabahasa)
+2. Kamus dua bahasa (dwibahasa)
+3. Kamus aneka bahasa
 
 Kamus ekabahasa dan sebilangan kecil kamus dwibahasa boleh
 didapati sebagai kamus terbitan untuk kegunaan yang khusus,
