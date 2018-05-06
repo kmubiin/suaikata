@@ -6,7 +6,7 @@ Projek suaikata adalah projek perkamusan sumber terbuka yang
 dimulakan oleh dua ahli projek. Projek ini menggunakan
 [lesen sumber terbuka][LN].
 
-* [Tinjauan daftar tersedia][TN]
+* [Tinjau daftar tersedia][TU]
 * [Senarai laman panduan][PN]
 * [Senarai laman rekaan][RN]
 
@@ -16,6 +16,6 @@ repositori projek di GitHub.
 
 
   [LN]: lesen.md
-  [TN]: tinjau.md
+  [TU]: tinjau.md
   [PN]: panduan.md
   [RN]: rekaan.md

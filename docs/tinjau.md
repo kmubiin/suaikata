@@ -1,7 +1,7 @@
 ---
 ---
 
-## Tinjauan daftar tersedia
+## Tinjau daftar tersedia
 
 Semua daftar tersedia yang dimuat naik ke repositori akan
 disenarai bersama jumlah kata masukan dan pautan ke teks
