@@ -7,19 +7,24 @@ Secara umum, sebarang senarai bahan atau kandungan
 semata-mata adalah di luar kuasa undang-undang dan hak cipta
 *tidak* terpelihara.
 
-Bukti sokongan 1:
+Hujah 1:
 
 > A mere listing of ingredients is not protected under
 > copyright law. However, where a recipe or formula is
 > accompanied by substantial literary expression in the form
 > of an explanation or directions, or when there is a
 > collection of recipes as in a cookbook, there may be a
-> basis for copyright protection [...] 
+> basis for copyright protection [...]
 >
 > Sumber: 'How do I protect my recipe?' dalam
 > [FAQ oleh U.S. Copyright Office][faqc]
 
-Bukti sokongan 2:
+Berdasarkan hujah 1, senarai mudah yang boleh dicapai
+daripada sumber awam, kecuali disertakan dengan sesuatu yang
+ada nilai kesusasteraan, adalah bukan di bawah perlindungan
+undang-undang hak cipta.
+
+Hujah 2:
 
 > Feist Publications, Inc., v. Rural Telephone Service Co.,
 > 499 U.S. 340 (1991), was a decision by the Supreme Court
@@ -34,9 +39,10 @@ Bukti sokongan 2:
 >
 > Sumber: [Feist v. Rural di Wikipedia][wiki]
 
-Dengan kata lain, apa-apa senarai mudah yang boleh dicapai
-daripada sumber awam atau senarai yang mengandungi fakta
-semata-mata adalah bebas digunakan oleh sesiapa jua.
+Berdasarkan hujah 2, senarai yang mengandungi maklumat dalam
+bentuk fakta seperti buku direktori telefon adalah hak cipta
+yang tidak boleh terpelihara. Dengan itu, pelanggaran hak
+cipta tidak pernah wujud.
 
 
   [faqc]: https://www.copyright.gov/help/faq/faq-protect.html
