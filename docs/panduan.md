@@ -8,6 +8,7 @@
 * [Bahasa Melayu piawai][PN3]
 * [Sumber kata masukan][PN4]
 * [Contoh perbandingan takrif][PN5]
+* [Hak cipta tidak terpelihara][PN6]
 
 Kembali ke [laman utama dokumentasi][LUD]
 
@@ -18,3 +19,4 @@ Kembali ke [laman utama dokumentasi][LUD]
   [PN3]: panduan/piawai.md
   [PN4]: panduan/sumber.md
   [PN5]: panduan/takrif.md
+  [PN6]: panduan/hak-cipta.md
