@@ -8,6 +8,7 @@
 * [Penggunaan lajur][RN3]
 * [Penggunaan tanda][RN4]
 * [Penggunaan warna][RN5]
+* [Mencipta helai daftar][RN6]
 
 Kembali ke [laman utama dokumentasi][LUD]
 
@@ -18,3 +19,4 @@ Kembali ke [laman utama dokumentasi][LUD]
   [RN3]: rekaan/lajur.md
   [RN4]: rekaan/tanda.md
   [RN5]: rekaan/warna.md
+  [RN6]: rekaan/helai.md
