@@ -8,8 +8,8 @@ dan teks yang berubah sendiri dalam helaian rebak. Dengan
 itu, ruang teks lain dalam helaian rebak boleh dikemas kini
 tanpa menjejaskan fungsi tersebut.
 
-Jadual berikut menyenaraikan warna dan nama warna yang
-digunakan dalam helaian rebak di Google Sheets.
+Berikut adalah warna dan nama warna yang digunakan dalam
+helaian rebak.
 
 | warna       | nama warna                  |
 | ----------- | --------------------------- |
@@ -22,8 +22,8 @@ digunakan dalam helaian rebak di Google Sheets.
 | #CC4125     | light red berry 1           |
 | **#CC4125** | **light red berry 1, bold** |
 
-Jadual berikut menyenaraikan warna dan kegunaan warna
-tersebut dalam helaian rebak.
+Berikut adalah warna dan kegunaan warna tersebut dalam
+helaian rebak.
 
 | warna       | kegunaan warna                             |
 | ----------- | ------------------------------------------ |

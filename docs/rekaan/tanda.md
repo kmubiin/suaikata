@@ -7,8 +7,8 @@ Tanda atau aksara bukan abjad digunakan untuk mengenal
 pasti keadaan terjemah dalam helaian rebak. Kebanyakan tanda
 digunakan oleh formula untuk fungsi kemas kini.
 
-Jadual berikut menyenaraikan tanda dan nama tanda yang
-digunakan dalam helaian rebak di Google Sheets.
+Berikut adalah senarai tanda dan nama tanda yang digunakan
+dalam helaian rebak.
 
 | tanda | nama tanda                  |
 | ----- | --------------------------- |
@@ -29,8 +29,8 @@ digunakan dalam helaian rebak di Google Sheets.
 | ;     | tanda koma bertitik         |
 | ()    | tanda kurung                |
 
-Jadual berikut menyenaraikan tanda dan kegunaan tanda
-tersebut dalam helaian rebak.
+Berikut adalah tanda dan kegunaan tanda tersebut dalam
+helaian rebak.
 
 | tanda | kegunaan tanda                             |
 | ----- | ------------------------------------------ |
