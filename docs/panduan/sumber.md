@@ -22,8 +22,9 @@ dalam senarai yang sama. Jika disertakan bersama makna,
 abaikan makna dan senaraikan kata masukan sahaja. Senarai
 tanpa makna adalah [hak cipta tidak terpelihara][PN6]
 
-Ciri 3 bermaksud kata masukan menggunakan ejaan terbaharu
-dan menggunakan [bahasa Melayu piawai][PN3].
+Ciri 3 bermaksud kata masukan menggunakan perkataan yang
+mematuhi peraturan bahasa dan ejaan terbaharu. Dengan kata
+lain, gunakan [bahasa Melayu piawai][PN3].
 
 > Sambung tulis di sini
 
