@@ -32,6 +32,6 @@ Laman ini adalah berdasarkan teks daripada komen dalam
 disemak semula untuk penjelasan.
 
 
-  [PN6]: panduan/hak-cipta.md
-  [PN3]: panduan/piawai.md
+  [PN6]: hak-cipta.md
+  [PN3]: piawai.md
   [#7]: https://github.com/kmubiin/suaikata/issues/7
