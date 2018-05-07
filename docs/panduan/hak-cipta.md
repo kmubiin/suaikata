@@ -14,7 +14,11 @@ Hujah 1:
 > accompanied by substantial literary expression in the form
 > of an explanation or directions, or when there is a
 > collection of recipes as in a cookbook, there may be a
-> basis for copyright protection [...]
+> basis for copyright protection [...] if you have secret
+> ingredients to a recipe that you do not wish to be
+> revealed, you should not submit your recipe for
+> registration, because applications and deposit copies are
+> public records.
 >
 > Sumber: 'How do I protect my recipe?' dalam
 > [FAQ oleh U.S. Copyright Office][faqc]
