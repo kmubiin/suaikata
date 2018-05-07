@@ -6,7 +6,7 @@
 * [Pengetahuan asas][PN1]
 * [Penggunaan kamus][PN2]
 * [Bahasa Melayu piawai][PN3]
-* [Pemilihan sumber kata masukan][PN4]
+* [Sumber kata masukan][PN4]
 * [Contoh perbandingan takrif][PN5]
 
 Kembali ke [laman utama dokumentasi][LUD]
