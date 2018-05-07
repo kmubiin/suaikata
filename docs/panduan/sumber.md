@@ -20,17 +20,24 @@ lebih lama berbanding bermula dengan senarai sedia ada.
 Ciri 2 bermaksud kata masukan tidak disertakan dengan makna
 dalam senarai yang sama. Jika disertakan bersama makna,
 abaikan makna dan senaraikan kata masukan sahaja. Senarai
-tanpa makna adalah [hak cipta tidak terpelihara][PN6]
+tanpa makna adalah [hak cipta tidak terpelihara][PN6].
 
 Ciri 3 bermaksud kata masukan menggunakan perkataan yang
-mematuhi peraturan bahasa dan ejaan terbaharu. Dengan kata
-lain, gunakan [bahasa Melayu piawai][PN3].
+mematuhi peraturan bahasa dan ejaan terbaharu. Untuk bahasa
+pengantar, gunakan [bahasa Melayu piawai][PN3]. Untuk bahasa
+asal selain bahasa Melayu, peraturan bahasa dan ejaan harus
+dipelihara dan dikekalkan mengikut sumber.
+
+Jika kata masukan didapati menggunakan ejaan bahasa Inggeris
+versi Amerika, maka ejaan tersebut harus dikekalkan seperti
+keadaan asal sumber kata masukan. Tidak ada sebab munasabah
+untuk menukar ejaan kepada versi British, sebagai contoh.
 
 > Sambung tulis di sini
 
 Laman ini adalah berdasarkan teks daripada komen dalam
 [isu #7][#7] di GitHub Issues, kecuali sebahagian teks telah
-disemak semula untuk penjelasan.
+disemak dan ditulis semula untuk penjelasan.
 
 
   [PN6]: hak-cipta.md
