@@ -3,8 +3,6 @@
 
 ### Sumber kata masukan
 
-> Laman ini belum habis ditulis
-
 Usaha membangunkan daftar bermula dengan memilih sumber kata
 masukan. Ada tiga ciri sumber yang disarankan:
 
@@ -33,7 +31,30 @@ versi Amerika, maka ejaan tersebut harus dikekalkan seperti
 keadaan asal sumber kata masukan. Tidak ada sebab munasabah
 untuk menukar ejaan kepada versi British, sebagai contoh.
 
-> Sambung tulis di sini
+Ciri-ciri di atas adalah saranan yang ditulis berdasarkan
+usaha membangunkan daftar pertama untuk projek suaikata.
+Saranan adalah bukan kemestian dan sebenarnya boleh diabai
+bergantung pada keadaan atau sumber kata masukan.
+
+Misalnya, sumber yang dipilih adalah sumber domain awam.
+Dalam hal ini, sekalipun sumber tersebut ada kata masukan
+bersama makna, tempoh perlindungan hak cipta sudah luput dan
+tidak terpelihara untuk domain awam. Dengan itu, ciri 2
+boleh diabai.
+
+Sumber kata masukan yang sedia ada, terutama bahasa Inggeris
+dan bahasa Melayu, boleh didapati dengan mudah:
+
+* Gunakan kata kunci "word list", "senarai kosa kata" atau
+seumpamanya dan cari melalui enjin carian web seperti
+[DuckDuckGo][ddg]
+* [Laman senarai mudah di Simple English Wiktionary][swl]
+* [Laman senarai kerap di English Wiktionary][efl]
+* [Laman senarai perkataan di Wikikamus][spwk]
+
+Tuntasnya, sumber kata masukan bermula dengan senarai sedia
+ada atau senarai kosong. Sumber pilihan yang baik adalah
+tanpa makna dan mematuhi piawai.
 
 Laman ini adalah berdasarkan teks daripada komen dalam
 [isu #7][#7] di GitHub Issues, kecuali sebahagian teks telah
@@ -42,4 +63,8 @@ disemak dan ditulis semula untuk penjelasan.
 
   [PN6]: hak-cipta.md
   [PN3]: piawai.md
+  [ddg]: https://duckduckgo.com/
+  [swl]: https://simple.wiktionary.org/wiki/Category:Wordlists
+  [efl]: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
+  [spwk]: https://ms.wiktionary.org/wiki/Wiktionary:Senarai_perkataan_mengikut_susunan_abjad
   [#7]: https://github.com/kmubiin/suaikata/issues/7
