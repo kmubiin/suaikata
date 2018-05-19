@@ -1,2 +1,2 @@
 # suaikata
-Koleksi Ringkas Kosa Kata
+Koleksi ringkas kosa kata
