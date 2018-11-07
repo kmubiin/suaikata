@@ -9,12 +9,10 @@ dokumentasi berkenaan dalam jadual di bawah.
 
 | nama daftar     | kata masukan | ulasan       |
 | --------------- | -----------: | ------------ |
-| psat            | [339][AA1]   | [bakal][UN1] |
+| [psat][KJ1]     | 339          | tiada        |
 | katakerap       | 23020        | tiada        |
 
 Kembali ke [laman utama dokumentasi][LUD]
 
-
   [LUD]: index.md
-  [AA1]: angka/psat.md
-  [UN1]: ulasan/psat.md
+  [KJ1]: kajian/psat.md
