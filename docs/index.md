@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Projek suaikata adalah projek perkamusan sumber terbuka yang
+Projek suaikata ialah projek perkamusan sumber terbuka yang
 dimulakan oleh dua ahli projek. Projek ini menggunakan
 [lesen sumber terbuka][LN].
 
