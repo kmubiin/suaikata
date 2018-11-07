@@ -12,11 +12,10 @@
 
 Kembali ke [laman utama dokumentasi][LUD]
 
-
-  [LUD]: index.md
-  [RN1]: rekaan/contoh.md
-  [RN2]: rekaan/kejadian.md
-  [RN3]: rekaan/lajur.md
-  [RN4]: rekaan/tanda.md
-  [RN5]: rekaan/warna.md
-  [RN6]: rekaan/helai.md
+  [LUD]: ../
+  [RN1]: contoh.md
+  [RN2]: kejadian.md
+  [RN3]: lajur.md
+  [RN4]: tanda.md
+  [RN5]: warna.md
+  [RN6]: helai.md
