@@ -12,11 +12,10 @@
 
 Kembali ke [laman utama dokumentasi][LUD]
 
-
-  [LUD]: index.md
-  [PN1]: panduan/asas.md
-  [PN2]: panduan/kamus.md
-  [PN3]: panduan/piawai.md
-  [PN4]: panduan/sumber.md
-  [PN5]: panduan/takrif.md
-  [PN6]: panduan/hak-cipta.md
+  [LUD]: ../
+  [PN1]: asas.md
+  [PN2]: kamus.md
+  [PN3]: piawai.md
+  [PN4]: sumber.md
+  [PN5]: takrif.md
+  [PN6]: hak-cipta.md
