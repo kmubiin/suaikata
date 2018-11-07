@@ -3,10 +3,9 @@
 
 ## Senarai laman terbitan
 
-* [Terbitan versi 1.0][TN1]
+* [Terbitan versi 1.0][1.0]
 
 Kembali ke [laman utama dokumentasi][LUD]
 
-
-  [LUD]: index.md
-  [TN1]: terbitan/1.0.md
+  [LUD]: ../
+  [1.0]: 1.0.md
