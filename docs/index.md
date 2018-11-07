@@ -16,8 +16,8 @@ dokumentasi. Untuk kemudahan lain, sila layari laman utama
 repositori projek di GitHub.
 
 
-  [LN]: lesen.md
-  [TU]: tinjau.md
-  [PN]: panduan.md
-  [RN]: rekaan.md
-  [TN]: terbitan.md
+  [LN]: panduan/lesen.md
+  [TU]: kajian/index.md
+  [PN]: panduan/index.md
+  [RN]: rekaan/index.md
+  [TN]: terbitan/index.md
