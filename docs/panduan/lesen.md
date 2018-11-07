@@ -35,8 +35,7 @@ atau [salinan lesen di repositori][ghl].
 
 Kembali ke [laman utama dokumentasi][LUD]
 
-
-  [LUD]: index.md
+  [LUD]: ../
   [osl]: https://choosealicense.com/
   [rcl]: https://opendefinition.org/licenses/
   [ccl]: https://creativecommons.org/licenses/by/4.0/
