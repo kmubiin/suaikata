@@ -1,38 +1,45 @@
 ---
 ---
 
-## Senarai laman panduan
+## Senarai panduan
 
 Perihal bahasa, kata masukan dan takrif:
 
-* [Pengetahuan asas][PN1]
-* [Penggunaan kamus][PN2]
-* [Bahasa Melayu piawai][PN3]
-* [Sumber kata masukan][PN4]
-* [Contoh perbandingan takrif][PN5]
-* [Hak cipta tidak terpelihara][PN6]
+* [Pengetahuan asas][201]
+* [Penggunaan kamus][202]
+* [Bahasa Melayu piawai][203]
+* [Sumber kata masukan][204]
+* [Contoh perbandingan takrif][205]
 
 Perihal daftar dan helaian rebak (spreadsheet):
 
-* [Contoh daftar][RN1]
-* [Mengenali kejadian][RN2]
-* [Penggunaan lajur][RN3]
-* [Penggunaan tanda][RN4]
-* [Penggunaan warna][RN5]
-* [Mencipta helai daftar][RN6]
+* [Contoh daftar][211]
+* [Mengenali kejadian][212]
+* [Penggunaan lajur][213]
+* [Penggunaan tanda][214]
+* [Penggunaan warna][215]
+* [Mencipta helai daftar][216]
 
-Kembali ke [laman utama dokumentasi][LUD]
+Perihal hak cipta dan lesen:
 
-  [LUD]: ../
-  [PN1]: asas.md
-  [PN2]: kamus.md
-  [PN3]: piawai.md
-  [PN4]: sumber.md
-  [PN5]: takrif.md
-  [PN6]: hak-cipta.md
-  [RN1]: contoh.md
-  [RN2]: kejadian.md
-  [RN3]: lajur.md
-  [RN4]: tanda.md
-  [RN5]: warna.md
-  [RN6]: helai.md
+* [Hak cipta tidak terpelihara][221]
+* [Lesen sumber terbuka][222]
+
+laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
+
+  [0]: ../index.md
+  [1]: ../kajian/index.md
+  [3]: ../terbitan/index.md
+  [201]: asas.md
+  [202]: kamus.md
+  [203]: piawai.md
+  [204]: sumber.md
+  [205]: takrif.md
+  [211]: contoh.md
+  [212]: kejadian.md
+  [213]: lajur.md
+  [214]: tanda.md
+  [215]: warna.md
+  [216]: helai.md
+  [221]: hak-cipta.md
+  [222]: lesen.md

@@ -1,13 +1,15 @@
 ---
 ---
 
-## Senarai laman kajian
+## Senarai kajian
 
-* [psat][KJ1]
-* [katakerap][KJ2]
+* [psat][101]
+* [katakerap][102]
 
-Kembali ke [laman utama dokumentasi][LUD]
+laman: [utama][0] - **kajian** - [panduan][2] - [terbitan][3]
 
-  [LUD]: ../
-  [KJ1]: psat.md
-  [KJ2]: katakerap.md
+  [0]: ../index.md
+  [2]: ../panduan/index.md
+  [3]: ../terbitan/index.md
+  [101]: psat.md
+  [102]: katakerap.md

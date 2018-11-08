@@ -1,11 +1,13 @@
 ---
 ---
 
-## Senarai laman terbitan
+## Senarai terbitan
 
-* [Terbitan versi 1.0][1.0]
+* [Terbitan versi 1.0][301]
 
-Kembali ke [laman utama dokumentasi][LUD]
+laman: [utama][0] - [kajian][1] - [panduan][2] - **terbitan**
 
-  [LUD]: ../
-  [1.0]: 1.0.md
+  [0]: ../index.md
+  [1]: ../kajian/index.md
+  [2]: ../panduan/index.md
+  [301]: 1.0.md
