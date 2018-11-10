@@ -3,12 +3,24 @@
 
 ### Kajian daftar Kata Kerap
 
+#### Sumber kata masukan
+
+> Tiada maklumat
+
+#### Pembangunan daftar
+
+* Kumpulan daftar: umum
+* Bahasa daftar: Inggeris-Melayu
+* Pembangun daftar: 1
+* Tarikh mula: -
+* Tarikh siap: 2018-05-03
+
 #### Maklumat perangkaan
 
-| bilangan             | asal   | semasa |
-| -------------------- | -----: | -----: |
-| kata masukan         | -      | 23020  |
+| Bilangan     | Asal    | Semasa  |
+| ------------ | -------:| -------:|
+| kata masukan | 0       | 23020   |
 
-#### Ulasan
+#### Ulasan pembangun daftar
 
-> Belum ditulis buat masa ini
+> Tiada maklumat
