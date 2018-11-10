@@ -1,8 +1,9 @@
 inggeris,ke,melayu,di
 absolve,1,membebaskan (daripada tuduhan),M
-abstract,1,tidak nyata; abstrak (fikiran),X1
+abstract,1,tidak nyata,M+
 abstract,2,ringkasan,M
 abstract,3,"meringkaskan, memisahkan atau tarik",M
+abstract,4,"niskala; abstrak (fikiran, seni)",M
 accessible,1,"mudah sampai, capai atau dapat",M
 accommodate,1,beri penginapan,M
 accommodate,2,memuatkan,M
@@ -42,12 +43,13 @@ aversion,1,tentangan,A
 beneficial,1,bermanfaat,M
 beneficial,2,hak penerimaan harta (perundangan),M
 benevolent,1,murah hati,A+
-benign,1,baik atau tiada bahaya,X1
+benign,1,baik,A
+benign,2,tiada bahaya; benigna (perubatan),M
 betray,1,belot,M
 blight,1,penyakit (tanaman),A
 blight,2,kerosakan (binaan),M
 blight,3,menjejaskan,M
-blithe,1,tidak mengendahkan,X1
+blithe,1,tidak mengendahkan,M+
 brittle,1,rapuh,M
 buoyant,1,apung,M
 buoyant,2,"tahan, anjal atau cekal",M
@@ -58,7 +60,7 @@ caricature,1,gambar dengan ciri menonjol; karikatur (seni),X1
 caricature,2,membuat gambar karikatur,M
 censor,1,menapis (filem),A
 censor,2,penapis (filem),M
-charlatan,1,orang yang mengaku benar; penyemu,X1
+charlatan,1,orang yang mengaku mahir; penyemu,M+
 chronicle,1,riwayat,A+
 chronicle,2,mencatat dalam riwayat,M
 circumspect,1,berjaga-jaga,A
@@ -81,10 +83,10 @@ consolidation,1,penyatuan,A
 contentious,1,menimbulkan perbalahan,A
 convention,1,perjumpaan (majlis),A
 convention,2,adat,A
-convention,3,persetujuan (antarabangsa),X1
+convention,3,persetujuan (antarabangsa),M+
 corrosion,1,kakisan (hakisan kimia),M
 curtail,1,menyekat,A
-cynical,1,sinis,X1
+cynical,1,sinis,M+
 dawdle,1,berlengah-lengah,A
 defamation,1,fitnah,A
 defiance,1,bantahan,A
@@ -98,14 +100,14 @@ depict,1,menggambarkan,A
 deplete,1,mengurangkan (sumber),M
 deplore,1,menentang,A
 derision,1,ejekan,A
-derivative,1,terbitan,X1
+derivative,1,terbitan,M+
 derivative,2,khidmat kewangan yang bergantung kepada suatu nilai asal,A
 derivative,3,pembezaan atau terbitan (matematik),M
 detached,1,terpisah,M
 detached,2,berjauhan,M
 detached,3,berasingan (rumah),M
 deterrent,1,pencegah,A
-didactic,1,bersifat mengajar,X1
+didactic,1,bersifat mengajar,M+
 digression,1,lalutan,A
 discernible,1,boleh diperhati,A
 disclaimer,1,kenyataan tolak tuntutan; penafian,M
@@ -171,13 +173,15 @@ hamper,2,menghalang,A
 heed,1,perhatian,A
 hindrance,1,halangan,M
 hostility,1,permusuhan,A
-hypocritical,1,pura-pura,X1
+hypocritical,1,munafiq,A
+hypocritical,2,hipokrit,M
 hypothetical,1,berandaian,M
 iconoclastic,1,menentang kesyirikan,A
-immutable,1,bersifat nyah ubah,X1
+immutable,1,bersifat nyahubah,M+
 impair,1,mencacatkan,A
 impede,1,menghalang,A
-imperceptible,1,sukar dikesan,X1
+imperceptible,1,sukar dilihat,A
+imperceptible,2,sukar dikesan,M
 implacable,1,susah berpuas hati,A
 implement,1,melaksanakan,M
 implement,2,alat atau perkakas,M
@@ -215,7 +219,7 @@ irony,2,keadaan sepatutnya berlaku menjadi lain,M
 larceny,1,pencurian,A
 loathe,1,meluat,M
 malice,1,niat jahat,M
-meek,1,lemah semangat,A+
+meek,1,lemah semangat,X1
 meticulous,1,teliti,A
 misconception,1,salah faham,A
 misrepresent,1,salah khabar,X1
@@ -268,22 +272,22 @@ prologue,1,prakata,M
 prominent,1,tonjol,A
 promote,1,menggalakkan,A
 promote,2,menaikkan pangkat,A
-prophetic,1,bersifat ramalan,X1
+prophetic,1,bersifat ramalan,M+
 prosperity,1,kemakmuran,M
-provocative,1,bersifat merangsang,X1
+provocative,1,bersifat merangsang,M+
 prudent,1,cermat,A
 random,1,sembarangan,M
 random,2,"rawak (sains, matematik, komputer)",M
 recluse,1,penyepi,A
-refute,1,membuktikan tidak benar,X1
+refute,1,membuktikan tidak benar,M+
 relinquish,1,melepaskan,M
 renown,1,kemasyhuran,A
-repudiate,1,menafikan,X1
+repudiate,1,membantah,A+
 reserved,1,pendam (bukan peramah),M
 reserved,2,ditempah,M
 resolution,1,penyelesaian,A
 resolution,2,azam,A
-resolution,3,peleraian,X1
+resolution,3,peleraian,M+
 resolution,4,"resolusi; bilangan unit optik (gambar, paparan)",A
 resolve,1,menyelesaikan,M
 resolve,2,tekad,M
@@ -303,7 +307,7 @@ severity,1,keparahan,A
 singular,1,bersendirian,A
 skeptical,1,ada keraguan,M
 stratagem,1,percaturan,A
-subdued,1,terkawal atau suram,X1
+subdued,1,terkawal atau suram,M+
 subdued,2,menundukkan,M
 superficial,1,sekadar menyentuh permukaan,A
 superfluous,1,berlebihan dan tak diperlukan,A
@@ -316,7 +320,7 @@ sustain,2,mengalami,M
 sustain,3,menyokong,M
 symmetry,1,belahan sama; setangkup,M
 symmetry,2,"bentuk simetri (sains, matematik)",M
-synthesis,1,penggabungan,X1
+synthesis,1,penggabungan,M+
 synthesis,2,"proses sintesis (sains, teknologi)",M
 taciturn,1,pendiam,A
 tedious,1,jenuh,M

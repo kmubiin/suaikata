@@ -23,10 +23,10 @@
 
 | Bilangan     | Asal    | Semasa  |
 | ------------ | -------:| -------:|
-| kata masukan | 265     | 339     |
-| terjemah X   | 0       | 23      |
-| terjemah M   | 108     | 170     |
-| terjemah A   | 129     | 146     |
+| kata masukan | 265     | 343     |
+| terjemah X   | 0       | 6       |
+| terjemah M   | 108     | 188     |
+| terjemah A   | 132     | 149     |
 
 #### Ulasan pembangun daftar
 
