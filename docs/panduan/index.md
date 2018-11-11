@@ -19,6 +19,7 @@ Perihal daftar dan helaian rebak (spreadsheet):
 * [Penggunaan tanda][214]
 * [Penggunaan warna][215]
 * [Mencipta helai daftar][216]
+* [Penggunaan baris][217]
 
 Perihal hak cipta dan lesen:
 
@@ -41,5 +42,6 @@ laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
   [214]: tanda.md
   [215]: warna.md
   [216]: helai.md
+  [217]: baris.md
   [221]: hak-cipta.md
   [222]: lesen.md
