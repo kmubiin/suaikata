@@ -11,13 +11,18 @@
 * Kata masukan: 267 (termasuk 2 pendua)
 * Pautan: Terabai, lihat sumber di [laman arkib web][a]
 
-#### Pembangunan daftar
+#### Butir pembangunan daftar
 
 * Kumpulan daftar: regu
 * Bahasa daftar: Inggeris-Melayu
 * Pembangun daftar: 2
 * Tarikh mula: 2018-03-29
 * Tarikh siap: 2018-04-30
+
+#### Ulasan pembangun daftar
+
+* Ulasan M belum ditulis buat masa ini
+* Ulasan A belum ditulis buat masa ini
 
 #### Maklumat perangkaan
 
@@ -62,15 +67,5 @@ telah ditetapkan pada 20 aksara.
 Maklumat perangkaan mungkin berubah dari semasa ke semasa.
 Sila rujuk pada tarikh kemas kini fail atau sejarah
 suntingan fail melalui garis perintah Git.
-
-#### Ulasan pembangun daftar
-
-Ulasan M:
-
-> Belum ditulis buat masa ini
-
-Ulasan A:
-
-> Belum ditulis buat masa ini
 
   [a]: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
