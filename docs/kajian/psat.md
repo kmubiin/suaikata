@@ -9,7 +9,7 @@
 * Bahasa: Inggeris
 * Tahun: 1980-1999
 * Kata masukan: 267 (termasuk 2 pendua)
-* Pautan: Terabai, lihat sumber di [laman arkib web][1]
+* Pautan: Terabai, lihat sumber di [laman arkib web][a]
 
 #### Pembangunan daftar
 
@@ -73,4 +73,4 @@ Ulasan A:
 
 > Belum ditulis buat masa ini
 
-  [1]: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
+  [a]: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
