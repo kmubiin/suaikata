@@ -21,7 +21,7 @@
 
 #### Ulasan pembangun daftar
 
-* Ulasan M belum ditulis buat masa ini
+* [Ulasan M untuk daftar PSAT][1] (siap 1/12)
 * Ulasan A belum ditulis buat masa ini
 
 #### Maklumat perangkaan
@@ -68,4 +68,5 @@ Maklumat perangkaan mungkin berubah dari semasa ke semasa.
 Sila rujuk pada tarikh kemas kini fail atau sejarah
 suntingan fail melalui garis perintah Git.
 
+  [1]: hurai/psat.m.md
   [a]: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords

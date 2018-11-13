@@ -7,7 +7,7 @@ Sebanyak 12 kata masukan telah dipilih bagi menyatakan
 sebab pilihan terjemah M untuk daftar PSAT. Nombor dalam
 kurungan merujuk pada makna pertama dan seumpamanya.
 
-* abstract (1,4)
+* [abstract (1,4)][1]
 * blithe (1)
 * charlatan (1)
 * convention (3)
@@ -19,3 +19,5 @@ kurungan merujuk pada makna pertama dan seumpamanya.
 * resolution (3)
 * subdued (1)
 * synthesis (1)
+
+  [1]: kata/abstract.md
