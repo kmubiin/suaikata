@@ -38,7 +38,8 @@ Sumbangan pertama:
 
 > Add files via upload
 >
-> 1 parent `7447ef1` commit `0bda916e5f03ec82696939ed507483bb4ba85c4f`
+> 1 parent `7447ef1` commit
+`0bda916e5f03ec82696939ed507483bb4ba85c4f`
 >
 > [...] Showing with 23,020 additions and 0 deletions.
 
@@ -46,7 +47,8 @@ Sumbangan kedua:
 
 > Muatnaik 4000 perkataan Inggeris paling biasa
 >
-> 1 parent `747de60` commit `5c4032de829ed5e2cde2214f59b0fea83345c326`
+> 1 parent `747de60` commit
+`5c4032de829ed5e2cde2214f59b0fea83345c326`
 >
 > [...] Showing with 1 addition and 0 deletions.
 >
@@ -58,8 +60,10 @@ perintah `file` dan `wc` di GNU/Linux seperti berikut.
 
     $ file *.csv
     contoh.csv:                 ASCII text
-    katakerap-baru-5c4032d.csv: ASCII text, with CR line terminators
-    katakerap-lama-0bda916.csv: ASCII text, with CRLF line terminators
+    katakerap-baru-5c4032d.csv: ASCII text, with CR line
+     terminators
+    katakerap-lama-0bda916.csv: ASCII text, with CRLF line
+     terminators
 
     $ wc *.csv
          6     10    143 contoh.csv
@@ -76,8 +80,8 @@ bilangan baris yang betul (23020).
 Maka, baris penamat **LF** atau **CRLF** harus digunakan.
 
 Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #17][#17] di GitHub Issues, kecuali sebahagian teks telah
+[isu #17][b] di GitHub Issues, kecuali sebahagian teks telah
 disemak dan ditulis semula untuk penjelasan.
 
-  [#17]: https://github.com/kmubiin/suaikata/issues/17
   [a]: https://ms.wikipedia.org/wiki/Teks_biasa
+  [b]: https://github.com/kmubiin/suaikata/issues/17

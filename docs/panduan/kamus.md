@@ -62,7 +62,7 @@ Dan takrif perkataan 'transparent' dalam bahasa asal:
 >
 > 3. Obvious; readily apparent; easy to see or understand
 >
-> Sumber: [transparent di Wiktionary][wkt]
+> Sumber: [transparent di Wiktionary][a]
 
 Apabila perbandingan dibuat untuk takrif tersenarai di atas,
 takrif perkataan 'transparent' sebenarnya tidak terhad pada
@@ -73,14 +73,13 @@ mengenal pasti kebetulan dan kesalahan sesuatu takrif.
 
 Oleh itu, kamus dwibahasa harus dianggap sebagai bukan
 rujukan utama tetapi rujukan sampingan untuk perbandingan
-takrif. Lihat [contoh perbandingan takrif][PN5].
+takrif. Lihat [contoh perbandingan takrif][1].
 
 Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #10][#10] di GitHub Issues, kecuali perincian jenis
+[isu #10][b] di GitHub Issues, kecuali perincian jenis
 kamus telah ditambah dan penerangan masalah kamus dwibahasa
 digantikan dengan misalan perbandingan takrif.
 
-
-  [wkt]: https://en.wiktionary.org/wiki/transparent
-  [#10]: https://github.com/kmubiin/suaikata/issues/10
-  [PN5]: takrif.md
+  [1]: takrif.md
+  [a]: https://en.wiktionary.org/wiki/transparent
+  [b]: https://github.com/kmubiin/suaikata/issues/10

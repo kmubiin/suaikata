@@ -27,9 +27,8 @@ pada satu-satu masa. Ada beberapa kejadian lain yang mungkin
 diperhatikan tetapi tidak bermakna untuk diketahui.
 
 Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #12][#12] di GitHub Issues, kecuali jadual ditambah
+[isu #12][a] di GitHub Issues, kecuali jadual ditambah
 dengan kejadian X1 dan baris penjarak yang tidak bermakna
 dilupakan.
 
-
- [#12]: https://github.com/kmubiin/suaikata/issues/12
+  [a]: https://github.com/kmubiin/suaikata/issues/12

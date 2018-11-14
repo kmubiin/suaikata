@@ -21,7 +21,7 @@ Hujah 1:
 > public records.
 >
 > Sumber: 'How do I protect my recipe?' dalam
-> [FAQ oleh U.S. Copyright Office][faqc]
+> [FAQ oleh U.S. Copyright Office][a]
 
 Berdasarkan hujah 1, senarai mudah yang boleh dicapai
 daripada sumber awam, kecuali disertakan dengan sesuatu yang
@@ -41,13 +41,12 @@ Hujah 2:
 > information contained in Rural's phone directory was not
 > copyrightable and that therefore no infringement existed.
 >
-> Sumber: [Feist v. Rural di Wikipedia][wiki]
+> Sumber: [Feist v. Rural di Wikipedia][b]
 
 Berdasarkan hujah 2, senarai yang mengandungi maklumat dalam
 bentuk fakta seperti buku direktori telefon adalah hak cipta
 yang tidak boleh terpelihara. Dengan itu, pelanggaran hak
 cipta tidak pernah wujud.
 
-
-  [faqc]: https://www.copyright.gov/help/faq/faq-protect.html
-  [wiki]: https://en.wikipedia.org/wiki/Feist_v._Rural
+  [a]: https://www.copyright.gov/help/faq/faq-protect.html
+  [b]: https://en.wikipedia.org/wiki/Feist_v._Rural

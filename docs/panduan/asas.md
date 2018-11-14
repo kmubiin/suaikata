@@ -42,16 +42,18 @@ asal.
 
 > chronicle (plural chronicles)
 >
-> 1. A written account of events and when they happened, ordered by time.
+> 1. A written account of events and when they happened,
+ordered by time.
 >
-> Sumber: [chronicle di Wiktionary][wkt]
+> Sumber: [chronicle di Wiktionary][a]
 
 Setelah fahamkan takrif itu, barulah mula mencari kata kunci
 atau kata masukan Melayu yang berkaitan. Setiap kata masukan
 Melayu yang berkaitan akan membawa takrif tersendiri dan
 tidak semestinya didapati dalam satu perkataan.
 
-> catatan sejarah, kisah, cerita, rentetan peristiwa, riwayat
+> catatan sejarah, kisah, cerita, rentetan peristiwa,
+riwayat
 >
 > Sumber: Pengetahuan sendiri, kamus kata sama dan lain-lain
 
@@ -78,9 +80,8 @@ takrif yang akan dibawakan oleh penutur bahasa. Ini adalah
 pengetahuan asas dalam projek suaikata.
 
 Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #10][#10] di GitHub Issues, kecuali perenggan keempat
+[isu #10][b] di GitHub Issues, kecuali perenggan keempat
 dan seterusnya adalah teks baharu.
 
-
-  [wkt]: https://en.wiktionary.org/wiki/chronicle
-  [#10]: https://github.com/kmubiin/suaikata/issues/10
+  [a]: https://en.wiktionary.org/wiki/chronicle
+  [b]: https://github.com/kmubiin/suaikata/issues/10

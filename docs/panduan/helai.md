@@ -20,7 +20,7 @@ perisian komputer atau perisian web yang ada fungsi komen
 dan suntingan pengguna ramai. Misalnya, helai daftar pertama
 untuk projek suaikata disedia menggunakan Google Sheets.
 
-[Google Sheets][gss] dan [Microsoft Excel Online][mxo]
+[Google Sheets][a] dan [Microsoft Excel Online][b]
 adalah perisian komputer dalam talian untuk mencipta dan
 menyunting helaian rebak. Kedua-dua perisian boleh digunakan
 secara percuma oleh pengguna e-mel yang berdaftar dengan
@@ -51,6 +51,5 @@ alih yang biasa digunakan untuk penukaran data. Helai daftar
 yang disimpan sebagai CSV sedia dibaca dan disunting oleh
 perisian komputer yang lazim.
 
-
-  [gss]: https://docs.google.com/spreadsheets/
-  [mxo]: https://office.live.com/start/Excel.aspx
+  [a]: https://docs.google.com/spreadsheets/
+  [b]: https://office.live.com/start/Excel.aspx

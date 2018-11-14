@@ -18,11 +18,11 @@ lebih lama berbanding bermula dengan senarai sedia ada.
 Ciri 2 bermaksud kata masukan tidak disertakan dengan makna
 dalam senarai yang sama. Jika disertakan bersama makna,
 abaikan makna dan senaraikan kata masukan sahaja. Senarai
-tanpa makna adalah [hak cipta tidak terpelihara][PN6].
+tanpa makna adalah [hak cipta tidak terpelihara][1].
 
 Ciri 3 bermaksud kata masukan menggunakan perkataan yang
 mematuhi peraturan bahasa dan ejaan terbaharu. Untuk bahasa
-pengantar, gunakan [bahasa Melayu piawai][PN3]. Untuk bahasa
+pengantar, gunakan [bahasa Melayu piawai][2]. Untuk bahasa
 asal selain bahasa Melayu, peraturan bahasa dan ejaan harus
 dipelihara dan dikekalkan mengikut sumber.
 
@@ -47,24 +47,23 @@ dan bahasa Melayu, boleh didapati dengan mudah:
 
 * Gunakan kata kunci "word list", "senarai kosa kata" atau
 seumpamanya dan cari melalui enjin carian web seperti
-[DuckDuckGo][ddg]
-* [Laman senarai mudah di Simple English Wiktionary][swl]
-* [Laman senarai kerap di English Wiktionary][efl]
-* [Laman senarai perkataan di Wikikamus][spwk]
+[DuckDuckGo][a]
+* [Laman senarai mudah di Simple English Wiktionary][b]
+* [Laman senarai kerap di English Wiktionary][c]
+* [Laman senarai perkataan di Wikikamus][d]
 
 Tuntasnya, sumber kata masukan bermula dengan senarai sedia
 ada atau senarai kosong. Sumber pilihan yang baik adalah
 tanpa makna dan mematuhi piawai.
 
 Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #7][#7] di GitHub Issues, kecuali sebahagian teks telah
+[isu #7][e] di GitHub Issues, kecuali sebahagian teks telah
 disemak dan ditulis semula untuk penjelasan.
 
-
-  [PN6]: hak-cipta.md
-  [PN3]: piawai.md
-  [ddg]: https://duckduckgo.com/
-  [swl]: https://simple.wiktionary.org/wiki/Category:Wordlists
-  [efl]: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
-  [spwk]: https://ms.wiktionary.org/wiki/Wiktionary:Senarai_perkataan_mengikut_susunan_abjad
-  [#7]: https://github.com/kmubiin/suaikata/issues/7
+  [1]: hak-cipta.md
+  [2]: piawai.md
+  [a]: https://duckduckgo.com/
+  [b]: https://simple.wiktionary.org/wiki/Category:Wordlists
+  [c]: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
+  [d]: https://ms.wiktionary.org/wiki/Wiktionary:Senarai_perkataan_mengikut_susunan_abjad
+  [e]: https://github.com/kmubiin/suaikata/issues/7

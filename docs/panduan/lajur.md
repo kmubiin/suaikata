@@ -50,7 +50,7 @@ daripada satu makna dapat dikenal pasti dalam lajur itu.
 Daftar dwibahasa beregu 2.6 mempunyai enam lajur. Daftar
 ini menambah lajur 'di' supaya pra-syarat formula menjadi
 lebih ringkas. Keadaan terjemah juga dapat dikenal pasti
-dengan sepintas lalu. Lihat [mengenali kejadian][RN2].
+dengan sepintas lalu. Lihat [mengenali kejadian][1].
 
 | inggeris | ke  | melayu | di  | terjemah M | terjemah A |
 | -------- | --- | ------ | --- | ---------- | ---------- |
@@ -58,13 +58,12 @@ dengan sepintas lalu. Lihat [mengenali kejadian][RN2].
 
 Apabila daftar dwibahasa beregu telah lengkap, semua lajur
 kecuali lajur-lajur terjemah akan disalin ke fail baru dan
-diterbit di repositori. Lihat [contoh daftar][RN1].
+diterbit di repositori. Lihat [contoh daftar][2].
 
 Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #9][#9], kecuali perkembangan lajur dalam daftar
+[isu #9][a], kecuali perkembangan lajur dalam daftar
 dwibahasa beregu diterangkan dengan lengkap di sini.
 
-
-  [RN2]: kejadian.md
-  [RN1]: contoh.md
-  [#9]: https://github.com/kmubiin/suaikata/issues/9
+  [1]: kejadian.md
+  [2]: contoh.md
+  [a]: https://github.com/kmubiin/suaikata/issues/9
