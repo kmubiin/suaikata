@@ -3,8 +3,8 @@
 
 ## Senarai terbitan
 
-* [Terbitan versi 1.0][301]
-* [Terbitan versi 1.1][302]
+* [Terbitan 1.0][301]
+* [Terbitan imbuh 1.1][302]
 
 laman: [utama][0] - [kajian][1] - [panduan][2] - **terbitan**
 
