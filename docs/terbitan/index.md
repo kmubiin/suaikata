@@ -4,7 +4,7 @@
 ## Senarai terbitan
 
 * [Terbitan 1.0][301]
-* [Terbitan imbuh 1.1][302]
+* [Terbitan imbuh 1.1.0][302]
 
 laman: [utama][0] - [kajian][1] - [panduan][2] - **terbitan**
 
@@ -12,4 +12,4 @@ laman: [utama][0] - [kajian][1] - [panduan][2] - **terbitan**
   [1]: ../kajian/index.md
   [2]: ../panduan/index.md
   [301]: 1.0.md
-  [302]: 1.1.md
+  [302]: 1.1.0.md
