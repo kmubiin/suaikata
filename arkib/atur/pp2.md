@@ -499,5 +499,8 @@ GitHub.
 
 Salinan ini disemak kali terakhir pada 2018-11-17
 
+[Lihat imej papan projek ini][2b]
+
   [1]: pp1.md
+  [2b]: pp2b.md
   [3]: pp3.md
