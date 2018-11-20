@@ -9,7 +9,7 @@ Perihal bahasa, kata masukan dan takrif:
 * [Penggunaan kamus][202]
 * [Bahasa Melayu piawai][203]
 * [Sumber kata masukan][204]
-* [Contoh perbandingan takrif][205]
+* [Takrif bahasa asal dan bahasa terjemah][205]
 
 Perihal daftar dan helaian rebak (spreadsheet):
 

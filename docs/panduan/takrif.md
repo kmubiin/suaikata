@@ -1,7 +1,7 @@
 ---
 ---
 
-### Contoh perbandingan takrif
+### Takrif bahasa asal dan bahasa terjemah
 
 Kosa kata dalam bahasa asal: **accessible**
 
