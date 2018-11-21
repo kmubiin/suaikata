@@ -31,7 +31,7 @@ sebagai syarat penggunaan sudah memadai.
 Maka CC-BY-4.0 adalah lesen pilihan projek ini.
 
 Untuk maklumat lanjut, lihat [kenyataan rasmi lesen][c]
-atau [salinan lesen di repositori][1].
+atau [salinan lesen di repositori][d] ([relatif][1]).
 
 Kembali ke [laman utama dokumentasi][0]
 
@@ -40,3 +40,4 @@ Kembali ke [laman utama dokumentasi][0]
   [a]: https://choosealicense.com/
   [b]: https://opendefinition.org/licenses/
   [c]: https://creativecommons.org/licenses/by/4.0/
+  [d]: https://github.com/kmubiin/suaikata/blob/master/LICENSE
