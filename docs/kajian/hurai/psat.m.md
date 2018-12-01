@@ -18,7 +18,8 @@ kurungan merujuk pada makna pertama dan seumpamanya.
 * repudiate (1)
 * resolution (3)
 * subdued (1)
-* suspend (1,2)
+* [suspend (1,2)][12]
 * synthesis (1)
 
   [1]: kata/abstract.md
+  [12]: kata/suspend.md
