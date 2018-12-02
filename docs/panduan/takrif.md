@@ -63,16 +63,16 @@ adalah contoh soalan yang mungkin timbul:
 Inggeris-Melayu? Ini kerana perkataan 'panda' menggunakan
 ejaan sama dalam kedua-dua bahasa.
 
-2. Perkataan 'vocabulary' ada satu makna, tetapi ada
-beberapa perkataan terjemah Melayu 'kosa kata',
+2. Perkataan 'vocabulary' ada satu makna, tetapi ada lebih
+daripada satu perkataan terjemah Melayu: 'kosa kata',
 'perbendaharaan kata', 'vokabulari', 'leksikon'. Pening,
 mana satu nak pilih?
 
 3. Perkataan 'screenshot' langsung tidak ada perkataan
 terjemah Melayu! Nak cari mana?
 
-Dan berikut adalah jawapan ringkas untuk soalan-soalan
-yang dikemukakan di atas:
+Dan berikut adalah jawapan ringkas untuk setiap contoh
+soalan yang dikemukakan di atas:
 
 1. Panda sebagai 'beruang panda' sudah memadai.
 
