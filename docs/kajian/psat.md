@@ -21,7 +21,7 @@
 
 #### Ulasan pembangun daftar
 
-* [Ulasan M untuk daftar PSAT][1] (siap 1/12)
+* [Ulasan M untuk daftar PSAT][1] (siap 2/13)
 * Ulasan A belum ditulis buat masa ini
 
 #### Maklumat perangkaan

@@ -3,7 +3,7 @@
 
 ### Ulasan M untuk daftar PSAT
 
-Sebanyak 12 kata masukan telah dipilih bagi menyatakan
+Sebanyak 13 kata masukan telah dipilih bagi menyatakan
 sebab pilihan terjemah M untuk daftar PSAT. Nombor dalam
 kurungan merujuk pada makna pertama dan seumpamanya.
 
@@ -18,6 +18,8 @@ kurungan merujuk pada makna pertama dan seumpamanya.
 * repudiate (1)
 * resolution (3)
 * subdued (1)
+* [suspend (1,2)][12]
 * synthesis (1)
 
   [1]: kata/abstract.md
+  [12]: kata/suspend.md

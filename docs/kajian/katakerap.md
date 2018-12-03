@@ -15,12 +15,12 @@
 * Tarikh mula: -
 * Tarikh siap: 2018-05-03
 
+#### Ulasan pembangun daftar
+
+> Tiada maklumat
+
 #### Maklumat perangkaan
 
 | Bilangan     | Asal    | Semasa  |
 | ------------ | -------:| -------:|
 | kata masukan | 0       | 23020   |
-
-#### Ulasan pembangun daftar
-
-> Tiada maklumat
