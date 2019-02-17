@@ -3,14 +3,10 @@
 
 ## Senarai kajian
 
-Perihal pembangunan projek:
-
 * [Kajian perintis][101]
-
-Perihal daftar siap:
-
-* [psat][201]
-* [katakerap][202]
+* [Kajian daftar PSAT][102]
+    - [Ulasan M untuk daftar PSAT][102M]
+* [Kajian daftar Kata Kerap][103]
 
 laman: [utama][0] - **kajian** - [panduan][2] - [terbitan][3]
 
@@ -18,5 +14,6 @@ laman: [utama][0] - **kajian** - [panduan][2] - [terbitan][3]
   [2]: ../panduan/index.md
   [3]: ../terbitan/index.md
   [101]: perintis.md
-  [201]: psat.md
-  [202]: katakerap.md
+  [102]: hasil/psat.md
+  [102M]: hurai/psat.m.md
+  [103]: hasil/katakerap.md
