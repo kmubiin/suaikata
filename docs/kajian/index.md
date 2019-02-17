@@ -14,6 +14,6 @@ laman: [utama][0] - **kajian** - [panduan][2] - [terbitan][3]
   [2]: ../panduan/index.md
   [3]: ../terbitan/index.md
   [101]: perintis.md
-  [102]: psat.md
+  [102]: hasil/psat.md
   [102M]: hurai/psat.m.md
-  [103]: katakerap.md
+  [103]: hasil/katakerap.md
