@@ -43,3 +43,8 @@ Daftar dwibahasa beregu dengan enam lajur (2.6):
 | inggeris | ke   | melayu | di   |
 | -------- | ---- | ------ | ---- |
 | ...      | ...  | ...    | ...  |
+
+Rancangan pertengahan projek telah menambah baik helai
+daftar menjadi enam lajur (2.6) dan separuh daripadanya
+menggunakan rumus dalam sel. Hasil daftar akan disimpan
+dalam format mudah alih dengan empat lajur pertama sahaja.
