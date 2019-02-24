@@ -112,14 +112,15 @@ digression,1,lalutan,A
 discernible,1,boleh diperhati,A
 disclaimer,1,kenyataan tolak tuntutan; penafian,M
 disclose,1,membuka rahsia,M
-discord,1,percanggahan,A
+discord,1,perselisihan,M+
 disinterested,1,berkecuali,M
 dismiss,1,menyuraikan,A
 disparage,1,memperlekeh,A
 disparate,1,berasingan,A
 dispel,1,menghilangkan,A
 disperse,1,"serak, tebar atau surai",M
-dissent,1,percanggahan,A
+dissent,1,membantah,M
+dissent,2,pembantahan,M+
 dissipate,1,membebaskan atau menyuraikan,M
 dissipate,2,melesapkan,M
 distinction,1,kelainan atau perbezaan,M
