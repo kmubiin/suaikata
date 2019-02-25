@@ -1,14 +1,11 @@
----
----
-
-### Mengenali kejadian
+### Helai daftar beregu: Kejadian
 
 Projek suaikata telah mengenal pasti dan mengendali beberapa
 keadaan terjemah dalam helaian rebak, semasa daftar pertama
-dibangunkan oleh dua ahli projek.
+dibangunkan oleh dua ahli projek (M dan A).
 
 Berikut adalah semua kejadian yang biasa dilihat dalam
-helaian rebak.
+helai daftar beregu.
 
 | inggeris | ke | melayu             | di | terjemah M | terjemah A |
 | -------- | -- | ------------------ | -- | ---------- | ---------- |
@@ -21,14 +18,13 @@ helaian rebak.
 | abstract | 1  | tak zahir          | A+ | #abstrak   | tak zahir  |
 | abstract | 1  | [eh, dua salinan?] | X2 | abstrak    | tak zahir  |
 
-Semasa menggunakan helaian rebak, hanya salah satu daripada
-semua kejadian yang tersenarai di atas boleh diperhatikan
-pada satu-satu masa. Ada beberapa kejadian lain yang mungkin
-diperhatikan tetapi tidak bermakna untuk diketahui.
+Hanya salah satu daripada semua kejadian yang tersenarai di
+atas boleh diperhatikan pada satu-satu masa. Ada beberapa
+kejadian lain yang mungkin tidak disenarai, tetapi tidak
+penting untuk diterangkan di sini.
 
-Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #12][a] di GitHub Issues, kecuali jadual ditambah
-dengan kejadian X1 dan baris penjarak yang tidak bermakna
-dilupakan.
+Laman ini adalah berdasarkan teks daripada sumber (pautan di
+bawah), kecuali jadual ditambah dengan kejadian X1 dan baris
+penjarak yang tidak bermakna dilupakan.
 
-  [a]: https://github.com/kmubiin/suaikata/issues/12
+Sumber: https://github.com/kmubiin/suaikata/issues/12
