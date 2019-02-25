@@ -30,7 +30,7 @@ Semasa mengisi lajur terjemah, ada beberapa tanda yang boleh
 digunakan oleh ahli projek tetapi tidak dimestikan. Lima
 tanda tersebut ialah:
 
-* tanda soal `?`
+* [tanda soal `?`][ts]
 * [tanda pagar `#`][tp]
 * tanda koma `,`
 * tanda koma bertitik `;`
@@ -40,4 +40,5 @@ Laman ini adalah berdasarkan teks daripada jadual yang
 dipapar oleh helaian rebak, kecuali beberapa tanda dan
 keterangan telah disemak dan lajur mesej dilupakan.
 
+  [ts]: ts.md
   [tp]: tp.md
