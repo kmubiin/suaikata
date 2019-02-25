@@ -1,6 +1,3 @@
----
----
-
 ### Tanda pagar
 
 Tanda pagar memberi satu cara untuk menyelesaikan selisih
@@ -14,20 +11,20 @@ selesai" seperti yang ditunjukkan di bawah.
 
 Keadaan selisih:
 
-| inggeris | ... | di | terjemah M | terjemah A |
-| -------- | --- | -- | ---------- | ---------- |
+| inggeris    | ... | di | terjemah M | terjemah A         |
+| ----------- | --- | -- | ---------- | ------------------ |
 | ambivalence | ... | X2 | belah bagi | perasaan tak tentu |
 
 Keadaan selesai 1:
 
-| inggeris | ... | di | terjemah M | terjemah A |
-| -------- | --- | -- | ---------- | ---------- |
-| ambivalence | ... | M+ | belah bagi | # |
+| inggeris    | ... | di | terjemah M | terjemah A         |
+| ----------- | --- | -- | ---------- | ------------------ |
+| ambivalence | ... | M+ | belah bagi | #                  |
 
 Keadaan selesai 2:
 
-| inggeris | ... | di | terjemah M | terjemah A |
-| -------- | --- | -- | ---------- | ---------- |
+| inggeris    | ... | di | terjemah M | terjemah A          |
+| ----------- | --- | -- | ---------- | ------------------- |
 | ambivalence | ... | M+ | belah bagi | #perasaan tak tentu |
 
 Mana-mana "keadaan selesai" menukarkan tanda 'X2' kepada
@@ -35,7 +32,7 @@ Mana-mana "keadaan selesai" menukarkan tanda 'X2' kepada
 cara penyelesaian ini adalah sama ada salah satu terjemah
 yang terabai, dipadam atau tidak.
 
-Formula dalam helaian rebak telah ditulis untuk menguji sama
+Rumus dalam helaian rebak telah ditulis untuk menguji sama
 ada tanda pagar `#` didapati pada huruf pertama di ruang
 terjemah atau tidak. Apa-apa huruf selepas itu tidak
 menjejaskan pemilihan.

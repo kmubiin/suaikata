@@ -31,7 +31,7 @@ digunakan oleh ahli projek tetapi tidak dimestikan. Lima
 tanda tersebut ialah:
 
 * tanda soal `?`
-* tanda pagar `#`
+* [tanda pagar `#`][tp]
 * tanda koma `,`
 * tanda koma bertitik `;`
 * tanda kurung `()`
@@ -39,3 +39,5 @@ tanda tersebut ialah:
 Laman ini adalah berdasarkan teks daripada jadual yang
 dipapar oleh helaian rebak, kecuali beberapa tanda dan
 keterangan telah disemak dan lajur mesej dilupakan.
+
+  [tp]: tp.md
