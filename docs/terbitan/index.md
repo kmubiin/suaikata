@@ -8,6 +8,7 @@
 * [Terbitan imbuh 1.2.0][303]
 * [Terbitan imbuh 1.2.1][304]
 * [Terbitan imbuh 1.2.2][305]
+* [Terbitan imbuh 1.2.3][306]
 
 laman: [utama][0] - [kajian][1] - [panduan][2] - **terbitan**
 
@@ -19,3 +20,4 @@ laman: [utama][0] - [kajian][1] - [panduan][2] - **terbitan**
   [303]: 1.2.0.md
   [304]: 1.2.1.md
   [305]: 1.2.2.md
+  [306]: 1.2.3.md
