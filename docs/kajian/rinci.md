@@ -14,9 +14,12 @@ Kalau ada sekalipun, agak terhad untuk kegunaan umum.
 
 Maklumat lanjut di pautan tersenarai:
 
-* [Hasil kajian Mac 2018](hasil/1803.md)
-* [Senarai huraian](hurai/index.md): termasuk ulasan
-pembangun daftar
+* [Hasil kajian Mac 2018][1]
+* [Senarai huraian][2]: termasuk ulasan pembangun daftar
 * (Hasil kajian masa hadapan)
 
-laman kembali: [kajian](index.md)
+laman kembali: [kajian][0]
+
+  [0]: index.md
+  [1]: hasil/1803.md
+  [2]: hurai/index.md
