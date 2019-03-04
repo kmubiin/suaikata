@@ -3,7 +3,13 @@
 
 ## Senarai panduan
 
-*Ruang ini sengaja dikosongkan buat sementara waktu*
+*Ruang ini masih dalam pembaikan*
+
+* Bab 1: Bahasa dan hak cipta
+* Bab 2: Pilihan terjemah
+* Bab 3: Daftar baharu
+* Bab 4: Daftar sedia dan siap
+* Bab 5: Pengguna daftar
 
 laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
 
