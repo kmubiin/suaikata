@@ -8,15 +8,9 @@ supaya helai daftar dapat diusahakan secara beregu.
 
 * [Helai daftar awal][1]
 * [Helai daftar beregu][2]
-* [Helai daftar beregu: Kejadian][3]
-* [Helai daftar beregu: Tanda][4]
-* [Helai daftar beregu: Warna][5]
 
 laman kembali: [arkib][0]
 
   [0]: ../pokok.md
   [1]: ha.md
   [2]: hb.md
-  [3]: hbk.md
-  [4]: hbt.md
-  [5]: hbw.md
