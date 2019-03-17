@@ -1,7 +1,7 @@
 ---
 ---
 
-### Pengetahuan asas
+### Asas penyediaan takrif
 
 Secara umum, kita anggap kebanyakan kata masukan Inggeris
 boleh disuaikan dengan kata masukan Melayu yang sama makna.
