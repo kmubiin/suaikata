@@ -8,8 +8,8 @@ sumber sedia ada digunakan secara bebas dengan syarat sebut
 nama atau menyatakan perakuan hak cipta asal (attribution).
 
 Laman ini hanya menyediakan kemudahan untuk membaca teks
-dokumentasi. Untuk kemudahan lain, sila layari laman utama
-repositori projek di GitHub.
+dokumentasi. Untuk kemudahan lain, sila layari laman sumber
+projek di GitHub.
 
 laman: **utama** - [kajian][1] - [panduan][2] - [terbitan][3]
 
