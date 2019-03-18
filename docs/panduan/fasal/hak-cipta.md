@@ -48,5 +48,8 @@ bentuk fakta seperti buku direktori telefon adalah hak cipta
 yang tidak boleh terpelihara. Dengan itu, pelanggaran hak
 cipta tidak pernah wujud.
 
+laman kembali: [panduan][0]
+
+  [0]: ../index.md
   [a]: https://www.copyright.gov/help/faq/faq-protect.html
   [b]: https://en.wikipedia.org/wiki/Feist_v._Rural

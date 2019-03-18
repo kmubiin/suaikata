@@ -7,10 +7,10 @@
 
 Bab 1: Bahasa dan hak cipta
 
-* 1.1. Bahasa Melayu piawai
-* 1.2. Sumber kata masukan
-* 1.3. Hak cipta tidak terpelihara
-* 1.4. Lesen sumber terbuka
+* 1.1. [Bahasa Melayu piawai][211]
+* 1.2. [Sumber kata masukan][212]
+* 1.3. [Hak cipta tidak terpelihara][213]
+* 1.4. [Lesen sumber terbuka][214]
 
 Bab 2: Pilihan terjemah
 
@@ -35,3 +35,7 @@ laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
   [0]: ../index.md
   [1]: ../kajian/index.md
   [3]: ../terbitan/index.md
+  [211]: fasal/piawai.md
+  [212]: fasal/sumber.md
+  [213]: fasal/hak-cipta.md
+  [214]: fasal/lesen.md

@@ -23,20 +23,19 @@ pemilik sumber perlu mengesahkan syarat penggunaan sumber
 dengan memilih [lesen yang sesuai][a]. Lesen itu sebaiknya
 ada [saranan daripada badan bebas][b].
 
-Untuk projek suaikata, lesen sumber terbuka yang diperlukan
+Bagi projek suaikata, lesen sumber terbuka yang diperlukan
 adalah lesen untuk sumber bukan atur cara. Dua ahli projek
-telah berbincang dan bersetuju bahawa atribusi (sebut nama)
-sebagai syarat penggunaan sudah memadai.
+telah berbincang dan bersetuju bahawa sebut nama
+(attribution) sebagai syarat penggunaan sudah memadai.
 
-Maka CC-BY-4.0 adalah lesen pilihan projek ini.
+Maka **CC-BY-4.0** adalah lesen pilihan projek ini.
 
 Untuk maklumat lanjut, lihat [kenyataan rasmi lesen][c]
-atau [salinan lesen di repositori][d] ([relatif][1]).
+atau [salinan lesen di repositori][d].
 
-Kembali ke [laman utama dokumentasi][0]
+laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [1]: ../../LICENSE
   [a]: https://choosealicense.com/
   [b]: https://opendefinition.org/licenses/
   [c]: https://creativecommons.org/licenses/by/4.0/
