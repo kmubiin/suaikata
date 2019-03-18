@@ -65,8 +65,8 @@ ejaan sama dalam kedua-dua bahasa.
 
 2. Perkataan 'vocabulary' ada satu makna, tetapi ada lebih
 daripada satu perkataan terjemah Melayu: 'kosa kata',
-'perbendaharaan kata', 'vokabulari', 'leksikon'. Pening,
-mana satu nak pilih?
+'perbendaharaan kata', 'vokabulari', 'leksikon'. Mana satu
+nak pilih?
 
 3. Perkataan 'screenshot' langsung tidak ada perkataan
 terjemah Melayu! Nak cari mana?
@@ -88,5 +88,8 @@ Laman ini adalah berdasarkan teks daripada komen dalam
 [isu #10][a] dan [isu #11][b] di GitHub Issues, kecuali
 sebahagian teks telah disemak untuk penjelasan.
 
+laman kembali: [panduan][0]
+
+  [0]: ../index.md
   [a]: https://github.com/kmubiin/suaikata/issues/10
   [b]: https://github.com/kmubiin/suaikata/issues/11

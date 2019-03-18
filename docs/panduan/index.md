@@ -14,10 +14,10 @@ Bab 1: Bahasa dan hak cipta
 
 Bab 2: Pilihan terjemah
 
-* 2.1. Asas penyediaan takrif
-* 2.2. Takrif bahasa asal dan bahasa terjemah
-* 2.3. Satu atau dua salinan terjemah
-* 2.4. Penggunaan kamus
+* 2.1. [Asas penyediaan takrif][221]
+* 2.2. [Takrif bahasa asal dan bahasa terjemah][222]
+* 2.3. [Satu atau dua salinan terjemah][223]
+* 2.4. [Penggunaan kamus][224]
 
 Bab 3: Daftar baharu
 
@@ -39,3 +39,7 @@ laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
   [212]: fasal/sumber.md
   [213]: fasal/hak-cipta.md
   [214]: fasal/lesen.md
+  [221]: fasal/asas.md
+  [222]: fasal/takrif.md
+  [223]: fasal/salinan.md
+  [224]: fasal/kamus.md

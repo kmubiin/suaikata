@@ -77,11 +77,14 @@ perbincangan antara dua atau lebih penutur bahasa.
 Tuntasnya, bahasa asal kata masukan perlu dikuasai terlebih
 dahulu. Penguasaan bahasa asal mempengaruhi tahap kesesuaian
 takrif yang akan dibawakan oleh penutur bahasa. Ini adalah
-pengetahuan asas dalam projek suaikata.
+asas penyediaan takrif dalam projek suaikata.
 
 Laman ini adalah berdasarkan teks daripada komen dalam
 [isu #10][b] di GitHub Issues, kecuali perenggan keempat
 dan seterusnya adalah teks baharu.
 
+laman kembali: [panduan][0]
+
+  [0]: ../index.md
   [a]: https://en.wiktionary.org/wiki/chronicle
   [b]: https://github.com/kmubiin/suaikata/issues/10
