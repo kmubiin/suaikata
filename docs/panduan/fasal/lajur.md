@@ -24,46 +24,25 @@ Apabila sesuatu daftar hendak dibangunkan oleh dua atau
 lebih ahli projek dan daftar itu ada lajur terjemah, lajur
 itu dipecah menjadi beberapa lajur baru untuk setiap ahli.
 Projek suaikata menamakan daftar yang dicipta sedemikian
-sebagai 'daftar dwibahasa beregu'.
+sebagai '**daftar dwibahasa beregu**'.
 
-Beberapa lajur lain ditambah secara beransur-ansur semasa
-pembangunan projek. Bilangan lajur bertambah daripada 3
-menjadi 4, 5 dan 6 (dinomborkan 2.3, 2.4, 2.5 dan 2.6).
-Daftar yang ditunjukkan dahulu di atas adalah 2.3.
-
-Daftar dwibahasa beregu 2.4 mempunyai empat lajur. Daftar
-ini mengembalikan lajur 'melayu' supaya salah satu terjemah
-yang dipilih akan dipaparkan semula dalam lajur itu.
-
-| inggeris | melayu | terjemah M | terjemah A |
-| -------- | ------ | ---------- | ---------- |
-| ...      | ...    | ...        | ...        |
-
-Daftar dwibahasa beregu 2.5 mempunyai lima lajur. Daftar
-ini menambah lajur 'ke' supaya kata masukan yang ada lebih
-daripada satu makna dapat dikenal pasti dalam lajur itu.
-
-| inggeris | ke  | melayu | terjemah M | terjemah A |
-| -------- | --- | ------ | ---------- | ---------- |
-| ...      | ... | ...    | ...        | ...        |
-
-Daftar dwibahasa beregu 2.6 mempunyai enam lajur. Daftar
-ini menambah lajur 'di' supaya pra-syarat formula menjadi
-lebih ringkas. Keadaan terjemah juga dapat dikenal pasti
-dengan sepintas lalu. Lihat [mengenali kejadian][1].
+Daftar dwibahasa beregu yang pertama dalam projek suaikata
+menggunakan enam lajur semasa pembangunan. Namun begitu,
+hanya empat lajur pertama yang perlu disalin dan disimpan
+sebagai fail baru sebelum diterbit di laman sumber projek.
 
 | inggeris | ke  | melayu | di  | terjemah M | terjemah A |
 | -------- | --- | ------ | --- | ---------- | ---------- |
 | ...      | ... | ...    | ... | ...        | ...        |
 
-Apabila daftar dwibahasa beregu telah lengkap, semua lajur
-kecuali lajur-lajur terjemah akan disalin ke fail baru dan
-diterbit di repositori. Lihat [contoh daftar][2].
+**Penafian**: Daftar dwibahasa beregu (enam lajur) adalah
+cara kerja percubaan dan terhad untuk kegunaan dua ahli
+projek. Perlu fikirkan cara kerja lain untuk kegunaan ramai.
 
 Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #9][a], kecuali perkembangan lajur dalam daftar
-dwibahasa beregu diterangkan dengan lengkap di sini.
+[isu #9][a].
 
-  [1]: kejadian.md
-  [2]: contoh.md
+laman kembali: [panduan][0]
+
+  [0]: ../index.md
   [a]: https://github.com/kmubiin/suaikata/issues/9

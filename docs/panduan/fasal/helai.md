@@ -11,11 +11,11 @@ sediakan helai daftar:
 2. Perisian komputer
 
 Pensel dan kertas adalah cara bebas untuk menyediakan helai
-daftar. Untuk cara kerja dan kegunaan individu, pensel dan
-kertas sudah memadai. Atau tuliskan dalam buku supaya helai
-daftar sentiasa terkumpul pada satu tempat.
+daftar. Bagi cara kerja individu, pensel dan kertas sudah
+memadai. Tuliskan dalam sebuah buku supaya helai daftar
+sentiasa terkumpul pada satu tempat.
 
-Sebaliknya, untuk cara kerja berkumpulan, lebih baik gunakan
+Sebaliknya, bagi cara kerja berkumpulan, lebih baik gunakan
 perisian komputer atau perisian web yang ada fungsi komen
 dan suntingan pengguna ramai. Misalnya, helai daftar pertama
 untuk projek suaikata disedia menggunakan Google Sheets.
@@ -51,5 +51,8 @@ alih yang biasa digunakan untuk penukaran data. Helai daftar
 yang disimpan sebagai CSV sedia dibaca dan disunting oleh
 perisian komputer yang lazim.
 
+laman kembali: [panduan][0]
+
+  [0]: ../index.md
   [a]: https://docs.google.com/spreadsheets/
   [b]: https://office.live.com/start/Excel.aspx

@@ -21,10 +21,10 @@ Bab 2: Pilihan terjemah
 
 Bab 3: Daftar baharu
 
-* 3.1. Mencipta helai daftar
-* 3.2. Penggunaan baris
-* 3.3. Penggunaan lajur
-* 3.4. Contoh daftar
+* 3.1. [Mencipta helai daftar][231]
+* 3.2. [Penggunaan baris][232]
+* 3.3. [Penggunaan lajur][233]
+* 3.4. [Contoh daftar][234]
 
 Bab 4: Daftar sedia dan siap
 
@@ -43,3 +43,7 @@ laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
   [222]: fasal/takrif.md
   [223]: fasal/salinan.md
   [224]: fasal/kamus.md
+  [231]: fasal/helai.md
+  [232]: fasal/baris.md
+  [233]: fasal/lajur.md
+  [234]: fasal/contoh.md
