@@ -35,15 +35,15 @@ laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
   [0]: ../index.md
   [1]: ../kajian/index.md
   [3]: ../terbitan/index.md
-  [211]: fasal/piawai.md
-  [212]: fasal/sumber.md
-  [213]: fasal/hak-cipta.md
-  [214]: fasal/lesen.md
-  [221]: fasal/asas.md
-  [222]: fasal/takrif.md
-  [223]: fasal/salinan.md
-  [224]: fasal/kamus.md
-  [231]: fasal/helai.md
-  [232]: fasal/baris.md
-  [233]: fasal/lajur.md
-  [234]: fasal/contoh.md
+  [211]: bab/piawai.md
+  [212]: bab/sumber.md
+  [213]: bab/hak-cipta.md
+  [214]: bab/lesen.md
+  [221]: bab/asas.md
+  [222]: bab/takrif.md
+  [223]: bab/salinan.md
+  [224]: bab/kamus.md
+  [231]: bab/helai.md
+  [232]: bab/baris.md
+  [233]: bab/lajur.md
+  [234]: bab/contoh.md
