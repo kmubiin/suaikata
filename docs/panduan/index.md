@@ -3,8 +3,6 @@
 
 ## Senarai panduan
 
-*Ruang ini masih dalam pembaikan*
-
 Bab 1: Bahasa dan hak cipta
 
 * 1.1. [Bahasa Melayu piawai][211]
