@@ -30,6 +30,10 @@ Bab 4: Daftar sedia dan siap
 
 Bab 5: Pengguna daftar
 
+Lampiran
+
+* Senarai istilah dalam projek: [Glosari][291]
+
 laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
 
   [0]: ../index.md
@@ -47,3 +51,4 @@ laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
   [232]: bab/baris.md
   [233]: bab/lajur.md
   [234]: bab/contoh.md
+  [291]: lam/glosari.md
