@@ -5,24 +5,24 @@
 
 Bab 1: Bahasa dan hak cipta
 
-* 1.1. [Bahasa Melayu piawai][211]
-* 1.2. [Sumber kata masukan][212]
-* 1.3. [Hak cipta tidak terpelihara][213]
-* 1.4. [Lesen sumber terbuka][214]
+11. [Bahasa Melayu piawai][211]
+12. [Sumber kata masukan][212]
+13. [Hak cipta tidak terpelihara][213]
+14. [Lesen sumber terbuka][214]
 
 Bab 2: Pilihan terjemah
 
-* 2.1. [Asas penyediaan takrif][221]
-* 2.2. [Takrif bahasa asal dan bahasa terjemah][222]
-* 2.3. [Satu atau dua salinan terjemah][223]
-* 2.4. [Penggunaan kamus][224]
+21. [Asas penyediaan takrif][221]
+22. [Takrif bahasa asal dan bahasa terjemah][222]
+23. [Satu atau dua salinan terjemah][223]
+24. [Penggunaan kamus][224]
 
 Bab 3: Daftar baharu
 
-* 3.1. [Mencipta helai daftar][231]
-* 3.2. [Penggunaan baris][232]
-* 3.3. [Penggunaan lajur][233]
-* 3.4. [Contoh daftar][234]
+31. [Mencipta helai daftar][231]
+32. [Penggunaan baris][232]
+33. [Penggunaan lajur][233]
+34. [Contoh daftar][234]
 
 Bab 4: Daftar sedia dan siap
 
