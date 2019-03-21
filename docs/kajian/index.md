@@ -21,5 +21,5 @@ laman: [utama][0] - **kajian** - [panduan][2] - [terbitan][3]
   [3]: ../terbitan/index.md
   [11]: rinci.md
   [12]: hurai/pekata.md
-  [101]: hasil/psat.md
-  [102]: hasil/katakerap.md
+  [101]: himpun/psat.md
+  [102]: himpun/katakerap.md
