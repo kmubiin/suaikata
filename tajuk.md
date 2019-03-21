@@ -1,3 +1,29 @@
+## Senarai kajian
+
+### Soal A: Latar belakang
+
+* Kajian rinci pembangun daftar
+* Perihal kata masukan
+* Perihal sumber dan etimologi
+
+### Soal B: Himpunan daftar
+
+1. PSAT
+2. Kata Kerap
+
+---
+
+## Senarai panduan
+
+### Bab 1: Bahasa dan hak cipta
+
+11. Bahasa Melayu piawai
+12. Sumber kata masukan
+13. Hak cipta tidak terpelihara
+14. Lesen sumber terbuka
+
+---
+
 ## Senarai terbitan
 
 ### Jilid A: Terbitan semasa
@@ -9,6 +35,8 @@
 * Terbitan 1.0
 * Terbitan imbuh 1.1.0
 * ...
+
+---
 
 # tajuk aras 1
 
