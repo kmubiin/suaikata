@@ -3,6 +3,10 @@
 
 ## Senarai terbitan
 
+Jilid A: Terbitan semasa
+
+Jilid B: Terbitan terdahulu
+
 * [Terbitan 1.0][301]
 * [Terbitan imbuh 1.1.0][302]
 * [Terbitan imbuh 1.2.0][303]
