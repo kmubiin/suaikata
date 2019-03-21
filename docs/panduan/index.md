@@ -3,32 +3,32 @@
 
 ## Senarai panduan
 
-Bab 1: Bahasa dan hak cipta
+### Bab 1: Bahasa dan hak cipta
 
 11. [Bahasa Melayu piawai][211]
 12. [Sumber kata masukan][212]
 13. [Hak cipta tidak terpelihara][213]
 14. [Lesen sumber terbuka][214]
 
-Bab 2: Pilihan terjemah
+### Bab 2: Pilihan terjemah
 
 21. [Asas penyediaan takrif][221]
 22. [Takrif bahasa asal dan bahasa terjemah][222]
 23. [Satu atau dua salinan terjemah][223]
 24. [Penggunaan kamus][224]
 
-Bab 3: Daftar baharu
+### Bab 3: Daftar baharu
 
 31. [Mencipta helai daftar][231]
 32. [Penggunaan baris][232]
 33. [Penggunaan lajur][233]
 34. [Contoh daftar][234]
 
-Bab 4: Daftar sedia dan siap
+### Bab 4: Daftar sedia dan siap
 
-Bab 5: Pengguna daftar
+### Bab 5: Pengguna daftar
 
-Lampiran
+### Lampiran
 
 * Senarai istilah dalam projek: [Glosari][291]
 
