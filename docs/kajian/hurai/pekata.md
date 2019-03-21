@@ -1,7 +1,7 @@
 ---
 ---
 
-### Senarai huraian
+### Perihal kata masukan
 
 * [abstract](kata/abstract.md)
 * blithe
