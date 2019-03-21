@@ -3,16 +3,16 @@
 
 ## Senarai kajian
 
-Latar belakang
+Soal A: Latar belakang
 
 * [Kajian rinci pembangun daftar][11]
 * [Perihal kata masukan][12]
 * Perihal sumber dan etimologi
 
-Himpunan daftar
+Soal B: Himpunan daftar
 
-* [PSAT][101]
-* [Kata Kerap][102]
+1. [PSAT][101]
+2. [Kata Kerap][102]
 
 laman: [utama][0] - **kajian** - [panduan][2] - [terbitan][3]
 
