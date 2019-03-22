@@ -28,9 +28,9 @@
 
 ### Bab 5: Pengguna daftar
 
-### Lampiran
+### Nota dan rujukan
 
-* Senarai istilah dalam projek: [Glosari][291]
+* [Glosari][291]
 
 laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
 
@@ -49,4 +49,4 @@ laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
   [232]: bab/baris.md
   [233]: bab/lajur.md
   [234]: bab/contoh.md
-  [291]: lam/glosari.md
+  [291]: ruj/glosari.md
