@@ -26,3 +26,7 @@ Daftar dwibahasa yang menggunakan tiga lajur:
 
 Rancangan awal projek telah memutuskan lajur tambahan untuk
 makna tidak diperlukan.
+
+laman kembali: [cipta][0]
+
+  [0]: cipta.md
