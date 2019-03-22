@@ -22,7 +22,7 @@ laman: [utama][0] - [kajian][1] - [panduan][2] - **terbitan**
   [0]: ../index.md
   [1]: ../kajian/index.md
   [2]: ../panduan/index.md
-  [31]: 1.3.0.md "belum selesai"
+  [31]: 1.3.0.md
   [301]: 1.0.md
   [302]: 1.1.0.md
   [303]: 1.2.0.md
