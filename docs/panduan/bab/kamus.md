@@ -35,31 +35,28 @@ kemudahan ini boleh menjadi satu kebetulan atau satu
 kesalahan jika takrif tersebut diambil bulat-bulat tanpa
 menguasai bahasa asal.
 
-Misalnya, takrif perkataan 'transparent' dalam bahasa
-terjemah:
+Misalnya, bandingkan takrif dalam bahasa terjemah dan
+takrif dalam bahasa asal:
 
-> **transparent** *a.* lut sinar
+> transparent *a.* lut sinar
 >
-> Sumber: Kamus Dwibahasa Oxford Fajar, Edisi Kedua (1997)
+> Sumber terjemah: Kamus Dwibahasa Oxford Fajar,
+> Edisi Kedua (1997)
 
-> **transparent** *adj* lut sinar; jernih
+> transparent *adj* lut sinar; jernih
 >
-> Sumber: New Oxford English-English-Malay Dictionary
-> Oxford Fajar, Edisi Semakan (2004)
+> Sumber terjemah: New Oxford English-English-Malay
+> Dictionary Oxford Fajar, Edisi Semakan (2004)
 
-Dan takrif perkataan 'transparent' dalam bahasa asal:
-
-> **transparent** *adj* able to be seen through, clear;
+> transparent *adj* able to be seen through, clear;
 > easily understood or recognized
 >
 > Sumber: Collins Gem Dictionary English (2012)
 
-> **transparent**
+> transparent Adjective
 >
 > 1. (of a material or object) See-through, clear
->
 > 2. (of a system or organization) Open, public
->
 > 3. Obvious; readily apparent; easy to see or understand
 >
 > Sumber: [transparent di Wiktionary][a]
@@ -69,17 +66,17 @@ takrif perkataan 'transparent' sebenarnya tidak terhad pada
 makna 'lut sinar' atau 'jernih' semata-mata.
 
 Penutur bahasa yang menguasai bahasa asal dengan baik boleh
-mengenal pasti kebetulan dan kesalahan sesuatu takrif.
-
-Oleh itu, kamus dwibahasa harus dianggap sebagai bukan
-rujukan utama tetapi rujukan sampingan untuk perbandingan
-takrif. Lihat [contoh perbandingan takrif][1].
+mengenal pasti kebetulan dan kesalahan sesuatu takrif. Oleh
+itu, kamus dwibahasa harus dianggap sebagai *bukan* rujukan
+utama tetapi rujukan sampingan untuk perbandingan takrif.
 
 Laman ini adalah berdasarkan teks daripada komen dalam
 [isu #10][b] di GitHub Issues, kecuali perincian jenis
 kamus telah ditambah dan penerangan masalah kamus dwibahasa
 digantikan dengan misalan perbandingan takrif.
 
-  [1]: takrif.md
+laman kembali: [panduan][0]
+
+  [0]: ../index.md
   [a]: https://en.wiktionary.org/wiki/transparent
   [b]: https://github.com/kmubiin/suaikata/issues/10

@@ -3,17 +3,23 @@
 
 ## Senarai kajian
 
-* [Kajian perintis][101]
-* [Kajian daftar PSAT][102]
-    - [Ulasan M untuk daftar PSAT][102M]
-* [Kajian daftar Kata Kerap][103]
+### Soal A: Latar belakang
+
+* [Kajian rinci pembangun daftar][11]
+* [Perihal kata masukan][12]
+* Perihal sumber dan etimologi
+
+### Soal B: Himpunan daftar
+
+1. [PSAT][101]
+2. [Kata Kerap][102]
 
 laman: [utama][0] - **kajian** - [panduan][2] - [terbitan][3]
 
   [0]: ../index.md
   [2]: ../panduan/index.md
   [3]: ../terbitan/index.md
-  [101]: perintis.md
-  [102]: hasil/psat.md
-  [102M]: hurai/psat.m.md
-  [103]: hasil/katakerap.md
+  [11]: rinci.md
+  [12]: hurai/pekata.md
+  [101]: himpun/psat.md
+  [102]: himpun/katakerap.md

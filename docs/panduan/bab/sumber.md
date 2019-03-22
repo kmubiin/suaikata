@@ -13,18 +13,18 @@ masukan. Ada tiga ciri sumber yang disarankan:
 Ciri 1 bermaksud kata masukan sudah dikumpul dan ada dalam
 bentuk senarai. Boleh juga mengumpul kata masukan sendiri,
 tetapi bermula dengan senarai kosong akan mengambil masa
-lebih lama berbanding bermula dengan senarai sedia ada.
+lebih lama berbanding **bermula dengan senarai sedia ada**.
 
 Ciri 2 bermaksud kata masukan tidak disertakan dengan makna
 dalam senarai yang sama. Jika disertakan bersama makna,
 abaikan makna dan senaraikan kata masukan sahaja. Senarai
-tanpa makna adalah [hak cipta tidak terpelihara][1].
+tanpa makna adalah **hak cipta tidak terpelihara**.
 
-Ciri 3 bermaksud kata masukan menggunakan perkataan yang
-mematuhi peraturan bahasa dan ejaan terbaharu. Untuk bahasa
-pengantar, gunakan [bahasa Melayu piawai][2]. Untuk bahasa
-asal selain bahasa Melayu, peraturan bahasa dan ejaan harus
-dipelihara dan dikekalkan mengikut sumber.
+Ciri 3 bermaksud kata masukan mematuhi peraturan bahasa dan
+ejaan terbaharu. Untuk bahasa pengantar, gunakan
+**bahasa Melayu piawai**. Untuk bahasa asal selain bahasa
+Melayu, peraturan bahasa dan ejaan harus dipelihara dan
+dikekalkan mengikut sumber.
 
 Jika kata masukan didapati menggunakan ejaan bahasa Inggeris
 versi Amerika, maka ejaan tersebut harus dikekalkan seperti
@@ -60,8 +60,9 @@ Laman ini adalah berdasarkan teks daripada komen dalam
 [isu #7][e] di GitHub Issues, kecuali sebahagian teks telah
 disemak dan ditulis semula untuk penjelasan.
 
-  [1]: hak-cipta.md
-  [2]: piawai.md
+laman kembali: [panduan][0]
+
+  [0]: ../index.md
   [a]: https://duckduckgo.com/
   [b]: https://simple.wiktionary.org/wiki/Category:Wordlists
   [c]: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists

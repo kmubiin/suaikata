@@ -3,45 +3,50 @@
 
 ## Senarai panduan
 
-Perihal bahasa, kata masukan dan takrif:
+### Bab 1: Bahasa dan hak cipta
 
-* [Pengetahuan asas][201]
-* [Penggunaan kamus][202]
-* [Bahasa Melayu piawai][203]
-* [Sumber kata masukan][204]
-* [Takrif bahasa asal dan bahasa terjemah][205]
+11. [Bahasa Melayu piawai][211]
+12. [Sumber kata masukan][212]
+13. [Hak cipta tidak terpelihara][213]
+14. [Lesen sumber terbuka][214]
 
-Perihal daftar dan helaian rebak (spreadsheet):
+### Bab 2: Pilihan terjemah
 
-* [Contoh daftar][211]
-* [Mengenali kejadian][212]
-* [Penggunaan lajur][213]
-* [Penggunaan tanda][214]
-* [Penggunaan warna][215]
-* [Mencipta helai daftar][216]
-* [Penggunaan baris][217]
+21. [Asas penyediaan takrif][221]
+22. [Takrif bahasa asal dan bahasa terjemah][222]
+23. [Satu atau dua salinan terjemah][223]
+24. [Penggunaan kamus][224]
 
-Perihal hak cipta dan lesen:
+### Bab 3: Daftar baharu
 
-* [Hak cipta tidak terpelihara][221]
-* [Lesen sumber terbuka][222]
+31. [Mencipta helai daftar][231]
+32. [Penggunaan baris][232]
+33. [Penggunaan lajur][233]
+34. [Contoh daftar][234]
+
+### Bab 4: Daftar sedia dan siap
+
+### Bab 5: Pengguna daftar
+
+### Nota dan rujukan
+
+* [Glosari][291]
 
 laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
 
   [0]: ../index.md
   [1]: ../kajian/index.md
   [3]: ../terbitan/index.md
-  [201]: asas.md
-  [202]: kamus.md
-  [203]: piawai.md
-  [204]: sumber.md
-  [205]: takrif.md
-  [211]: contoh.md
-  [212]: kejadian.md
-  [213]: lajur.md
-  [214]: tanda.md
-  [215]: warna.md
-  [216]: helai.md
-  [217]: baris.md
-  [221]: hak-cipta.md
-  [222]: lesen.md
+  [211]: bab/piawai.md
+  [212]: bab/sumber.md
+  [213]: bab/hak-cipta.md
+  [214]: bab/lesen.md
+  [221]: bab/asas.md
+  [222]: bab/takrif.md
+  [223]: bab/salinan.md
+  [224]: bab/kamus.md
+  [231]: bab/helai.md
+  [232]: bab/baris.md
+  [233]: bab/lajur.md
+  [234]: bab/contoh.md
+  [291]: ruj/glosari.md

@@ -83,5 +83,8 @@ Laman ini adalah berdasarkan teks daripada komen dalam
 [isu #17][b] di GitHub Issues, kecuali sebahagian teks telah
 disemak dan ditulis semula untuk penjelasan.
 
+laman kembali: [panduan][0]
+
+  [0]: ../index.md
   [a]: https://ms.wikipedia.org/wiki/Teks_biasa
   [b]: https://github.com/kmubiin/suaikata/issues/17

@@ -16,21 +16,20 @@ Berikut adalah ciri-ciri salinan terjemah untuk diteliti:
 4. Ejaan atau golongan kata adalah tidak betul
 5. Seluruh terjemah tidak pasti betul atau salah
 
-Dan berikut adalah penerangan ringkas sama ada wajar atau
-tidak bagi setiap ciri tersebut:
+Dan berikut adalah jawapan ringkas sama ada wajar atau tidak
+wajar ada salinan terjemah bagi setiap ciri tersebut:
 
-1. Wajar. Ciri ini adalah biasa, dan dua salinan terjemah
-akan membantu bagi pilihan terjemah yang lebih sesuai.
-2. Wajar, jika ada bukti sokongan. Sertakan misal ayat yang
-menunjukkan terjemah itu ada kegunaan umum.
-3. Tidak wajar. Takrif lama (archaic) adalah terjemah lapuk
-dan sudah dikenal pasti oleh kamus tersedia; lupakan takrif
-lama dan utamakan takrif semasa.
-4. Tidak wajar. Betulkan terus kesalahan ejaan atau golongan
-kata di ruang terjemah itu; lebih baik disertakan bersama
-komen sebelum atau selepas membuat suntingan.
-5. Wajar. Sama seperti ciri 1, berikan satu lagi terjemah
-yang lebih pasti bagi pilihan terjemah yang lebih sesuai.
+1. **Wajar**. Ciri ini adalah biasa; beberapa salinan
+terjemah mampu memberi pilihan terjemah yang lebih sesuai.
+2. **Wajar, jika ada bukti sokongan**. Sertakan misal ayat
+yang menunjukkan terjemah itu ada kegunaan umum.
+3. **Tidak wajar**. Takrif lama (archaic) adalah terjemah
+lapuk dan sudah dikenal pasti oleh kamus tersedia; lupakan
+takrif lama dan utamakan takrif semasa.
+4. **Tidak wajar**. Betulkan terus kesalahan ejaan atau
+golongan kata di ruang terjemah itu; lebih baik disertakan
+bersama komen sebelum atau selepas membuat suntingan.
+5. **Wajar**. Sama seperti ciri 1.
 
 Antara kesemua ciri di atas, ciri 4 memerlukan perhatian
 kerana melibatkan kesalahan ejaan atau golongan kata (kata
@@ -38,9 +37,11 @@ nama, kata kerja, kata adjektif, kata tugas) apabila
 terjemah dibuat. Sebagai contoh, perkataan 'pessimism' ada
 makna asal, makna salah dan makna betul seperti berikut.
 
-* Makna asal: n. tendency to expect the worst in all things
-* Makna salah: sering berfikir buruk
-* Makna betul: keadaan sering berfikir buruk
+> pessimism: n. tendency to expect the worst in all things
+>
+> **X - Salah**: sering berfikir buruk
+>
+> **O - Betul**: keadaan sering berfikir buruk
 
 Apabila dibaca sepintas lalu, mungkin tidak ada perbezaan
 ketara antara makna salah dan makna betul. Hakikatnya,
@@ -51,4 +52,7 @@ Laman ini adalah berdasarkan teks daripada komen dalam
 [isu #14][a] di GitHub Issues, kecuali sebahagian teks telah
 disemak dan disusun semula untuk penjelasan.
 
+laman kembali: [panduan][0]
+
+  [0]: ../index.md
   [a]: https://github.com/kmubiin/suaikata/issues/14

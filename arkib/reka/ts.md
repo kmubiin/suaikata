@@ -1,6 +1,3 @@
----
----
-
 ### Tanda soal
 
 Tanda soal memberi satu cara untuk menyelesaikan selisih
@@ -14,28 +11,28 @@ mungkin" seperti yang ditunjukkan di bawah.
 
 Keadaan selisih:
 
-| inggeris | ... | di | terjemah M | terjemah A |
-| -------- | --- | -- | ---------- | ---------- |
-| repudiate | ... | X2 | menafikan | membantah |
+| inggeris  | ... | di | terjemah M | terjemah A |
+| --------- | --- | -- | ---------- | ---------- |
+| repudiate | ... | X2 | menafikan  | membantah  |
 
 Keadaan mungkin M:
 
-| inggeris | ... | di | terjemah M | terjemah A |
-| -------- | --- | -- | ---------- | ---------- |
-| repudiate | ... | X1 | ?menafikan | membantah |
+| inggeris  | ... | di | terjemah M | terjemah A |
+| --------- | --- | -- | ---------- | ---------- |
+| repudiate | ... | X1 | ?menafikan | membantah  |
 
 Keadaan mungkin A:
 
-| inggeris | ... | di | terjemah M | terjemah A |
-| -------- | --- | -- | ---------- | ---------- |
-| repudiate | ... | X1 | menafikan | ?membantah |
+| inggeris  | ... | di | terjemah M | terjemah A |
+| --------- | --- | -- | ---------- | ---------- |
+| repudiate | ... | X1 | menafikan  | ?membantah |
 
 Mana-mana "keadaan mungkin" menukarkan tanda 'X2' kepada
 'X1' apabila salah satu terjemah diabai. Keadaan sedemikian
 boleh berlaku apabila tidak pasti terjemah mana yang paling
 baik maka, pilih dahulu salah satu terjemah.
 
-Formula dalam helaian rebak telah ditulis untuk menguji sama
+Rumus dalam helaian rebak telah ditulis untuk menguji sama
 ada tanda soal `?` didapati pada huruf pertama di ruang
 terjemah atau tidak. Apa-apa huruf selepas itu tidak
 menjejaskan pemilihan.
@@ -52,9 +49,9 @@ dengan tanda pagar `#` untuk menetapkan pilihan terjemah.
 
 Keadaan selesai:
 
-| inggeris | ... | di | terjemah M | terjemah A |
-| -------- | --- | -- | ---------- | ---------- |
-| repudiate | ... | A+ | #menafikan | membantah |
+| inggeris  | ... | di | terjemah M | terjemah A |
+| --------- | --- | -- | ---------- | ---------- |
+| repudiate | ... | A+ | #menafikan | membantah  |
 
 Tanda pagar akan mengubah tanda 'X1' kepada 'A+' (bergantung
 pada "keadaan mungkin" sebelum ini), maka "keadaan selesai".
