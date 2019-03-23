@@ -67,13 +67,11 @@ takrif yang paling masuk akal.
 M berpendapat ada terjemah yang lebih sesuai untuk istilah
 komputer 'suspend':
 
-* tangguh (yakni hentikan tugas buat sementara
-waktu) atau;
+* tangguh (yakni hentikan tugas buat sementara waktu) atau;
 
-* tidurkan (yakni rujukan langsung untuk istilah
-komputer yang lebih umum '[sleep mode][a]' yang merangkumi
-semua jenis arahan tidur termasuk 'suspend', 'hibernate',
-'hybrid sleep')
+* tidurkan (yakni rujukan langsung untuk istilah komputer
+yang lebih umum 'sleep mode' yang merangkumi semua jenis
+arahan tidur: 'suspend', 'hibernate', 'hybrid sleep')
 
 Kesimpulannya, pilihan terjemah yang "betul" untuk istilah
 komputer 'suspend' ialah 'gantung' melainkan ada bukti lain
@@ -82,4 +80,3 @@ yang menyokong terjemah lain yang lebih sesuai.
 laman kembali: [pekata][0]
 
   [0]: ../pekata.md
-  [a]: https://en.wikipedia.org/wiki/Sleep_mode
