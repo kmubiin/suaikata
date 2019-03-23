@@ -14,11 +14,11 @@ Ada tiga ciri penting untuk bahasa Melayu piawai:
 kosa kata Melayu yang berbeza ejaan. Setiap makna yang
 pertama mesti mematuhi perkara ini.
 
-    > **X - Salah**: component: 1. komponen dalam litar;
-    > 2. bahagian
+    > component
     >
-    > **O - Betul**: component: 1. bahagian;
-    > 2. komponen dalam litar
+    > **X - Salah**: 1. komponen dalam litar; 2. bahagian
+    >
+    > **O - Betul**: 1. bahagian; 2. komponen dalam litar
 
 2. Gunakan ejaan penuh dan bukan singkatan.
 
@@ -30,9 +30,11 @@ pertama mesti mematuhi perkara ini.
 bukan percakapan, sekalipun dengan tujuan mencadangkan kosa
 kata mudah dan biasa digunakan.
 
-    > **X - Salah**: random: hentam saja (bahasa percakapan)
+    > random
     >
-    > **O - Betul**: random: sembarangan
+    > **X - Salah**: hentam saja (bahasa percakapan)
+    >
+    > **O - Betul**: sembarangan
 
 Secara tidak langsung, bahasa Melayu piawai adalah bahasa
 Melayu yang diiktiraf oleh pihak pemantau bahasa serta yang

@@ -60,11 +60,11 @@ riwayat
 Kemudian, bandingkan setiap kata itu dengan takrif dalam
 bahasa asal.
 
-> * chronicle ?= catatan sejarah
-> * chronicle ?= kisah
-> * chronicle ?= cerita
-> * chronicle ?= rentetan peristiwa
-> * chronicle ?= riwayat
+* chronicle ?= catatan sejarah
+* chronicle ?= kisah
+* chronicle ?= cerita
+* chronicle ?= rentetan peristiwa
+* chronicle ?= riwayat
 
 Kata masukan Melayu yang paling sesuai akan dipilih,
 sebaiknya melalui semakan dengan sumber rujukan rasmi dan

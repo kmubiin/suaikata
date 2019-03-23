@@ -10,11 +10,11 @@ kata lain, daftar tersebut adalah data sumber terbuka.
 
 Sumber terbuka merangkumi dua jenis sumber:
 
-1. Atur cara (perisian, perkakasan)
-2. Bukan atur cara (data, kandungan)
+1. Atur cara
+2. Bukan atur cara
 
 Setiap jenis sumber mempunyai kod sumber yang akan membentuk
-sama ada perisian, perkakasan, data atau kandungan. Untuk
+perisian dan perkakasan, atau data dan kandungan. Untuk
 projek suaikata, kod sumber merujuk pada daftar kosa kata
 atau seluruh kandungan yang ada dalam repositori.
 

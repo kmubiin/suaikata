@@ -53,7 +53,7 @@ takrif dalam bahasa asal:
 >
 > Sumber: Collins Gem Dictionary English (2012)
 
-> transparent Adjective
+> transparent *Adjective*
 >
 > 1. (of a material or object) See-through, clear
 > 2. (of a system or organization) Open, public

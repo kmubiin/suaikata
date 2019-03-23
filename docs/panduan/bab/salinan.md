@@ -37,7 +37,7 @@ nama, kata kerja, kata adjektif, kata tugas) apabila
 terjemah dibuat. Sebagai contoh, perkataan 'pessimism' ada
 makna asal, makna salah dan makna betul seperti berikut.
 
-> pessimism: n. tendency to expect the worst in all things
+> pessimism *n.* tendency to expect the worst in all things
 >
 > **X - Salah**: sering berfikir buruk
 >

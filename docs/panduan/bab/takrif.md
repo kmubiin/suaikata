@@ -13,41 +13,41 @@ kamus dwibahasa.
 
 Takrif dalam bahasa asal:
 
-1. Kamus ekabahasa Inggeris (versi buku, 2012):
+> accessible *adj.* easy to reach
+>
+> Sumber: Kamus ekabahasa Inggeris (versi buku, 2012)
 
-    > adj. easy to reach
-
-2. Kamus ekabahasa Inggeris (versi dalam talian):
-
-    > adjective
-    >
-    > 1. easy to approach, enter, use, or understand
-    > 2. accessible to
-    > 3. obtainable; available
-    > 4. easy for disabled people to enter or use
-    >    ...
+> accessible *adjective*
+>
+> 1. easy to approach, enter, use, or understand
+> 2. accessible to
+> 3. obtainable; available
+> 4. easy for disabled people to enter or use
+>    ...
+>
+> Sumber: Kamus ekabahasa Inggeris (versi dalam talian)
 
 Takrif dalam bahasa terjemah:
 
-1. Kamus dwibahasa Inggeris-Melayu (1996):
+> accessible - boleh dilalui.
+>
+> Sumber: Kamus dwibahasa Inggeris-Melayu (1996)
 
-    > boleh dilalui.
+> accessible *a.* dapat diperoleh.
+>
+> Sumber: Kamus dwibahasa Inggeris-Melayu (1997)
 
-2. Kamus dwibahasa Inggeris-Melayu (1997):
+> accessible *adj* yang dapat ditempuhi, digunakan;
+> dokumen yang tidak boleh dilihat [...]
+>
+> Sumber: Kamus dwibahasa Inggeris-Melayu (2000)
 
-    > a. dapat diperoleh.
-
-3. Kamus dwibahasa Inggeris-Melayu (2000):
-
-    > adj yang dapat ditempuhi, digunakan;
-    > dokumen yang tidak boleh dilihat [...]
-
-4. Kamus dwibahasa Inggeris-Inggeris-Melayu (2004):
-
-    > adj
-    >
-    > 1. boleh sampai (ke situ); dapat didatangi
-    > 2. mudah didapati, digunakan atau difahami
+> accessible *adj*
+>
+> 1. boleh sampai (ke situ); dapat didatangi
+> 2. mudah didapati, digunakan atau difahami
+>
+> Sumber: Kamus dwibahasa Inggeris-Inggeris-Melayu (2004)
 
 Berdasarkan perbandingan takrif di atas, takrif dalam
 bahasa terjemah yang disediakan oleh projek suaikata untuk
@@ -82,7 +82,9 @@ menengah pernah berdepan ialah perkataan 'kosa kata'.
 
 3. Buat carian di web - hasilnya 'tangkapan layar'. Jika
 tiada terjemahan ke bahasa Melayu boleh pilih yang
-Indonesia. Pastikan terjemahan boleh difahami.
+Indonesia.
+
+Pastikan terjemahan boleh difahami.
 
 Laman ini adalah berdasarkan teks daripada komen dalam
 [isu #10][a] dan [isu #11][b] di GitHub Issues, kecuali
