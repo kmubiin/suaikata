@@ -12,7 +12,7 @@ berbeza.
 > dibaca sebagai bahan teks tanpa banyak pemprosesan,
 > berbanding dengan teks berformat dan fail perduaan
 >
-> Sumber: [Teks biasa di Wikipedia Bahasa Melayu][a]
+> Sumber: Wikipedia Bahasa Melayu
 
 Baris penamat berserta penggunaan di platform umum adalah
 seperti berikut:
@@ -79,12 +79,6 @@ bilangan baris yang betul (23020).
 
 Maka, baris penamat **LF** atau **CRLF** harus digunakan.
 
-Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #17][b] di GitHub Issues, kecuali sebahagian teks telah
-disemak dan ditulis semula untuk penjelasan.
-
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [a]: https://ms.wikipedia.org/wiki/Teks_biasa
-  [b]: https://github.com/kmubiin/suaikata/issues/17

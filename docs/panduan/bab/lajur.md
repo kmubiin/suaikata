@@ -39,10 +39,6 @@ sebagai fail baru sebelum diterbit di laman sumber projek.
 cara kerja percubaan dan terhad untuk kegunaan dua ahli
 projek. Perlu fikirkan cara kerja lain untuk kegunaan ramai.
 
-Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #9][a].
-
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [a]: https://github.com/kmubiin/suaikata/issues/9

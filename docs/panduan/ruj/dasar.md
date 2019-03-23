@@ -37,7 +37,9 @@ daftar. Bab ini menerangkan semula bagaimana helai daftar
 harus disediakan untuk cara kerja berkumpulan dan disimpan
 dalam format mudah alih.
 
-* (senarai dasar bab 3)
+* [Penyediaan helaian rebak #9][#9]
+* [Teks biasa][i] - Wikipedia Bahasa Melayu
+* [Pengaruh baris penamat untuk teks biasa #17][#17]
 
 **Bab 4: Daftar sedia dan siap** belum disediakan.
 
@@ -62,7 +64,10 @@ laman kembali: [panduan][0]
   [f]: https://creativecommons.org/licenses/by/4.0/
   [g]: https://en.wiktionary.org/wiki/chronicle
   [h]: https://en.wiktionary.org/wiki/transparent
+  [i]: https://ms.wikipedia.org/wiki/Teks_biasa
   [#7]: https://github.com/kmubiin/suaikata/issues/7
+  [#9]: https://github.com/kmubiin/suaikata/issues/9
   [#10]: https://github.com/kmubiin/suaikata/issues/10
   [#11]: https://github.com/kmubiin/suaikata/issues/11
   [#14]: https://github.com/kmubiin/suaikata/issues/14
+  [#17]: https://github.com/kmubiin/suaikata/issues/17
