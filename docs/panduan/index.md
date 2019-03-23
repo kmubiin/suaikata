@@ -31,6 +31,7 @@
 ### Nota dan rujukan
 
 * [Glosari][291]
+* [Dasar panduan][292]
 
 laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
 
@@ -50,3 +51,4 @@ laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
   [233]: bab/baris.md
   [234]: bab/contoh.md
   [291]: ruj/glosari.md
+  [292]: ruj/dasar.md
