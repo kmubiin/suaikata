@@ -40,6 +40,8 @@ dalam format mudah alih.
 * [Penyediaan helaian rebak #9][#9]
 * [Teks biasa][i] - Wikipedia Bahasa Melayu
 * [Pengaruh baris penamat untuk teks biasa #17][#17]
+* [Google Sheets][j] - perisian web Google
+* [Microsoft Excel Online][k] - perisian web Microsoft
 
 **Bab 4: Daftar sedia dan siap** belum disediakan.
 
@@ -73,6 +75,8 @@ laman kembali: [panduan][0]
   [g]: https://en.wiktionary.org/wiki/chronicle
   [h]: https://en.wiktionary.org/wiki/transparent
   [i]: https://ms.wikipedia.org/wiki/Teks_biasa
+  [j]: https://docs.google.com/spreadsheets/
+  [k]: https://office.live.com/start/Excel.aspx
   [#7]: https://github.com/kmubiin/suaikata/issues/7
   [#9]: https://github.com/kmubiin/suaikata/issues/9
   [#10]: https://github.com/kmubiin/suaikata/issues/10

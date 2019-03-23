@@ -20,11 +20,10 @@ perisian komputer atau perisian web yang ada fungsi komen
 dan suntingan pengguna ramai. Misalnya, helai daftar pertama
 untuk projek suaikata disedia menggunakan Google Sheets.
 
-[Google Sheets][a] dan [Microsoft Excel Online][b]
-adalah perisian komputer dalam talian untuk mencipta dan
-menyunting helaian rebak. Kedua-dua perisian boleh digunakan
-secara percuma oleh pengguna e-mel yang berdaftar dengan
-Google atau Microsoft.
+**Google Sheets** dan **Microsoft Excel Online** adalah
+perisian web untuk mencipta dan menyunting helaian rebak.
+Kedua-dua perisian boleh digunakan secara percuma oleh
+pengguna e-mel yang berdaftar dengan Google atau Microsoft.
 
 Setiap helaian mengandungi sel-sel berpetak di sepanjang
 lajur dan baris yang tidak terhingga banyaknya. Setiap sel
@@ -54,5 +53,3 @@ perisian komputer yang lazim.
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [a]: https://docs.google.com/spreadsheets/
-  [b]: https://office.live.com/start/Excel.aspx
