@@ -16,3 +16,7 @@
 * subdued
 * [suspend](kata/suspend.md)
 * synthesis
+
+laman kembali: [kajian][0]
+
+  [0]: ../index.md

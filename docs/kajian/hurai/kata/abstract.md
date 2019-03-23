@@ -80,3 +80,7 @@ Perkataan 'niskala' boleh ditemui dalam judul buku-buku
 bahasa Melayu dan juga di Wikipedia bahasa Melayu.
 
 Contoh: algebra niskala, data niskala, dunia niskala
+
+laman kembali: [pekata][0]
+
+  [0]: ../pekata.md

@@ -79,4 +79,7 @@ Kesimpulannya, pilihan terjemah yang "betul" untuk istilah
 komputer 'suspend' ialah 'gantung' melainkan ada bukti lain
 yang menyokong terjemah lain yang lebih sesuai.
 
+laman kembali: [pekata][0]
+
+  [0]: ../pekata.md
   [a]: https://en.wikipedia.org/wiki/Sleep_mode

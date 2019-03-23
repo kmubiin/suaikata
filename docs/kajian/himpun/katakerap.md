@@ -20,3 +20,7 @@
 | Bilangan     | Asal    | Semasa  |
 | ------------ | -------:| -------:|
 | kata masukan | 0       | 23020   |
+
+laman kembali: [kajian][0]
+
+  [0]: ../index.md
