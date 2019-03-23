@@ -20,8 +20,8 @@
 ### Bab 3: Daftar baharu
 
 31. [Mencipta helai daftar][231]
-32. [Penggunaan baris][232]
-33. [Penggunaan lajur][233]
+32. [Penggunaan lajur][232]
+33. [Penggunaan baris][233]
 34. [Contoh daftar][234]
 
 ### Bab 4: Daftar sedia dan siap
@@ -46,7 +46,7 @@ laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
   [223]: bab/salinan.md
   [224]: bab/kamus.md
   [231]: bab/helai.md
-  [232]: bab/baris.md
-  [233]: bab/lajur.md
+  [232]: bab/lajur.md
+  [233]: bab/baris.md
   [234]: bab/contoh.md
   [291]: ruj/glosari.md
