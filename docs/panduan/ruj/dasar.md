@@ -9,7 +9,15 @@ terpelihara, dan lesen sumber terbuka. Bab ini sangat
 mencontohi garis panduan wiki dan saranan bebas untuk
 memulakan projek sebagai sumber terbuka.
 
-* (senarai dasar bab 1)
+* [Wikipedia:Gunakan bahasa Melayu piawai][a]
+* [Panduan penyediaan takrif #10][#10]
+* [Keterbalikan antara sumber dan bidang kosa kata #7][#7]
+* [What Does Copyright Protect? (FAQ)][b] - U.S. Copyright
+Office
+* [Feist v. Rural][c] - Wikipedia
+* [Choose an open source license][d] - curated by GitHub
+* [Conformant Licenses][e] - Open Definition
+* [CC BY 4.0][f] - Creative Commons
 
 **Bab 2: Pilihan terjemah** merangkumi tajuk asas penyediaan
 takrif Inggeris-Melayu, perbandingan takrif, salinan
@@ -42,3 +50,11 @@ asal sebelum laman panduan dicipta.
 laman kembali: [panduan][0]
 
   [0]: ../index.md
+  [a]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai
+  [b]: https://www.copyright.gov/help/faq/faq-protect.html
+  [c]: https://en.wikipedia.org/wiki/Feist_v._Rural
+  [d]: https://choosealicense.com/
+  [e]: https://opendefinition.org/licenses/
+  [f]: https://creativecommons.org/licenses/by/4.0/
+  [#7]: https://github.com/kmubiin/suaikata/issues/7
+  [#10]: https://github.com/kmubiin/suaikata/issues/10

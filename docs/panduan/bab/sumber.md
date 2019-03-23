@@ -56,10 +56,6 @@ Tuntasnya, sumber kata masukan bermula dengan senarai sedia
 ada atau senarai kosong. Sumber pilihan yang baik adalah
 tanpa makna dan mematuhi piawai.
 
-Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #7][e] di GitHub Issues, kecuali sebahagian teks telah
-disemak dan ditulis semula untuk penjelasan.
-
 laman kembali: [panduan][0]
 
   [0]: ../index.md
@@ -67,4 +63,3 @@ laman kembali: [panduan][0]
   [b]: https://simple.wiktionary.org/wiki/Category:Wordlists
   [c]: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
   [d]: https://ms.wiktionary.org/wiki/Wiktionary:Senarai_perkataan_mengikut_susunan_abjad
-  [e]: https://github.com/kmubiin/suaikata/issues/7
