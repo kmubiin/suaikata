@@ -49,6 +49,14 @@ dalam format mudah alih.
 
 * (senarai dasar bab 5)
 
+**Sumber kata masukan yang sedia ada**, terutama bahasa
+Inggeris dan bahasa Melayu, boleh didapati dengan mudah.
+
+* Cari melalui enjin carian web seperti [DuckDuckGo][1a]
+* [Laman senarai mudah di Simple English Wiktionary][1b]
+* [Laman senarai kerap di English Wiktionary][1c]
+* [Laman senarai perkataan di Wikikamus][1d]
+
 Sebarang pautan yang tersenarai di atas adalah pautan
 luaran, dan sekadar rujukan bagi menyemak semula kandungan
 asal sebelum laman panduan dicipta.
@@ -71,3 +79,7 @@ laman kembali: [panduan][0]
   [#11]: https://github.com/kmubiin/suaikata/issues/11
   [#14]: https://github.com/kmubiin/suaikata/issues/14
   [#17]: https://github.com/kmubiin/suaikata/issues/17
+  [1a]: https://duckduckgo.com/
+  [1b]: https://simple.wiktionary.org/wiki/Category:Wordlists
+  [1c]: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
+  [1d]: https://ms.wiktionary.org/wiki/Wiktionary:Senarai_perkataan_mengikut_susunan_abjad

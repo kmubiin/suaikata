@@ -42,16 +42,6 @@ bersama makna, tempoh perlindungan hak cipta sudah luput dan
 tidak terpelihara untuk domain awam. Dengan itu, ciri 2
 boleh diabai.
 
-Sumber kata masukan yang sedia ada, terutama bahasa Inggeris
-dan bahasa Melayu, boleh didapati dengan mudah:
-
-* Gunakan kata kunci "word list", "senarai kosa kata" atau
-seumpamanya dan cari melalui enjin carian web seperti
-[DuckDuckGo][a]
-* [Laman senarai mudah di Simple English Wiktionary][b]
-* [Laman senarai kerap di English Wiktionary][c]
-* [Laman senarai perkataan di Wikikamus][d]
-
 Tuntasnya, sumber kata masukan bermula dengan senarai sedia
 ada atau senarai kosong. Sumber pilihan yang baik adalah
 tanpa makna dan mematuhi piawai.
@@ -59,7 +49,3 @@ tanpa makna dan mematuhi piawai.
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [a]: https://duckduckgo.com/
-  [b]: https://simple.wiktionary.org/wiki/Category:Wordlists
-  [c]: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
-  [d]: https://ms.wiktionary.org/wiki/Wiktionary:Senarai_perkataan_mengikut_susunan_abjad
