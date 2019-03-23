@@ -25,7 +25,11 @@ terjemah, dan penggunaan kamus. Bab ini menyusun semula
 hasil perbincangan antara dua ahli projek semasa menyiapkan
 daftar pertama.
 
-* (senarai dasar bab 2)
+* [Panduan penyediaan takrif #10][#10]
+* [chronicle][g] - Wiktionary
+* [Soal kesesuaian takrif #11][#11]
+* [Penyelesaian kesulitan terjemah tunggal #14][#14]
+* [transparent][h] - Wiktionary
 
 **Bab 3: Daftar baharu** merangkumi tajuk penyediaan helai
 daftar, penggunaan lajur, penggunaan baris, dan contoh
@@ -56,5 +60,9 @@ laman kembali: [panduan][0]
   [d]: https://choosealicense.com/
   [e]: https://opendefinition.org/licenses/
   [f]: https://creativecommons.org/licenses/by/4.0/
+  [g]: https://en.wiktionary.org/wiki/chronicle
+  [h]: https://en.wiktionary.org/wiki/transparent
   [#7]: https://github.com/kmubiin/suaikata/issues/7
   [#10]: https://github.com/kmubiin/suaikata/issues/10
+  [#11]: https://github.com/kmubiin/suaikata/issues/11
+  [#14]: https://github.com/kmubiin/suaikata/issues/14

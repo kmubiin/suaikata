@@ -59,7 +59,7 @@ takrif dalam bahasa asal:
 > 2. (of a system or organization) Open, public
 > 3. Obvious; readily apparent; easy to see or understand
 >
-> Sumber: [transparent di Wiktionary][a]
+> Sumber: Wiktionary
 
 Apabila perbandingan dibuat untuk takrif tersenarai di atas,
 takrif perkataan 'transparent' sebenarnya tidak terhad pada
@@ -70,13 +70,6 @@ mengenal pasti kebetulan dan kesalahan sesuatu takrif. Oleh
 itu, kamus dwibahasa harus dianggap sebagai *bukan* rujukan
 utama tetapi rujukan sampingan untuk perbandingan takrif.
 
-Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #10][b] di GitHub Issues, kecuali perincian jenis
-kamus telah ditambah dan penerangan masalah kamus dwibahasa
-digantikan dengan misalan perbandingan takrif.
-
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [a]: https://en.wiktionary.org/wiki/transparent
-  [b]: https://github.com/kmubiin/suaikata/issues/10

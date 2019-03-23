@@ -45,7 +45,7 @@ asal.
 > 1. A written account of events and when they happened,
 ordered by time.
 >
-> Sumber: [chronicle di Wiktionary][a]
+> Sumber: Wiktionary
 
 Setelah fahamkan takrif itu, barulah mula mencari kata kunci
 atau kata masukan Melayu yang berkaitan. Setiap kata masukan
@@ -79,12 +79,6 @@ dahulu. Penguasaan bahasa asal mempengaruhi tahap kesesuaian
 takrif yang akan dibawakan oleh penutur bahasa. Ini adalah
 asas penyediaan takrif dalam projek suaikata.
 
-Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #10][b] di GitHub Issues, kecuali perenggan keempat
-dan seterusnya adalah teks baharu.
-
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [a]: https://en.wiktionary.org/wiki/chronicle
-  [b]: https://github.com/kmubiin/suaikata/issues/10

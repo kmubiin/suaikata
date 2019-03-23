@@ -86,12 +86,6 @@ Indonesia.
 
 Pastikan terjemahan boleh difahami.
 
-Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #10][a] dan [isu #11][b] di GitHub Issues, kecuali
-sebahagian teks telah disemak untuk penjelasan.
-
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [a]: https://github.com/kmubiin/suaikata/issues/10
-  [b]: https://github.com/kmubiin/suaikata/issues/11

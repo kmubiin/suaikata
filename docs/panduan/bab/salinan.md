@@ -48,11 +48,6 @@ ketara antara makna salah dan makna betul. Hakikatnya,
 golongan kata bagi makna salah (kata adjektif) adalah tidak
 sama dengan makna asal (kata nama).
 
-Laman ini adalah berdasarkan teks daripada komen dalam
-[isu #14][a] di GitHub Issues, kecuali sebahagian teks telah
-disemak dan disusun semula untuk penjelasan.
-
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [a]: https://github.com/kmubiin/suaikata/issues/14
