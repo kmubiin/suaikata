@@ -7,7 +7,7 @@
 
 * [Kajian rinci pembangun daftar][11]
 * [Perihal kata masukan][12]
-* Perihal sumber dan etimologi
+* [Perihal sumber dan etimologi][13]
 
 ### Soal B: Himpunan daftar
 
@@ -21,5 +21,6 @@ laman: [utama][0] - **kajian** - [panduan][2] - [terbitan][3]
   [3]: ../terbitan/index.md
   [11]: rinci.md
   [12]: hurai/pekata.md
+  [13]: hurai/peseti.md
   [101]: himpun/psat.md
   [102]: himpun/katakerap.md
