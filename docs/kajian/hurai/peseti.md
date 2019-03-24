@@ -3,7 +3,7 @@
 
 ### Perihal sumber dan etimologi
 
-* (senarai sumber dan etimologi)
+* [Wiktionary](seti/wiktionary.md)
 
 laman kembali: [kajian][0]
 
