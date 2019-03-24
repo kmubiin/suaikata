@@ -3,10 +3,6 @@
 
 ### Kajian daftar Kata Kerap
 
-#### Sumber kata masukan
-
-> Tiada maklumat
-
 #### Pembangunan daftar
 
 * Kumpulan daftar: umum

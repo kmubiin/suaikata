@@ -3,15 +3,7 @@
 
 ### Kajian daftar PSAT
 
-#### Sumber kata masukan
-
-* Tajuk: PSAT High Frequency Words
-* Bahasa: Inggeris
-* Tahun: 1980-1999
-* Kata masukan: 267 (termasuk 2 pendua)
-* Pautan: Terabai, lihat sumber di [laman arkib web][a]
-
-#### Butir pembangunan daftar
+#### Pembangunan daftar
 
 * Kumpulan daftar: regu
 * Bahasa daftar: Inggeris-Melayu
@@ -66,4 +58,3 @@ suntingan fail melalui garis perintah Git.
 laman kembali: [kajian][0]
 
   [0]: ../index.md
-  [a]: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
