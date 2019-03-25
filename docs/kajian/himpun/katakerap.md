@@ -3,6 +3,10 @@
 
 ### Kajian daftar Kata Kerap
 
+Daftar Kata Kerap terbitan projek suaikata ialah daftar
+dwibahasa Inggeris-Melayu yang diterjemah daripada senarai
+perkataan Inggeris secara sampingan.
+
 #### Pembangunan daftar
 
 * Kumpulan daftar: umum
