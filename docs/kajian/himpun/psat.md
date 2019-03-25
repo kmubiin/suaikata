@@ -9,6 +9,10 @@ perkataan yang kerap digunakan dalam ujian PSAT. Daftar ini
 adalah daftar pertama yang dibangunkan secara beregu oleh
 dua ahli projek.
 
+#### Tentang PSAT atau SAT
+
+#belum #todo
+
 #### Pembangunan daftar
 
 * Kumpulan daftar: regu
