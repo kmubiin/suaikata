@@ -3,6 +3,12 @@
 
 ### Kajian daftar PSAT
 
+Daftar PSAT terbitan projek suaikata ialah daftar dwibahasa
+Inggeris-Melayu yang diterjemah daripada daftar asal untuk
+perkataan yang kerap digunakan dalam ujian PSAT. Daftar ini
+adalah daftar pertama yang dibangunkan secara beregu oleh
+dua ahli projek.
+
 #### Pembangunan daftar
 
 * Kumpulan daftar: regu
