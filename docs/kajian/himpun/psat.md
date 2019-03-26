@@ -27,10 +27,10 @@ dua ahli projek.
 
 | Bilangan     | Asal    | Semasa  |
 | ------------ | -------:| -------:|
-| kata masukan | 265     | 343     |
-| terjemah X   | 0       | 6       |
-| terjemah M   | 108     | 188     |
-| terjemah A   | 132     | 149     |
+| kata masukan | 265     | 344     |
+| terjemah X   | 0       | 0       |
+| terjemah M   | 109     | 196     |
+| terjemah A   | 130     | 148     |
 
 Penerangan Jadual 1:
 
@@ -48,7 +48,7 @@ kedua-dua lajur akan menjadi sifar.
 
 | Bilangan | Semasa  |
 | -------- | -------:|
-| pendek   | 261     |
+| pendek   | 262     |
 | panjang  | 82      |
 
 Penerangan Jadual 2:
