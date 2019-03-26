@@ -6,7 +6,7 @@
 * [abstract](kata/abstract.md)
 * charlatan
 * didactic
-* immutable
+* [immutable](kata/immutable.md)
 * refute
 * repudiate
 * [suspend](kata/suspend.md)
