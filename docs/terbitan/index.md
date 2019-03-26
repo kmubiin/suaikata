@@ -6,6 +6,7 @@
 ### Jilid A: Terbitan semasa
 
 * [Terbitan imbuh 1.3.2][33]
+* Terbitan imbuh 1.4.0 (dalam rancangan)
 
 ### Jilid B: Terbitan terdahulu
 
