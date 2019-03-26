@@ -4,7 +4,7 @@
 ### Perihal kata masukan
 
 * [abstract](kata/abstract.md)
-* charlatan
+* [charlatan](kata/charlatan.md)
 * didactic
 * [immutable](kata/immutable.md)
 * refute
