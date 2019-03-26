@@ -10,13 +10,13 @@ accommodate,2,memuatkan,M
 accommodate,3,menyesuaikan,M
 acknowledge,1,memperakui,A
 acrimony,1,kegetiran,M
-adverse,1,tidak menyebelahi,X1
+adverse,1,tidak menyebelahi,M+
 aesthetic,1,bersifat seni,M
 affable,1,ramah-tamah,M
 affinity,1,sifat tertarik,M
 affluence,1,kekayaan,A
 alleviate,1,meredakan,A
-altruistic,1,tidak penting diri,X1
+altruistic,1,tidak penting diri,M+
 ambiguous,1,tidak jelas makna; taksa,M
 ambivalence,1,belah bagi,M+
 amenable,1,mudah bekerjasama,M
@@ -33,7 +33,7 @@ appropriate,1,"sesuai, wajar atau patut",M
 appropriate,2,menguntukkan,M
 aristocracy,1,bangsawan,A
 arrogance,1,keangkuhan,M
-aspire,1,bercita-cita tinggi,X1
+aspire,1,bercita-cita tinggi,M+
 assert,1,menegaskan (tanpa bukti),M
 assumption,1,anggapan (tanpa bukti),M
 attain,1,mencapai (dengan usaha),M
@@ -56,7 +56,7 @@ buoyant,2,"tahan, anjal atau cekal",M
 candor,1,kejujuran,A
 captivate,1,tahanan atau tawanan,M
 captivate,2,"ada dalam kurungan, tahanan atau tawanan",M
-caricature,1,gambar dengan ciri menonjol; karikatur (seni),X1
+caricature,1,gambar dengan ciri menonjol; karikatur (seni),M+
 caricature,2,membuat gambar karikatur,M
 censor,1,menapis (filem),A
 censor,2,penapis (filem),M
@@ -220,10 +220,10 @@ irony,2,keadaan sepatutnya berlaku menjadi lain,M
 larceny,1,pencurian,A
 loathe,1,meluat,M
 malice,1,niat jahat,M
-meek,1,lemah semangat,X1
+meek,1,kurang semangat,A+
 meticulous,1,teliti,A
 misconception,1,salah faham,A
-misrepresent,1,salah khabar,X1
+misrepresent,1,salah khabar,M+
 mock,1,mengejek,A
 monarchy,1,kesultanan,A
 monotony,1,kebosanan,A
@@ -283,7 +283,7 @@ recluse,1,penyepi,A
 refute,1,membuktikan tidak benar,M+
 relinquish,1,melepaskan,M
 renown,1,kemasyhuran,A
-repudiate,1,membantah,A+
+repudiate,1,menolak (kaitan),M+
 reserved,1,pendam (bukan peramah),M
 reserved,2,ditempah,M
 resolution,1,penyelesaian,A
