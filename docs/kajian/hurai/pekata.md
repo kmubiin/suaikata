@@ -5,7 +5,7 @@
 
 * [abstract](kata/abstract.md)
 * [charlatan](kata/charlatan.md)
-* didactic
+* [didactic](kata/didactic.md)
 * [immutable](kata/immutable.md)
 * refute
 * repudiate
