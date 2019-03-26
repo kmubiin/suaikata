@@ -61,9 +61,9 @@ telah ditetapkan pada 20 aksara.
 
 * Jika melebihi 20 aksara, maka dikira panjang.
 
-Maklumat perangkaan mungkin berubah dari semasa ke semasa.
-Sila rujuk pada tarikh kemas kini fail atau sejarah
-suntingan fail melalui garis perintah Git.
+**Penafian**: Maklumat perangkaan adalah maklumat sampingan
+dan mungkin berubah dari semasa ke semasa. Sila rujuk pada
+fail daftar dan semak kandungan semasa untuk angka pasti.
 
 laman kembali: [kajian][0]
 
