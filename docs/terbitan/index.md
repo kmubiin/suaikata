@@ -6,7 +6,7 @@
 ### Jilid A: Terbitan semasa
 
 * [Terbitan imbuh 1.3.2][33]
-* Terbitan imbuh 1.4.0 (dalam rancangan)
+* [Terbitan imbuh 1.4.0][39] (dalam rancangan)
 
 ### Jilid B: Terbitan terdahulu
 
@@ -26,6 +26,7 @@ laman: [utama][0] - [kajian][1] - [panduan][2] - **terbitan**
   [1]: ../kajian/index.md
   [2]: ../panduan/index.md
   [33]: 1.3.2.md
+  [39]: 1.4.0.md "belum selesai"
   [301]: 1.0.md
   [302]: 1.1.0.md
   [303]: 1.2.0.md
