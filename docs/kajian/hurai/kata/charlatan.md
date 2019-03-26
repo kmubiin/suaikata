@@ -26,7 +26,7 @@ Ulasan M:
 
 Padanan terjemah "penipu" adalah betul tetapi tidak menyamai
 makna dalam bahasa asal. Lazimnya, "penipu" ialah padanan
-terjemah bagi "liar (lie)". Dalam hal ini, perlu difahami
+terjemah bagi "liar (lie)". Dalam hal ini, perlu faham
 apakah takrif yang dapat menerangkan kelainan antara makna
 "charlatan" dan makna "liar (lie)".
 
@@ -50,9 +50,9 @@ sebenarnya
 
 Berdasarkan takrif kata dasar di atas, kata terbitan
 penyemu sudah tepat dan menyamai makna dalam bahasa asal.
-Bagaimanapun, kata terbitan ini hanya muncul dalam Kamus
-Dewan Edisi Ketiga (1996) dan kelihatan tidak biasa
-digunakan oleh orang ramai.
+Bagaimanapun, kata terbitan ini hanya muncul kemudian dalam
+Kamus Dewan Edisi Ketiga (1996) dan perkataan ini kelihatan
+tidak biasa digunakan.
 
 Oleh itu, terjemah 'charlatan' membawakan takrif yang lebih
 mudah faham "orang yang mengaku mahir" dan diikuti perkataan

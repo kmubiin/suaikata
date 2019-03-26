@@ -45,7 +45,7 @@ hampir sama bagi 'repudiate' ialah 'deny'.
 
 Padanan terjemah bagi 'deny' kepada "menafikan" adalah betul
 dan 'reject' kepada "membantah" juga betul. Namun begitu,
-kedua-dua terjemah kelihatan tidak padan dengan kesemua
+kedua-dua terjemah kelihatan tidak sesuai dengan beberapa
 makna dalam bahasa asal. Dengan itu, cadangan baru
 membawakan padanan terjemah "menolak".
 

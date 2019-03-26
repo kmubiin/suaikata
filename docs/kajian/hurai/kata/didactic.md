@@ -40,14 +40,14 @@ ada bagus atau tidak bagus.
 
 Kamus bebas memberi contoh ringkas "didactic poetry" dan
 terjemah langsung ialah "sajak bertujuan untuk mengajar".
-Jika dibawakan takrif mengikut makna-ke2 dalam bahasa asal,
+Jika dibawakan takrif mengikut makna ke-2 dalam bahasa asal,
 maka terjemah boleh menjadi pelik: "bersajak macam bagus".
 
 Kata kunci daripada terjemah langsung ialah "bertujuan untuk
 mengajar" dan bukan untuk menunjukkan perasaan bangga ilmu.
 Perkataan "mengajar" boleh digunakan untuk dua tujuan:
-memberi pelajaran supaya pandai (padan dengan makna ke-1),
-dan memberi nasihat atau mendidik (padan dengan makna ke-2).
+memberi pelajaran supaya pandai (padan makna ke-1), dan
+memberi nasihat atau mendidik (padan makna ke-2).
 
 Oleh itu, terjemah 'didactic' membawakan takrif yang mantap
 "bersifat mengajar" dan takrif tersebut dapat dipadankan

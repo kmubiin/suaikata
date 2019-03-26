@@ -31,7 +31,7 @@ Makna "tidak dapat berubah" dan "tidak berubah" menyatakan
 dua keadaan yang sama tetapi tidak serupa. Meskipun
 kedua-dua keadaan ini adalah sesuatu yang tetap, namun
 "tidak berubah" bermaksud tetap pada satu-satu masa tetapi
-keadaan itu mungkin berubah kemudian.
+keadaan itu masih boleh berubah.
 
 Kamus dwibahasa bersama takrif "yang tidak dapat berubah"
 adalah panjang dan betul, manakala takrif "tetap" adalah
