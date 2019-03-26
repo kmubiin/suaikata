@@ -18,9 +18,7 @@ kedudukan atau hak untuk sementara waktu."
 * gantung sesi - hampir sama dengan 'gantung sekolah' (jarang didapati)
 * gantung tugas - hukuman tidak dibenarkan hadir ke tempat kerja
 
-Projek suaikata membawakan sebanyak dua makna terjemah
-dalam bahasa Melayu untuk kata masukan Inggeris 'suspend'
-dalam daftar PSAT.
+Berikut adalah huraian terjemah oleh projek suaikata.
 
 #### suspend (1)
 

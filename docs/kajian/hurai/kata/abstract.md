@@ -21,9 +21,7 @@ digunakan untuk 'zahir' pada masa itu
 telah membuang perkaitan "lawan abstrak" dan memperkenal
 'zahir' sebagai perkataan seerti 'lahir'
 
-Projek suaikata membawakan sebanyak empat makna terjemah
-dalam bahasa Melayu untuk kata masukan Inggeris 'abstract'
-dalam daftar PSAT.
+Berikut adalah huraian terjemah oleh projek suaikata.
 
 #### abstract (1)
 
