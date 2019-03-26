@@ -50,8 +50,8 @@ sebenarnya
 
 Berdasarkan takrif kata dasar di atas, kata terbitan
 penyemu sudah tepat dan menyamai makna dalam bahasa asal.
-Bagaimanapun, perkataan terbitan ini hanya muncul dalam
-Kamus Dewan Edisi Ketiga (1996) dan kelihatan tidak biasa
+Bagaimanapun, kata terbitan ini hanya muncul dalam Kamus
+Dewan Edisi Ketiga (1996) dan kelihatan tidak biasa
 digunakan oleh orang ramai.
 
 Oleh itu, terjemah 'charlatan' membawakan takrif yang lebih

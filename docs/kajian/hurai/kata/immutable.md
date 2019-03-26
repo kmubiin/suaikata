@@ -22,7 +22,7 @@ Terjemah 'immutable' makna ke-1:
 * pilihan terjemah: **tak terubah**
 
 Pembetulan telah dibuat pada terjemah A daripada "tak
-berubah" menjadi "tak terubah". Hanya berbeza satu huruf
+berubah" kepada "tak terubah". Hanya berbeza satu huruf
 dalam imbuhan awalan, namun ter- adalah lebih tepat.
 
 Ulasan M:
