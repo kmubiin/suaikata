@@ -7,8 +7,8 @@
 * [charlatan](kata/charlatan.md)
 * [didactic](kata/didactic.md)
 * [immutable](kata/immutable.md)
-* refute
-* repudiate
+* [refute](kata/refute.md)
+* [repudiate](kata/repudiate.md)
 * [suspend](kata/suspend.md)
 
 laman kembali: [kajian][0]
