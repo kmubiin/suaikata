@@ -11,6 +11,12 @@ validity of; disown"
 * kamus dwibahasa terbitan lewat 1990-an membawakan makna
 'repudiate' dalam bahasa Melayu sebagai "menolak,
 menyangkal"
+* carian dalam talian mendapati kata masukan 'repudiate'
+ada lebih daripada satu makna;
+* kamus bebas Wiktionary membawakan tiga makna dalam bahasa
+Inggeris iaitu "1. To reject the truth or validity of; to
+deny; 2. To refuse to have anything to do with;
+to disown; 3. To refuse to pay or honor (a debt)"
 
 Berikut adalah huraian terjemah oleh projek suaikata.
 
@@ -18,9 +24,12 @@ Berikut adalah huraian terjemah oleh projek suaikata.
 
 Terjemah 'repudiate' makna ke-1:
 
-* terjemah M - menafikan
+* terjemah M - menolak (kaitan)
 * terjemah A - membantah
-* pilihan terjemah: **membantah**
+* pilihan terjemah: **menolak (kaitan)**
+
+Pembetulan telah dibuat pada terjemah M daripada "menafikan"
+kepada "menolak (kaitan)".
 
 Ulasan M:
 
@@ -30,10 +39,44 @@ kini telah selesai dan perkataan 'refute' telah mendapat
 terjemah lain yang lebih sesuai. Kedua-dua perkataan ini
 boleh mengelirukan penutur bahasa.
 
-Pada masa ini, padanan terjemah bagi 'repudiate' ialah
-"membantah". Bagaimanapun, tidak dapat dipastikan mengapa
-terjemah ini dipilih pada masa itu. Pilihan terjemah akan
-disemak semula dan ulasan ini juga mungkin ditulis semula.
+Semakan semula mendapati padanan terjemah bagi 'repudiate'
+tidak padan dengan "menafikan" mahupun "membantah". Kata
+hampir sama bagi 'repudiate' ialah 'deny'.
+
+Padanan terjemah bagi 'deny' kepada "menafikan" adalah betul
+dan 'reject' kepada "membantah" juga betul. Namun begitu,
+kedua-dua terjemah kelihatan tidak padan dengan kesemua
+makna dalam bahasa asal. Dengan itu, cadangan baru
+membawakan padanan terjemah "menolak".
+
+Bandingkan kesesuaian ketiga-tiga padanan terjemah dengan
+ayat ringkas Inggeris-Melayu untuk ketiga-tiga makna kata
+'repudiate' seperti berikut:
+
+> (1) to repudiate a lover
+>
+> * menafikan hubungan kekasih (kurang sesuai)
+> * membantah hubungan kekasih (kurang sesuai)
+> * menolak hubungan kekasih (sesuai)
+>
+> (2) to repudiate contract
+>
+> * menafikan perjanjian (sesuai)
+> * membantah perjanjian (sesuai)
+> * menolak perjanjian (sesuai)
+>
+> (3) to repudiate debt
+>
+> * menafikan hutang (kurang sesuai)
+> * membantah hutang (kurang sesuai)
+> * menolak hutang (sesuai)
+
+Dalam semua ayat ringkas di atas, kata 'repudiate' digunakan
+untuk merujuk pada suatu perkaitan, sama ada hubungan
+manusia, perjanjian, atau tanggungjawab.
+
+Oleh itu, padanan terjemah yang sesuai bagi 'repudiate'
+ialah "menolak (kaitan)".
 
 laman berkaitan: [refute][1], **repudiate**
 
