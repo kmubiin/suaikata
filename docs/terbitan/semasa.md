@@ -1,6 +1,8 @@
 ---
 ---
 
+## Terbitan semasa
+
 ### Terbitan imbuh 1.4.0
 
 Terbitan imbuh selepas 1.3.2 untuk pembaikan.
@@ -9,7 +11,7 @@ Terbitan imbuh selepas 1.3.2 untuk pembaikan.
 * Lengkap daftar PSAT (#27)
 * Kajian daftar PSAT ada angka semasa: 344
 * Daftar pemula pertama (lihat nota)
-* ...
+* ... **belum selesai**
 
 Nota daftar pemula:
 
@@ -18,7 +20,7 @@ kata masukan tanpa makna dalam rancangan atau percubaan
 * Daftar pemula pertama membawakan senarai kata masukan
 yang terdiri daripada dua huruf dalam bahasa Melayu
 
-Terbitan ini dinamakan `1.4.0` **tetapi belum selesai**
+Terbitan ini dinamakan `1.4.0`
 
 laman kembali: [terbitan][0]
 
