@@ -6,4 +6,4 @@ Koleksi ringkas kosa kata
 [Tinjau arkib][2]
 
   [1]: docs/index.md
-  [2]: arkib/pokok.md
+  [2]: arkib/pintu.md
