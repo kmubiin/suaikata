@@ -6,7 +6,7 @@ arkib untuk menyimpan atau merujuk dokumen lama.
 
 arkib: **pintu** - [imbas][1]
 
-[kembali ke README][0]
+[laman asal][0]
 
   [0]: ../README.md
   [1]: imbas.md
