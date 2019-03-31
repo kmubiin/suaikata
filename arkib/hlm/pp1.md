@@ -1,6 +1,12 @@
 Papan Projek 1 - Rancangan
 --------------------------
 
+Closed - Updated on 7 Nov (semakan terakhir: 17 Nov 2018)
+
+![Papan Projek 1 pada 80% saiz asal][1i]
+
+Salinan teks penuh adalah seperti berikut.
+
 ###### (6) Umum
 
 ---
@@ -190,13 +196,9 @@ batu penanda Akhir.
 ---
 ---
 
-Salinan ini disemak kali terakhir pada 2018-11-17
-
-[Lihat imej papan projek ini][1b]
-
 laman kembali: [imbas][0]
 
   [0]: ../imbas.md
-  [1b]: pp1b.md
+  [1i]: pp1i.png
   [2]: pp2.md
   [3]: pp3.md

@@ -1,6 +1,12 @@
 Papan Projek 2 - Pencapaian
 ---------------------------
 
+Closed - Updated on 19 May (semakan terakhir: 17 Nov 2018)
+
+![Papan Projek 2 pada 80% saiz asal][2i]
+
+Salinan teks penuh adalah seperti berikut.
+
 ###### (5) Umum
 
 ---
@@ -497,13 +503,9 @@ GitHub.
 ---
 ---
 
-Salinan ini disemak kali terakhir pada 2018-11-17
-
-[Lihat imej papan projek ini][2b]
-
 laman kembali: [imbas][0]
 
   [0]: ../imbas.md
   [1]: pp1.md
-  [2b]: pp2b.md
+  [2i]: pp2i.png
   [3]: pp3.md

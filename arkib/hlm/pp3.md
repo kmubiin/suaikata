@@ -1,6 +1,12 @@
 Papan Projek 3 - Semasa
 -----------------------
 
+Open - Updated on 15 Nov (semakan terakhir: 17 Nov 2018)
+
+![Papan Projek 3 pada 80% saiz asal][3i]
+
+Salinan teks penuh adalah seperti berikut.
+
 ###### (1) Umum
 
 ---
@@ -121,13 +127,9 @@ Automated as `Done`
 ---
 ---
 
-Salinan ini disemak kali terakhir pada 2018-11-17
-
-[Lihat imej papan projek ini][3b]
-
 laman kembali: [imbas][0]
 
   [0]: ../imbas.md
   [1]: pp1.md
   [2]: pp2.md
-  [3b]: pp3b.md
+  [3i]: pp3i.png
