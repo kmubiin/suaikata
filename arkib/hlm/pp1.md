@@ -194,9 +194,9 @@ Salinan ini disemak kali terakhir pada 2018-11-17
 
 [Lihat imej papan projek ini][1b]
 
-laman kembali: [projek][0]
+laman kembali: [imbas][0]
 
-  [0]: projek.md
+  [0]: ../imbas.md
   [1b]: pp1b.md
   [2]: pp2.md
   [3]: pp3.md

@@ -56,9 +56,9 @@ disimpan dalam format mudah alih untuk daftar siap.
 Rancangan akhir projek telah berjaya menyiapkan daftar
 beregu yang pertama: daftar PSAT.
 
-laman kembali: [cipta][0]
+laman kembali: [imbas][0]
 
-  [0]: cipta.md
+  [0]: ../imbas.md
   [hbk]: hbk.md
   [hbt]: hbt.md
   [hbw]: hbw.md
