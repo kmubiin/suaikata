@@ -10,6 +10,7 @@
 * [Helai daftar beregu terperinci](hlm/hb10.md)
 * [Kumpulan helai daftar](hlm/kh.md)
 
-arkib: [pintu][0] - **imbas**
+arkib: [pintu][0] - **imbas** - [babad][2]
 
   [0]: pintu.md
+  [2]: babad.md
