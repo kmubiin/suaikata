@@ -2,7 +2,9 @@
 
 *Ruang ini masih dalam pembaikan*
 
-* (Senarai riwayat arkib)
+* 2018 - Tahun permulaan
+* 2019 - Tahun penelitian semula
+* (Tahun akan datang)
 
 arkib: [pintu][0] - [imbas][1] - **babad**
 
