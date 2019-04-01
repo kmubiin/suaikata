@@ -1,5 +1,3 @@
-*Ruang ini masih dalam pembaikan*
-
 Muka pintu arkib. Semua dokumen dalam arkib adalah salinan
 maklumat bersejarah. Biasanya ahli projek akan meninjau
 arkib untuk menyimpan atau merujuk dokumen lama.

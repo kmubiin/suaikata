@@ -1,7 +1,5 @@
 ## Imbas arkib
 
-*Ruang ini masih dalam pembaikan*
-
 * [Papan Projek 1 - Rancangan](hlm/pp1.md)
 * [Papan Projek 2 - Pencapaian](hlm/pp2.md)
 * [Papan Projek 3 - Semasa](hlm/pp3.md)
