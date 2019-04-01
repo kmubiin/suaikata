@@ -2,7 +2,7 @@
 
 *Ruang ini masih dalam pembaikan*
 
-* 2018 - Tahun permulaan
+* 2018 - [Tahun permulaan](bb/t1.md)
 * 2019 - Tahun penelitian semula
 * (Tahun akan datang)
 
