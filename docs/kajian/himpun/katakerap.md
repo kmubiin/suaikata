@@ -9,7 +9,10 @@ perkataan Inggeris secara sampingan.
 
 #### Tentang Kata Kerap
 
-#tiada
+Senarai 4000 perkataan bahasa Inggeris paling biasa atau
+kerap digunakan berserta terjemahan dalam bahasa Melayu.
+Disusun mengikut kekerapan - lagi tinggi kedudukan di
+senarai, lagi kerap perkataan itu digunakan.
 
 #### Pembangunan daftar
 
