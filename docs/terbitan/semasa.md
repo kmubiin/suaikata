@@ -12,6 +12,7 @@ Terbitan imbuh selepas 1.3.2 untuk pembaikan.
 * Kajian daftar PSAT ada angka semasa: 344
 * Daftar pemula pertama (lihat nota)
 * Senarai terbitan mudah dan ringkas (lihat nota)
+* Laman arkib disusun semula
 * ... **belum selesai**
 
 Nota daftar pemula:
