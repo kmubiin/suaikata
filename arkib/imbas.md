@@ -1,12 +1,10 @@
 ## Imbas arkib
 
-* [Papan Projek 1 - Rancangan](hlm/pp1.md)
-* [Papan Projek 2 - Pencapaian](hlm/pp2.md)
-* [Papan Projek 3 - Semasa](hlm/pp3.md)
-* [Helai daftar awal](hlm/ha.md)
-* [Helai daftar beregu](hlm/hb.md)
-* [Helai daftar beregu terperinci](hlm/hb10.md)
-* [Kumpulan helai daftar](hlm/kh.md)
+*Ruang ini sedang disusun semula*
+
+* 2018 - [Tahun permulaan](bb/t1.md)
+* 2019 - [Tahun penelitian semula](bb/t2.md)
+* (Tahun akan datang)
 
 arkib: [pintu][0] - **imbas** - [babad][2]
 

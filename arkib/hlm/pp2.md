@@ -503,9 +503,9 @@ GitHub.
 ---
 ---
 
-laman kembali: [imbas][0]
+laman kembali: [babad][0]
 
-  [0]: ../imbas.md
+  [0]: ../babad.md
   [1]: pp1.md
   [2i]: pp2i.png
   [3]: pp3.md

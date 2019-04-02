@@ -127,9 +127,9 @@ Automated as `Done`
 ---
 ---
 
-laman kembali: [imbas][0]
+laman kembali: [babad][0]
 
-  [0]: ../imbas.md
+  [0]: ../babad.md
   [1]: pp1.md
   [2]: pp2.md
   [3i]: pp3i.png

@@ -196,9 +196,9 @@ batu penanda Akhir.
 ---
 ---
 
-laman kembali: [imbas][0]
+laman kembali: [babad][0]
 
-  [0]: ../imbas.md
+  [0]: ../babad.md
   [1i]: pp1i.png
   [2]: pp2.md
   [3]: pp3.md
