@@ -13,9 +13,9 @@ Salinan teks penuh adalah seperti berikut.
 Untuk pencapaian mengikut hari tertentu, semak lajur lain.
 Lihat juga laman lain:
 
-1. [Laman Rancangan][1]
+1. Laman Rancangan
 2. Laman Pencapaian (di sini)
-3. [Laman Semasa][3]
+3. Laman Semasa
 
 ---
 Sejarah terbitan awal
@@ -506,6 +506,4 @@ GitHub.
 laman kembali: [teliti][0]
 
   [0]: ../teliti.md
-  [1]: pp1.md
   [2i]: pp2i.png
-  [3]: pp3.md

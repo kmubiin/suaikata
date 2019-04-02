@@ -1,7 +1,5 @@
 ## Teliti arkib
 
-*Ruang ini sedang disusun semula*
-
 * [Papan Projek 1 - Rancangan](ta/pp1.md)
 * [Papan Projek 2 - Pencapaian](ta/pp2.md)
 * [Papan Projek 3 - Semasa](ta/pp3.md)

@@ -13,8 +13,8 @@ Salinan teks penuh adalah seperti berikut.
 Mana-mana kad dalam lajur 'draf' mungkin dicipta sebagai
 isu baru, apabila sudah ditetapkan. Lihat juga laman lain:
 
-1. [Laman Rancangan][1]
-2. [Laman Pencapaian][2]
+1. Laman Rancangan
+2. Laman Pencapaian
 3. Laman Semasa (di sini)
 
 ---
@@ -130,6 +130,4 @@ Automated as `Done`
 laman kembali: [teliti][0]
 
   [0]: ../teliti.md
-  [1]: pp1.md
-  [2]: pp2.md
   [3i]: pp3i.png

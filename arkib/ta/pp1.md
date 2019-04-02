@@ -14,8 +14,8 @@ Takrif tertentu semasa pembangunan projek. Lihat juga isu
 10 untuk panduan dan laman lain:
 
 1. Laman Rancangan (di sini)
-2. [Laman Pencapaian][2]
-3. [Laman Semasa][3]
+2. Laman Pencapaian
+3. Laman Semasa
 
 ---
 * Nama repositori: suaikata
@@ -200,5 +200,3 @@ laman kembali: [teliti][0]
 
   [0]: ../teliti.md
   [1i]: pp1i.png
-  [2]: pp2.md
-  [3]: pp3.md

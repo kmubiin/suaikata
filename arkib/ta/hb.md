@@ -27,6 +27,3 @@ beregu yang pertama (PSAT).
 laman kembali: [teliti][0]
 
   [0]: ../teliti.md
-  [hbk]: hbk.md
-  [hbt]: hbt.md
-  [hbw]: hbw.md
