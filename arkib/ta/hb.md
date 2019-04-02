@@ -24,9 +24,9 @@ hanya empat lajur pertama yang penting.
 Rancangan akhir projek telah berjaya menyiapkan daftar
 beregu yang pertama (PSAT).
 
-laman kembali: [babad][0]
+laman kembali: [teliti][0]
 
-  [0]: ../babad.md
+  [0]: ../teliti.md
   [hbk]: hbk.md
   [hbt]: hbt.md
   [hbw]: hbw.md

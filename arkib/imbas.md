@@ -6,7 +6,7 @@
 * 2019 - [Tahun penelitian semula](ia/t2.md)
 * (Tahun akan datang)
 
-arkib: [pintu][0] - **imbas** - [babad][2]
+arkib: [pintu][0] - **imbas** - [teliti][2]
 
   [0]: pintu.md
-  [2]: babad.md
+  [2]: teliti.md

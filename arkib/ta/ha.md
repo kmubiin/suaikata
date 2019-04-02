@@ -27,6 +27,6 @@ Daftar dwibahasa yang menggunakan tiga lajur:
 Rancangan awal projek telah memutuskan lajur tambahan untuk
 makna tidak diperlukan.
 
-laman kembali: [babad][0]
+laman kembali: [teliti][0]
 
-  [0]: ../babad.md
+  [0]: ../teliti.md
