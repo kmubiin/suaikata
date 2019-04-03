@@ -3,21 +3,17 @@
 
 ## Senarai catatan
 
-*Ruang ini masih dalam pembaikan*
-
-Daripada terbitan:
+### Nota terbitan
 
 * [semasa][32]
-* 1.4.0 (semasa)
-* [1.3.2][303]
-* [1.3.1][302]
-* [1.3.0][301]
+* 1.4.0 #belum
+* [1.3.2](siap/1.3.2.md)
 * [dahulu][31]
 
-Daripada arkib:
+### Imbas tahun
 
-* 2018 - [Tahun permulaan](imbas/2018.md)
-* 2019 - [Tahun penelitian semula](imbas/2019.md)
+* [2018](imbas/2018.md) - Tahun permulaan
+* [2019](imbas/2019.md) - Tahun penelitian semula
 * (Tahun akan datang)
 
 laman: [utama][0] - [kajian][1] - [panduan][2] - **catatan**
@@ -27,6 +23,3 @@ laman: [utama][0] - [kajian][1] - [panduan][2] - **catatan**
   [2]: ../panduan/index.md
   [31]: dahulu.md
   [32]: semasa.md
-  [301]: siap/1.3.0.md
-  [302]: siap/1.3.1.md
-  [303]: siap/1.3.2.md

@@ -1,7 +1,7 @@
 ---
 ---
 
-### Takrif bahasa asal dan bahasa terjemah
+### Takrif asal dan terjemah
 
 Perbandingan takrif adalah cara lazim untuk membawakan
 takrif daripada bahasa asal kepada bahasa terjemah. Sebelum

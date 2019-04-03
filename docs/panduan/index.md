@@ -5,24 +5,24 @@
 
 ### Bab 1: Bahasa dan hak cipta
 
-11. [Bahasa Melayu piawai][211]
-12. [Sumber kata masukan][212]
-13. [Hak cipta tidak terpelihara][213]
-14. [Lesen sumber terbuka][214]
+11. [Bahasa Melayu piawai](bab/piawai.md)
+12. [Sumber kata masukan](bab/sumber.md)
+13. [Hak cipta tidak terpelihara](bab/hak-cipta.md)
+14. [Lesen sumber terbuka](bab/lesen.md)
 
 ### Bab 2: Pilihan terjemah
 
-21. [Asas penyediaan takrif][221]
-22. [Takrif bahasa asal dan bahasa terjemah][222]
-23. [Satu atau dua salinan terjemah][223]
-24. [Penggunaan kamus][224]
+21. [Asas penyediaan takrif](bab/asas.md)
+22. [Takrif asal dan terjemah](bab/takrif.md)
+23. [Satu atau dua salinan terjemah](bab/salinan.md)
+24. [Penggunaan kamus](bab/kamus.md)
 
 ### Bab 3: Daftar baharu
 
-31. [Mencipta helai daftar][231]
-32. [Penggunaan lajur][232]
-33. [Penggunaan baris][233]
-34. [Contoh daftar][234]
+31. [Mencipta helai daftar](bab/helai.md)
+32. [Penggunaan lajur](bab/lajur.md)
+33. [Penggunaan baris](bab/baris.md)
+34. [Contoh daftar](bab/contoh.md)
 
 ### Bab 4: Daftar sedia dan siap
 
@@ -30,25 +30,11 @@
 
 ### Nota dan rujukan
 
-* [Glosari][291]
-* [Dasar panduan][292]
+* [Glosari](ruj/glosari.md)
+* [Dasar panduan](ruj/dasar.md)
 
 laman: [utama][0] - [kajian][1] - **panduan** - [catatan][3]
 
   [0]: ../index.md
   [1]: ../kajian/index.md
   [3]: ../catatan/index.md
-  [211]: bab/piawai.md
-  [212]: bab/sumber.md
-  [213]: bab/hak-cipta.md
-  [214]: bab/lesen.md
-  [221]: bab/asas.md
-  [222]: bab/takrif.md
-  [223]: bab/salinan.md
-  [224]: bab/kamus.md
-  [231]: bab/helai.md
-  [232]: bab/lajur.md
-  [233]: bab/baris.md
-  [234]: bab/contoh.md
-  [291]: ruj/glosari.md
-  [292]: ruj/dasar.md
