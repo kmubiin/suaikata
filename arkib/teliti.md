@@ -11,4 +11,4 @@
 arkib: [pintu][0] - [imbas][1] - **teliti**
 
   [0]: pintu.md
-  [1]: teliti.md
+  [1]: imbas.md
