@@ -3,12 +3,22 @@
 
 ## Senarai catatan
 
+*Ruang ini masih dalam pembaikan*
+
+Daripada terbitan:
+
 * [semasa][32]
 * 1.4.0 (semasa)
 * [1.3.2][303]
 * [1.3.1][302]
 * [1.3.0][301]
 * [dahulu][31]
+
+Daripada arkib:
+
+* 2018 - [Tahun permulaan](ia/t1.md)
+* 2019 - [Tahun penelitian semula](ia/t2.md)
+* (Tahun akan datang)
 
 laman: [utama][0] - [kajian][1] - [panduan][2] - **catatan**
 

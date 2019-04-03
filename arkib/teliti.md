@@ -8,7 +8,6 @@
 * [Helai daftar beregu terperinci](ta/hb10.md)
 * [Kumpulan helai daftar](ta/kh.md)
 
-arkib: [pintu][0] - [imbas][1] - **teliti**
+arkib: [pintu][0] - **teliti**
 
   [0]: pintu.md
-  [1]: imbas.md
