@@ -33,11 +33,11 @@
 * [Glosari][291]
 * [Dasar panduan][292]
 
-laman: [utama][0] - [kajian][1] - **panduan** - [terbitan][3]
+laman: [utama][0] - [kajian][1] - **panduan** - [catatan][3]
 
   [0]: ../index.md
   [1]: ../kajian/index.md
-  [3]: ../terbitan/index.md
+  [3]: ../catatan/index.md
   [211]: bab/piawai.md
   [212]: bab/sumber.md
   [213]: bab/hak-cipta.md

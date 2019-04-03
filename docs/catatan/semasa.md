@@ -1,7 +1,7 @@
 ---
 ---
 
-## Terbitan semasa
+## Catatan semasa
 
 ### Terbitan imbuh 1.4.0
 
@@ -35,6 +35,6 @@ terbitan lama ke terbitan baharu
 
 Terbitan ini dinamakan `1.4.0`
 
-laman kembali: [terbitan][0]
+laman kembali: [catatan][0]
 
   [0]: index.md

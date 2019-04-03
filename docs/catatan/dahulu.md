@@ -1,7 +1,7 @@
 ---
 ---
 
-## Terbitan dahulu
+## Catatan dahulu
 
 * [1.0][301]
 * [1.1.0][302]
@@ -13,7 +13,7 @@
 * [1.3.0][308]
 * [1.3.1][309]
 
-laman kembali: [terbitan][0]
+laman kembali: [catatan][0]
 
   [0]: index.md
   [301]: siap/1.0.md

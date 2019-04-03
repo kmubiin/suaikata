@@ -14,11 +14,11 @@
 1. [PSAT][101]
 2. [Kata Kerap][102]
 
-laman: [utama][0] - **kajian** - [panduan][2] - [terbitan][3]
+laman: [utama][0] - **kajian** - [panduan][2] - [catatan][3]
 
   [0]: ../index.md
   [2]: ../panduan/index.md
-  [3]: ../terbitan/index.md
+  [3]: ../catatan/index.md
   [11]: rinci.md
   [12]: hurai/pekata.md
   [13]: hurai/peseti.md

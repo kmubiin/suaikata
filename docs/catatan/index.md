@@ -1,7 +1,7 @@
 ---
 ---
 
-## Senarai terbitan
+## Senarai catatan
 
 * [semasa][32]
 * 1.4.0 (semasa)
@@ -10,7 +10,7 @@
 * [1.3.0][301]
 * [dahulu][31]
 
-laman: [utama][0] - [kajian][1] - [panduan][2] - **terbitan**
+laman: [utama][0] - [kajian][1] - [panduan][2] - **catatan**
 
   [0]: ../index.md
   [1]: ../kajian/index.md
