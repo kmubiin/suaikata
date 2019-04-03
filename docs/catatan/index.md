@@ -16,8 +16,8 @@ Daripada terbitan:
 
 Daripada arkib:
 
-* 2018 - [Tahun permulaan](ia/t1.md)
-* 2019 - [Tahun penelitian semula](ia/t2.md)
+* 2018 - [Tahun permulaan](imbas/2018.md)
+* 2019 - [Tahun penelitian semula](imbas/2019.md)
 * (Tahun akan datang)
 
 laman: [utama][0] - [kajian][1] - [panduan][2] - **catatan**
