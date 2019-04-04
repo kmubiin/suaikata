@@ -9,6 +9,12 @@ perkataan yang kerap digunakan dalam ujian PSAT. Daftar ini
 adalah daftar pertama yang dibangunkan secara beregu oleh
 dua ahli projek.
 
+Senarai kata masukan *tanpa makna* telah disalin daripada
+[PSAT High Frequency Words][a]. Daftar asal ini mengandungi
+kata masukan Inggeris yang kerap muncul dalam ujian PSAT
+antara tahun 1980 dan 1999. Jumlah kata masukan asal ialah
+267, termasuk 2 pendua.
+
 #### Tentang PSAT atau SAT
 
 #belum #todo
@@ -68,3 +74,4 @@ fail daftar dan semak kandungan semasa untuk angka pasti.
 laman kembali: [kajian][0]
 
   [0]: ../index.md
+  [a]: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords

@@ -5,7 +5,8 @@
 
 Daftar Kata Kerap terbitan projek suaikata ialah daftar
 dwibahasa Inggeris-Melayu yang diterjemah daripada senarai
-perkataan Inggeris secara sampingan.
+perkataan Inggeris secara sampingan. Tidak ada maklumat
+tentang daftar asal.
 
 #### Tentang Kata Kerap
 
