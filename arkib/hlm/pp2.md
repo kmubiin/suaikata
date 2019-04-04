@@ -503,7 +503,7 @@ GitHub.
 ---
 ---
 
-laman kembali: [teliti][0]
+laman kembali: [arkib][0]
 
-  [0]: ../teliti.md
+  [0]: ../pokok.md
   [2i]: pp2i.png

@@ -196,7 +196,7 @@ batu penanda Akhir.
 ---
 ---
 
-laman kembali: [teliti][0]
+laman kembali: [arkib][0]
 
-  [0]: ../teliti.md
+  [0]: ../pokok.md
   [1i]: pp1i.png
