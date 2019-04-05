@@ -3,8 +3,8 @@
 
 ### Perihal sumber dan etimologi
 
-* [Internet Archive](sum/archive.md)
-* [Wiktionary](sum/wiktionary.md)
+* [Internet Archive](latar/archive.md)
+* [Wiktionary](latar/wiktionary.md)
 
 laman kembali: [kajian][0]
 
