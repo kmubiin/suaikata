@@ -3,16 +3,12 @@
 
 ## Senarai kajian
 
-### Soal A: Latar belakang
+*Ruang ini masih dalam pembaikan*
 
 * [Kajian rinci pembangun daftar](rinci.md)
 * [Perihal kata masukan](kata.md)
 * [Perihal sumber dan etimologi](sumber.md)
-
-### Soal B: Himpunan daftar
-
-1. [PSAT](himpun/psat.md)
-2. [Kata Kerap](himpun/katakerap.md)
+* [Perihal daftar](daftar.md)
 
 laman: [utama][0] - **kajian** - [panduan][2] - [catatan][3]
 
