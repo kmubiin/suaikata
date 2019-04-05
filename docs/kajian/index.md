@@ -18,10 +18,9 @@
 
 ### Daftar terkumpul
 
-* [Perihal daftar](daftar.md)
 * Tanpa makna
 * Ekabahasa
-* Dwibahasa
+* [Dwibahasa](dwi.md)
 
 laman: [utama][0] - **kajian** - [panduan][2] - [catatan][3]
 
