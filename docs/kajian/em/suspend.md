@@ -75,6 +75,6 @@ Kesimpulannya, pilihan terjemah yang "betul" untuk istilah
 komputer 'suspend' ialah 'gantung' melainkan ada bukti lain
 yang menyokong terjemah lain yang lebih sesuai.
 
-laman kembali: [kata][0]
+laman kembali: [emkan][0]
 
-  [0]: ../kata.md
+  [0]: ../emkan.md

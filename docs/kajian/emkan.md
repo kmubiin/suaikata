@@ -1,7 +1,7 @@
 ---
 ---
 
-### Perihal kata masukan
+### Kata masukan Inggeris-Melayu
 
 * [abstract](em/abstract.md)
 * [charlatan](em/charlatan.md)

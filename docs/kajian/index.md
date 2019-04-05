@@ -12,9 +12,8 @@
 
 ### Kata masukan
 
-* [Perihal kata masukan](kata.md)
 * Melayu-Melayu
-* Inggeris-Melayu
+* [Inggeris-Melayu](emkan.md)
 * Jepun-Melayu
 
 ### Daftar terkumpul
