@@ -6,8 +6,8 @@
 ### Soal A: Latar belakang
 
 * [Kajian rinci pembangun daftar](rinci.md)
-* [Perihal kata masukan](hurai/pekata.md)
-* [Perihal sumber dan etimologi](hurai/peseti.md)
+* [Perihal kata masukan](kata.md)
+* [Perihal sumber dan etimologi](sumber.md)
 
 ### Soal B: Himpunan daftar
 
