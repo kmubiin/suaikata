@@ -10,8 +10,8 @@ arkib untuk meneliti kandungan bersejarah.
 * [Helai daftar beregu terperinci](hlm/hb10.md)
 * [Kumpulan helai daftar](hlm/kh.md)
 
-Halaman ini hanya boleh dicapai di laman sumber.
+Halaman ini hanya boleh dicapai melalui laman sumber.
 
-[laman asal][0]
+[laman sumber][0]
 
-  [0]: ../README.md
+  [0]: ../README.md "README"
