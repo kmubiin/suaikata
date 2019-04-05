@@ -58,6 +58,6 @@ Oleh itu, terjemah 'charlatan' membawakan takrif yang lebih
 mudah faham "orang yang mengaku mahir" dan diikuti perkataan
 "penyemu" yang tepat tetapi kurang digunakan.
 
-laman kembali: [emkan][0]
+laman kembali: [em][0]
 
-  [0]: ../emkan.md
+  [0]: ../em.md

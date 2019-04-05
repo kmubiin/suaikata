@@ -79,6 +79,6 @@ bahasa Melayu dan juga di Wikipedia bahasa Melayu.
 
 Contoh: algebra niskala, data niskala, dunia niskala
 
-laman kembali: [emkan][0]
+laman kembali: [em][0]
 
-  [0]: ../emkan.md
+  [0]: ../em.md

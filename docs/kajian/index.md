@@ -13,14 +13,14 @@
 ### Kata masukan
 
 * Melayu-Melayu
-* [Inggeris-Melayu](emkan.md)
+* [Inggeris-Melayu](em.md)
 * Jepun-Melayu
 
 ### Daftar terkumpul
 
 * Tanpa makna
 * Ekabahasa
-* [Dwibahasa](dwikan.md)
+* [Dwibahasa](dwi.md)
 
 laman: [utama][0] - **kajian** - [panduan][2] - [catatan][3]
 
