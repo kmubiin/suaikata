@@ -3,8 +3,8 @@
 
 ### Daftar terkumpul dwibahasa
 
-1. [PSAT](dwi/psat.md)
-2. [Kata Kerap](dwi/katakerap.md)
+1. [PSAT](daftar/psat.md)
+2. [Kata Kerap](daftar/katakerap.md)
 
 laman kembali: [kajian][0]
 
