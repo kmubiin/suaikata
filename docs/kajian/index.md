@@ -20,7 +20,7 @@
 
 * Tanpa makna
 * Ekabahasa
-* [Dwibahasa](dwi.md)
+* [Dwibahasa](dwikan.md)
 
 laman: [utama][0] - **kajian** - [panduan][2] - [catatan][3]
 
