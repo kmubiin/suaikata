@@ -52,6 +52,6 @@ Takrif terpendek "tak terubah" bermaksud "yang tidak dapat
 ubah". Imbuhan awalan ter- membawa makna "sudah (dapat)".
 Dengan itu, terjemah A menyamai makna dalam bahasa asal.
 
-laman kembali: [pekata][0]
+laman kembali: [kata][0]
 
-  [0]: ../pekata.md
+  [0]: ../kata.md

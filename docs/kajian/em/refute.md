@@ -37,7 +37,7 @@ Oleh itu, padanan terjemah yang betul bagi 'refute' ialah
 
 laman berkaitan: **refute**, [repudiate][2]
 
-laman kembali: [pekata][0]
+laman kembali: [kata][0]
 
-  [0]: ../pekata.md
+  [0]: ../kata.md
   [2]: repudiate.md

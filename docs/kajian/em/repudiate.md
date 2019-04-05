@@ -80,7 +80,7 @@ ialah "menolak (kaitan)".
 
 laman berkaitan: [refute][1], **repudiate**
 
-laman kembali: [pekata][0]
+laman kembali: [kata][0]
 
-  [0]: ../pekata.md
+  [0]: ../kata.md
   [1]: refute.md
