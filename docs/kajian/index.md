@@ -3,8 +3,6 @@
 
 ## Senarai kajian
 
-*Ruang ini masih dalam pembaikan*
-
 ### Latar belakang
 
 * [Kajian rinci pembangun daftar](rinci.md)
@@ -12,14 +10,14 @@
 
 ### Kata masukan
 
-* Melayu-Melayu
+* [Melayu-Melayu](mm.md)
 * [Inggeris-Melayu](em.md)
-* Jepun-Melayu
+* [Jepun-Melayu](jm.md)
 
 ### Daftar terkumpul
 
-* Tanpa makna
-* Ekabahasa
+* [Tanpa makna](101.md)
+* [Ekabahasa](eka.md)
 * [Dwibahasa](dwi.md)
 
 laman: [utama][0] - **kajian** - [panduan][2] - [catatan][3]
