@@ -11,14 +11,14 @@ Terbitan imbuh selepas 1.3.2 untuk pembaikan.
 * Lengkap daftar PSAT (#27)
 * Kajian daftar PSAT ada angka semasa: 344
 * Daftar pemula pertama (lihat nota)
-* Laman arkib disusun semula
+* Laman arkib, kajian, panduan, terbitan disusun semula
 * Laman dinamakan semula (terbitan => catatan)
 * ... **belum selesai**
 
 Nota pembaikan:
 
-* Kumpulan daftar pemula (nama kod: 101) adalah senarai
-kata masukan tanpa makna dalam rancangan atau percubaan
+* Kumpulan daftar pemula atau tanpa makna (nama kod: 101)
+adalah senarai kata masukan dalam rancangan atau percubaan
 * Daftar pemula pertama membawakan senarai kata masukan
 yang terdiri daripada dua huruf dalam bahasa Melayu
 * Laman catatan tetap ada senarai terbitan, kecuali ditulis
