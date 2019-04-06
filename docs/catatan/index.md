@@ -6,8 +6,7 @@
 ### Nota terbitan
 
 * [semasa][32]
-* 1.4.0 #belum
-* [1.3.2](siap/1.3.2.md)
+* [1.4.0](siap/1.4.0.md)
 * [dahulu][31]
 
 ### Imbas tahun
