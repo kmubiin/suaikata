@@ -14,10 +14,9 @@ Kalau ada sekalipun, agak terhad untuk kegunaan umum.
 
 Maklumat lanjut di pautan tersenarai:
 
-* [Hasil kajian Mac 2018][1]
+* [Hasil kajian Mac 2018](latar/1803.md)
 * (Hasil kajian masa hadapan)
 
 laman kembali: [kajian][0]
 
   [0]: index.md
-  [1]: hasil/1803.md

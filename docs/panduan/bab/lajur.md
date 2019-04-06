@@ -24,7 +24,7 @@ Apabila sesuatu daftar hendak dibangunkan oleh dua atau
 lebih ahli projek dan daftar itu ada lajur terjemah, lajur
 itu dipecah menjadi beberapa lajur baru untuk setiap ahli.
 Projek suaikata menamakan daftar yang dicipta sedemikian
-sebagai '**daftar dwibahasa beregu**'.
+sebagai **"daftar dwibahasa beregu"**.
 
 Daftar dwibahasa beregu yang pertama dalam projek suaikata
 menggunakan enam lajur semasa pembangunan. Namun begitu,

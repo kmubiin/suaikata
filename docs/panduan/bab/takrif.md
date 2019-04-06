@@ -1,7 +1,7 @@
 ---
 ---
 
-### Takrif bahasa asal dan bahasa terjemah
+### Takrif asal dan terjemah
 
 Perbandingan takrif adalah cara lazim untuk membawakan
 takrif daripada bahasa asal kepada bahasa terjemah. Sebelum
@@ -49,9 +49,9 @@ Takrif dalam bahasa terjemah:
 >
 > Sumber: Kamus dwibahasa Inggeris-Inggeris-Melayu (2004)
 
-Berdasarkan perbandingan takrif di atas, takrif dalam
-bahasa terjemah yang disediakan oleh projek suaikata untuk
-perkataan 'accessible' ialah:
+Berdasarkan perbandingan takrif di atas, pilihan terjemah
+yang disediakan oleh projek suaikata untuk perkataan
+'accessible' ialah:
 
 > mudah sampai, capai atau dapat
 
@@ -63,10 +63,9 @@ adalah contoh soalan yang mungkin timbul:
 Inggeris-Melayu? Ini kerana perkataan 'panda' menggunakan
 ejaan sama dalam kedua-dua bahasa.
 
-2. Perkataan 'vocabulary' ada satu makna, tetapi ada lebih
-daripada satu perkataan terjemah Melayu: 'kosa kata',
-'perbendaharaan kata', 'vokabulari', 'leksikon'. Mana satu
-nak pilih?
+2. Perkataan 'vocabulary' ada satu makna, tetapi ada
+pelbagai terjemah Melayu: kosa kata, perbendaharaan kata,
+vokabulari, leksikon. Mana satu nak pilih?
 
 3. Perkataan 'screenshot' langsung tidak ada perkataan
 terjemah Melayu! Nak cari mana?
@@ -74,17 +73,19 @@ terjemah Melayu! Nak cari mana?
 Dan berikut adalah jawapan ringkas untuk setiap contoh
 soalan yang dikemukakan di atas:
 
-1. Panda sebagai 'beruang panda' sudah memadai.
+1. Panda sebagai "beruang panda" sudah memadai.
 
-2. 'Kosa kata' adalah lebih afdal. Antara semua perkataan
+2. "Kosa kata" adalah lebih afdal. Antara semua perkataan
 yang disenaraikan, yang paling berkemungkinan murid sekolah
-menengah pernah berdepan ialah perkataan 'kosa kata'.
+menengah pernah berdepan ialah perkataan "kosa kata".
 
-3. Buat carian di web - hasilnya 'tangkapan layar'. Jika
+3. Buat carian di web - hasilnya "tangkapan layar". Jika
 tiada terjemahan ke bahasa Melayu boleh pilih yang
-Indonesia.
+Indonesia. Pastikan terjemahan boleh difahami.
 
-Pastikan terjemahan boleh difahami.
+Ringkasnya, buat perbandingan takrif dan tentukan pilihan
+terjemah yang sesuai dan boleh difahami. Buat carian di
+web atau bincang dengan ahli projek untuk bantuan.
 
 laman kembali: [panduan][0]
 

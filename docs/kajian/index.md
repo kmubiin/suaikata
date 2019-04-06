@@ -3,24 +3,25 @@
 
 ## Senarai kajian
 
-### Soal A: Latar belakang
+### Latar belakang
 
-* [Kajian rinci pembangun daftar][11]
-* [Perihal kata masukan][12]
-* [Perihal sumber dan etimologi][13]
+* [Kajian rinci pembangun daftar](rinci.md)
+* [Perihal sumber dan etimologi](sumber.md)
 
-### Soal B: Himpunan daftar
+### Kata masukan
 
-1. [PSAT][101]
-2. [Kata Kerap][102]
+* [Melayu-Melayu](mm.md)
+* [Inggeris-Melayu](em.md)
+* [Jepun-Melayu](jm.md)
 
-laman: [utama][0] - **kajian** - [panduan][2] - [terbitan][3]
+### Daftar terkumpul
+
+* [Tanpa makna](101.md)
+* [Ekabahasa](eka.md)
+* [Dwibahasa](dwi.md)
+
+laman: [utama][0] - **kajian** - [panduan][2] - [catatan][3]
 
   [0]: ../index.md
   [2]: ../panduan/index.md
-  [3]: ../terbitan/index.md
-  [11]: rinci.md
-  [12]: hurai/pekata.md
-  [13]: hurai/peseti.md
-  [101]: himpun/psat.md
-  [102]: himpun/katakerap.md
+  [3]: ../catatan/index.md

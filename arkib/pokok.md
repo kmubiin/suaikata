@@ -1,13 +1,17 @@
-Kandungan pokok dalam arkib:
+Pokok arkib. Semua dokumen dalam arkib adalah salinan
+maklumat bersejarah. Biasanya ahli projek akan meninjau
+arkib untuk meneliti kandungan bersejarah.
 
-* [Salinan papan projek][1]
-* [Reka bentuk helai daftar][2]
+* [Papan Projek 1 - Rancangan](hlm/pp1.md)
+* [Papan Projek 2 - Pencapaian](hlm/pp2.md)
+* [Papan Projek 3 - Semasa](hlm/pp3.md)
+* [Helai daftar awal](hlm/ha.md)
+* [Helai daftar beregu](hlm/hb.md)
+* [Helai daftar beregu terperinci](hlm/hb10.md)
+* [Kumpulan helai daftar](hlm/kh.md)
 
-Sebarang teks dan dokumen dalam arkib adalah salinan
-maklumat bersejarah dan tidak mengandungi maklumat semasa.
+Halaman ini hanya boleh dicapai melalui laman sumber.
 
-laman asal: [README][0]
+[laman sumber][0]
 
-  [0]: ../README.md
-  [1]: atur/projek.md
-  [2]: reka/cipta.md
+  [0]: ../README.md "README"

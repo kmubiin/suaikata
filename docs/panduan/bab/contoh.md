@@ -3,6 +3,14 @@
 
 ### Contoh daftar
 
+#### Daftar dwibahasa lazim (Bab 2)
+
+| inggeris   | melayu          |
+| ---------- | --------------- |
+| panda      | beruang panda   |
+| vocabulary | kosa kata       |
+| screenshot | tangkapan layar |
+
 #### Daftar dwibahasa beregu (PSAT)
 
 | inggeris    | ke | melayu                         | di |
