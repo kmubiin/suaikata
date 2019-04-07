@@ -1,7 +1,7 @@
 ---
 ---
 
-## Catatan dahulu
+### Nota terbitan dahulu
 
 * [1.0](siap/1.0.md)
 * [1.1.0](siap/1.1.0.md)
