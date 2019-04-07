@@ -6,6 +6,7 @@
 ### Nota terbitan
 
 * [semasa][32]
+* 1.4.1 #belum
 * [1.4.0](siap/1.4.0.md)
 * [dahulu][31]
 
