@@ -7,7 +7,7 @@
 
 Terbitan imbuh tambahan selepas 1.4.0 untuk pembetulan.
 
-* **...belum siap**
+* ...belum siap
 
 Terbitan ini dinamakan `1.4.1`
 
