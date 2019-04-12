@@ -3,6 +3,10 @@
 
 ### Perkembangan semasa
 
+Laman ini memuatkan catatan tentang kandungan yang belum
+siap atau yang masih bersambung. Mana-mana kandungan yang
+telah siap akan dipindah salin ke laman berkenaan.
+
 ---
 
 ### Terbitan imbuh 1.4.1
