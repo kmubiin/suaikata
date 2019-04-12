@@ -8,7 +8,7 @@
 * [semasa](semasa.md)
 * 1.4.1 #belum
 * [1.4.0](siap/1.4.0.md)
-* [dahulu](dahulu.md)
+* Lihat semua: [XYZ](xyz.md)
 
 ### Imbas tahun
 
