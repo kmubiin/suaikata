@@ -3,9 +3,13 @@
 
 ## Senarai catatan
 
-### Nota terbitan
+### Perkembangan
 
 * [semasa](semasa.md)
+* tangguh #todo
+
+### Nota terbitan
+
 * 1.4.1 #belum
 * [1.4.0](siap/1.4.0.md)
 * Lihat semua: [XYZ](xyz.md)
