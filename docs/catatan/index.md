@@ -6,7 +6,7 @@
 ### Perkembangan
 
 * [semasa](semasa.md)
-* tangguh #todo
+* [tangguh](tangguh.md)
 
 ### Nota terbitan
 
