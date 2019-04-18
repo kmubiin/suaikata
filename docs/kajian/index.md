@@ -10,14 +10,14 @@
 
 ### Kata masukan
 
-* [Melayu-Melayu](mm.md)
+* [Melayu-Melayu](mm.md) #tiada
 * [Inggeris-Melayu](em.md)
-* [Jepun-Melayu](jm.md)
+* [Jepun-Melayu](jm.md) #tiada
 
 ### Daftar terkumpul
 
-* [Tanpa makna](101.md)
-* [Ekabahasa](eka.md)
+* [Tanpa makna](101.md) #tiada
+* [Ekabahasa](eka.md) #tiada
 * [Dwibahasa](dwi.md)
 
 laman: [utama][0] - **kajian** - [panduan][2] - [catatan][3]
