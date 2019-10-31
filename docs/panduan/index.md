@@ -22,14 +22,15 @@
 31. [Mencipta helai daftar](bab/helai.md)
 32. [Penggunaan lajur](bab/lajur.md)
 33. [Penggunaan baris](bab/baris.md)
+34. [Kelas daftar](bab/kelas.md)
 
-### Bab 4: Daftar sedia dan siap
+### Bab 4: Penyumbang daftar
 
 ### Bab 5: Pengguna daftar
 
 51. [Contoh daftar](bab/contoh.md)
 
-### Nota dan rujukan
+### Rujukan
 
 * [Glosari](ruj/glosari.md)
 * [Dasar panduan](ruj/dasar.md)
