@@ -32,7 +32,7 @@ daftar pertama.
 * [transparent][h] - Wiktionary
 
 **Bab 3: Daftar baharu** merangkumi tajuk penyediaan helai
-daftar, penggunaan lajur, penggunaan baris, dan contoh
+daftar, penggunaan lajur, penggunaan baris, dan kelas
 daftar. Bab ini menerangkan semula bagaimana helai daftar
 harus disediakan untuk cara kerja berkumpulan dan disimpan
 dalam format mudah alih.
@@ -42,6 +42,7 @@ dalam format mudah alih.
 * [Pengaruh baris penamat untuk teks biasa #17][#17]
 * [Google Sheets][j] - perisian web Google
 * [Microsoft Excel Online][k] - perisian web Microsoft
+* [Kelas daftar terkumpul #29][#29]
 
 **Bab 4: Daftar sedia dan siap** belum disediakan.
 
@@ -75,3 +76,4 @@ laman kembali: [panduan][0]
   [#11]: https://github.com/kmubiin/suaikata/issues/11
   [#14]: https://github.com/kmubiin/suaikata/issues/14
   [#17]: https://github.com/kmubiin/suaikata/issues/17
+  [#29]: https://github.com/kmubiin/suaikata/issues/29
