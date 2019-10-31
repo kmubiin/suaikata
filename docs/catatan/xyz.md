@@ -19,7 +19,7 @@ digunakan untuk menamakan semua terbitan imbuh 1.1.0, 1.2.0
 * [1.3.1](siap/1.3.1.md)
 * [1.3.2](siap/1.3.2.md)
 * [1.4.0](siap/1.4.0.md)
-* 1.4.1 #belum
+* [1.4.1](siap/1.4.1.md)
 
 laman kembali: [catatan][0]
 
