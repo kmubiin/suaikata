@@ -44,7 +44,7 @@ dalam format mudah alih.
 * [Microsoft Excel Online][k] - perisian web Microsoft
 * [Kelas daftar terkumpul #29][#29]
 
-**Bab 4: Daftar sedia dan siap** belum disediakan.
+**Bab 4: Penyumbang daftar** belum disediakan.
 
 * (senarai dasar bab 4)
 
