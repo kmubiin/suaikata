@@ -14,9 +14,11 @@ Kalau ada sekalipun, agak terhad untuk kegunaan umum.
 
 Maklumat lanjut di pautan tersenarai:
 
-* [Hasil kajian Mac 2018](latar/1803.md)
+* [Hasil kajian Mac 2018](ura/1803.md)
+* [Kajian daftar PSAT](ura/psat.md)
+* [Kajian daftar kata kerap](ura/katakerap.md)
 * (Hasil kajian masa hadapan)
 
-laman kembali: [kajian][0]
+laman kembali: [utama][0]
 
   [0]: index.md

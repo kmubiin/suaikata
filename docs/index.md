@@ -11,7 +11,8 @@ Laman ini hanya menyediakan kemudahan untuk membaca teks
 dokumentasi. Untuk kemudahan lain, sila layari laman sumber
 projek di GitHub.
 
-laman: **utama** - [panduan][2], [bertag][3]
+laman: **utama** - [panduan][2], [bertag][3], [rinci][4]
 
   [2]: panduan/index.md
   [3]: bertag.md
+  [4]: rinci.md

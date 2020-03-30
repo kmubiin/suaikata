@@ -29,6 +29,6 @@ senarai, lagi kerap perkataan itu digunakan.
 | ------------ | -------:| -------:|
 | kata masukan | 0       | 23020   |
 
-laman kembali: [dwi][0]
+laman kembali: [rinci][0]
 
-  [0]: ../dwi.md
+  [0]: ../rinci.md
