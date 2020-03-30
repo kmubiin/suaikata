@@ -20,7 +20,7 @@ mungkin boleh dilihat semula melalui Wayback Machine.
 
 laman rasmi: [archive.org][ia]
 
-laman kembali: [sumber][0]
+laman kembali: [panduan][0]
 
-  [0]: ../sumber.md
+  [0]: ../index.md
   [ia]: https://archive.org/

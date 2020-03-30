@@ -23,9 +23,9 @@ menurut pilihan tertentu sepertimana bahasa Inggeris ada.
 
 laman rasmi: [en.wiktionary.org][en], [ms.wiktionary.org][ms]
 
-laman kembali: [sumber][0]
+laman kembali: [panduan][0]
 
-  [0]: ../sumber.md
+  [0]: ../index.md
   [a]: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
   [b]: https://simple.wiktionary.org/wiki/Wiktionary:Simple_English_word_list
   [c]: https://simple.wiktionary.org/wiki/Wiktionary:Basic_English_alphabetical_wordlist
