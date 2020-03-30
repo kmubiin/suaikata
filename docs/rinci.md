@@ -17,6 +17,7 @@ Maklumat lanjut di pautan tersenarai:
 * [Hasil kajian Mac 2018](ura/1803.md)
 * [Kajian daftar PSAT](ura/psat.md)
 * [Kajian daftar kata kerap](ura/katakerap.md)
+* [Nota lema Inggeris](lema/inggeris.md)
 * (Hasil kajian masa hadapan)
 
 laman kembali: [utama][0]
