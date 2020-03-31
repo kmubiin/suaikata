@@ -37,9 +37,8 @@ dua ahli projek semasa menyiapkan daftar pertama.
 
 **Bab 3: Daftar baharu** merangkumi tajuk mencipta helai
 daftar, format asal dan mudah alih, dua atau lebih lajur,
-baris penamat, dan daftar lama atau baharu. Bab ini
-menerangkan cara kerja berkumpulan dan cara simpan helai
-daftar yang sesuai.
+penamat baris, dan daftar lama atau baharu. Bab ini
+menerangkan cara kerja dan cara simpan yang sesuai.
 
 * [Penyediaan helaian rebak #9][#9]
 * [Malay translation for Notepad++][3a] &ndash; "Show Newline" diterjemah menjadi "Tunjuk Penamat Baris"
