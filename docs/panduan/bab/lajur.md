@@ -24,7 +24,7 @@ Apabila sesuatu daftar hendak dibangunkan oleh dua atau
 lebih ahli projek dan daftar itu ada lajur terjemah, lajur
 itu dipecah menjadi beberapa lajur baru untuk setiap ahli.
 Projek suaikata menamakan daftar yang dicipta sedemikian
-sebagai **"daftar dwibahasa beregu"**.
+sebagai "daftar dwibahasa beregu".
 
 Daftar dwibahasa beregu yang pertama dalam projek suaikata
 menggunakan enam lajur semasa pembangunan. Namun begitu,
@@ -36,8 +36,8 @@ sebagai fail baru sebelum diterbit di laman sumber projek.
 | ...      | ... | ...    | ... | ...        | ...        |
 
 **Penafian**: Daftar dwibahasa beregu (enam lajur) adalah
-cara kerja percubaan dan terhad untuk kegunaan dua ahli
-projek. Perlu fikirkan cara kerja lain untuk kegunaan ramai.
+cara kerja percubaan bagi kegunaan dua ahli projek. Perlu
+fikirkan cara kerja lain untuk kegunaan umum.
 
 laman kembali: [panduan][0]
 
