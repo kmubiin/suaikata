@@ -34,8 +34,7 @@
 
 * [Glosari](ruj/glosari.md)
 * [Dasar panduan](ruj/dasar.md)
-* [Internet Archive](ruj/archive.md)
-* [Wiktionary](ruj/wiktionary.md)
+* [Sumber ilham](ruj/ilham.md)
 
 laman: [utama][0] - **panduan**
 
