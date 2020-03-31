@@ -3,10 +3,9 @@
 
 ### Asas penyediaan takrif
 
-Secara umum, kita anggap kebanyakan kata masukan Inggeris
-boleh disuaikan dengan kata masukan Melayu yang sama makna.
-Setiap kata masukan Inggeris-Melayu yang sama makna
-selalunya berbeza ejaan atau sebutan.
+Pada anggapan umum, kebanyakan kata masukan Inggeris boleh
+disuaikan dengan kata masukan Melayu yang sama makna. Setiap
+pasangan kata itu selalunya berbeza ejaan atau sebutan.
 
 | inggeris   | melayu       |
 | ---------- | ------------ |
@@ -27,14 +26,13 @@ sebutan, atau tidak ada perkataan jitu yang sama makna.
 | spade      | sejenis daun terup |
 | ...        | ...                |
 
-Takrif yang bermula dengan 'sesuatu', 'sejenis', 'orang yang
-...', 'benda yang...' dan seumpamanya mungkin menandakan
-kata masukan Inggeris tersebut tidak ada perkataan jitu yang
-sama makna dalam bahasa Melayu.
+Takrif yang bermula dengan 'sesuatu, sejenis, orang yang,
+benda yang' dan seumpamanya mungkin menandakan kata masukan
+Inggeris tersebut tidak ada perkataan jitu yang sama makna
+dalam bahasa Melayu.
 
 Sebelum kata masukan Inggeris dapat disuaikan dengan kata
-masukan Melayu, kita seharusnya memahami takrif dalam bahasa
-asal.
+masukan Melayu, **fahamkan takrif dalam bahasa asal**.
 
 | inggeris   | melayu       |
 | ---------- | ------------ |
