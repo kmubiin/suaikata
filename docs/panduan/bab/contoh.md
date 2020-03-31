@@ -1,7 +1,7 @@
 ---
 ---
 
-### Contoh daftar
+### Contoh daftar tersedia
 
 #### Daftar dwibahasa lazim (Bab 2)
 

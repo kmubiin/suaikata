@@ -1,7 +1,7 @@
 ---
 ---
 
-### Penggunaan lajur
+### Dua atau lebih lajur
 
 Daftar dwibahasa yang lazim ada dua lajur sahaja, iaitu satu
 bahasa untuk setiap lajur. Apabila dua ahli projek ingin

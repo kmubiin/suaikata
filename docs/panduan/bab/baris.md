@@ -1,7 +1,7 @@
 ---
 ---
 
-### Penggunaan baris
+### Penamat baris
 
 Apabila pengguna menyunting fail di platform yang berbeza,
 teks biasa mungkin disimpan dengan baris penamat yang

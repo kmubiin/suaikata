@@ -1,7 +1,7 @@
 ---
 ---
 
-### Kelas daftar
+### Mengenal kelas daftar
 
 Semua daftar akan dikumpul mengikut kelas tertentu. Ada tiga kelas daftar utama dan satu kelas daftar tambahan: 101, eka, dwi, umum.
 
