@@ -71,7 +71,7 @@ telah ditetapkan pada 20 aksara.
 dan mungkin berubah dari semasa ke semasa. Sila rujuk pada
 fail daftar dan semak kandungan semasa untuk angka pasti.
 
-laman kembali: [rinci][0]
+laman kembali: [bersuai][0]
 
-  [0]: ../rinci.md
+  [0]: ../bersuai.md
   [a]: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords

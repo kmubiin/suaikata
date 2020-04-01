@@ -11,6 +11,6 @@
 * [repudiate](en/repudiate.md)
 * [suspend](en/suspend.md)
 
-laman kembali: [rinci][0]
+laman kembali: [bersuai][0]
 
-  [0]: ../rinci.md
+  [0]: ../bersuai.md
