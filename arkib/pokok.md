@@ -1,21 +1,23 @@
-Pokok arkib. Semua dokumen dalam arkib adalah salinan
-maklumat bersejarah. Biasanya ahli projek akan meninjau
-arkib untuk meneliti kandungan bersejarah.
+Semua dokumen dalam arkib adalah salinan maklumat bersejarah
+dan disusun mengikut tarikh terawal kandungan.
 
-Terkini dari atas:
+2018-02-25  
+[Helai daftar awal](2018/ha.md)  
 
-* [Kumpulan helai daftar](2019/kh.md)
-* **2019**
-* [Helai daftar beregu terperinci](2018/hb10.md)
-* [Helai daftar beregu](2018/hb.md)
-* [Helai daftar awal](2018/ha.md)
-* [Papan Projek 3 - Semasa](2018/pp3.md)
-* [Papan Projek 2 - Pencapaian](2018/pp2.md)
-* [Papan Projek 1 - Rancangan](2018/pp1.md)
-* **2018**
+2018-03-12  
+[Papan Projek 1 - Rancangan](2018/pp1.md)  
+[Papan Projek 2 - Pencapaian](2018/pp2.md)  
+[Papan Projek 3 - Semasa](2018/pp3.md)  
 
-Halaman ini hanya boleh dicapai melalui laman sumber.
+2018-04-28  
+[Helai daftar beregu](2018/hb.md)  
 
-[laman sumber][0]
+2019-03-31  
+[Kumpulan helai daftar](2019/kh.md)  
+
+2019-04-01  
+[Helai daftar beregu terperinci](2019/hb10.md)  
+
+Kembali ke [laman sumber][0]
 
   [0]: ../README.md "README"
