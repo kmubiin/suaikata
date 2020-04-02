@@ -14,10 +14,10 @@ Kamus ekabahasa dan sebilangan kecil kamus dwibahasa boleh
 didapati sebagai kamus terbitan untuk kegunaan yang khusus,
 misalnya:
 
-* Kamus kata sama dan kata lawan (tesaurus)
-* Kamus peribahasa atau simpulan bahasa
-* Kamus istilah
-* Kamus singkatan (akronim)
+- Kamus kata sama dan kata lawan (tesaurus)
+- Kamus peribahasa atau simpulan bahasa
+- Kamus istilah
+- Kamus singkatan (akronim)
 
 Kamus ekabahasa adalah kamus yang digunakan untuk memahami
 takrif dalam bahasa asal. Dalam kamus ini, satu perkataan

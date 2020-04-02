@@ -5,18 +5,18 @@
 
 Hasil rujukan kamus tersedia:
 
-* kamus dwibahasa terbitan lewat 1990-an membawakan makna
+- kamus dwibahasa terbitan lewat 1990-an membawakan makna
 'suspend' dalam bahasa Melayu sebagai "menyangkut;
 menangguhkan; menunda; untuk sementara waktu; menggantung
 kedudukan atau hak untuk sementara waktu."
-* perkataan 'gantung' ada pelbagai kegunaan;
-* gantung baju - letakkan baju pada penyangkut
-* gantung mati - hukuman menamatkan hayat seseorang
-* gantung diri - perbuatan menamatkan hayat seseorang
-* gantung sekolah - hukuman tidak dibenarkan hadir ke sekolah
-* gantung kelas - hampir sama dengan 'gantung sekolah' (jarang didapati)
-* gantung sesi - hampir sama dengan 'gantung sekolah' (jarang didapati)
-* gantung tugas - hukuman tidak dibenarkan hadir ke tempat kerja
+- perkataan 'gantung' ada pelbagai kegunaan;
+- gantung baju - letakkan baju pada penyangkut
+- gantung mati - hukuman menamatkan hayat seseorang
+- gantung diri - perbuatan menamatkan hayat seseorang
+- gantung sekolah - hukuman tidak dibenarkan hadir ke sekolah
+- gantung kelas - hampir sama dengan 'gantung sekolah' (jarang didapati)
+- gantung sesi - hampir sama dengan 'gantung sekolah' (jarang didapati)
+- gantung tugas - hukuman tidak dibenarkan hadir ke tempat kerja
 
 Berikut adalah huraian terjemah oleh projek suaikata.
 
@@ -24,9 +24,9 @@ Berikut adalah huraian terjemah oleh projek suaikata.
 
 Terjemah 'suspend' makna ke-1:
 
-* terjemah M - gantung atau tangguh
-* terjemah A - *tiada*
-* pilihan terjemah: **gantung atau tangguh**
+- terjemah M - gantung atau tangguh
+- terjemah A - *tiada*
+- pilihan terjemah: **gantung atau tangguh**
 
 Terjemah adalah kukuh, maka tidak ada ulasan.
 
@@ -34,9 +34,9 @@ Terjemah adalah kukuh, maka tidak ada ulasan.
 
 Terjemah 'suspend' makna ke-2:
 
-* terjemah M - gantung (komputer)
-* terjemah A - *tiada*
-* pilihan terjemah: **gantung (komputer)**
+- terjemah M - gantung (komputer)
+- terjemah A - *tiada*
+- pilihan terjemah: **gantung (komputer)**
 
 Ulasan M:
 
@@ -65,9 +65,9 @@ takrif yang paling masuk akal.
 M berpendapat ada terjemah yang lebih sesuai untuk istilah
 komputer 'suspend':
 
-* tangguh (yakni hentikan tugas buat sementara waktu) atau;
+- tangguh (yakni hentikan tugas buat sementara waktu) atau;
 
-* tidurkan (yakni rujukan langsung untuk istilah komputer
+- tidurkan (yakni rujukan langsung untuk istilah komputer
 yang lebih umum 'sleep mode' yang merangkumi semua jenis
 arahan tidur: 'suspend', 'hibernate', 'hybrid sleep')
 

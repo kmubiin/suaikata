@@ -5,10 +5,10 @@
 
 Hasil rujukan kamus tersedia:
 
-* kamus ekabahasa terbitan 2012 membawakan makna 'charlatan'
+- kamus ekabahasa terbitan 2012 membawakan makna 'charlatan'
 dalam bahasa Inggeris sebagai "person who claims expertise
 that he or she does not have"
-* kamus dwibahasa terbitan lewat 1990-an membawakan makna
+- kamus dwibahasa terbitan lewat 1990-an membawakan makna
 'charlatan' dalam bahasa Melayu sebagai "orang yang berlagak
 pandai, terutama dalam perubatan"
 
@@ -18,9 +18,9 @@ Berikut adalah huraian terjemah oleh projek suaikata.
 
 Terjemah 'charlatan' makna ke-1:
 
-* terjemah M - orang yang mengaku mahir; penyemu
-* terjemah A - penipu
-* pilihan terjemah: **orang yang mengaku mahir; penyemu**
+- terjemah M - orang yang mengaku mahir; penyemu
+- terjemah A - penipu
+- pilihan terjemah: **orang yang mengaku mahir; penyemu**
 
 Ulasan M:
 

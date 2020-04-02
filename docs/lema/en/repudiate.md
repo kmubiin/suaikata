@@ -5,15 +5,15 @@
 
 Hasil rujukan kamus tersedia:
 
-* kamus ekabahasa terbitan 2012 membawakan makna 'repudiate'
+- kamus ekabahasa terbitan 2012 membawakan makna 'repudiate'
 dalam bahasa Inggeris sebagai "reject the authority or
 validity of; disown"
-* kamus dwibahasa terbitan lewat 1990-an membawakan makna
+- kamus dwibahasa terbitan lewat 1990-an membawakan makna
 'repudiate' dalam bahasa Melayu sebagai "menolak,
 menyangkal"
-* carian dalam talian mendapati kata masukan 'repudiate'
+- carian dalam talian mendapati kata masukan 'repudiate'
 ada lebih daripada satu makna;
-* kamus bebas Wiktionary membawakan tiga makna dalam bahasa
+- kamus bebas Wiktionary membawakan tiga makna dalam bahasa
 Inggeris iaitu "1. To reject the truth or validity of; to
 deny; 2. To refuse to have anything to do with;
 to disown; 3. To refuse to pay or honor (a debt)"
@@ -24,9 +24,9 @@ Berikut adalah huraian terjemah oleh projek suaikata.
 
 Terjemah 'repudiate' makna ke-1:
 
-* terjemah M - menolak (kaitan)
-* terjemah A - membantah
-* pilihan terjemah: **menolak (kaitan)**
+- terjemah M - menolak (kaitan)
+- terjemah A - membantah
+- pilihan terjemah: **menolak (kaitan)**
 
 Pembetulan telah dibuat pada terjemah M daripada "menafikan"
 kepada "menolak (kaitan)".
@@ -55,21 +55,21 @@ ayat ringkas Inggeris-Melayu untuk ketiga-tiga makna kata
 
 > (1) to repudiate a lover
 >
-> * menafikan hubungan kekasih (kurang sesuai)
-> * membantah hubungan kekasih (kurang sesuai)
-> * menolak hubungan kekasih (sesuai)
+> - menafikan hubungan kekasih (kurang sesuai)
+> - membantah hubungan kekasih (kurang sesuai)
+> - menolak hubungan kekasih (sesuai)
 >
 > (2) to repudiate contract
 >
-> * menafikan perjanjian (sesuai)
-> * membantah perjanjian (sesuai)
-> * menolak perjanjian (sesuai)
+> - menafikan perjanjian (sesuai)
+> - membantah perjanjian (sesuai)
+> - menolak perjanjian (sesuai)
 >
 > (3) to repudiate debt
 >
-> * menafikan hutang (kurang sesuai)
-> * membantah hutang (kurang sesuai)
-> * menolak hutang (sesuai)
+> - menafikan hutang (kurang sesuai)
+> - membantah hutang (kurang sesuai)
+> - menolak hutang (sesuai)
 
 Dalam semua ayat ringkas di atas, kata 'repudiate' digunakan
 untuk merujuk pada suatu perkaitan, sama ada hubungan

@@ -34,13 +34,13 @@ Soal jawab ahli projek
 Bila projek hampir selesai, kemukakan beberapa soalan
 tentang apa yang diusahakan dalam projek ini dan ulasan
 masing-masing.
-* Nyatakan satu perkataan dalam kosa kata asal (Inggeris)
+- Nyatakan satu perkataan dalam kosa kata asal (Inggeris)
 yang paling sukar untuk diterjemah.
-* Nyatakan satu perkataan dalam kosa kata terjemah (Melayu)
+- Nyatakan satu perkataan dalam kosa kata terjemah (Melayu)
 yang paling disukai. Dan sebabnya?
-* Adakah projek ini telah mencapai apa yang diharapkan oleh
+- Adakah projek ini telah mencapai apa yang diharapkan oleh
 setiap ahli projek?
-* Jika tidak, apakah matlamat yang tidak dapat dicapai itu?
+- Jika tidak, apakah matlamat yang tidak dapat dicapai itu?
 
 ---
 Kosa kata peringkat sekolah
@@ -48,9 +48,9 @@ Kosa kata peringkat sekolah
 M mungkin akan mengkaji dan menambah kosa kata kurikulum
 bersepadu sekolah:
 
-* Tahap rendah (kbsr-N.csv)
-* Tahap menegah (kbsm-N.csv)
-* Tahap tinggi (kbst-N.csv)
+- Tahap rendah (kbsr-N.csv)
+- Tahap menegah (kbsm-N.csv)
+- Tahap tinggi (kbst-N.csv)
 
 N = nilai tahun atau tingkatan
 
@@ -68,12 +68,12 @@ Simpan di `/daftar/umum`
 Automated as `To do`
 
 > Move issues here when…
-> * [x] Newly added
-> * [x] Reopened
+> - [x] Newly added
+> - [x] Reopened
 >
 > Move pull requests here when…
-> * [x] Newly added
-> * [x] Reopened
+> - [x] Newly added
+> - [x] Reopened
 
 ---
 ---
@@ -91,38 +91,38 @@ Automated as `To do`
 ---
 (closed) Statistik data terkumpul
 
-* #8 opened by kmubiin
-* `penambahan` `tertolak`
+- #8 opened by kmubiin
+- `penambahan` `tertolak`
 
 ---
 (closed) Pembaikan keluaran pertama
 
-* 8 of 8
-* #18 opened by kmubiin
-* `selingan`
-* Assigned to kmubiin
+- 8 of 8
+- #18 opened by kmubiin
+- `selingan`
+- Assigned to kmubiin
 
 ---
 (closed) Kemudahan capaian data
 
-* #6 opened by kmubiin
-* `penambahan` `tertolak`
+- #6 opened by kmubiin
+- `penambahan` `tertolak`
 
 ---
 (closed) Panduan penyediaan takrif
 
-* #10 opened by kmubiin
-* `rujukan`
+- #10 opened by kmubiin
+- `rujukan`
 
 ---
 Automated as `Done`
 
 > Move issues here when…
-> * [x] Closed
+> - [x] Closed
 >
 > Move pull requests here when…
-> * [x] Merged
-> * [x] Closed with unmerged commits
+> - [x] Merged
+> - [x] Closed with unmerged commits
 
 ---
 ---

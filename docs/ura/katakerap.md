@@ -17,11 +17,11 @@ senarai, lagi kerap perkataan itu digunakan.
 
 #### Pembangunan daftar
 
-* Kumpulan daftar: umum
-* Bahasa daftar: Inggeris-Melayu
-* Pembangun daftar: 1
-* Tarikh mula: -
-* Tarikh siap: 2018-05-03
+- Kumpulan daftar: umum
+- Bahasa daftar: Inggeris-Melayu
+- Pembangun daftar: 1
+- Tarikh mula: -
+- Tarikh siap: 2018-05-03
 
 #### Maklumat perangkaan
 

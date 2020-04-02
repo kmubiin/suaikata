@@ -21,7 +21,7 @@ Daftar dwibahasa yang menggunakan tiga lajur:
 | ---------- | ------------ | ---------------------------------------- |
 | water      | air          | cecair jernih di dalam sungai dan laut   |
 | chlorophyl | klorofil     | pigmen hijau di dalam daun-daun tumbuhan |
-| rice flour | tepung beras | tepung daripada beras digiling halus
+| rice flour | tepung beras | tepung daripada beras digiling halus     |
 | ...        | ...          | ...                                      |
 
 Rancangan awal projek telah memutuskan lajur tambahan untuk

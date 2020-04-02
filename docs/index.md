@@ -41,5 +41,5 @@ bersedia dan tidak ada jadual tetap.
 &nbsp;  
 Untuk kemudahan lain, sila layari laman sumber di GitHub.
 
-[Laman sumber](../README.md)
+Laman sumber
 &nbsp; &lt;https://github.com/kmubiin/suaikata&gt;

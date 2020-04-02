@@ -5,19 +5,19 @@
 
 Hasil rujukan kamus tersedia:
 
-* kamus dwibahasa terbitan lewat 1990-an membawakan makna
+- kamus dwibahasa terbitan lewat 1990-an membawakan makna
 'abstract' dalam bahasa Melayu sebagai "abstrak, mujarad"
 yang berkongsi ejaan dengan bahasa asing
-* perkataan 'mujarad' membawa makna "tidak nampak dan tidak
+- perkataan 'mujarad' membawa makna "tidak nampak dan tidak
 dapat dirasa, tidak maujud, abstrak, niskala"
-* perkataan 'nyata' membawa makna "benar-benar ada, maujud,
+- perkataan 'nyata' membawa makna "benar-benar ada, maujud,
 wujud"
-* perkataan 'zahir' membawa makna "lahir, yang nyata
+- perkataan 'zahir' membawa makna "lahir, yang nyata
 kelihatan, jasmani, maujud"
-* kamus bahasa Melayu terbitan seawal 1970-an ada membawa
+- kamus bahasa Melayu terbitan seawal 1970-an ada membawa
 makna 'nyata' sebagai "lawan abstrak" dan perkataan 'lahir'
 digunakan untuk 'zahir' pada masa itu
-* kamus bahasa Melayu terbitan lewat 1990-an bagaimanapun
+- kamus bahasa Melayu terbitan lewat 1990-an bagaimanapun
 telah membuang perkaitan "lawan abstrak" dan memperkenal
 'zahir' sebagai perkataan seerti 'lahir'
 
@@ -27,9 +27,9 @@ Berikut adalah huraian terjemah oleh projek suaikata.
 
 Terjemah 'abstract' makna ke-1:
 
-* terjemah M - tidak nyata
-* terjemah A - tak zahir
-* pilihan terjemah: **tidak nyata**
+- terjemah M - tidak nyata
+- terjemah A - tak zahir
+- pilihan terjemah: **tidak nyata**
 
 Ulasan M:
 
@@ -44,9 +44,9 @@ tidak kelihatan, dan lebih umum berbanding 'zahir'.
 
 Terjemah 'abstract' makna ke-2:
 
-* terjemah M - ringkasan
-* terjemah A - *tiada*
-* pilihan terjemah: **ringkasan**
+- terjemah M - ringkasan
+- terjemah A - *tiada*
+- pilihan terjemah: **ringkasan**
 
 Terjemah adalah kukuh, maka tidak ada ulasan.
 
@@ -54,9 +54,9 @@ Terjemah adalah kukuh, maka tidak ada ulasan.
 
 Terjemah 'abstract' makna ke-3:
 
-* terjemah M - meringkaskan, memisahkan atau tarik
-* terjemah A - *tiada*
-* pilihan terjemah: **meringkaskan, memisahkan atau tarik**
+- terjemah M - meringkaskan, memisahkan atau tarik
+- terjemah A - *tiada*
+- pilihan terjemah: **meringkaskan, memisahkan atau tarik**
 
 Terjemah adalah kukuh, maka tidak ada ulasan.
 
@@ -64,9 +64,9 @@ Terjemah adalah kukuh, maka tidak ada ulasan.
 
 Terjemah 'abstract' makna ke-4:
 
-* terjemah M - niskala, abstrak (fikiran, seni)
-* terjemah A - *tiada*
-* pilihan terjemah: **niskala; abstrak (fikiran, seni)**
+- terjemah M - niskala, abstrak (fikiran, seni)
+- terjemah A - *tiada*
+- pilihan terjemah: **niskala; abstrak (fikiran, seni)**
 
 Ulasan M:
 

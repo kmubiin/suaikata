@@ -43,9 +43,9 @@
 
 #### Rujukan
 
-* [Glosari](ruj/glosari.md)
-* [Dasar panduan](ruj/dasar.md)
-* [Sumber ilham](ruj/ilham.md)
+- [Glosari](ruj/glosari.md)
+- [Dasar panduan](ruj/dasar.md)
+- [Sumber ilham](ruj/ilham.md)
 
 laman kembali: [utama][0]
 

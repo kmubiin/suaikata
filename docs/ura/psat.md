@@ -9,7 +9,7 @@ perkataan yang kerap digunakan dalam ujian PSAT. Daftar ini
 adalah daftar pertama yang dibangunkan secara beregu oleh
 dua ahli projek.
 
-Senarai kata masukan *tanpa makna* telah disalin daripada
+Senarai kata masukan *tanpa makna- telah disalin daripada
 [PSAT High Frequency Words][a]. Daftar asal ini mengandungi
 kata masukan Inggeris yang kerap muncul dalam ujian PSAT
 antara tahun 1980 dan 1999. Jumlah kata masukan asal ialah
@@ -21,11 +21,11 @@ antara tahun 1980 dan 1999. Jumlah kata masukan asal ialah
 
 #### Pembangunan daftar
 
-* Kumpulan daftar: regu
-* Bahasa daftar: Inggeris-Melayu
-* Pembangun daftar: 2
-* Tarikh mula: 2018-03-29
-* Tarikh siap: 2018-04-30
+- Kumpulan daftar: regu
+- Bahasa daftar: Inggeris-Melayu
+- Pembangun daftar: 2
+- Tarikh mula: 2018-03-29
+- Tarikh siap: 2018-04-30
 
 #### Maklumat perangkaan
 
@@ -40,13 +40,13 @@ antara tahun 1980 dan 1999. Jumlah kata masukan asal ialah
 
 Penerangan Jadual 1:
 
-* Bilangan kata masukan yang lengkap dipaparkan dalam lajur
+- Bilangan kata masukan yang lengkap dipaparkan dalam lajur
 "Semasa" di petak hujung kanan, angka pertama dari atas.
 
-* Untuk membuat semakan, bilangan kata masukan yang lengkap
+- Untuk membuat semakan, bilangan kata masukan yang lengkap
 bersamaan jumlah terjemah (X+M+A) dalam lajur "Semasa".
 
-* Apabila semua kata masukan telah diterjemah dan semua
+- Apabila semua kata masukan telah diterjemah dan semua
 selisih terjemah telah selesai, bilangan terjemah X dalam
 kedua-dua lajur akan menjadi sifar.
 
@@ -59,13 +59,13 @@ kedua-dua lajur akan menjadi sifar.
 
 Penerangan Jadual 2:
 
-* Bilangan kata masukan yang lengkap harus mengutamakan
+- Bilangan kata masukan yang lengkap harus mengutamakan
 terjemah yang pendek lagi tepat. Had kepanjangan terjemah
 telah ditetapkan pada 20 aksara.
 
-* Jika 20 aksara atau kurang, maka dikira pendek.
+- Jika 20 aksara atau kurang, maka dikira pendek.
 
-* Jika melebihi 20 aksara, maka dikira panjang.
+- Jika melebihi 20 aksara, maka dikira panjang.
 
 **Penafian**: Maklumat perangkaan adalah maklumat sampingan
 dan mungkin berubah dari semasa ke semasa. Sila rujuk pada

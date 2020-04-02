@@ -8,17 +8,17 @@ suaikata, lesen sumber terbuka, dan hak cipta tidak
 terpelihara. Bab ini menerangkan semula usul projek suaikata
 dan pengetahuan umum yang berkaitan.
 
-* [Takrif Projek R4 #1][#1]
-* [Kajian projek tercipta #2][#2]
-* [Pengendalian data #5][#5]
-* [Rendering CSV and TSV data][1a] &ndash; GitHub Help
-* [Pelesenan projek #3][#3]
-* [Choose an open source license][1b] &ndash; curated by GitHub
-* [Conformant Licenses][1c] &ndash; Open Definition
-* [CC BY 4.0][1d] &ndash; Creative Commons
-* [What Does Copyright Protect? (FAQ)][1e] &ndash; U.S. Copyright
+- [Takrif Projek R4 #1][#1]
+- [Kajian projek tercipta #2][#2]
+- [Pengendalian data #5][#5]
+- [Rendering CSV and TSV data][1a] &ndash; GitHub Help
+- [Pelesenan projek #3][#3]
+- [Choose an open source license][1b] &ndash; curated by GitHub
+- [Conformant Licenses][1c] &ndash; Open Definition
+- [CC BY 4.0][1d] &ndash; Creative Commons
+- [What Does Copyright Protect? (FAQ)][1e] &ndash; U.S. Copyright
 Office
-* [Feist v. Rural][1f] &ndash; Wikipedia
+- [Feist v. Rural][1f] &ndash; Wikipedia
 
 **Bab 2: Bahasa dan terjemahan** merangkumi tajuk bahasa
 Melayu piawai, sumber kata masukan, asas penyediaan takrif,
@@ -27,40 +27,40 @@ dan kamus sebagai rujukan. Bab ini sangat mencontohi garis
 panduan wiki dan menyusun semula hasil perbincangan antara
 dua ahli projek semasa menyiapkan daftar pertama.
 
-* [Wikipedia:Gunakan bahasa Melayu piawai][2a]
-* [Keterbalikan antara sumber dan bidang kosa kata #7][#7]
-* [Panduan penyediaan takrif #10][#10]
-* [chronicle][2b] &ndash; Wiktionary
-* [Soal kesesuaian takrif #11][#11]
-* [Penyelesaian kesulitan terjemah tunggal #14][#14]
-* [transparent][2c] &ndash; Wiktionary
+- [Wikipedia:Gunakan bahasa Melayu piawai][2a]
+- [Keterbalikan antara sumber dan bidang kosa kata #7][#7]
+- [Panduan penyediaan takrif #10][#10]
+- [chronicle][2b] &ndash; Wiktionary
+- [Soal kesesuaian takrif #11][#11]
+- [Penyelesaian kesulitan terjemah tunggal #14][#14]
+- [transparent][2c] &ndash; Wiktionary
 
 **Bab 3: Daftar baharu** merangkumi tajuk mencipta helai
 daftar, format asal dan mudah alih, dua atau lebih lajur,
 penamat baris, dan daftar lama atau baharu. Bab ini
 menerangkan cara kerja dan cara simpan yang sesuai.
 
-* [Penyediaan helaian rebak #9][#9]
-* [Malay translation for Notepad++][3a] &ndash; "Show Newline" diterjemah menjadi "Tunjuk Penamat Baris"
-* [Teks biasa][3b] &ndash; Wikipedia Bahasa Melayu
-* [Pengaruh penamat baris untuk teks biasa #17][#17]
-* [Google Sheets][3c] &ndash; perisian web Google
-* [Microsoft Excel Online][3d] &ndash; perisian web Microsoft
-* [Salin dan perbaik daftar kata kerap #32][#32]
+- [Penyediaan helaian rebak #9][#9]
+- [Malay translation for Notepad++][3a] &ndash; "Show Newline" diterjemah menjadi "Tunjuk Penamat Baris"
+- [Teks biasa][3b] &ndash; Wikipedia Bahasa Melayu
+- [Pengaruh penamat baris untuk teks biasa #17][#17]
+- [Google Sheets][3c] &ndash; perisian web Google
+- [Microsoft Excel Online][3d] &ndash; perisian web Microsoft
+- [Salin dan perbaik daftar kata kerap #32][#32]
 
 **Bab 4: (belum sedia)** merangkumi tajuk memahami ciri
 daftar, mengenal kelas daftar, daftar tanpa makna, daftar
 satu bahasa, daftar dua bahasa, dan contoh daftar tersedia.
 
-* [Rangkuman kosa kata #4][#4]
-* [Keterbalikan antara sumber dan bidang kosa kata #7][#7]
-* [Kelas daftar terkumpul #29][#29]
+- [Rangkuman kosa kata #4][#4]
+- [Keterbalikan antara sumber dan bidang kosa kata #7][#7]
+- [Kelas daftar terkumpul #29][#29]
 
 **Bab 5: (belum sedia)** merangkumi tajuk senarai semak
 daftar, memuat daftar, mengkaji lema dan daftar.
 
-* [Adding a file to a repository][5a] &ndash; GitHub Help
-* [Ulasan pembangun daftar pertama #20][#20]
+- [Adding a file to a repository][5a] &ndash; GitHub Help
+- [Ulasan pembangun daftar pertama #20][#20]
 
 Bab-bab lain, jika ada, belum ada dasar pada masa ini.
 Sebarang pautan yang tersenarai di atas adalah pautan
