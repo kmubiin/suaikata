@@ -1,11 +1,10 @@
 ---
 ---
 
-### Penggunaan baris
+### Penamat baris
 
-Apabila pengguna menyunting fail di platform yang berbeza,
-teks biasa mungkin disimpan dengan baris penamat yang
-berbeza.
+Apabila menyunting fail di platform tertentu, teks biasa
+mungkin menggunakan penamat baris yang berbeza.
 
 > Dalam pengkomputan, teks biasa (Bahasa Inggeris: Plain
 > text) ialah kandungan fail berjujukan biasa yang dapat
@@ -14,49 +13,40 @@ berbeza.
 >
 > Sumber: Wikipedia Bahasa Melayu
 
-Baris penamat berserta penggunaan di platform umum adalah
-seperti berikut:
+Penamat baris bagi platform umum adalah seperti berikut:
 
-| Baris penamat | Platform    |
+| Penamat baris | Platform    |
 | ------------- | ----------- |
 | LF            | Unix        |
 | CR            | Mac         |
 | CRLF (EOL)    | DOS/Windows |
 
-Kebanyakan pengguna akan mendapati teks biasa dengan
-mana-mana baris penamat boleh dibaca seperti biasa
-menggunakan aplikasi lazim. Namun begitu, aplikasi atau
-laman dalam talian adakalanya tidak menyokong kesemua
-baris penamat.
+Teks biasa dengan mana-mana penamat baris boleh dibaca
+seperti biasa menggunakan aplikasi lazim. Namun begitu,
+aplikasi atau laman dalam talian adakalanya tidak menyokong
+kesemua penamat baris.
 
-Misalnya di GitHub, para pengguna harus menyedari bahawa
-pilihan baris penamat dalam teks biasa akan mempengaruhi
-jumlah sumbangan (contributions) yang dipaparkan di laman,
+Misalnya di GitHub, pilihan penamat baris dalam teks biasa
+akan mempengaruhi jumlah sumbangan yang terpapar di laman,
 yakni bilangan baris yang diubah dalam teks biasa.
 
 Sumbangan pertama:
 
-> Add files via upload
->
+> Add files via upload  
 > 1 parent `7447ef1` commit
-`0bda916e5f03ec82696939ed507483bb4ba85c4f`
->
-> [...] Showing with 23,020 additions and 0 deletions.
+`0bda916e5f03ec82696939ed507483bb4ba85c4f`  
+> [...] Showing with 23,020 additions and 0 deletions.  
 
 Sumbangan kedua:
 
-> Muatnaik 4000 perkataan Inggeris paling biasa
->
+> Muatnaik 4000 perkataan Inggeris paling biasa  
 > 1 parent `747de60` commit
-`5c4032de829ed5e2cde2214f59b0fea83345c326`
->
-> [...] Showing with 1 addition and 0 deletions.
->
-> 3 commits 23,021 ++ 23,020 --
+`5c4032de829ed5e2cde2214f59b0fea83345c326`  
+> [...] Showing with 1 addition and 0 deletions.  
+> 3 commits 23,021 ++ 23,020 --  
 
-Lihat perbezaan kiraan baris terhadap teks biasa bersama
-baris penamat yang berbeza, yang dilakukan melalui garis
-perintah `file` dan `wc` di GNU/Linux seperti berikut.
+Lihat juga perbezaan kiraan baris yang dilakukan melalui
+garis perintah `file` dan `wc` di GNU/Linux seperti berikut.
 
     $ file *.csv
     contoh.csv:                 ASCII text
@@ -71,13 +61,13 @@ perintah `file` dan `wc` di GNU/Linux seperti berikut.
      23020  40179 553304 katakerap-lama-0bda916.csv
      23026  80368 994602 total
 
-Teks biasa 'ASCII text' dianggap menggunakan baris penamat
-LF walaupun tidak ditunjukkan. Teks biasa bersama baris
+Teks biasa 'ASCII text' dianggap menggunakan penamat baris
+LF walaupun tidak tercatat. Teks biasa bersama baris
 penamat CR didapati menunjukkan bilangan baris yang salah
-(0) berbanding baris penamat CRLF yang menunjukkan
+(0) berbanding penamat baris CRLF yang menunjukkan
 bilangan baris yang betul (23020).
 
-Maka, baris penamat **LF** atau **CRLF** harus digunakan.
+Sebaiknya gunakan penamat baris **LF** atau **CRLF**.
 
 laman kembali: [panduan][0]
 

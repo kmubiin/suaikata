@@ -1,7 +1,7 @@
 ---
 ---
 
-### Penggunaan kamus
+### Kamus sebagai rujukan
 
 Usaha mendapatkan takrif bermula dengan merujuk pada kamus.
 Ada tiga jenis kamus yang boleh dikenal pasti:
@@ -29,10 +29,10 @@ bahasa lain yang menyamai takrif dalam bahasa asal, kamus
 yang digunakan ialah kamus dwibahasa. Apabila melibatkan
 tiga atau lebih bahasa, kamus itu ialah kamus aneka bahasa.
 
-Kamus dwibahasa memudahkan kita mendapatkan takrif dalam
-bahasa terjemah untuk perkataan dalam bahasa asal. Namun,
+Kamus dwibahasa adalah kamus yang digunakan untuk memahami
+takrif dalam bahasa terjemah sebagai jalan mudah. Namun,
 kemudahan ini boleh menjadi satu kebetulan atau satu
-kesalahan jika takrif tersebut diambil bulat-bulat tanpa
+kesalahan apabila takrif tersebut diambil bulat-bulat tanpa
 menguasai bahasa asal.
 
 Misalnya, bandingkan takrif dalam bahasa terjemah dan
@@ -67,8 +67,8 @@ makna 'lut sinar' atau 'jernih' semata-mata.
 
 Penutur bahasa yang menguasai bahasa asal dengan baik boleh
 mengenal pasti kebetulan dan kesalahan sesuatu takrif. Oleh
-itu, kamus dwibahasa harus dianggap sebagai *bukan* rujukan
-utama tetapi rujukan sampingan untuk perbandingan takrif.
+itu, kamus harus digunakan sebagai **rujukan sampingan**
+untuk perbandingan takrif.
 
 laman kembali: [panduan][0]
 

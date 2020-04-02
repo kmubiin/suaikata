@@ -16,15 +16,15 @@ makna yang pertama mesti mematuhi perkara ini.
 
 > component
 >
-> **X - Salah**: 1. komponen dalam litar; 2. bahagian
+> **Salah**: 1. komponen dalam litar; 2. bahagian
 >
-> **O - Betul**: 1. bahagian; 2. komponen dalam litar
+> **Betul**: 1. bahagian; 2. komponen dalam litar
 
 **Kedua**: Gunakan ejaan penuh dan bukan singkatan.
 
-> **X - Salah**: yg, drpd
+> **Salah**: yg, drpd
 >
-> **O - Betul**: yang, daripada
+> **Betul**: yang, daripada
 
 **Ketiga**: Gunakan kosa kata Melayu yang sesuai untuk
 penulisan dan bukan percakapan, sekalipun dengan tujuan
@@ -32,9 +32,9 @@ mencadangkan kosa kata mudah dan biasa digunakan.
 
 > random
 >
-> **X - Salah**: hentam saja (bahasa percakapan)
+> **Salah**: hentam saja (bahasa percakapan)
 >
-> **O - Betul**: sembarangan
+> **Betul**: sembarangan
 
 Secara tidak langsung, bahasa Melayu piawai adalah bahasa
 Melayu yang diiktiraf oleh pihak pemantau bahasa serta yang

@@ -3,9 +3,13 @@
 
 ### Hak cipta tidak terpelihara
 
+Projek suaikata mengusahakan daftar kosa kata berdasarkan
+mana-mana daftar yang boleh diperoleh daripada sumber awam.
 Secara umum, sebarang senarai bahan atau kandungan
 semata-mata adalah di luar kuasa undang-undang dan hak cipta
 *tidak* terpelihara.
+
+Berikut adalah beberapa hujah sebagai bukti sokongan.
 
 Hujah 1:
 
@@ -23,10 +27,15 @@ Hujah 1:
 > Sumber: What Does Copyright Protect? (FAQ),
 > U.S. Copyright Office
 
-Berdasarkan hujah 1, senarai mudah yang boleh dicapai
-daripada sumber awam, kecuali disertakan dengan sesuatu yang
-ada nilai kesusasteraan, adalah bukan di bawah perlindungan
-undang-undang hak cipta.
+Berdasarkan hujah 1, senarai yang **mudah** dan yang
+**boleh dicapai daripada sumber awam** adalah bukan di bawah
+perlindungan undang-undang hak cipta, kecuali disertakan
+sesuatu yang ada nilai kesusasteraan.
+
+Hujah menyatakan bahawa: sekiranya perlu merahsiakan sesuatu
+seperti bahan istimewa dalam resipi, maklumat sedemikian
+tidak patut didaftar kerana permohonan dan salinan hantar
+hak cipta adalah rekod awam.
 
 Hujah 2:
 
@@ -43,10 +52,14 @@ Hujah 2:
 >
 > Sumber: Feist v. Rural, Wikipedia
 
-Berdasarkan hujah 2, senarai yang mengandungi maklumat dalam
-bentuk fakta seperti buku direktori telefon adalah hak cipta
-yang tidak boleh terpelihara. Dengan itu, pelanggaran hak
-cipta tidak pernah wujud.
+Berdasarkan hujah 2, senarai yang **mengandungi fakta**
+seperti buku direktori telefon adalah hak cipta yang tidak
+boleh terpelihara. Dengan itu, pelanggaran hak cipta tidak
+pernah wujud.
+
+Projek suaikata menggunakan **senarai kata tanpa makna**
+bagi menghasilkan daftar baharu yang bermakna dengan cara
+tersendiri.
 
 laman kembali: [panduan][0]
 

@@ -5,7 +5,7 @@
 
 Perbandingan takrif adalah cara lazim untuk membawakan
 takrif daripada bahasa asal kepada bahasa terjemah. Sebelum
-membuat pilihan terjemah, buat perbandingan takrif dahulu.
+membuat pilihan terjemah, **buat perbandingan takrif**.
 
 Berikut adalah contoh perbandingan takrif untuk perkataan
 'accessible' menggunakan dua kamus ekabahasa dan empat
@@ -55,7 +55,7 @@ yang disediakan oleh projek suaikata untuk perkataan
 
 > mudah sampai, capai atau dapat
 
-Usaha mendapatkan takrif boleh menjadi rumit apabila
+Usaha mendapatkan takrif **boleh menjadi rumit** apabila
 sukar untuk menentukan takrif yang paling sesuai. Berikut
 adalah contoh soalan yang mungkin timbul:
 
@@ -84,8 +84,8 @@ tiada terjemahan ke bahasa Melayu boleh pilih yang
 Indonesia. Pastikan terjemahan boleh difahami.
 
 Ringkasnya, buat perbandingan takrif dan tentukan pilihan
-terjemah yang sesuai dan boleh difahami. Buat carian di
-web atau bincang dengan ahli projek untuk bantuan.
+terjemah yang sesuai dan boleh difahami. Untuk bantuan, buat
+carian di web atau bincang dengan ahli projek.
 
 laman kembali: [panduan][0]
 
