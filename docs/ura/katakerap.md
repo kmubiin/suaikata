@@ -1,33 +1,43 @@
 ---
 ---
 
-### Kajian daftar Kata Kerap
+### Kajian daftar kata kerap
 
-Daftar Kata Kerap terbitan projek suaikata ialah daftar
-dwibahasa Inggeris-Melayu yang diterjemah daripada senarai
-perkataan Inggeris secara sampingan. Tidak ada maklumat
-tentang daftar asal.
+Daftar kata kerap terbitan projek suaikata ialah daftar
+dwibahasa Inggeris-Melayu berdasarkan daftar asal yang
+tidak dinamakan.
 
-#### Tentang Kata Kerap
+Daftar ini adalah sumbangan sukarela.
+
+#### Tentang kata kerap
 
 Senarai 4000 perkataan bahasa Inggeris paling biasa atau
 kerap digunakan berserta terjemahan dalam bahasa Melayu.
-Disusun mengikut kekerapan - lagi tinggi kedudukan di
+Disusun mengikut kekerapan&mdash;lagi tinggi kedudukan di
 senarai, lagi kerap perkataan itu digunakan.
 
-#### Pembangunan daftar
+#### Maklumat daftar tersedia
 
-- Kumpulan daftar: umum
-- Bahasa daftar: Inggeris-Melayu
-- Pembangun daftar: 1
+Butir-butir daftar kata kerap:
+
+- Bahasa pengantar: Inggeris-Melayu
+- Kelas daftar: umum
+- Pengusaha daftar: 1
 - Tarikh mula: -
 - Tarikh siap: 2018-05-03
+- Tarikh lengkap: -
 
-#### Maklumat perangkaan
+Maklumat perangkaan bagi daftar kata kerap:
 
 | Bilangan     | Asal    | Semasa  |
 | ------------ | -------:| -------:|
 | kata masukan | 0       | 23020   |
+
+Bilangan semasa bagi daftar kata kerap mengira semua baris
+yang ada dalam fail, termasuk tajuk di baris pertama.
+
+Bagaimanapun, bilangan semasa adalah termasuk perkataan
+berulang yang mempunyai terjemahan yang berbeza.
 
 laman kembali: [bersuai][0]
 
