@@ -7,12 +7,11 @@ Pada anggapan umum, kebanyakan kata masukan Inggeris boleh
 disuaikan dengan kata masukan Melayu yang sama makna. Setiap
 pasangan kata itu selalunya berbeza ejaan atau sebutan.
 
-| inggeris   | melayu       |
-| ---------- | ------------ |
-| water      | air          |
-| eat        | makan        |
-| vocabulary | kosa kata    |
-| ...        | ...          |
+| inggeris | melayu     |
+| -------- | ---------- |
+| water    | air        |
+| eat      | makan      |
+| train    | kereta api |
 
 Namun, bukan semua kata masukan Inggeris dapat disuaikan
 dengan kata masukan Melayu. Perkataan-perkataan ini mungkin
@@ -24,7 +23,6 @@ sebutan, atau tidak ada perkataan jitu yang sama makna.
 | panda      | panda              |
 | issue      | isu                |
 | spade      | sejenis daun terup |
-| ...        | ...                |
 
 Takrif yang bermula dengan 'sesuatu, sejenis, orang yang,
 benda yang' dan seumpamanya mungkin menandakan kata masukan
