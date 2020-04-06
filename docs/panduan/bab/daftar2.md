@@ -34,5 +34,5 @@ dipilih ialah bahasa Inggeris.
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [2a]: asas.md "Rujuk jadual di awal bab ini"
-  [2b]: takrif.md "Rujuk perenggan soal jawab di hujung bab ini"
+  [2a]: asas.md
+  [2b]: takrif.md
