@@ -20,10 +20,10 @@ yang menjadikan daftar itu unik.
 Contohnya, kata masukan 'ia' ada dua makna yang diketahui
 dan boleh dinyatakan secara halus dengan pembayang.
 
-> ia 1: kata lain 'dia’  
-> ia 2: kata lain 'ya’ seperti ‘seia’ dan ‘beria-ia’  
+> ia 1: 'dia’  
+> ia 2: 'ya’ seperti ‘seia’ dan ‘beria-ia’  
 
-Pembayang bagi makna pertama menyatakan 'ia' adalah kata
+Pembayang bagi makna pertama mencadangkan 'ia' adalah kata
 lain bagi 'dia', tetapi makna perkataan 'ia' mahupun 'dia'
 sengaja tidak disertakan. Ciri ini akan memudahkan daftar
 baharu disediakan pada masa hadapan.
