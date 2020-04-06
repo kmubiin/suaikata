@@ -30,9 +30,9 @@
 
 41. Memahami ciri daftar
 42. [Mengenal kelas daftar](bab/kelas.md)
-43. Daftar tanpa makna
-44. Daftar satu bahasa
-45. Daftar dua bahasa
+43. [Daftar tanpa makna](bab/daftar0.md)
+44. [Daftar satu bahasa](bab/daftar1.md)
+45. [Daftar dua bahasa](bab/daftar2.md)
 46. [Contoh daftar tersedia](bab/contoh.md)
 
 #### Bab 5: (belum sedia)
