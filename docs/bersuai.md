@@ -18,6 +18,8 @@ kemas kini bersama pautan sehala ke nota berkenaan.
 &ndash; Inggeris-Melayu, [1.4.0](tag/1.4.0.md)
 2. [Kata kerap](ura/katakerap.md)
 &ndash; Inggeris-Melayu, [1.0](tag/1.0.md)
+3. [Kata kerap unik](ura/kerapu.md)
+&ndash; Inggeris-Melayu, 1.4.6 (dirancang)
 
 laman kembali: [utama][0]
 
