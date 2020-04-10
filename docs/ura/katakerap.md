@@ -31,11 +31,13 @@ Maklumat perangkaan bagi daftar kata kerap:
 
 | Bilangan     | Asal    | Semasa  |
 | ------------ | -------:| -------:|
-| kata masukan | 0       | 23020   |
+| kata masukan | 4021    | 23019   |
+
+Jumlah kata masukan asal adalah hasil kiraan semua perkataan
+yang ada dalam daftar kata tanpa ulangan.
 
 Bilangan semasa bagi daftar kata kerap mengira semua baris
-yang ada dalam fail, termasuk tajuk di baris pertama.
-
+yang ada dalam fail, kecuali tajuk di baris pertama.
 Bagaimanapun, bilangan semasa adalah termasuk perkataan
 berulang yang mempunyai terjemahan yang berbeza.
 

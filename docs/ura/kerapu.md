@@ -70,9 +70,9 @@ Jumlah kata masukan adalah sama dengan hasil tambah satu
 aksara, dua aksara, dan tiga aksara di lajur semasa.
 
 Bilangan asal dan semasa bagi daftar ini mengira semua
-baris yang ada dalam fail, tidak termasuk tajuk di baris
-pertama. Bagaimanapun, bilangan semasa adalah termasuk
-perkataan berulang yang mempunyai terjemahan yang berbeza.
+baris yang ada dalam fail, kecuali tajuk di baris pertama.
+Bagaimanapun, bilangan semasa adalah termasuk perkataan
+berulang yang mempunyai terjemahan yang berbeza.
 
 laman kembali: [bersuai][0]
 
