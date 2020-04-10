@@ -5,7 +5,7 @@
 
 #### Bab 1: Satu permulaan
 
-11. Mengenal projek suaikata
+11. Mengenal projek suaikata #todo
 12. [Lesen sumber terbuka](bab/lesen.md)
 13. [Hak cipta tidak terpelihara](bab/hak-cipta.md)
 
@@ -17,6 +17,7 @@
 24. [Takrif asal dan terjemah](bab/takrif.md)
 25. [Satu atau dua salinan terjemah](bab/salinan.md)
 26. [Kamus sebagai rujukan](bab/kamus.md)
+27. Terjemahan mesin #todo
 
 #### Bab 3: Daftar baharu
 
@@ -24,11 +25,11 @@
 32. [Format asal dan mudah alih](bab/format.md)
 33. [Dua atau lebih lajur](bab/lajur.md)
 34. [Penamat baris](bab/baris.md)
-35. Daftar lama atau baharu
+35. Daftar lama atau baharu #todo
 
 #### Bab 4: (belum sedia)
 
-41. Memahami ciri daftar
+41. Memahami ciri daftar #todo
 42. [Mengenal kelas daftar](bab/kelas.md)
 43. [Daftar tanpa makna](bab/daftar0.md)
 44. [Daftar satu bahasa](bab/daftar1.md)

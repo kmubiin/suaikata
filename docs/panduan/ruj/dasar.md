@@ -23,9 +23,9 @@ Office
 **Bab 2: Bahasa dan terjemahan** merangkumi tajuk bahasa
 Melayu piawai, sumber kata masukan, asas penyediaan takrif,
 takrif asal dan terjemah, satu atau dua salinan terjemah,
-dan kamus sebagai rujukan. Bab ini sangat mencontohi garis
-panduan wiki dan menyusun semula hasil perbincangan antara
-dua ahli projek semasa menyiapkan daftar pertama.
+kamus sebagai rujukan, dan terjemahan mesin. Bab ini sangat
+mencontohi garis panduan wiki dan menyusun semula hasil
+perbincangan semasa menyiapkan daftar pertama.
 
 - [Wikipedia:Gunakan bahasa Melayu piawai][2a]
 - [Keterbalikan antara sumber dan bidang kosa kata #7][#7]
