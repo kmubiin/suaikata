@@ -5,12 +5,12 @@ layout: default
 Projek suaikata ialah projek perkamusan sumber terbuka yang
 dimulakan oleh dua orang penutur bahasa Melayu.
 
-&laquo;**Daftar kata**&raquo;  
+&#8983; **Daftar kata** &#8983;  
 Projek perkamusan ini mengusahakan daftar kata dan bukan
-kamus lengkap. Daftar kata adalah terhad, sengaja tidak
-panjang, atau sekadar memenuhi keperluan tertentu.
+kamus lengkap. Daftar kata adalah terhad atau sekadar
+memenuhi keperluan tertentu.
 
-&laquo;**CC-BY-4.0**&raquo;  
+&#9740; **CC-BY-4.0** &#9740;  
 Daftar kata tersedia boleh digunakan untuk apa-apa tujuan
 dengan syarat "sebut nama" atau menyatakan perakuan hak
 cipta asal.
