@@ -38,9 +38,10 @@ perkataan di baris masing-masing, terhad pada 3 aksara
 atau kurang sahaja dalam daftar ini
 
 Semua analisa awal dan perubahan di atas dilakukan dalam
-helaian rebak dan menggunakan formula sokongan LibreOffice
-Calc: `SUBSTITUTE`, `IF`, `RIGHT`, `CONCATENATE`, `MATCH`,
-`ROW`, `TRIM`, `LEN`.
+helaian rebak dan menggunakan rumus sokongan terbina dalam
+LibreOffice Calc: `SUBSTITUTE`, `IF`, `RIGHT`,
+`CONCATENATE`, `MATCH`, `ROW`, `TRIM`, `LEN`. Lihat juga
+salinan maklumat bertarikh 2020-03-10 di arkib.
 
 Selain itu, susunan adalah mengikut kekerapan dan setara
 dengan susunan yang asal. Bandingan kedudukan baris di
