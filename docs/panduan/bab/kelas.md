@@ -12,10 +12,10 @@ kelas utama dan satu kelas tambahan: 101, eka, dwi, umum.
 - **umum**: Kelas untuk daftar lain-lain  
 
 Kelas 101 adalah kelas bebas. Kelas ini tidak mengambil kira
-siapa yang mengusahakannya. Dalam kelas ini, daftar tanpa
-makna tidak boleh disertakan makna tetapi harus disertakan
-pembayang bagi setiap makna yang diketahui. Pembayang inilah
-yang menjadikan daftar itu unik.
+siapa yang mengusahakannya. Dalam kelas ini, daftar tidak
+boleh disertakan makna tetapi harus disertakan pembayang
+bagi setiap makna yang diketahui. Pembayang akan memudahkan
+usaha mendapatkan takrif terjemah daripada yang asal.
 
 Contohnya, kata masukan 'ia' ada dua makna yang diketahui
 dan boleh dinyatakan secara halus dengan pembayang.
@@ -25,11 +25,11 @@ dan boleh dinyatakan secara halus dengan pembayang.
 
 Pembayang bagi makna pertama mencadangkan 'ia' adalah kata
 lain bagi 'dia', tetapi makna perkataan 'ia' mahupun 'dia'
-sengaja tidak disertakan. Ciri ini akan memudahkan daftar
-baharu disediakan pada masa hadapan.
+sengaja tidak disertakan. Ciri ini memberi petunjuk dalam
+bahasa asal supaya lebih mudah diterjemah kemudian.
 
 Sebarang daftar dalam kelas bebas boleh disalin semula dan
-disunting menjadi daftar baharu dalam kelas lain.
+disertakan makna menjadi daftar baharu dalam kelas lain.
 
 Kelas eka dan dwi adalah kelas regu yang dinamakan sempena
 istilah satu bahasa (ekabahasa) dan istilah dua bahasa
