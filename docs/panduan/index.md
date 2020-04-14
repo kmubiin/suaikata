@@ -25,7 +25,7 @@
 32. [Format asal dan mudah alih](bab/format.md)
 33. [Dua atau lebih lajur](bab/lajur.md)
 34. [Penamat baris](bab/baris.md)
-35. Daftar lama atau baharu #todo
+35. [Menyunting daftar lama atau baharu](bab/sunting.md)
 
 #### Bab 4: (belum sedia)
 
