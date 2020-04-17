@@ -6,9 +6,9 @@
 Daftar PSAT terbitan projek suaikata ialah daftar dwibahasa
 Inggeris-Melayu berdasarkan [PSAT High Frequency Words][a].
 
-Daftar PSAT asal mengandungi perkataan Inggeris yang kerap
-muncul dalam ujian PSAT antara tahun 1980 dan 1999. Jumlah
-kata masukan asal ialah 267, termasuk 2 pendua.
+Daftar asal tersebut mengandungi perkataan Inggeris yang
+kerap muncul dalam ujian PSAT antara tahun 1980 dan 1999.
+Jumlah kata masukan asal ialah 267, termasuk 2 pendua.
 
 #### Tentang PSAT atau SAT
 
@@ -27,8 +27,6 @@ Butir-butir daftar PSAT:
 
 Maklumat perangkaan bagi daftar PSAT:
 
-**Jadual 1: Bilangan kata masukan bersama terjemah**
-
 | Bilangan     | Asal    | Semasa  |
 | ------------ | -------:| -------:|
 | kata masukan | 265     | 344     |
@@ -36,38 +34,36 @@ Maklumat perangkaan bagi daftar PSAT:
 | terjemah M   | 109     | 196     |
 | terjemah A   | 130     | 148     |
 
-Penerangan Jadual 1:
+**Jadual 1** di atas menunjukkan bilangan kata masukan
+bersama terjemah bagi daftar PSAT.
 
-- Bilangan kata masukan yang lengkap dipaparkan dalam lajur
+- Jumlah kata masukan yang lengkap dipaparkan dalam lajur
 "Semasa" di petak hujung kanan, angka pertama dari atas.
 
-- Untuk membuat semakan, bilangan kata masukan yang lengkap
-bersamaan jumlah terjemah (X+M+A) dalam lajur "Semasa".
+- Jumlah kata masukan adalah hasil tambah kesemua terjemah
+(X+M+A) dalam lajur "Semasa".
 
 - Apabila semua kata masukan telah diterjemah dan semua
 selisih terjemah telah selesai, bilangan terjemah X dalam
 kedua-dua lajur akan menjadi sifar.
 
-**Jadual 2: Bilangan kata masukan yang pendek dan panjang**
+| Bilangan          | Semasa  |
+| ----------------- | -------:|
+| terjemah pendek   | 262     |
+| terjemah panjang  | 82      |
 
-| Bilangan | Semasa  |
-| -------- | -------:|
-| pendek   | 262     |
-| panjang  | 82      |
+**Jadual 2** di atas menunjukkan bilangan terjemah yang
+pendek dan panjang bagi daftar PSAT.
 
-Penerangan Jadual 2:
-
-- Bilangan kata masukan yang lengkap harus mengutamakan
-terjemah yang pendek lagi tepat. Had kepanjangan terjemah
-telah ditetapkan pada 20 aksara.
+- Kata masukan harus mengutamakan terjemah yang pendek lagi
+tepat. Had panjang terjemah ditetapkan pada 20 aksara.
 
 - Jika 20 aksara atau kurang, maka dikira pendek.
 
 - Jika melebihi 20 aksara, maka dikira panjang.
 
-**Penafian**: Maklumat perangkaan adalah maklumat sampingan
-dan mungkin berubah dari semasa ke semasa. Sila semak fail
-daftar di laman sumber untuk angka pasti.
+**Penafian**: Maklumat perangkaan bagi daftar PSAT adalah
+rujukan laku untuk pengusaha daftar ini sahaja.
 
 laman kembali: [bersuai][0]
 
