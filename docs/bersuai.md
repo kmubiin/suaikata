@@ -3,16 +3,14 @@
 
 ### Bicara lema dan daftar (bersuai)
 
-Nota lema mengikut susunan abjad dalam bahasa asal. Lema
-yang mempunyai takrif sukar atau keliru boleh diterangkan
-dalam nota lema untuk memahami pemilihan takrif.
+Nota lema mengikut susunan abjad dalam bahasa asal. Terhad
+pada lema yang ada takrif sukar atau keliru.
 
 - Melayu
 - [Inggeris](lema/inggeris.md)
 
-Daftar pertama dan terawal dari atas. Tidak termasuk daftar
-contoh dan tanpa makna. Setiap daftar dinyatakan terbitan
-kemas kini bersama pautan sehala ke nota berkenaan.
+Daftar pertama dan terawal dari atas, kecuali daftar contoh
+dan tanpa makna. Pautan sehala ke nota terbitan berkenaan.
 
 1. [PSAT](ura/psat.md)
 &ndash; Inggeris-Melayu, [1.4.0](tag/1.4.0.md)

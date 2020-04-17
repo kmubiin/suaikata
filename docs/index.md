@@ -19,8 +19,8 @@ cipta asal.
 Maklumat lanjut:
 
 &sect; **Kajian rinci**
-&ndash; Projek suaikata pada mulanya mendapati tidak ada
-projek yang mengusahakan kamus bahasa Melayu secara terbuka.
+&ndash; Projek suaikata pada mulanya mendapati kamus bahasa
+Melayu sebagai sumber terbuka sukar dicari.
 [Lihat rinci](rinci.md)
 
 &sect; **Lema dan daftar**
@@ -29,17 +29,14 @@ bahasa asal dan bahasa Melayu.
 [Lihat bersuai](bersuai.md)
 
 &sect; **Cara kerja**
-&ndash; Projek suaikata mempunyai pendekatan dan cara kerja
-yang tersendiri bagi mengusahakan daftar kata.
+&ndash; Projek suaikata mempunyai pendekatan tersendiri bagi
+mengusahakan daftar kata.
 [Lihat panduan](panduan/index.md)
 
 &sect; **Nota terbitan**
-&ndash; Projek suaikata menandakan sesuatu terbitan apabila
-bersedia dan tidak ada jadual tetap.
+&ndash; Projek suaikata menyediakan terbitan tanpa rutin dan
+secara sukarela.
 [Lihat bertag](bertag.md)
 
 &nbsp;  
 Untuk kemudahan lain, sila layari laman sumber di GitHub.
-
-Laman sumber
-&nbsp; &lt;https://github.com/kmubiin/suaikata&gt;
