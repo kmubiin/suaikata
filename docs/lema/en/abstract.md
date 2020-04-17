@@ -23,55 +23,55 @@ telah membuang perkaitan "lawan abstrak" dan memperkenal
 
 Berikut adalah huraian terjemah oleh projek suaikata.
 
-#### abstract (1)
+#### abstract(1)
 
 Terjemah 'abstract' makna ke-1:
 
-- terjemah M - tidak nyata
-- terjemah A - tak zahir
+- terjemah M: tidak nyata
+- terjemah A: tak zahir
 - pilihan terjemah: **tidak nyata**
 
-Ulasan M:
+Ulasan M bagi abstract(1):
 
-Hasil rujukan mendapati kata masukan 'abstract (1)' berkait
+Hasil rujukan mendapati kata masukan 'abstract(1)' berkait
 rapat dengan 'nyata' berbanding 'zahir'. Perkataan 'tak
 zahir' atau 'batin' lazimnya dikaitkan dengan jiwa dan
 perasaan hati. Maka 'tidak nyata' adalah terjemah yang
 lebih sesuai, boleh merujuk pada sesuatu yang wujud tetapi
 tidak kelihatan, dan lebih umum berbanding 'zahir'.
 
-#### abstract (2)
+#### abstract(2)
 
 Terjemah 'abstract' makna ke-2:
 
-- terjemah M - ringkasan
-- terjemah A - *tiada*
+- terjemah M: ringkasan
+- terjemah A: *tiada*
 - pilihan terjemah: **ringkasan**
 
 Terjemah adalah kukuh, maka tidak ada ulasan.
 
-#### abstract (3)
+#### abstract(3)
 
 Terjemah 'abstract' makna ke-3:
 
-- terjemah M - meringkaskan, memisahkan atau tarik
-- terjemah A - *tiada*
+- terjemah M: meringkaskan, memisahkan atau tarik
+- terjemah A: *tiada*
 - pilihan terjemah: **meringkaskan, memisahkan atau tarik**
 
 Terjemah adalah kukuh, maka tidak ada ulasan.
 
-#### abstract (4)
+#### abstract(4)
 
 Terjemah 'abstract' makna ke-4:
 
-- terjemah M - niskala, abstrak (fikiran, seni)
-- terjemah A - *tiada*
+- terjemah M: niskala, abstrak (fikiran, seni)
+- terjemah A: *tiada*
 - pilihan terjemah: **niskala; abstrak (fikiran, seni)**
 
-Ulasan M:
+Ulasan M bagi abstract(4):
 
 Terjemah yang paling asing telah dicadangkan sebagai makna
-terakhir untuk kata masukan 'abstract (4)'. Hasil carian
+terakhir untuk kata masukan 'abstract(4)'. Hasil carian
 mendapati perkataan 'niskala' adalah istilah Malaysia,
 manakala 'abstrak' adalah istilah Indonesia dan Brunei.
 Perkataan 'niskala' boleh ditemui dalam judul buku-buku

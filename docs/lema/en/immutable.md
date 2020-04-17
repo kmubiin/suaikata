@@ -13,19 +13,19 @@ berubah; yang tidak dapat ditukar; tetap"
 
 Berikut adalah huraian terjemah oleh projek suaikata.
 
-#### immutable (1)
+#### immutable(1)
 
 Terjemah 'immutable' makna ke-1:
 
-- terjemah M - bersifat nyahubah
-- terjemah A - tak terubah
+- terjemah M: bersifat nyahubah
+- terjemah A: tak terubah
 - pilihan terjemah: **tak terubah**
 
 Pembetulan telah dibuat pada terjemah A daripada "tak
 berubah" kepada "tak terubah". Hanya berbeza satu huruf
 dalam imbuhan awalan, namun ter- adalah lebih tepat.
 
-Ulasan M:
+Ulasan M bagi immutable(1):
 
 Makna "tidak dapat berubah" dan "tidak berubah" menyatakan
 dua keadaan yang sama tetapi tidak serupa. Meskipun

@@ -20,18 +20,18 @@ to disown; 3. To refuse to pay or honor (a debt)"
 
 Berikut adalah huraian terjemah oleh projek suaikata.
 
-#### repudiate (1)
+#### repudiate(1)
 
 Terjemah 'repudiate' makna ke-1:
 
-- terjemah M - menolak (kaitan)
-- terjemah A - membantah
+- terjemah M: menolak (kaitan)
+- terjemah A: membantah
 - pilihan terjemah: **menolak (kaitan)**
 
 Pembetulan telah dibuat pada terjemah M daripada "menafikan"
 kepada "menolak (kaitan)".
 
-Ulasan M:
+Ulasan M bagi repudiate(1):
 
 Sebelum ini, padanan terjemah bagi 'repudiate' dan 'refute'
 adalah sama, iaitu "membantah". Terjemah pendua tersebut
@@ -53,22 +53,22 @@ Bandingkan kesesuaian ketiga-tiga padanan terjemah dengan
 ayat ringkas Inggeris-Melayu untuk ketiga-tiga makna kata
 'repudiate' seperti berikut:
 
-> (1) to repudiate a lover
+> makna asal 1: to repudiate a lover
 >
 > - menafikan hubungan kekasih (kurang sesuai)
-> - membantah hubungan kekasih (kurang sesuai)
+> - membantah hubungan kekasih (tidak sesuai)
 > - menolak hubungan kekasih (sesuai)
 >
-> (2) to repudiate contract
+> makna asal 2: to repudiate contract
 >
 > - menafikan perjanjian (sesuai)
 > - membantah perjanjian (sesuai)
 > - menolak perjanjian (sesuai)
 >
-> (3) to repudiate debt
+> makna asal 3: to repudiate debt
 >
 > - menafikan hutang (kurang sesuai)
-> - membantah hutang (kurang sesuai)
+> - membantah hutang (tidak sesuai)
 > - menolak hutang (sesuai)
 
 Dalam semua ayat ringkas di atas, kata 'repudiate' digunakan

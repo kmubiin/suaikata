@@ -17,15 +17,15 @@ teach or demonstrate; 2. Excessively moralizing"
 
 Berikut adalah huraian terjemah oleh projek suaikata.
 
-#### didactic (1)
+#### didactic(1)
 
 Terjemah 'didactic' makna ke-1:
 
-- terjemah M - bersifat mengajar
-- terjemah A - bersyarah macam bagus
-- pilihan terjemah: **bersifar mengajar**
+- terjemah M: bersifat mengajar
+- terjemah A: bersyarah macam bagus
+- pilihan terjemah: **bersifat mengajar**
 
-Ulasan M:
+Ulasan M bagi didactic(1):
 
 Menurut kamus bebas, kata masukan 'didactic' ada dua makna
 umum, dan terjemah langsung daripada makna dalam bahasa asal

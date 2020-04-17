@@ -16,15 +16,15 @@ that is not true'
 
 Berikut adalah huraian terjemah oleh projek suaikata.
 
-#### refute (1)
+#### refute(1)
 
 Terjemah 'refute' makna ke-1:
 
-- terjemah M - membuktikan tidak benar
-- terjemah A - membantah
+- terjemah M: membuktikan tidak benar
+- terjemah A: membantah
 - pilihan terjemah: **membuktikan tidak benar**
 
-Ulasan M:
+Ulasan M bagi refute(1):
 
 Kamus ekabahasa sudah menjelaskan bahawa 'refute' tidak sama
 dengan 'deny'. Terjemah langsung untuk makna 'refute' ialah
@@ -32,8 +32,8 @@ dengan 'deny'. Terjemah langsung untuk makna 'refute' ialah
 makna 'deny' ialah "menyatakan bahawa tidak benar".
 
 Oleh itu, padanan terjemah yang betul bagi 'refute' ialah
-"membuktikan tidak benar" dan *bukan- "membantah" atau
-"menyatakan tidak benar".
+"membuktikan tidak benar" dan *bukan* sekadar "membantah"
+atau "menyatakan tidak benar".
 
 laman berkaitan: **refute**, [repudiate][2]
 

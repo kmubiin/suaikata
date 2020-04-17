@@ -14,15 +14,15 @@ pandai, terutama dalam perubatan"
 
 Berikut adalah huraian terjemah oleh projek suaikata.
 
-#### charlatan (1)
+#### charlatan(1)
 
 Terjemah 'charlatan' makna ke-1:
 
-- terjemah M - orang yang mengaku mahir; penyemu
-- terjemah A - penipu
+- terjemah M: orang yang mengaku mahir; penyemu
+- terjemah A: penipu
 - pilihan terjemah: **orang yang mengaku mahir; penyemu**
 
-Ulasan M:
+Ulasan M bagi charlatan(1):
 
 Padanan terjemah "penipu" adalah betul tetapi tidak menyamai
 makna dalam bahasa asal. Lazimnya, "penipu" ialah padanan
