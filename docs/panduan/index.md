@@ -27,14 +27,15 @@
 34. [Penamat baris](bab/baris.md)
 35. [Menyunting daftar lama atau baharu](bab/sunting.md)
 
-#### Bab 4: (belum sedia)
+#### Bab 4: Daftar lazim dan tersedia
 
-41. Memahami ciri daftar #todo
+41. Bentuk lazim daftar #todo
 42. [Mengenal kelas daftar](bab/kelas.md)
 43. [Daftar tanpa makna](bab/daftar0.md)
 44. [Daftar satu bahasa](bab/daftar1.md)
 45. [Daftar dua bahasa](bab/daftar2.md)
-46. [Contoh daftar tersedia](bab/contoh.md)
+46. Kelainan ciri daftar #todo
+47. [Contoh daftar tersedia](bab/contoh.md)
 
 #### Bab 5: (belum sedia)
 

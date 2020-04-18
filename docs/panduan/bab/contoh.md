@@ -6,7 +6,7 @@
 Berikut adalah salinan sebahagian daripada daftar-daftar
 yang telah disedia untuk projek suaikata.
 
-#### Daftar dwibahasa beregu (PSAT)
+Daftar dwibahasa beregu (PSAT):
 
 | inggeris    | ke | melayu                         | di |
 | ----------- | -- | ------------------------------ | -- |
@@ -15,10 +15,10 @@ yang telah disedia untuk projek suaikata.
 | chronicle   | 1  | riwayat                        | A+ |
 | chronicle   | 2  | mencatat dalam riwayat         | M  |
 
-#### Daftar dwibahasa umum (kata kerap)
+Daftar dwibahasa umum (kata kerap):
 
 | perkataan | terjemahan  |
-|-----------|-------------|
+| --------- | ----------- |
 | the       | al          |
 | the       | ini         |
 | the       | itu         |

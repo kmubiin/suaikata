@@ -48,9 +48,11 @@ ini menerangkan cara kerja dan cara simpan yang sesuai.
 - [Microsoft Excel Online][3d] &ndash; perisian web Microsoft
 - [Salin dan perbaik daftar kata kerap #32][#32]
 
-**Bab 4: (belum sedia)** merangkumi tajuk memahami ciri
-daftar, mengenal kelas daftar, daftar tanpa makna, daftar
-satu bahasa, daftar dua bahasa, dan contoh daftar tersedia.
+**Bab 4: Daftar lazim dan tersedia** merangkumi tajuk bentuk
+lazim daftar, mengenal kelas daftar, daftar tanpa makna,
+daftar satu bahasa, daftar dua bahasa, kelainan ciri daftar,
+dan contoh daftar tersedia. Bab ini menerangkan cara daftar
+disusun dan disedia oleh projek suaikata.
 
 - [Rangkuman kosa kata #4][#4]
 - [Keterbalikan antara sumber dan bidang kosa kata #7][#7]

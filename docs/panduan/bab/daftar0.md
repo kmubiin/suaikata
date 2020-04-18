@@ -6,7 +6,7 @@
 Daftar yang membawakan kata tanpa makna dalam bahasa asal
 adalah seperti berikut.
 
-Kata Melayu dua aksara (ms2):
+Kata dua aksara Melayu (ms2):
 
 | melayu | pembayang                   |
 | ------ | --------------------------- |
@@ -19,7 +19,7 @@ Kata Melayu dua aksara (ms2):
 | fi     | 'fai’ bagi abjad dan simbol |
 | fi     | ‘fee’ bagi 'bayaran’        |
 
-Kata Inggeris dua aksara (en2):
+Kata dua aksara Inggeris (en2):
 
 | inggeris | pembayang     |
 | -------- | ------------- |

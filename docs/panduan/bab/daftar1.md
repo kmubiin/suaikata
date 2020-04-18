@@ -8,27 +8,27 @@ dalam satu bahasa adalah seperti berikut.
 
 Kata lawan Melayu-Melayu (contoh 4a):
 
-| kata dasar | kata lawan  |
-| -----------|-------------|
-| awal       | akhir       |
-| baik       | buruk       |
-| bujang     | kahwin      |
-| dikit      | banyak      |
-| kanan      | kiri        |
+| melayu | kata lawan |
+| ------ | ---------- |
+| awal   | akhir      |
+| baik   | buruk      |
+| bujang | kahwin     |
+| dikit  | banyak     |
+| kanan  | kiri       |
 
 Kata sama Melayu-Melayu (contoh 4b):
 
-| kata dasar | kata sama    |
-|------------|--------------|
-| awal       | cepat        |
-| baik       | bagus        |
-| baik       | elok         |
-| bujang     | dara         |
-| bujang     | teruna       |
-| dikit      | sedikit      |
-| dikit      | kurang       |
-| dikit      | tidak banyak |
-| kanan      | timur        |
+| melayu | kata sama    |
+| ------ | ------------ |
+| awal   | cepat        |
+| baik   | bagus        |
+| baik   | elok         |
+| bujang | dara         |
+| bujang | teruna       |
+| dikit  | sedikit      |
+| dikit  | kurang       |
+| dikit  | tidak banyak |
+| kanan  | timur        |
 
 Semua daftar di atas adalah salinan termudah sebahagian
 daripada daftar berkenaan di laman sumber. Daftar sebenar
