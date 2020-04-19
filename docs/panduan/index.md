@@ -37,11 +37,10 @@
 46. Kelainan ciri daftar #todo
 47. [Contoh daftar tersedia](bab/contoh.md)
 
-#### Bab 5: (belum sedia)
+#### Bab 5: Hasil kerja
 
-51. Senarai semak daftar
-52. Memuat daftar
-53. Mengkaji lema dan daftar
+51. Memuat daftar #todo
+52. Mengkaji lema dan daftar #todo
 
 #### Rujukan
 

@@ -58,8 +58,9 @@ disusun dan disedia oleh projek suaikata.
 - [Keterbalikan antara sumber dan bidang kosa kata #7][#7]
 - [Kelas daftar terkumpul #29][#29]
 
-**Bab 5: (belum sedia)** merangkumi tajuk senarai semak
-daftar, memuat daftar, mengkaji lema dan daftar.
+**Bab 5: Hasil kerja** merangkumi tajuk memuat daftar dan
+mengkaji lema dan daftar. Bab ini menerangkan cara memuat
+daftar ke laman sumber dan menulis kajian daftar.
 
 - [Adding a file to a repository][5a] &ndash; GitHub Help
 - [Ulasan pembangun daftar pertama #20][#20]
