@@ -24,6 +24,11 @@ seperti kamus Inggeris-Melayu
 memuatkan dua salinan terjemah dan memetik salah satunya
 bersama tanda nama pengusaha
 
+**fail**&#179; (en: file)
+&ndash; kandungan dan maklumat yang dikumpul dan dikenal
+dengan nama tertentu dan disimpan dalam peranti storan,
+umpama fail kertas kerja yang disusun dalam almari
+
 **format asal** (en: native format)
 
 **format mudah alih** (en: portable format)
@@ -37,6 +42,10 @@ melakukan sesuatu tugas melalui antara muka teks sahaja
 
 **helaian rebak**&#178; (en: spreadsheet)
 
+**korpus**&#179; (en: corpus; lat: corpus)
+&ndash; kata masukan dalam teks yang dikumpul bersama untuk
+penyelidikan bahasa
+
 **laman sumber**&#178; (en: repository)
 &ndash; laman yang menyediakan kemudahan untuk melawat
 kandungan penuh projek
@@ -48,6 +57,11 @@ kandungan mesra pembaca
 **lema**&#179; (en: lemma)
 &ndash; kata masukan dalam kamus, atau kata dasar yang
 membentuk kata-kata lain dalam sesuatu bahasa
+
+**longgokan data**&#178; (en: data dump, database dump)
+&ndash; kandungan dan maklumat yang dikumpul dan disimpan
+dalam satu fail tersendiri, misalnya salinan muat turun
+daripada pangkalan data wiki
 
 **pelayar web** (en: web browser)
 
@@ -76,7 +90,13 @@ menyatakan perakuan hak cipta asal
 
 **sumber terbuka** (en: open source)
 
+**peranti storan** (en: storage device)
+
 **teks biasa** (en: plain text)
+
+**wiki** (en: wiki; haw: wikiwiki)
+&ndash; laman web sumbangan ramai yang boleh disunting
+oleh sesiapa sahaja dengan menggunakan pelayar web
 
 &nbsp;  
 &#185; istilah baharu, dicipta oleh projek suaikata  
