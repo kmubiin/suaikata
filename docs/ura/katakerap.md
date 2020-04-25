@@ -16,9 +16,28 @@ kerap digunakan berserta terjemahan dalam bahasa Melayu.
 Disusun mengikut kekerapan&mdash;lagi tinggi kedudukan di
 senarai, lagi kerap perkataan itu digunakan.
 
-#### Maklumat daftar tersedia
+#### Tentang binaan daftar
 
-Butir-butir daftar kata kerap:
+Susunan lajur dan baris bagi daftar kata kerap:
+
+| perkataan  | terjemahan |
+| ---------- | ---------- |
+| (lema 1)   | (makna 1)  |
+| (lema 1)   | (makna 2)  |
+| (lema 1)   | (makna 3)  |
+
+Ada dua lajur, iaitu lajur "perkataan" dan "terjemahan".
+Setiap baris boleh memuatkan lema yang sama berserta makna
+yang lain daripada baris sebelumnya.
+
+- Lajur "perkataan" ada kata masukan Inggeris
+
+- Lajur "terjemahan" ada kata masukan Melayu yang padan dengan
+makna bagi kata masukan Inggeris tersebut
+
+#### Tentang hasil daftar
+
+Maklumat kemas kini bagi daftar kata kerap:
 
 - Bahasa pengantar: Inggeris-Melayu
 - Kelas daftar: umum

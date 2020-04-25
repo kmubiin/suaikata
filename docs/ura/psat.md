@@ -14,9 +14,35 @@ Jumlah kata masukan asal ialah 267, termasuk 2 pendua.
 
 Tiada maklumat tentang PSAT atau SAT #todo
 
-#### Maklumat daftar tersedia
+#### Tentang binaan daftar
 
-Butir-butir daftar PSAT:
+Susunan lajur dan baris bagi daftar PSAT:
+
+| inggeris | ke | melayu    | di     |
+| -------- | -- | --------- | ------ |
+| (lema 1) | 1  | (makna 1) | (nama) |
+| (lema 1) | 2  | (makna 2) | (nama) |
+| (lema 2) | 1  | ...       | ...    |
+
+Ada empat lajur, iaitu lajur "inggeris", "ke", "melayu",
+dan "di". Setiap baris boleh memuatkan lema yang sama
+berserta makna yang lain daripada baris sebelumnya.
+
+- Lajur "inggeris" ada kata masukan Inggeris
+
+- Lajur "ke" ada nombor `1` dan nombor N seterusnya, yang
+merujuk pada makna ke-N bagi kata masukan berkenaan
+
+- Lajur "melayu" ada kata masukan Melayu yang padan dengan
+makna bagi kata masukan Inggeris tersebut
+
+- Lajur "di" ada huruf `A` atau `M`, yang merujuk pada nama
+dua orang pengusaha daftar, dan mungkin diiringi simbol `+`
+bagi kata masukan yang pernah ada selisih terjemah
+
+#### Tentang hasil daftar
+
+Maklumat kemas kini bagi daftar PSAT:
 
 - Bahasa pengantar: Inggeris-Melayu
 - Kelas daftar: dwi

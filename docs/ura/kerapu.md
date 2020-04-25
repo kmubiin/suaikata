@@ -13,10 +13,10 @@ Daftar ini adalah sumbangan sukarela.
 
 Senarai perkataan bahasa Inggeris paling biasa dan terhad
 pada tiga aksara atau kurang berserta terjemahan dalam
-bahasa Melayu. Pembaikan daftar kata kerap boleh didapati
-dalam dua kumpulan ciri seperti berikut.
+bahasa Melayu. Susunan adalah setara dengan yang asal.
 
-Pertama, perubahan *rupa* terjemahan:
+Pembaikan daftar kata kerap boleh didapati dari segi *rupa*
+terjemahan seperti berikut.
 
 - aksara `~` diganti dengan `-` kerana formula dalam helaian
 rebak tidak dapat melakukan padanan yang betul
@@ -28,28 +28,44 @@ angka latin dan diiringi satu aksara penjarak
 - aksara penjarak berlebihan sebelum aksara lain dibuang
 - aksara penjarak berlebihan dan berturutan dibuang
 
-Kedua, tambahan dua lajur baharu:
-
-- Lajur "unik" menyimpan padanan kedudukan baris dalam
-daftar asal bagi pasangan perkataan dan terjemahan yang
-tidak berulang
-- Lajur "aksara" menyimpan bilangan aksara bagi setiap
-perkataan di baris masing-masing, terhad pada 3 aksara
-atau kurang sahaja dalam daftar ini
-
 Semua analisa awal dan perubahan di atas dilakukan dalam
 helaian rebak dan menggunakan rumus sokongan terbina dalam
 LibreOffice Calc: `SUBSTITUTE`, `IF`, `RIGHT`,
 `CONCATENATE`, `MATCH`, `ROW`, `TRIM`, `LEN`. Lihat juga
 salinan maklumat bertarikh 2020-03-10 di arkib.
 
-Selain itu, susunan adalah mengikut kekerapan dan setara
-dengan susunan yang asal. Bandingan kedudukan baris di
-lajur "unik" untuk pengesahan.
+#### Tentang binaan daftar
 
-#### Maklumat daftar tersedia
+Susunan lajur dan baris bagi daftar kata kerap unik:
 
-Butir-butir daftar kata kerap unik:
+| perkataan  | terjemahan | unik    | aksara    |
+| ---------- | ---------- | ------- | --------- |
+| (lema 1)   | (makna 1)  | (baris) | (panjang) |
+| (lema 1)   | (makna 2)  | (baris) | (panjang) |
+| (lema 2)   | (makna 1)  | ...     | ...       |
+
+Ada empat lajur, iaitu "perkataan", "terjemahan", "unik",
+dan "aksara". Setiap baris boleh memuatkan lema yang sama
+berserta makna yang lain daripada baris sebelumnya.
+
+- Lajur "perkataan" dan "terjemahan" adalah sama seperti
+daftar asal, yakni daftar kata kerap
+
+- Lajur "unik" menyimpan padanan kedudukan baris dalam
+daftar asal bagi pasangan perkataan dan terjemahan yang
+tidak berulang
+
+- Lajur "aksara" menyimpan bilangan aksara bagi setiap
+perkataan di baris masing-masing, terhad pada 3 aksara
+atau kurang sahaja dalam daftar ini
+
+Baris disusun mengikut kekerapan dan setara dengan susunan
+yang asal. Bandingan kedudukan baris di lajur "unik" untuk
+pengesahan.
+
+#### Tentang hasil daftar
+
+Maklumat kemas kini bagi daftar kata kerap unik:
 
 - Bahasa pengantar: Inggeris-Melayu
 - Kelas daftar: umum
