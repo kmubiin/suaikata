@@ -7,6 +7,8 @@ Terkini dari atas. Nama semantik dua angka untuk semua
 terbitan asal 1.0 ... X.0 manakala tiga angka untuk semua
 terbitan imbuh 1.0.1 ... X.Y.Z
 
+&nbsp;[1.5.0](tag/1.5.0.md)&emsp;
+&nbsp;  
 &nbsp;[1.4.6](tag/1.4.6.md)&emsp;
 &nbsp;[1.4.5](tag/1.4.5.md)&emsp;
 &nbsp;&mdash;langkau&mdash;&emsp;
