@@ -6,21 +6,19 @@ Projek suaikata ialah projek perkamusan sumber terbuka yang
 dimulakan oleh dua orang penutur bahasa Melayu.
 
 &#8983; **Daftar kata** &#8983;  
-Projek perkamusan ini mengusahakan daftar kata dan bukan
-kamus lengkap. Daftar kata adalah terhad atau sekadar
-memenuhi keperluan tertentu.
+Projek ini mengusahakan daftar kata dan bukan kamus lengkap.
+Daftar kata adalah terhad atau sekadar memadai.
 
 &#9740; **CC-BY-4.0** &#9740;  
-Daftar kata tersedia boleh digunakan untuk apa-apa tujuan
-dengan syarat "sebut nama" atau menyatakan perakuan hak
-cipta asal.
+Daftar itu boleh digunakan untuk apa-apa tujuan dengan
+syarat "sebut nama" atau menyatakan perakuan hak cipta asal.
 
 &nbsp;  
 Maklumat lanjut:
 
 &sect; **Kajian rinci**
-&ndash; Projek suaikata pada mulanya mendapati kamus bahasa
-Melayu sebagai sumber terbuka sukar dicari.
+&ndash; Projek suaikata mendapati kamus bahasa Melayu
+sebagai sumber terbuka sukar dicari.
 [Lihat rinci](rinci.md)
 
 &sect; **Lema dan daftar**
