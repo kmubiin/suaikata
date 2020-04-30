@@ -9,10 +9,25 @@ memuatkan huruf, angka, simbol, dan ruang kosong
 
 **aplikasi mudah alih** (en: mobile apps)
 
+**bahasa asal**&#178; (en: source language)
+&ndash; bahasa yang digunakan dalam mana-mana daftar asal,
+sama ada bahasa Melayu atau bahasa lain
+
 **bahasa Melayu piawai**
 &ndash; bahasa Melayu yang mematuhi tatabahasa untuk
 kegunaan rasmi dan umum, dan diiktiraf oleh pihak pemantau
 bahasa dalam negara dan tempat serantau
+
+**bahasa sasaran**
+&ndash; lihat "bahasa terjemah"
+
+**bahasa sumber**
+&ndash; lihat "bahasa asal"
+
+**bahasa terjemah**&#178; (en: target language)
+&ndash; bahasa yang digunakan dalam mana-mana daftar
+tersedia atau daftar asal yang disunting, sama ada bahasa
+Melayu atau bahasa lain
 
 **daftar dwibahasa lazim**
 &ndash; satu daftar kata dengan dua lajur yang memuatkan
@@ -41,6 +56,9 @@ melakukan sesuatu tugas melalui antara muka teks sahaja
 &ndash; lihat "helaian rebak"
 
 **helaian rebak**&#178; (en: spreadsheet)
+&ndash; satu atau lebih helai yang berisi sel-sel berpetak
+di sepanjang lajur dan baris, terutama helai yang dicipta
+oleh perisian komputer bagi menyediakan daftar kata
 
 **korpus**&#179; (en: corpus; lat: corpus)
 &ndash; kata masukan dalam teks yang dikumpul bersama untuk
@@ -72,6 +90,10 @@ daripada pangkalan data wiki
 **penyunting teks biasa** (en: text editor)
 
 **perangkaan** (en: statistic)
+&ndash; maklumat dalam bentuk angka yang disusun dengan
+teratur berdasarkan ciri tertentu
+
+**peranti storan** (en: storage device)
 
 **perisian** (en: software)
 
@@ -90,7 +112,7 @@ menyatakan perakuan hak cipta asal
 
 **sumber terbuka** (en: open source)
 
-**peranti storan** (en: storage device)
+**teks asal** (en: source text)
 
 **teks biasa** (en: plain text)
 
