@@ -29,7 +29,7 @@
 
 #### Bab 4: Daftar lazim dan tersedia
 
-41. Bentuk lazim daftar #todo
+41. [Bentuk lazim daftar](bab/lazim.md)
 42. [Mengenal kelas daftar](bab/kelas.md)
 43. [Daftar tanpa makna](bab/daftar0.md)
 44. [Daftar satu bahasa](bab/daftar1.md)
