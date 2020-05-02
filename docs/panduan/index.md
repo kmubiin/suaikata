@@ -34,7 +34,7 @@
 43. [Daftar tanpa makna](bab/daftar0.md)
 44. [Daftar satu bahasa](bab/daftar1.md)
 45. [Daftar dua bahasa](bab/daftar2.md)
-46. Kelainan ciri daftar #todo
+46. [Kelainan ciri daftar](bab/lain.md)
 47. [Contoh daftar tersedia](bab/contoh.md)
 
 #### Bab 5: Hasil kerja
