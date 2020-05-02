@@ -34,6 +34,12 @@ perbincangan semasa menyiapkan daftar pertama.
 - [Soal kesesuaian takrif #11][#11]
 - [Penyelesaian kesulitan terjemah tunggal #14][#14]
 - [transparent][2c] &ndash; Wiktionary
+- [Google Translate][2d] &ndash; perisian web Google
+- [Google Translate licenses][2e] &ndash; lesen bagi
+kandungan sumber terbuka dan semua bahasa yang disokong
+- [Microsoft Translator (Bing Translator)][2f] &ndash;
+perisian web Microsoft
+- [Yandex.Translate][2g] &ndash; perisian web Yandex
 
 **Bab 3: Daftar baharu** merangkumi tajuk mencipta helai
 daftar, format asal dan mudah alih, dua atau lebih lajur,
@@ -82,6 +88,10 @@ laman kembali: [panduan][0]
   [2a]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai
   [2b]: https://en.wiktionary.org/wiki/chronicle
   [2c]: https://en.wiktionary.org/wiki/transparent
+  [2d]: https://translate.google.com
+  [2e]: https://translate.google.com/intl/en/about/license/
+  [2f]: https://www.bing.com/translator/
+  [2g]: https://translate.yandex.com/
   [3a]: https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/installer/nativeLang/malay.xml
   [3b]: https://ms.wikipedia.org/wiki/Teks_biasa
   [3c]: https://docs.google.com/spreadsheets/

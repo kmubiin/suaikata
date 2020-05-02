@@ -116,6 +116,8 @@ menyatakan perakuan hak cipta asal
 
 **teks biasa** (en: plain text)
 
+**terjemahan mesin** (en: machine translation)
+
 **wiki** (en: wiki; haw: wikiwiki)
 &ndash; laman web sumbangan ramai yang boleh disunting
 oleh sesiapa sahaja dengan menggunakan pelayar web

@@ -17,7 +17,7 @@
 24. [Takrif asal dan terjemah](bab/takrif.md)
 25. [Satu atau dua salinan terjemah](bab/salinan.md)
 26. [Kamus sebagai rujukan](bab/kamus.md)
-27. Terjemahan mesin #todo
+27. [Terjemahan mesin](bab/mesin.md)
 
 #### Bab 3: Daftar baharu
 
