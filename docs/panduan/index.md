@@ -47,6 +47,7 @@
 - [Glosari](ruj/glosari.md)
 - [Dasar panduan](ruj/dasar.md)
 - [Sumber ilham](ruj/ilham.md)
+- [Perisian berperanan](ruj/perisian.md)
 
 laman kembali: [utama][0]
 
