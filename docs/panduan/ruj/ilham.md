@@ -39,6 +39,25 @@ Setakat ini, edisi bahasa Melayu tidak ada laman khas yang
 mengumpul kata kerap atau kata pilihan tertentu sepertimana
 edisi bahasa Inggeris.
 
+**Wikipedia** &lt;https://wikipedia.org/&gt;
+
+Wikipedia ialah sebuah ensiklopedia bebas yang boleh
+disunting oleh pengguna ramai. Ensiklopedia ini bermula
+dengan edisi bahasa Inggeris pada awal-2001, manakala edisi
+bahasa Melayu pula pada awal-2003.
+
+Pengusaha daftar boleh melihat senarai laman berkaitan
+perkataan dan istilah dalam bahasa Melayu di Wikipedia:
+
+- [Kategori:Perbendaharaan kata](https://ms.wikipedia.org/wiki/Kategori:Perbendaharaan_kata)
+- [Senarai peribahasa (A–M)](https://ms.wikipedia.org/wiki/Senarai_peribahasa_(A%E2%80%93M))
+- [Senarai kata pinjaman dari bahasa Arab dalam bahasa Melayu dan bahasa Indonesia](https://ms.wikipedia.org/wiki/Senarai_kata_pinjaman_dari_bahasa_Arab_dalam_bahasa_Melayu_dan_bahasa_Indonesia)
+- [Perbezaan antara Bahasa Melayu Piawai dan Bahasa Indonesia](https://ms.wikipedia.org/wiki/Perbezaan_antara_Bahasa_Melayu_Piawai_dan_Bahasa_Indonesia)
+
+Wikipedia mengumpul senarai kata masukan dalam bahasa Melayu
+yang tersendiri di laman berasingan. Jika tiada senarai
+berkenaan di Wiktionary, boleh rujuk di Wikipedia.
+
 laman kembali: [panduan][0]
 
   [0]: ../index.md
