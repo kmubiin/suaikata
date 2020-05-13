@@ -30,9 +30,12 @@ angka latin dan diiringi satu aksara penjarak
 
 Semua analisa awal dan perubahan di atas dilakukan dalam
 helaian rebak dan menggunakan rumus sokongan terbina dalam
-LibreOffice Calc: `SUBSTITUTE`, `IF`, `RIGHT`,
-`CONCATENATE`, `MATCH`, `ROW`, `TRIM`, `LEN`. Lihat juga
-salinan maklumat bertarikh 2020-03-10 di arkib.
+LibreOffice Calc. Rumus yang digunakan adalah termasuk:
+`SUBSTITUTE`, `IF`, `RIGHT`, `CONCATENATE`, `MATCH`, `ROW`,
+`TRIM`, `LEN`.
+
+Maklumat lanjut tentang rumus dan hasil bagi daftar kerapu
+telah disalin dan disimpan berasingan di arkib (2020-03-10).
 
 #### Tentang binaan daftar
 
