@@ -83,7 +83,7 @@ daripada pangkalan data wiki
 
 **pelayar web** (en: web browser)
 
-**pembahagi teks** (en: separator)
+**pemisah teks** (en: separator)
 
 **penamat baris** (en: newline)
 

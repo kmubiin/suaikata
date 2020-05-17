@@ -25,7 +25,7 @@ Perbezaan dua format ini adalah **kelengkapan maklumat**.
 Format asal mengandungi maklumat lengkap seperti rumus,
 warna dan lebar sel untuk memapar seluruh kandungan pada
 keadaan asal. Sebaliknya, format mudah alih mengandungi
-teks biasa bersama pembahagi teks sahaja.
+teks biasa bersama pemisah teks sahaja.
 
 Misalnya, pemapar fail di GitHub akan memaparkan CSV
 sebagai jadual ala helaian rebak. Nombor baris mungkin
@@ -41,8 +41,8 @@ pemapar fail yang disediakan.
 Dalam misal lain, penyunting teks biasa di GitHub atau
 penyunting teks biasa di komputer akan memaparkan CSV baris
 demi baris yang mengandungi sebarang teks biasa dan
-pembahagi teks. Tanda koma `,` biasanya digunakan sebagai
-pembahagi teks.
+pemisah teks. Tanda koma `,` biasanya digunakan sebagai
+pemisah teks.
 
     inggeris,melayu
     vocabulary,kosa kata
