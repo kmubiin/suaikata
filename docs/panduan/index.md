@@ -37,10 +37,12 @@
 46. [Kelainan ciri daftar](bab/lain.md)
 47. [Contoh daftar tersedia](bab/contoh.md)
 
-#### Bab 5: Hasil kerja
+#### Bab 5: Aturan kerja
 
-51. Memuat daftar #todo
-52. Mengkaji lema dan daftar #todo
+51. Menyedia daftar dari mula hingga akhir #todo
+52. Memuat daftar #todo
+53. Mengkaji lema dan daftar #todo
+54. Ulang untuk mahir dan ilham #todo
 
 #### Rujukan
 
