@@ -47,11 +47,13 @@ penamat baris, dan menyunting daftar lama atau baharu. Bab
 ini menerangkan cara kerja dan cara simpan yang sesuai.
 
 - [Penyediaan helaian rebak #9][#9]
-- [Malay translation for Notepad++][3a] &ndash; "Show Newline" diterjemah menjadi "Tunjuk Penamat Baris"
-- [Teks biasa][3b] &ndash; Wikipedia Bahasa Melayu
+- [RFC 4180][3a] &ndash; Common Format and MIME Type for Comma-Separated Values (CSV) Files, IETF
+- [text/tab-separated-values][3b] &ndash; Definition of tab-separated-values (tsv), IANA
+- [Malay translation for Notepad++][3c] &ndash; "Show Newline" diterjemah menjadi "Tunjuk Penamat Baris"
+- [Teks biasa][3d] &ndash; Wikipedia Bahasa Melayu
 - [Pengaruh penamat baris untuk teks biasa #17][#17]
-- [Google Sheets][3c] &ndash; perisian web Google
-- [Microsoft Excel Online][3d] &ndash; perisian web Microsoft
+- [Google Sheets][3e] &ndash; perisian web Google
+- [Microsoft Excel Online][3f] &ndash; perisian web Microsoft
 - [Salin dan perbaik daftar kata kerap #32][#32]
 
 **Bab 4: Daftar lazim dan tersedia** merangkumi tajuk bentuk
@@ -92,10 +94,12 @@ laman kembali: [panduan][0]
   [2e]: https://translate.google.com/intl/en/about/license/
   [2f]: https://www.bing.com/translator/
   [2g]: https://translate.yandex.com/
-  [3a]: https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/installer/nativeLang/malay.xml
-  [3b]: https://ms.wikipedia.org/wiki/Teks_biasa
-  [3c]: https://docs.google.com/spreadsheets/
-  [3d]: https://office.live.com/start/Excel.aspx
+  [3a]: https://tools.ietf.org/html/rfc4180
+  [3b]: https://www.iana.org/assignments/media-types/text/tab-separated-values
+  [3c]: https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/installer/nativeLang/malay.xml
+  [3d]: https://ms.wikipedia.org/wiki/Teks_biasa
+  [3e]: https://docs.google.com/spreadsheets/
+  [3f]: https://office.live.com/start/Excel.aspx
   [5a]: https://help.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository
   [#1]: https://github.com/kmubiin/suaikata/issues/1
   [#2]: https://github.com/kmubiin/suaikata/issues/2
