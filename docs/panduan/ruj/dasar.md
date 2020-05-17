@@ -3,6 +3,7 @@
 
 ### Dasar panduan
 
+&nbsp;  
 **Bab 1: Satu permulaan** merangkumi tajuk mengenal projek
 suaikata, lesen sumber terbuka, dan hak cipta tidak
 terpelihara. Bab ini menerangkan semula usul projek suaikata
@@ -20,6 +21,7 @@ dan pengetahuan umum yang berkaitan.
 Office
 - [Feist v. Rural][1f] &ndash; Wikipedia
 
+&nbsp;  
 **Bab 2: Bahasa dan terjemahan** merangkumi tajuk bahasa
 Melayu piawai, sumber kata masukan, asas penyediaan takrif,
 takrif asal dan terjemah, satu atau dua salinan terjemah,
@@ -41,6 +43,7 @@ kandungan sumber terbuka dan semua bahasa yang disokong
 perisian web Microsoft
 - [Yandex.Translate][2g] &ndash; perisian web Yandex
 
+&nbsp;  
 **Bab 3: Daftar baharu** merangkumi tajuk mencipta helai
 daftar, format asal dan mudah alih, dua atau lebih lajur,
 penamat baris, dan menyunting daftar lama atau baharu. Bab
@@ -56,6 +59,7 @@ ini menerangkan cara kerja dan cara simpan yang sesuai.
 - [Microsoft Excel Online][3f] &ndash; perisian web Microsoft
 - [Salin dan perbaik daftar kata kerap #32][#32]
 
+&nbsp;  
 **Bab 4: Daftar lazim dan tersedia** merangkumi tajuk bentuk
 lazim daftar, mengenal kelas daftar, daftar tanpa makna,
 daftar satu bahasa, daftar dua bahasa, kelainan ciri daftar,
@@ -66,6 +70,7 @@ disusun dan disedia oleh projek suaikata.
 - [Keterbalikan antara sumber dan bidang kosa kata #7][#7]
 - [Kelas daftar terkumpul #29][#29]
 
+&nbsp;  
 **Bab 5: Aturan kerja** merangkumi tajuk menyedia daftar
 dari mula hingga akhir, memuat daftar, mengkaji lema dan
 daftar, dan ulang untuk mahir dan ilham. Bab ini menerangkan
@@ -75,6 +80,7 @@ usaha lain yang boleh dilakukan selepas itu.
 - [Adding a file to a repository][5a] &ndash; GitHub Help
 - [Ulasan pembangun daftar pertama #20][#20]
 
+&nbsp;  
 Bab-bab lain, jika ada, belum ada dasar pada masa ini.
 Sebarang pautan yang tersenarai di atas adalah pautan
 luaran, dan sekadar rujukan bagi menyemak semula kandungan

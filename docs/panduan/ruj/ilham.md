@@ -3,6 +3,7 @@
 
 ### Sumber ilham
 
+&nbsp;  
 **Internet Archive** &lt;https://archive.org/&gt;
 
 Internet Archive ialah sebuah perpustakaan digital bukan
@@ -20,6 +21,7 @@ Senarai kata masukan daripada sumber domain awam boleh
 dicari di Internet Archive, dan laman web yang hilang
 mungkin boleh dilihat semula melalui Wayback Machine.
 
+&nbsp;  
 **Wiktionary** &lt;https://wiktionary.org/&gt;
 
 Wiktionary (bahasa Melayu: KamusWiki) ialah projek saudara
@@ -39,6 +41,7 @@ Setakat ini, edisi bahasa Melayu tidak ada laman khas yang
 mengumpul kata kerap atau kata pilihan tertentu sepertimana
 edisi bahasa Inggeris.
 
+&nbsp;  
 **Wikipedia** &lt;https://wikipedia.org/&gt;
 
 Wikipedia ialah sebuah ensiklopedia bebas yang boleh
@@ -57,6 +60,8 @@ perkataan dan istilah dalam bahasa Melayu di Wikipedia:
 Wikipedia mengumpul senarai kata masukan dalam bahasa Melayu
 yang tersendiri di laman berasingan. Jika tiada senarai
 berkenaan di Wiktionary, boleh rujuk di Wikipedia.
+
+&nbsp;  
 
 laman kembali: [panduan][0]
 

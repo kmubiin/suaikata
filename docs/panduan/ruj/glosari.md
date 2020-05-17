@@ -3,6 +3,8 @@
 
 ### Glosari
 
+&nbsp;  
+
 **aksara** (en: character)
 &ndash; bahagian terkecil dalam teks biasa yang boleh
 memuatkan huruf, angka, simbol, dan ruang kosong

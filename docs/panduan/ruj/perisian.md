@@ -3,6 +3,7 @@
 
 ### Perisian berperanan
 
+&nbsp;  
 **Git** (git)
 
 Git boleh digunakan untuk membuat kemas kini pada laman
@@ -12,6 +13,7 @@ menghantar kemas kini ke laman sumber dalam talian.
 
 https://git-scm.com/
 
+&nbsp;  
 **Google Sheets**
 
 Google Sheets mempunyai fungsi sunting bersama dalam talian
@@ -21,6 +23,7 @@ menyiapkan daftar kata pertama menggunakan Google Sheets.
 
 https://docs.google.com/spreadsheets/
 
+&nbsp;  
 **LibreOffice Calc**
 
 LibreOffice Calc boleh membaca helaian rebak dalam format
@@ -30,6 +33,7 @@ lengkap LibreOffice.
 
 https://www.libreoffice.org/
 
+&nbsp;  
 **Mozilla Firefox**
 
 Mozilla Firefox boleh digunakan sebagai pelayar web dan juga
@@ -38,6 +42,7 @@ juga "Markdown Viewer Webext".
 
 https://www.mozilla.org/en-US/firefox/
 
+&nbsp;  
 **Markdown Viewer Webext**
 
 Markdown Viewer Webext boleh dipasang pada pelayar web
@@ -49,6 +54,7 @@ dibawakan oleh Keith L Robertson.
 https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-webext/  
 https://github.com/KeithLRobertson/markdown-viewer  
 
+&nbsp;  
 **GNU core utilities** (coreutils)
 
 GNU core utilities terdiri daripada pelbagai perkakasan asas
@@ -59,6 +65,7 @@ melalui garis perintah.
 
 http://www.gnu.org/software/coreutils/
 
+&nbsp;  
 **GNU Grep** (grep)
 
 GNU Grep boleh digunakan untuk mencari baris yang
@@ -68,6 +75,7 @@ atau perkataan umpama `wc` dalam GNU core utilities.
 
 http://www.gnu.org/software/grep/
 
+&nbsp;  
 Lain-lain perisian berperanan seperti penyunting teks biasa
 adalah sangat lazim dan sengaja tidak disenarai.
 
