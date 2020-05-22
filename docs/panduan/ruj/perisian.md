@@ -38,7 +38,7 @@ https://www.libreoffice.org/
 
 Mozilla Firefox boleh digunakan sebagai pelayar web dan juga
 pemapar fail Markdown, dengan bantuan Firefox Add-ons. Lihat
-juga "Markdown Viewer Webext".
+juga "Markdown Viewer Webext" atau "simple markdown surfer".
 
 https://www.mozilla.org/en-US/firefox/
 
@@ -53,6 +53,26 @@ dibawakan oleh Keith L Robertson.
 
 https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-webext/  
 https://github.com/KeithLRobertson/markdown-viewer  
+
+&nbsp;  
+**simple markdown surfer** (smurf)
+
+smurf boleh memaparkan fail Markdown melalui pelayar web.
+Perisian ini bergantung pada Python 3 dan satu perisian
+tambahan (pandoc atau markdown2). Hanya satu skrip Python
+untuk fungsi asas, dan satu fail tambahan CSS untuk
+menghias paparan. Lihat juga "Pandoc".
+
+https://github.com/oxalorg/smurf
+
+&nbsp;  
+**Pandoc** (pandoc)
+
+Pandoc boleh menukarkan sesuatu fail antara pelbagai markup
+format, termasuk Markdown dan HTML. Perisian ini digunakan
+sama ada melalui garis perintah atau bersama perisian lain.
+
+https://pandoc.org/
 
 &nbsp;  
 **GNU core utilities** (coreutils)
@@ -81,7 +101,7 @@ adalah sangat lazim dan sengaja tidak disenarai.
 
 Semua yang tersenarai di atas adalah perisian percuma atau
 perisian sumber terbuka. Semua perisian boleh dipasang dan
-digunakan pada komputer Windows, macOS atau Linux.
+digunakan pada komputer Windows, macOS, atau Linux.
 
 laman kembali: [panduan][0]
 
