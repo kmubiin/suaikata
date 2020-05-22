@@ -18,7 +18,11 @@ dan tanpa makna. Pautan sehala ke nota terbitan berkenaan.
 &ndash; Inggeris-Melayu, [1.0](tag/1.0.md)
 3. [Kata kerap unik](ura/kerapu.md)
 &ndash; Inggeris-Melayu, [1.4.6](tag/1.4.6.md)
+0. Lagi daftar masa hadapan?
+
+laman lompat berkaitan: [contoh][1]
 
 laman kembali: [utama][0]
 
   [0]: index.md
+  [1]: panduan/bab/contoh.md
