@@ -10,16 +10,25 @@ terpelihara. Bab ini menerangkan semula usul projek suaikata
 dan pengetahuan umum yang berkaitan.
 
 - [Takrif Projek R4 #1][#1]
+  &ndash; kmubiin/suaikata on Mar 1, 2018
 - [Kajian projek tercipta #2][#2]
+  &ndash; kmubiin/suaikata on Mar 8, 2018
 - [Pengendalian data #5][#5]
-- [Rendering CSV and TSV data][1a] &ndash; GitHub Help
+  &ndash; kmubiin/suaikata on Mar 12, 2018
+- [Rendering CSV and TSV data][1a]
+  &ndash; GitHub Help
 - [Pelesenan projek #3][#3]
-- [Choose an open source license][1b] &ndash; curated by GitHub
-- [Conformant Licenses][1c] &ndash; Open Definition
-- [CC BY 4.0][1d] &ndash; Creative Commons
-- [What Does Copyright Protect? (FAQ)][1e] &ndash; U.S. Copyright
-Office
-- [Feist v. Rural][1f] &ndash; Wikipedia
+  &ndash; kmubiin/suaikata on Mar 9, 2018
+- [Choose an open source license][1b]
+  &ndash; curated by GitHub
+- [Conformant Licenses][1c]
+  &ndash; Open Definition
+- [CC BY 4.0][1d]
+  &ndash; Creative Commons
+- [What Does Copyright Protect? (FAQ)][1e]
+  &ndash; U.S. Copyright Office
+- [Feist v. Rural][1f]
+  &ndash; Wikipedia
 
 &nbsp;  
 **Bab 2: Bahasa dan terjemahan** merangkumi tajuk bahasa
@@ -31,17 +40,25 @@ perbincangan semasa menyiapkan daftar pertama.
 
 - [Wikipedia:Gunakan bahasa Melayu piawai][2a]
 - [Keterbalikan antara sumber dan bidang kosa kata #7][#7]
+  &ndash; kmubiin/suaikata on Mar 21, 2018
 - [Panduan penyediaan takrif #10][#10]
-- [chronicle][2b] &ndash; Wiktionary
+  &ndash; kmubiin/suaikata on Mar 23, 2018
+- [chronicle][2b]
+  &ndash; Wiktionary
 - [Soal kesesuaian takrif #11][#11]
+  &ndash; kmubiin/suaikata on Mar 29, 2018
 - [Penyelesaian kesulitan terjemah tunggal #14][#14]
-- [transparent][2c] &ndash; Wiktionary
-- [Google Translate][2d] &ndash; perisian web Google
-- [Google Translate licenses][2e] &ndash; lesen bagi
-kandungan sumber terbuka dan semua bahasa yang disokong
-- [Microsoft Translator (Bing Translator)][2f] &ndash;
-perisian web Microsoft
-- [Yandex.Translate][2g] &ndash; perisian web Yandex
+  &ndash; kmubiin/suaikata on Apr 16, 2018
+- [transparent][2c]
+  &ndash; Wiktionary
+- [Google Translate][2d]
+  &ndash; perisian web Google
+- [Google Translate licenses][2e]
+  &ndash; lesen bagi semua bahasa yang disokong
+- [Microsoft Translator (Bing Translator)][2f]
+  &ndash; perisian web Microsoft
+- [Yandex.Translate][2g]
+  &ndash; perisian web Yandex
 
 &nbsp;  
 **Bab 3: Daftar baharu** merangkumi tajuk mencipta helai
@@ -50,14 +67,24 @@ penamat baris, dan menyunting daftar lama atau baharu. Bab
 ini menerangkan cara kerja dan cara simpan yang sesuai.
 
 - [Penyediaan helaian rebak #9][#9]
-- [RFC 4180][3a] &ndash; Common Format and MIME Type for Comma-Separated Values (CSV) Files, IETF
-- [text/tab-separated-values][3b] &ndash; Definition of tab-separated-values (tsv), IANA
-- [Malay translation for Notepad++][3c] &ndash; "Show Newline" diterjemah menjadi "Tunjuk Penamat Baris"
-- [Teks biasa][3d] &ndash; Wikipedia Bahasa Melayu
+  &ndash; kmubiin/suaikata on Mar 22, 2018
+- [RFC 4180][3a]
+  &ndash; Common Format and MIME Type for Comma-Separated
+  Values (CSV) Files, IETF
+- [text/tab-separated-values][3b]
+  &ndash; Definition of tab-separated-values (tsv), IANA
+- [Malay translation for Notepad++][3c]
+  &ndash; "Show Newline" diterjemah "Tunjuk Penamat Baris"
+- [Teks biasa][3d]
+  &ndash; Wikipedia Bahasa Melayu
 - [Pengaruh penamat baris untuk teks biasa #17][#17]
-- [Google Sheets][3e] &ndash; perisian web Google
-- [Microsoft Excel Online][3f] &ndash; perisian web Microsoft
+  &ndash; kmubiin/suaikata on May 3, 2018
+- [Google Sheets][3e]
+  &ndash; perisian web Google
+- [Microsoft Excel Online][3f]
+  &ndash; perisian web Microsoft
 - [Salin dan perbaik daftar kata kerap #32][#32]
+  &ndash; kmubiin/suaikata on Mar 6, 2020
 
 &nbsp;  
 **Bab 4: Daftar lazim dan tersedia** merangkumi tajuk bentuk
@@ -67,8 +94,11 @@ dan contoh daftar tersedia. Bab ini menerangkan cara daftar
 disusun dan disedia oleh projek suaikata.
 
 - [Rangkuman kosa kata #4][#4]
+  &ndash; kmubiin/suaikata on Mar 9, 2018
 - [Keterbalikan antara sumber dan bidang kosa kata #7][#7]
+  &ndash; kmubiin/suaikata on Mar 21, 2018
 - [Kelas daftar terkumpul #29][#29]
+  &ndash; kmubiin/suaikata on Sep 20, 2019
 
 &nbsp;  
 **Bab 5: Aturan kerja** merangkumi tajuk menyedia daftar
@@ -77,8 +107,10 @@ daftar, dan ulang untuk mahir dan ilham. Bab ini menerangkan
 semula cara menyedia dan memuat daftar ke laman sumber dan
 usaha lain yang boleh dilakukan selepas itu.
 
-- [Adding a file to a repository][5a] &ndash; GitHub Help
+- [Adding a file to a repository][5a]
+  &ndash; GitHub Help
 - [Ulasan pembangun daftar pertama #20][#20]
+  &ndash; kmubiin/suaikata on Nov 17, 2018
 
 &nbsp;  
 Bab-bab lain, jika ada, belum ada dasar pada masa ini.
