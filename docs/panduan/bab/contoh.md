@@ -34,7 +34,7 @@ B. Daftar dwibahasa umum (kata kerap; kerapu):
 | be        | wujud       | 14   | 2      |
 
 Nota B: Kedua-dua daftar kata kerap dan kerapu mengandungi
-dua lajur pertama, dan hanya daftar kerapu mengandungi dua
+dua lajur pertama yang sama, dan hanya daftar kerapu ada dua
 lajur tambahan. Lagi maklumat daftar di laman bersuai.
 
 laman lompat berkaitan: [bersuai][1]

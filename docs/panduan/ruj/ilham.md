@@ -4,7 +4,8 @@
 ### Sumber ilham
 
 &nbsp;  
-**Internet Archive** &lt;https://archive.org/&gt;
+**Internet Archive**  
+&nbsp; &lt;https://archive.org/&gt;
 
 Internet Archive ialah sebuah perpustakaan digital bukan
 untung dengan misi "capaian universal kepada semua
@@ -22,7 +23,8 @@ dicari di Internet Archive, dan laman web yang hilang
 mungkin boleh dilihat semula melalui Wayback Machine.
 
 &nbsp;  
-**Wiktionary** &lt;https://wiktionary.org/&gt;
+**Wiktionary**  
+&nbsp; &lt;https://wiktionary.org/&gt;
 
 Wiktionary (bahasa Melayu: KamusWiki) ialah projek saudara
 Wikipedia untuk menghasilkan kamus bebas. Edisi bahasa
@@ -42,7 +44,8 @@ mengumpul kata kerap atau kata pilihan tertentu sepertimana
 edisi bahasa Inggeris.
 
 &nbsp;  
-**Wikipedia** &lt;https://wikipedia.org/&gt;
+**Wikipedia**  
+&nbsp; &lt;https://wikipedia.org/&gt;
 
 Wikipedia ialah sebuah ensiklopedia bebas yang boleh
 disunting oleh pengguna ramai. Ensiklopedia ini bermula

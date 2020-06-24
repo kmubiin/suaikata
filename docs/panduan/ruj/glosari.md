@@ -126,8 +126,7 @@ oleh sesiapa sahaja dengan menggunakan pelayar web
 
 &nbsp;  
 &#185; istilah baharu, dicipta oleh projek suaikata  
-&#178; istilah pilihan sendiri; terjemahan ini mungkin
-berbeza atau tidak rasmi dalam bahasa Melayu piawai  
+&#178; istilah pilihan, berbeza pendapat atau tidak rasmi  
 &#179; istilah akademik atau khusus dalam bidang tertentu  
 
 laman kembali: [panduan][0]

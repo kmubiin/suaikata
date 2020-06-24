@@ -37,8 +37,9 @@ https://www.libreoffice.org/
 **Mozilla Firefox**
 
 Mozilla Firefox boleh digunakan sebagai pelayar web dan juga
-pemapar fail Markdown, dengan bantuan Firefox Add-ons. Lihat
-juga "Markdown Viewer Webext" atau "simple markdown surfer".
+pemapar fail Markdown, dengan bantuan Firefox Add-ons atau
+perisian tambahan lain. Lihat juga "Markdown Viewer Webext"
+atau "simple markdown surfer".
 
 https://www.mozilla.org/en-US/firefox/
 
