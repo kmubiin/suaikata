@@ -5,9 +5,8 @@
 
 Terkini dari atas. Nama semantik dua angka untuk semua
 terbitan asal 1.0 ... X.0 manakala tiga angka untuk semua
-terbitan imbuh 1.0.1 ... X.Y.Z digunakan. Sekiranya ada
-langkau seperti 1.4.1 ke 1.4.5, rujuk nota terbitan yang
-terkemudian untuk maklumat berkenaan.
+terbitan imbuh 1.0.1 ... X.Y.Z digunakan. Jika ada langkau
+seperti 1.4.1 ke 1.4.5, periksa nota yang terkemudian.
 
 &nbsp;[1.5.1](tag/1.5.1.md)&emsp;
 &nbsp;[1.5.0](tag/1.5.0.md)&emsp;
