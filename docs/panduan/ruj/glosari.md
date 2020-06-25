@@ -85,9 +85,29 @@ daripada pangkalan data wiki
 
 **pelayar web** (en: web browser)
 
+**pemaju**
+&ndash; lihat "pengusaha"
+
+**pembangun** (en: developer)
+&ndash; pihak asal yang memulakan sesuatu rancangan dan
+menyedia hasil kerja daripada kosong, lihat juga "pengusaha"
+
 **pemisah teks** (en: separator)
 
 **penamat baris** (en: newline)
+
+**pengusaha**&#178; (en: developer, collaborator)
+&ndash; pihak atau gabungan pihak yang mengusaha rancangan,
+yang menyedia hasil kerja, yang diberi kelebihan untuk
+bekerjasama, mana-mana satu atau beberapa peranan tersebut
+
+**penyumbang** (en: contributor)
+&ndash; pihak umum yang terutamanya membantu pengusaha
+dengan memberi maklum balas atau memperbaik hasil kerja
+
+**penyumbang rapat**&#178; (en: collaborator)
+&ndash; pihak umum yang diberi kelebihan tertentu untuk
+bekerjasama dengan pengusaha, lihat juga "pengusaha"
 
 **penyunting teks biasa** (en: text editor)
 
