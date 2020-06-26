@@ -16,32 +16,32 @@ Kata terbitan: meniskalakan, keniskalaan, peniskalaan
 
 #### niskala dalam bahasa serantau
 
-Penggunaan istilah dalam bahasa serantau:
+Penggunaan lema dalam bahasa serantau:
 
 - Indonesia: abstrak
 - Brunei: abstrak
 - Malaysia: niskala, abstrak
 
-#### niskala dalam bidang tertentu
+#### niskala dalam istilah
 
-Bagi penggunaan istilah di Malaysia, istilah 'niskala'
-dilihat mendahului istilah 'abstrak' apabila menamakan
-istilah dalam bidang Matematik dan Teknologi Maklumat.
+Secara khusus, terutama di Malaysia, lema 'niskala' dilihat
+mengambil alih lema 'abstrak' apabila menamakan istilah
+dalam bidang Matematik dan Teknologi Maklumat.
 
 - algebra niskala (Matematik)
 - mesin niskala (Teknologi Maklumat)
 - data niskala (Teknologi Maklumat)
 
-Bagi penggunaan umum, istilah 'niskala' digunakan untuk
-menamakan sesuatu yang tidak dapat dilihat atau sesuatu yang
-kelihatan samar dalam bidang Sastera dan Keagamaan.
+Secara umum, lema 'niskala' digunakan untuk menamakan
+sesuatu yang tidak dapat dilihat atau yang kelihatan samar
+dalam bidang Sastera dan Keagamaan.
 
 - dunia niskala, iaitu dunia ghaib atau dunia yang tidak
 kelihatan dan tidak dapat dilihat
 - bahagian niskala, iaitu bahagian yang tidak kelihatan
 seperti jiwa, roh, suara hati, dan seumpamanya
 
-Istilah ini muncul dalam terjemahan 'abstract'.
+Lema ini muncul dalam terjemahan 'abstract'.
 
 laman lompat berkaitan: [abstract][1]
 
