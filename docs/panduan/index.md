@@ -30,12 +30,15 @@
 #### Bab 4: Daftar lazim dan tersedia
 
 41. [Bentuk lazim daftar](bab/lazim.md)
-42. [Mengenal kelas daftar](bab/kelas.md)
-43. [Daftar tanpa makna](bab/daftar0.md)
-44. [Daftar satu bahasa](bab/daftar1.md)
-45. [Daftar dua bahasa](bab/daftar2.md)
-46. [Kelainan ciri daftar](bab/lain.md)
-47. [Contoh daftar tersedia](bab/contoh.md)
+42. [Mengenal kelas daftar](bab/kelas.md) #baiki
+43. (belum sedia) <= [daftar0][430] + umum #baiki
+44. (belum sedia) <= [daftar1][440] + [daftar2][450] #baiki
+45. [Kelainan ciri daftar](bab/lain.md)
+46. [Contoh daftar tersedia](bab/contoh.md)
+
+[430]: bab/daftar0.md
+[440]: bab/daftar1.md
+[450]: bab/daftar2.md
 
 #### Bab 5: Aturan kerja
 
@@ -47,7 +50,7 @@
 #### Rujukan
 
 - [Glosari](ruj/glosari.md)
-- [Dasar panduan](ruj/dasar.md)
+- [Dasar panduan](ruj/dasar.md) #baiki
 - [Sumber ilham](ruj/ilham.md)
 - [Perisian berperanan](ruj/perisian.md)
 
