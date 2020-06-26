@@ -3,7 +3,7 @@
 
 ### Nota lema Melayu
 
-- (belum sedia)
+- [niskala](ms/niskala.md)
 
 laman kembali: [bersuai][0]
 
