@@ -6,7 +6,7 @@
 Nota lema mengikut susunan abjad dalam bahasa asal. Terhad
 pada lema yang ada takrif sukar atau keliru.
 
-- Melayu
+- [Melayu](lema/melayu.md)
 - [Inggeris](lema/inggeris.md)
 
 Daftar pertama dan terawal dari atas, kecuali daftar contoh
