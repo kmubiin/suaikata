@@ -22,10 +22,10 @@
 #### Bab 3: Daftar baharu
 
 31. [Mencipta helai daftar](bab/helai.md)
-32. [Format asal dan mudah alih](bab/format.md)
-33. [Dua atau lebih lajur](bab/lajur.md)
+32. [Dua atau lebih lajur](bab/lajur.md)
+33. [Format asal dan mudah alih](bab/format.md)
 34. [Penamat baris](bab/baris.md)
-35. [Menyunting daftar lama atau baharu](bab/sunting.md)
+35. (belum sedia) <= bab/nama.md #baiki
 
 #### Bab 4: Daftar lazim dan tersedia
 
@@ -45,7 +45,8 @@
 51. Menyedia daftar dari mula hingga akhir #todo
 52. Memuat daftar #todo
 53. Mengkaji lema dan daftar #todo
-54. Ulang untuk mahir #todo
+54. [Menyunting daftar lama atau baharu](bab/sunting.md)
+55. Ulang untuk mahir #todo
 
 #### Rujukan
 
