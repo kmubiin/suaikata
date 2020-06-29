@@ -25,7 +25,7 @@
 32. [Dua atau lebih lajur](bab/lajur.md)
 33. [Format asal dan mudah alih](bab/format.md)
 34. [Penamat baris](bab/baris.md)
-35. (belum sedia) <= bab/nama.md #baiki
+35. [Menyimpan helai dengan nama](bab/nama.md)
 
 #### Bab 4: Daftar lazim dan tersedia
 
