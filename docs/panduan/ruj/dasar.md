@@ -4,7 +4,12 @@
 ### Dasar panduan
 
 &nbsp;  
-**Bab 1: Satu permulaan** merangkumi tajuk mengenal projek
+**Bab 1: Satu permulaan** merangkumi...
+
+> (Satu permulaan) + (Bahasa dan terjemahan) #baiki
+
+&nbsp;  
+Bab 1: Satu permulaan merangkumi tajuk mengenal projek
 suaikata, lesen sumber terbuka, dan hak cipta tidak
 terpelihara. Bab ini menerangkan semula usul projek suaikata
 dan pengetahuan umum yang berkaitan.
@@ -31,7 +36,7 @@ dan pengetahuan umum yang berkaitan.
   &ndash; Wikipedia
 
 &nbsp;  
-**Bab 2: Bahasa dan terjemahan** merangkumi tajuk bahasa
+Bab 2: Bahasa dan terjemahan merangkumi tajuk bahasa
 Melayu piawai, sumber kata masukan, asas penyediaan takrif,
 takrif asal dan terjemah, satu atau dua salinan terjemah,
 kamus sebagai rujukan, dan terjemahan mesin. Bab ini sangat
@@ -61,7 +66,12 @@ perbincangan semasa menyiapkan daftar pertama.
   &ndash; perisian web Yandex
 
 &nbsp;  
-**Bab 3: Daftar baharu** merangkumi tajuk mencipta helai
+**Bab 2: Perihal daftar** merangkumi...
+
+> (Daftar baharu) + (Daftar lazim dan tersedia) #baiki
+
+&nbsp;  
+Bab 3: Daftar baharu merangkumi tajuk mencipta helai
 daftar, format asal dan mudah alih, dua atau lebih lajur,
 penamat baris, dan menyunting daftar lama atau baharu. Bab
 ini menerangkan cara kerja dan cara simpan yang sesuai.
@@ -87,7 +97,7 @@ ini menerangkan cara kerja dan cara simpan yang sesuai.
   &ndash; kmubiin/suaikata on Mar 6, 2020
 
 &nbsp;  
-**Bab 4: Daftar lazim dan tersedia** merangkumi tajuk bentuk
+Bab 4: Daftar lazim dan tersedia merangkumi tajuk bentuk
 lazim daftar, mengenal kelas daftar, daftar tanpa makna,
 daftar satu bahasa, daftar dua bahasa, kelainan ciri daftar,
 dan contoh daftar tersedia. Bab ini menerangkan cara daftar
@@ -101,7 +111,12 @@ disusun dan disedia oleh projek suaikata.
   &ndash; kmubiin/suaikata on Sep 20, 2019
 
 &nbsp;  
-**Bab 5: Aturan kerja** merangkumi tajuk menyedia daftar
+**Bab 3: Aturan kerja** merangkumi...
+
+> (Aturan kerja) <= Bab 5 #baiki
+
+&nbsp;  
+Bab 5: Aturan kerja merangkumi tajuk menyedia daftar
 dari mula hingga akhir, memuat daftar, mengkaji lema dan
 daftar, dan ulang untuk mahir dan ilham. Bab ini menerangkan
 semula cara menyedia dan memuat daftar ke laman sumber dan
