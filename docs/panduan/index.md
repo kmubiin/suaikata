@@ -35,13 +35,11 @@
 
 #### Bab 3: Aturan kerja
 
-> (Aturan kerja) <= Bab 5 #baiki
-
-30. (51)&nbsp;Menyedia daftar dari mula hingga akhir #todo
-30. (52)&nbsp;Memuat daftar #todo
-30. (53)&nbsp;Mengkaji lema dan daftar #todo
-30. (54)&nbsp;[Menyunting daftar lama atau baharu](bab/sunting.md)
-30. (55)&nbsp;Ulang untuk mahir #todo
+31. Menyedia daftar dari mula hingga akhir #todo
+32. Memuat daftar #todo
+33. Mengkaji lema dan daftar #todo
+34. [Menyunting daftar lama atau baharu](bab/sunting.md)
+35. Ulang untuk mahir #todo
 
 #### Rujukan
 
