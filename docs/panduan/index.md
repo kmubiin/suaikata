@@ -9,18 +9,13 @@
 
 #### Bab 1: Satu permulaan
 
-> (Satu permulaan) + (Bahasa dan terjemahan) #baiki
-
-10. (11)&nbsp;Mengenal projek suaikata #todo
-10. (22)&nbsp;[Sumber kata masukan](bab/sumber.md)
-10. (13)&nbsp;[Hak cipta tidak terpelihara](bab/hak-cipta.md)
-10. (21)&nbsp;[Bahasa Melayu piawai](bab/piawai.md)
-10. (12)&nbsp;[Lesen sumber terbuka](bab/lesen.md)
-10. (23)&nbsp;[Asas penyediaan takrif](bab/asas.md) <=
-[kamus][260] #baiki
-10. (24)&nbsp;[Takrif asal dan terjemah](bab/takrif.md)
-
-[260]: bab/kamus.md
+11. Mengenal projek suaikata #todo
+12. [Sumber kata masukan](bab/sumber.md)
+13. [Hak cipta tidak terpelihara](bab/hak-cipta.md)
+14. [Bahasa Melayu piawai](bab/piawai.md)
+15. [Lesen sumber terbuka](bab/lesen.md)
+16. [Asas penyediaan takrif](bab/asas.md)
+17. [Takrif asal dan terjemah](bab/takrif.md)
 
 #### Bab 2: Perihal daftar
 

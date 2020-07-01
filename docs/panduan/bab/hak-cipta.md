@@ -3,9 +3,8 @@
 
 ### Hak cipta tidak terpelihara
 
-Projek suaikata mengusahakan daftar kosa kata berdasarkan
-mana-mana daftar yang boleh diperoleh daripada sumber awam.
-Secara umum, sebarang senarai bahan atau kandungan
+Sumber pilihan yang baik adalah senarai kata masukan tanpa
+makna. Secara umum, sebarang senarai bahan atau kandungan
 semata-mata adalah di luar kuasa undang-undang dan hak cipta
 *tidak* terpelihara.
 
@@ -27,15 +26,15 @@ Hujah 1:
 > Sumber: What Does Copyright Protect? (FAQ),
 > U.S. Copyright Office
 
-Berdasarkan hujah 1, senarai yang **mudah** dan yang
-**boleh dicapai daripada sumber awam** adalah bukan di bawah
-perlindungan undang-undang hak cipta, kecuali disertakan
-sesuatu yang ada nilai kesusasteraan.
+Hujah 1 menyatakan bahawa: "sekiranya perlu merahsiakan
+sesuatu seperti bahan istimewa dalam resipi, maklumat
+sedemikian tidak patut didaftar kerana permohonan dan
+salinan hantar hak cipta adalah rekod awam".
 
-Hujah menyatakan bahawa: sekiranya perlu merahsiakan sesuatu
-seperti bahan istimewa dalam resipi, maklumat sedemikian
-tidak patut didaftar kerana permohonan dan salinan hantar
-hak cipta adalah rekod awam.
+Berdasarkan hujah 1, **senarai mudah** yang boleh dicapai
+**daripada sumber awam** adalah bukan di bawah perlindungan
+undang-undang hak cipta, kecuali disertakan sesuatu yang ada
+nilai kesusasteraan.
 
 Hujah 2:
 
@@ -52,14 +51,18 @@ Hujah 2:
 >
 > Sumber: Feist v. Rural, Wikipedia
 
-Berdasarkan hujah 2, senarai yang **mengandungi fakta**
-seperti buku direktori telefon adalah hak cipta yang tidak
-boleh terpelihara. Dengan itu, pelanggaran hak cipta tidak
-pernah wujud.
+Hujah 2 menyatakan bahawa: "mahkamah telah memutuskan bahawa
+maklumat yang terkandung dalam buku direktori telefon adalah
+hak cipta tidak boleh terpelihara dan dengan itu pelanggaran
+hak cipta tidak wujud".
 
-Projek suaikata menggunakan **senarai kata tanpa makna**
-bagi menghasilkan daftar baharu yang bermakna dengan cara
-tersendiri.
+Berdasarkan hujah 2, senarai yang **mengandungi fakta**
+semata-mata adalah hak cipta tidak terpelihara.
+
+Projek suaikata bermula dengan senarai kata tanpa makna
+bagi mengusahakan daftar baharu yang bermakna. Daftar baharu
+yang diusahakan dengan cara tersendiri berpeluang ada
+nilai kesusasteraan, maka hak cipta boleh terpelihara.
 
 laman kembali: [panduan][0]
 
