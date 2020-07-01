@@ -16,8 +16,8 @@ suatu helai daftar. Nama awalan "katakerap" ialah nama
 pilihan yang diberi manakala nama akhiran ".csv" ialah
 imbuhan nama bagi format mudah alih CSV.
 
-Projek suaikata membawakan garis panduan sendiri bagi
-menamakan fail yang disimpan dalam repositori. Nama-nama
+Projek suaikata membawakan **garis panduan sendiri** bagi
+menamakan fail yang disimpan di laman sumber. Nama-nama
 yang ditentukan adalah seperti berikut.
 
 1. Daftar contoh: `cthN.anu` atau `cthNx.anu`

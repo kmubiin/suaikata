@@ -12,7 +12,7 @@ bersama pembayang. Daftar ini ada lajur "melayu" dan
 "pembayang". Penampilan dua lajur ini adalah sama dan masih
 kelihatan seperti daftar yang ada makna.
 
-Binaan [daftar tanpa makna][1a] bersama pembayang:
+Binaan daftar tanpa makna bersama pembayang:
 
 | melayu   | pembayang     |
 | -------- | ------------- |
@@ -25,7 +25,7 @@ beregu pada mulanya dengan tiga lajur, iaitu "inggeris",
 "terjemah M", dan "terjemah A". Penampilan tiga lajur ini
 adalah tidak sama dan lain daripada mana-mana daftar biasa.
 
-Binaan daftar dengan [dua atau lebih lajur][1b] :
+Binaan daftar lebih daripada dua lajur:
 
 | inggeris | terjemah M | terjemah A |
 | -------- | ---------- | ---------- |
@@ -45,5 +45,3 @@ ketentuan atau keperluan.
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [1a]: daftar0.md
-  [1b]: lajur.md

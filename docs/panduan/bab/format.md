@@ -21,7 +21,7 @@ maka fail tersebut hendaklah disimpan dalam format mudah
 alih seperti CSV. Perisian web seperti Google Sheets dan
 GitHub turut menyokong format mudah alih CSV.
 
-Perbezaan dua format ini adalah **kelengkapan maklumat**.
+Perbezaan dua format tersebut adalah **lebih maklumat**.
 Format asal mengandungi maklumat lengkap seperti rumus,
 warna dan lebar sel untuk memapar seluruh kandungan pada
 keadaan asal. Sebaliknya, format mudah alih mengandungi
@@ -39,10 +39,9 @@ pemapar fail yang disediakan.
 | `3` |            | cuba, satu, dua |
 
 Dalam misal lain, penyunting teks biasa di GitHub atau
-penyunting teks biasa di komputer akan memaparkan CSV baris
-demi baris yang mengandungi sebarang teks biasa dan
-pemisah teks. Tanda koma `,` biasanya digunakan sebagai
-pemisah teks.
+pada komputer akan memaparkan CSV baris demi baris yang
+mengandungi sebarang teks biasa dan pemisah teks. Aksara
+tanda koma `,` biasanya digunakan sebagai pemisah teks.
 
     inggeris,melayu
     vocabulary,kosa kata
@@ -64,11 +63,11 @@ sekiranya masih rumit, gunakan TSV (Tab-separated values).
     <TAB>cuba, satu, dua
 
 Apabila menggunakan TSV, aksara kekunci `<TAB>` akan
-menggantikan tanda koma `,` dan tanda koma tambahan dalam
-sel tidak perlukan tanda petik dua. Dalam paparan sebenar,
-aksara `<TAB>` hanyalah ruang lebar kosong antara teks dan
-mana-mana sel yang dibiar kosong boleh kelihatan janggal dan
-tidak tersusun seperti paparan helaian rebak.
+menggantikan aksara tanda koma `,` dan tanda koma tambahan
+dalam sel tidak perlukan tanda petik dua. Dalam paparan
+sebenar, aksara `<TAB>` hanyalah ruang lebar kosong antara
+teks dan mana-mana sel yang dibiar kosong boleh kelihatan
+janggal dan tidak tersusun seperti paparan helaian rebak.
 
 Secara umum, format mudah alih hanya mengingati
 **isi kandungan** dan **rupa ringkas kandungan**. Ciri ini

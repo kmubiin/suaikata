@@ -24,16 +24,14 @@
 
 #### Bab 2: Perihal daftar
 
-> (Daftar baharu) + (Daftar lazim dan tersedia) #baiki
-
-20. (31)&nbsp;[Mencipta helai daftar](bab/helai.md)
-20. (41)&nbsp;[Bentuk lazim daftar](bab/lazim.md)
-20. (45)&nbsp;[Kelainan ciri daftar](bab/lain.md)
-20. (46)&nbsp;[Contoh daftar tersedia](bab/contoh.md)
-20. (32)&nbsp;[Dua atau lebih lajur](bab/lajur.md)
-20. (33)&nbsp;[Format asal dan mudah alih](bab/format.md)
-20. (34)&nbsp;[Penamat baris](bab/baris.md)
-20. (35)&nbsp;[Menyimpan helai dengan nama](bab/nama.md)
+21. [Mencipta helai daftar](bab/helai.md)
+22. [Bentuk lazim daftar](bab/lazim.md)
+23. [Kelainan ciri daftar](bab/lain.md)
+24. [Contoh daftar tersedia](bab/contoh.md)
+25. [Dua atau lebih lajur](bab/lajur.md)
+26. [Format asal dan mudah alih](bab/format.md)
+27. [Penamat baris](bab/baris.md)
+28. [Menyimpan helai dengan nama](bab/nama.md)
 
 #### Bab 3: Aturan kerja
 
