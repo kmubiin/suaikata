@@ -47,7 +47,7 @@ Sel-sel berpetak boleh diisi dengan teks atau formula dan
 disunting mengikut keperluan pengguna.
 
 Projek suaikata telah menyediakan helai daftar pertama
-bersama **dua ahli projek** menggunakan **Google Sheets**.
+bersama dua ahli projek menggunakan Google Sheets.
 
 laman kembali: [panduan][0]
 

@@ -16,7 +16,7 @@ suatu helai daftar. Nama awalan "katakerap" ialah nama
 pilihan yang diberi manakala nama akhiran ".csv" ialah
 imbuhan nama bagi format mudah alih CSV.
 
-Projek suaikata membawakan **garis panduan sendiri** bagi
+Projek suaikata menggariskan **tiga jenis pola** bagi
 menamakan fail yang disimpan di laman sumber. Nama-nama
 yang ditentukan adalah seperti berikut.
 
@@ -47,17 +47,16 @@ di atas, **pola di kedudukan awal diberi keutamaan**. Ini
 bermakna pola 3 (akhir) tidak boleh menggunakan mana-mana
 nama yang ditentukan untuk pola 2 dan pola 1 (awal).
 
-Contohnya, daftar tanpa makna `ms2.csv` (mengikut pola 2)
-mewakili daftar yang mengumpul lema Melayu dua-huruf.
-Apabila daftar yang sama dibawakan bersama makna, helai
-daftar itu tidak boleh menggunakan nama yang sama lagi.
-Sebaliknya, berikan nama lain seperti `melayu2.csv` atau
-`berhuruf2.csv` (mengikut pola 3).
+Contohnya, daftar tanpa makna `ms2.csv` dinamakan sempena
+daftar yang mengumpul lema Melayu dua-huruf. Apabila daftar
+yang sama dibawakan bersama makna, helai daftar itu tidak
+boleh menggunakan nama yang sama lagi. Sebaliknya, berikan
+nama lain seperti `melayu2.csv` atau `berhuruf2.csv`.
 
 Untuk pedoman umum, nama daftar yang terbaik adalah nama
-yang terdiri daripada **aksara termudah** (a-z, 0-9) dan
-nama yang menggunakan **huruf kecil**. Gunakan pedoman ini
-bersama pola bagi nama-nama yang ditentukan di atas.
+yang terdiri daripada aksara termudah (a-z, 0-9) dan nama
+yang menggunakan huruf kecil. Gunakan pedoman ini bersama
+pola bagi nama-nama yang ditentukan di atas.
 
 laman kembali: [panduan][0]
 

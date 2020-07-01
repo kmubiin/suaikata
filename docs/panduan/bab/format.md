@@ -69,10 +69,9 @@ sebenar, aksara `<TAB>` hanyalah ruang lebar kosong antara
 teks dan mana-mana sel yang dibiar kosong boleh kelihatan
 janggal dan tidak tersusun seperti paparan helaian rebak.
 
-Secara umum, format mudah alih hanya mengingati
-**isi kandungan** dan **rupa ringkas kandungan**. Ciri ini
-menjadikan CSV dan TSV lebih mudah dibaca semula dan
-disunting menggunakan perisian yang berbeza.
+Format mudah alih hanya mengingati isi dan rupa ringkas
+kandungan. Ciri ini menjadikan CSV dan TSV lebih mudah
+dibaca dan disunting menggunakan perisian yang berbeza.
 
 laman kembali: [panduan][0]
 

@@ -5,7 +5,8 @@
 
 Dalam bentuk lazim, daftar tanpa makna adalah senarai mudah
 manakala daftar yang ada makna adalah jadual memanjang.
-Namun, sesuatu daftar boleh memiliki bentuk yang lain.
+Namun, sesuatu daftar boleh memiliki bentuk lain yang
+**bukan lazim atau berbeza**.
 
 Misal pertama: Projek suaikata membawakan daftar tanpa makna
 bersama pembayang. Daftar ini ada lajur "melayu" dan
@@ -38,9 +39,8 @@ berubah daripada tiga menjadi enam lajur, dan akhirnya
 dikurangkan menjadi empat lajur setelah siap. Ciri daftar
 tersebut diubah bagi mengendali dua cadangan terjemah.
 
-Dengan kata lain, mana-mana daftar boleh memiliki
-**bentuk lain** dan bentuk lazim **boleh berubah** mengikut
-ketentuan atau keperluan.
+Mana-mana daftar boleh memiliki bentuk lain dan bentuk lazim
+boleh berubah mengikut ketentuan atau keperluan.
 
 laman kembali: [panduan][0]
 

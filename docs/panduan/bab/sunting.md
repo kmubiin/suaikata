@@ -43,15 +43,12 @@ sehingga 3 aksara berserta terjemahan.
 Pembaikan sesuatu daftar adalah lebih mudah dengan menyalin
 semula dan menyunting daftar baharu, dan kegunaan daftar itu
 harus berbeza dengan daftar lama. Dengan kata lain, daftar
-baharu harus tidak menggantikan daftar lama.
+baharu harus **tidak menggantikan daftar lama**.
 
 Tuntasnya, jika sekadar membetulkan kesalahan dalam daftar,
-maka wajar menyunting daftar lama; sebaliknya jika ada
+maka wajar menyunting daftar lama. Sebaliknya jika ada
 tujuan yang jelas, maka wajar menyalin semula dan menyunting
 sebagai daftar baharu.
-
-Pastikan **daftar lama terus terpelihara** tidak kira
-keputusan manapun.
 
 laman kembali: [panduan][0]
 
