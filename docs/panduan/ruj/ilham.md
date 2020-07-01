@@ -52,6 +52,15 @@ disunting oleh pengguna ramai. Ensiklopedia ini bermula
 dengan edisi bahasa Inggeris pada awal-2001, manakala edisi
 bahasa Melayu pula pada awal-2003.
 
+Pengusaha daftar boleh mendapatkan senarai kata masukan
+untuk pelbagai bahasa di Wikipedia:
+
+- [Lists of English words by country or language of origin](https://en.wikipedia.org/wiki/Lists_of_English_words_by_country_or_language_of_origin)
+&ndash; senarai utama yang mengandungi banyak senarai lain
+seperti berikut;
+- [List of English words of Indonesian origin](https://en.wikipedia.org/wiki/List_of_English_words_of_Indonesian_origin)
+- [List of English words of Malay origin](https://en.wikipedia.org/wiki/List_of_English_words_of_Malay_origin)
+
 Pengusaha daftar boleh melihat senarai laman berkaitan
 perkataan dan istilah dalam bahasa Melayu di Wikipedia:
 
