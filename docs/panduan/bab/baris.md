@@ -15,11 +15,12 @@ seperti berikut:
 Teks biasa dengan mana-mana penamat baris boleh dibaca
 seperti biasa menggunakan aplikasi lazim. Namun begitu,
 aplikasi atau laman dalam talian adakalanya tidak menyokong
-kesemua penamat baris. Misalnya di GitHub, jumlah sumbangan
-yang terpapar di laman dipengaruhi oleh penamat baris.
+kesemua penamat baris.
 
-Bandingkan sumbangan pertama (0bda916) dan kedua (5c4032d)
-bagi fail katakerap.csv seperti berikut:
+Misalnya di GitHub, jumlah sumbangan yang terpapar di laman
+dipengaruhi oleh penamat baris. Bandingkan dua sumbangan
+berkaitan (0bda916, 5c4032d) dan kiraan baris fail CSV
+berkenaan seperti berikut:
 
     $ git log --oneline | grep -A3 'Muatnaik'
     5c4032d Muatnaik 4000 perkataan Inggeris paling biasa
@@ -32,9 +33,6 @@ bagi fail katakerap.csv seperti berikut:
 
     $ git diff --shortstat 0bda916 5c4032d
      1 file changed, 1 insertion(+), 23020 deletions(-)
-
-Bandingkan kiraan baris bagi fail contoh dan fail asal
-daripada sumbangan berkenaan:
 
     $ file *.csv
     contoh.csv:                 ASCII text
@@ -49,13 +47,17 @@ daripada sumbangan berkenaan:
      23020  40179 553304 katakerap-lama-0bda916.csv
      23026  80368 994602 total
 
-Teks biasa 'ASCII text' dianggap menggunakan penamat baris
-LF walaupun tidak tercatat. Teks biasa bersama baris
-penamat CR didapati menunjukkan bilangan baris yang salah
-(0) berbanding penamat baris CRLF yang menunjukkan
-bilangan baris yang betul (23020).
+Fail contoh 'ASCII text' menggunakan penamat baris LF
+walaupun tidak dipaparkan. Fail CSV dengan penamat baris
+yang berbeza memulangkan kiraan baris seperti berikut:
 
-Sebaiknya gunakan penamat baris LF atau CR LF.
+- LF: 6 (benar)
+- CR: 0 (tidak benar)
+- CRLF: 23020 (benar)
+
+GitHub dan perisian lain tidak boleh membuat kiraan baris
+yang betul bagi fail yang menggunakan penamat baris CR. Oleh
+sebab itu, lebih baik gunakan penamat baris LF atau CR LF.
 
 laman kembali: [panduan][0]
 

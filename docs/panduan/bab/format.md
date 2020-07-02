@@ -3,29 +3,28 @@
 
 ### Format asal dan mudah alih
 
-Helai daftar disimpan sebagai fail dalam bentuk tertentu
-supaya boleh dibaca semula kemudian. Fail tersebut boleh
-disimpan dalam dua bentuk:
+Helai daftar disimpan sebagai fail pada komputer supaya
+boleh dibaca semula kemudian. Fail tersebut boleh disimpan
+dalam dua bentuk:
 
 1. Format asal
 2. Format mudah alih
 
 Apabila menyimpan fail baharu, perisian komputer akan
-menyarankan format asal seperti XLS dan ODS. Perisian
-komputer seperti Microsoft Office menggunakan format asal
-XLS, atau XLSX sejak 2007, manakala LibreOffice menggunakan
-format asal ODS.
+menyarankan format asal seperti XLS dan ODS. Microsoft
+Office menggunakan XLS, atau XLSX sejak 2007, manakala
+LibreOffice menggunakan ODS.
 
 Jika fail perlu dibaca semula menggunakan perisian lain,
 maka fail tersebut hendaklah disimpan dalam format mudah
 alih seperti CSV. Perisian web seperti Google Sheets dan
-GitHub turut menyokong format mudah alih CSV.
+GitHub turut menyokong CSV.
 
 Perbezaan dua format tersebut adalah **lebih maklumat**.
 Format asal mengandungi maklumat lengkap seperti rumus,
 warna dan lebar sel untuk memapar seluruh kandungan pada
 keadaan asal. Sebaliknya, format mudah alih mengandungi
-teks biasa bersama pemisah teks sahaja.
+teks biasa dan pemisah teks sahaja.
 
 Misalnya, pemapar fail di GitHub akan memaparkan CSV
 sebagai jadual ala helaian rebak. Nombor baris mungkin

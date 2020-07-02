@@ -8,9 +8,9 @@ takrif daripada bahasa asal kepada bahasa terjemah. Sebelum
 membuat pilihan terjemah, **buat perbandingan takrif** bagi
 kata masukan (lema) yang diberi.
 
-Contoh perbandingan takrif bagi lema 'accessible' yang
-dibuat menggunakan dua kamus ekabahasa dan empat kamus
-dwibahasa adalah seperti berikut.
+Misalnya, perbandingan takrif bagi lema 'accessible' dalam
+daftar pertama projek suaikata telah dibuat menggunakan dua
+kamus ekabahasa dan empat kamus dwibahasa seperti berikut.
 
 Takrif dalam bahasa asal:
 
@@ -56,15 +56,14 @@ Takrif dalam bahasa terjemah:
 > 
 > Sumber: Kamus dwibahasa Inggeris-Inggeris-Melayu (2004)
 
-Berdasarkan perbandingan takrif di atas, pilihan terjemah
-yang disediakan oleh projek suaikata untuk perkataan
-'accessible' ialah:
+Berdasarkan perbandingan takrif di atas, projek suaikata
+mendapati pilihan terjemah bagi lema 'accessible' ialah:
 
 > mudah sampai, capai atau dapat
 
 Usaha mendapatkan takrif **boleh menjadi rumit** apabila
-sukar untuk menentukan takrif yang paling sesuai. Berikut
-adalah contoh soalan yang mungkin timbul:
+sukar untuk menentukan takrif yang sesuai. Berikut adalah
+contoh soalan yang mungkin timbul:
 
 1. Bagaimana perkataan 'panda' diterjemah untuk bahasa
 Inggeris-Melayu? Ini kerana perkataan 'panda' menggunakan

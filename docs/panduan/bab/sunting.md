@@ -13,21 +13,14 @@ dilakukan secara berbeza.
 
 - Daftar PSAT didapati ada terjemah salah atau pendua bagi
 beberapa kata masukan. Tiada masalah lain.
-- Daftar kata kerap didapati ada ulangan perkataan dan
-terjemahan yang serupa. Lagi, lebih 23000 baris dengan
-penamat baris berbeza menjadikan sukar diperbaik.
-
-Pada masa tulisan ini, daftar kata kerap boleh dibaca dengan
-betul dalam helaian rebak tetapi tidak boleh menggunakan
-penyunting teks biasa dan garis perintah. Hal ini kerana
-penamat baris yang berbeza menjadikan daftar muncul dalam
-sebaris sahaja.
+- Daftar kata kerap didapati ada baris pendua. Lebih 23000
+baris dengan penamat baris berbeza menyebabkan teks biasa
+dipapar dalam sebaris sahaja dan sukar diperbaik.
 
 Berdasarkan keadaan di atas, keputusan bagi daftar PSAT
 adalah wajar menyunting daftar lama; dan bagi daftar kata
-kerap, wajar menyalin semula dan menyunting daftar baharu.
-Hal ini kerana daftar kata kerap ada beberapa masalah yang
-bersangkutan.
+kerap, wajar menyalin semula dan menyunting daftar baharu
+kerana ada beberapa masalah yang bersangkutan.
 
 Keputusan juga boleh dibuat berdasarkan **tujuan mencipta**
 daftar baharu. Contohnya, pembaikan daftar kata kerap boleh

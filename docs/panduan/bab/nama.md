@@ -47,16 +47,16 @@ di atas, **pola di kedudukan awal diberi keutamaan**. Ini
 bermakna pola 3 (akhir) tidak boleh menggunakan mana-mana
 nama yang ditentukan untuk pola 2 dan pola 1 (awal).
 
-Contohnya, daftar tanpa makna `ms2.csv` dinamakan sempena
-daftar yang mengumpul lema Melayu dua-huruf. Apabila daftar
-yang sama dibawakan bersama makna, helai daftar itu tidak
-boleh menggunakan nama yang sama lagi. Sebaliknya, berikan
-nama lain seperti `melayu2.csv` atau `berhuruf2.csv`.
+Contohnya, `ms2.csv` dinamakan sempena daftar tanpa makna
+yang mengumpul lema Melayu dua-huruf. Apabila daftar yang
+sama dibawakan bersama makna, helai daftar itu tidak boleh
+menggunakan nama yang sama lagi. Sebaliknya, berikan nama
+`berhuruf2.csv` atau nama lain.
 
-Untuk pedoman umum, nama daftar yang terbaik adalah nama
-yang terdiri daripada aksara termudah (a-z, 0-9) dan nama
-yang menggunakan huruf kecil. Gunakan pedoman ini bersama
-pola bagi nama-nama yang ditentukan di atas.
+Untuk pedoman umum, simpan helai dengan nama yang terdiri
+daripada aksara termudah (a-z, 0-9) dan menggunakan huruf
+kecil. Gunakan pedoman ini bersama pola bagi nama-nama yang
+ditentukan di atas.
 
 laman kembali: [panduan][0]
 

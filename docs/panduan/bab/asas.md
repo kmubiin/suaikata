@@ -42,8 +42,8 @@ ordered by time.
 Setelah fahamkan takrif dalam bahasa asal, barulah mula
 mencari kata kunci atau lema Melayu yang berkaitan. Setiap
 lema ada takrif tersendiri dan tidak semestinya didapati
-dalam satu perkataan. Kemudian, bandingkan setiap lema
-dengan takrif dalam bahasa asal.
+dalam satu perkataan. Selesai mencari, bandingkan setiap
+lema yang didapati dengan takrif dalam bahasa asal.
 
 - "chronicle" ?= catatan sejarah
 - "chronicle" ?= kisah
@@ -52,8 +52,8 @@ dengan takrif dalam bahasa asal.
 - "chronicle" ?= riwayat
 
 Pasangan lema yang paling sesuai akan dipilih berdasarkan
-semakan dengan sumber rujukan rasmi. Semakan yang disertai
-perbincangan secara berkumpulan adalah lebih baik.
+semakan dengan sumber rujukan yang laku. Semakan yang
+disertai perbincangan secara berkumpulan adalah lebih baik.
 
 | inggeris  | melayu  |
 |:--------- |:------- |
@@ -77,19 +77,17 @@ misalnya:
 
 Kamus ekabahasa adalah kamus yang digunakan untuk memahami
 takrif dalam bahasa asal. Dalam kamus ini, satu lema boleh
-diterangkan semula menggunakan perkataan yang lebih mudah
-untuk kefahaman penutur bahasa.
+diterangkan semula menggunakan perkataan yang lebih mudah.
 
-Apabila ada keperluan untuk mencari satu perkataan dalam
-bahasa lain yang menyamai takrif dalam bahasa asal, kamus
-yang digunakan ialah kamus dwibahasa. Apabila kamus ada
-lebih daripada dua bahasa, itu adalah kamus aneka bahasa.
+Apabila mencari lema dalam bahasa lain yang menyamai takrif
+suatu lema dalam bahasa asal, kamus yang digunakan ialah
+kamus dwibahasa. Jika ada lebih daripada dua bahasa, maka
+itu adalah kamus aneka bahasa.
 
 Kamus dwibahasa adalah kamus yang digunakan untuk memahami
-takrif dalam bahasa terjemah sebagai jalan mudah. Namun,
-kemudahan ini boleh menjadi satu kebetulan atau satu
-kesalahan apabila takrif tersebut diambil bulat-bulat tanpa
-menguasai bahasa asal.
+takrif dalam bahasa terjemah. Kemudahan kamus ini boleh
+menjadi satu kebetulan atau satu kesalahan apabila takrif
+tersebut diambil bulat-bulat tanpa menguasai bahasa asal.
 
 Misalnya, bandingkan takrif dalam bahasa terjemah dan
 takrif dalam bahasa asal bagi lema 'transparent':
