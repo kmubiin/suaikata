@@ -41,6 +41,7 @@
 - [Glosari](ruj/glosari.md)
 - [Sumber ilham](ruj/ilham.md)
 - [Perisian berperanan](ruj/perisian.md)
+- [Kelas daftar](ruj/kelas.md)
 
 > (Salin pautan luar berkenaan daripada dasar panduan) #baiki
 
@@ -49,14 +50,6 @@
 
 [250]: bab/salinan.md
 [270]: bab/mesin.md
-
-- [Kelas daftar][420] <=
-[daftar0][430] + [daftar1][440] + [daftar2][450] #baiki
-
-[420]: bab/kelas.md
-[430]: bab/daftar0.md
-[440]: bab/daftar1.md
-[450]: bab/daftar2.md
 
 laman kembali: [utama][0]
 
