@@ -2,6 +2,7 @@
 ---
 
 ### Kelas daftar
+&ensp;  
 
 Semua daftar boleh dikumpul mengikut kelas tertentu. Projek
 suaikata mengenal pasti dua kelas utama:
@@ -148,6 +149,7 @@ daftar dua bahasa dalam bahasa asal dan bahasa Melayu.
 Bahasa asal bagi daftar pertama yang diusahakan secara rasmi
 ialah bahasa Inggeris.
 
+&emsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

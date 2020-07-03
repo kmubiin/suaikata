@@ -2,6 +2,7 @@
 ---
 
 ### Soal terjemah
+&ensp;  
 
 &nbsp;  
 **Salinan terjemah**: Apabila suatu kata masukan (lema)
@@ -94,7 +95,7 @@ dan hak cipta asal harus diperakui.
 Sebagai kesimpulan, terjemahan mesin tidak harus digunakan
 semata-mata untuk menggantikan terjemahan lazim.
 
-&nbsp;  
+&emsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

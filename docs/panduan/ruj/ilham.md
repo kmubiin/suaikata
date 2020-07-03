@@ -2,6 +2,7 @@
 ---
 
 ### Sumber ilham
+&ensp;  
 
 &nbsp;  
 **Internet Archive**  
@@ -73,8 +74,7 @@ Wikipedia mengumpul senarai kata masukan dalam bahasa Melayu
 yang tersendiri di laman berasingan. Jika tiada senarai
 berkenaan di Wiktionary, boleh rujuk di Wikipedia.
 
-&nbsp;  
-
+&emsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

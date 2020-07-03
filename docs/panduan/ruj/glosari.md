@@ -2,8 +2,7 @@
 ---
 
 ### Glosari
-
-&nbsp;  
+&ensp;  
 
 **aksara** (en: character)
 &ndash; bahagian terkecil dalam teks biasa yang boleh
@@ -144,11 +143,12 @@ menyatakan perakuan hak cipta asal
 &ndash; laman web sumbangan ramai yang boleh disunting
 oleh sesiapa sahaja dengan menggunakan pelayar web
 
-&nbsp;  
+&mdash;  
 &#185; istilah baharu, dicipta oleh projek suaikata  
 &#178; istilah pilihan, berbeza pendapat atau tidak rasmi  
 &#179; istilah akademik atau khusus dalam bidang tertentu  
 
+&emsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

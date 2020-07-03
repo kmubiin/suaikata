@@ -2,13 +2,14 @@
 ---
 
 ### Dasar panduan
+&ensp;  
 
-&nbsp;  
+&ensp;  
 **Bab 1: Satu permulaan** merangkumi...
 
 > (Satu permulaan) + (Bahasa dan terjemahan) #baiki
 
-&nbsp;  
+&ensp;  
 Bab 1: Satu permulaan merangkumi tajuk mengenal projek
 suaikata, lesen sumber terbuka, dan hak cipta tidak
 terpelihara. Bab ini menerangkan semula usul projek suaikata
@@ -35,7 +36,7 @@ dan pengetahuan umum yang berkaitan.
 - [Feist v. Rural][1f]
   &ndash; Wikipedia
 
-&nbsp;  
+&ensp;  
 Bab 2: Bahasa dan terjemahan merangkumi tajuk bahasa
 Melayu piawai, sumber kata masukan, asas penyediaan takrif,
 takrif asal dan terjemah, satu atau dua salinan terjemah,
@@ -65,12 +66,12 @@ perbincangan semasa menyiapkan daftar pertama.
 - [Yandex.Translate][2g]
   &ndash; perisian web Yandex
 
-&nbsp;  
+&ensp;  
 **Bab 2: Perihal daftar** merangkumi...
 
 > (Daftar baharu) + (Daftar lazim dan tersedia) #baiki
 
-&nbsp;  
+&ensp;  
 Bab 3: Daftar baharu merangkumi tajuk mencipta helai
 daftar, format asal dan mudah alih, dua atau lebih lajur,
 penamat baris, dan menyunting daftar lama atau baharu. Bab
@@ -96,7 +97,7 @@ ini menerangkan cara kerja dan cara simpan yang sesuai.
 - [Salin dan perbaik daftar kata kerap #32][#32]
   &ndash; kmubiin/suaikata on Mar 6, 2020
 
-&nbsp;  
+&ensp;  
 Bab 4: Daftar lazim dan tersedia merangkumi tajuk bentuk
 lazim daftar, mengenal kelas daftar, daftar tanpa makna,
 daftar satu bahasa, daftar dua bahasa, kelainan ciri daftar,
@@ -110,12 +111,12 @@ disusun dan disedia oleh projek suaikata.
 - [Kelas daftar terkumpul #29][#29]
   &ndash; kmubiin/suaikata on Sep 20, 2019
 
-&nbsp;  
+&ensp;  
 **Bab 3: Aturan kerja** merangkumi...
 
 > (Aturan kerja) <= Bab 5 #baiki
 
-&nbsp;  
+&ensp;  
 Bab 5: Aturan kerja merangkumi tajuk menyedia daftar
 dari mula hingga akhir, memuat daftar, mengkaji lema dan
 daftar, dan ulang untuk mahir dan ilham. Bab ini menerangkan
@@ -127,12 +128,13 @@ usaha lain yang boleh dilakukan selepas itu.
 - [Ulasan pembangun daftar pertama #20][#20]
   &ndash; kmubiin/suaikata on Nov 17, 2018
 
-&nbsp;  
+&ensp;  
 Bab-bab lain, jika ada, belum ada dasar pada masa ini.
 Sebarang pautan yang tersenarai di atas adalah pautan
 luaran, dan sekadar rujukan bagi menyemak semula kandungan
 asal sebelum laman panduan dicipta.
 
+&emsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

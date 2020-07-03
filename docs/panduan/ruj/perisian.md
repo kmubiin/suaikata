@@ -2,6 +2,7 @@
 ---
 
 ### Perisian berperanan
+&ensp;  
 
 &nbsp;  
 **Git** (git)
@@ -104,6 +105,7 @@ Semua yang tersenarai di atas adalah perisian percuma atau
 perisian sumber terbuka. Semua perisian boleh dipasang dan
 digunakan pada komputer Windows, macOS, atau Linux.
 
+&emsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md
