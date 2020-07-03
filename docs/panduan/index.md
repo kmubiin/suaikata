@@ -42,14 +42,7 @@
 - [Sumber ilham](ruj/ilham.md)
 - [Perisian berperanan](ruj/perisian.md)
 - [Kelas daftar](ruj/kelas.md)
-
-> (Salin pautan luar berkenaan daripada dasar panduan) #baiki
-
-- Soal terjemah <=
-[salinan][250] + [mesin][270] #baiki
-
-[250]: bab/salinan.md
-[270]: bab/mesin.md
+- [Soal terjemah](ruj/terjemah.md)
 
 laman kembali: [utama][0]
 
