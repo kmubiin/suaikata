@@ -2,10 +2,9 @@
 ---
 
 ### Panduan projek suaikata
+&ensp;  
 
-> (Maklumat ringkas tentang panduan) + (Pautan dasar
-> searas dengan panduan/index.md)
-> dasar <= [ruj/dasar](ruj/dasar.md) #baiki
+Laman ini disediakan mengikut [dasar panduan](dasar.md)
 
 #### Bab 1: Satu permulaan
 
@@ -19,10 +18,10 @@
 
 #### Bab 2: Perihal daftar
 
-21. [Mencipta helai daftar](bab/helai.md)
-22. [Bentuk lazim daftar](bab/lazim.md)
-23. [Kelainan ciri daftar](bab/lain.md)
-24. [Contoh daftar tersedia](bab/contoh.md)
+21. [Bentuk lazim daftar](bab/lazim.md)
+22. [Kelainan ciri daftar](bab/lain.md)
+23. [Contoh daftar tersedia](bab/contoh.md)
+24. [Mencipta helai daftar](bab/helai.md)
 25. [Dua atau lebih lajur](bab/lajur.md)
 26. [Format asal dan mudah alih](bab/format.md)
 27. [Penamat baris](bab/baris.md)
@@ -44,6 +43,7 @@
 - [Kelas daftar](ruj/kelas.md)
 - [Soal terjemah](ruj/terjemah.md)
 
+&emsp;  
 laman kembali: [utama][0]
 
   [0]: ../index.md
