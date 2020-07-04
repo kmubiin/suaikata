@@ -4,12 +4,8 @@
 ### Sumber ilham
 &ensp;  
 
-&nbsp;  
-**Internet Archive**  
-&nbsp; &lt;https://archive.org/&gt;
-
-Internet Archive ialah sebuah perpustakaan digital bukan
-untung dengan misi "capaian universal kepada semua
+**Internet Archive** ialah sebuah perpustakaan digital
+bukan untung dengan misi "capaian universal kepada semua
 pengetahuan". Perpustakaan ini menyediakan kemudahan awam
 untuk mencapai kumpulan bahan digital secara percuma.
 
@@ -23,14 +19,12 @@ Senarai kata masukan daripada sumber domain awam boleh
 dicari di Internet Archive, dan laman web yang hilang
 mungkin boleh dilihat semula melalui Wayback Machine.
 
-&nbsp;  
-**Wiktionary**  
-&nbsp; &lt;https://wiktionary.org/&gt;
+https://archive.org/
 
-Wiktionary (bahasa Melayu: KamusWiki) ialah projek saudara
-Wikipedia untuk menghasilkan kamus bebas. Edisi bahasa
-Inggeris telah dibuka sejak akhir-2002, manakala edisi
-bahasa Melayu sejak pertengahan-2004.
+**Wiktionary** (bahasa Melayu: KamusWiki) ialah projek
+saudara Wikipedia untuk menghasilkan kamus bebas. Edisi
+bahasa Inggeris telah dibuka sejak akhir-2002, manakala
+edisi bahasa Melayu sejak pertengahan-2004.
 
 Pengusaha daftar boleh mendapatkan senarai kata masukan
 tanpa makna melalui beberapa laman khas di Wiktionary:
@@ -44,11 +38,9 @@ Setakat ini, edisi bahasa Melayu tidak ada laman khas yang
 mengumpul kata kerap atau kata pilihan tertentu sepertimana
 edisi bahasa Inggeris.
 
-&nbsp;  
-**Wikipedia**  
-&nbsp; &lt;https://wikipedia.org/&gt;
+https://wiktionary.org/
 
-Wikipedia ialah sebuah ensiklopedia bebas yang boleh
+**Wikipedia** ialah sebuah ensiklopedia bebas yang boleh
 disunting oleh pengguna ramai. Ensiklopedia ini bermula
 dengan edisi bahasa Inggeris pada awal-2001, manakala edisi
 bahasa Melayu pula pada awal-2003.
@@ -73,6 +65,8 @@ perkataan dan istilah dalam bahasa Melayu di Wikipedia:
 Wikipedia mengumpul senarai kata masukan dalam bahasa Melayu
 yang tersendiri di laman berasingan. Jika tiada senarai
 berkenaan di Wiktionary, boleh rujuk di Wikipedia.
+
+https://wikipedia.org/
 
 &emsp;  
 laman kembali: [panduan][0]
