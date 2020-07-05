@@ -2,55 +2,48 @@
 ---
 
 ### Panduan projek suaikata
+&ensp;  
+
+Laman ini disediakan mengikut [dasar panduan](dasar.md)
 
 #### Bab 1: Satu permulaan
 
 11. Mengenal projek suaikata #todo
-12. [Lesen sumber terbuka](bab/lesen.md)
+12. [Sumber kata masukan](bab/sumber.md)
 13. [Hak cipta tidak terpelihara](bab/hak-cipta.md)
+14. [Bahasa Melayu piawai](bab/piawai.md)
+15. [Lesen sumber terbuka](bab/lesen.md)
+16. [Asas penyediaan takrif](bab/asas.md)
+17. [Takrif asal dan terjemah](bab/takrif.md)
 
-#### Bab 2: Bahasa dan terjemahan
+#### Bab 2: Perihal daftar
 
-21. [Bahasa Melayu piawai](bab/piawai.md)
-22. [Sumber kata masukan](bab/sumber.md)
-23. [Asas penyediaan takrif](bab/asas.md)
-24. [Takrif asal dan terjemah](bab/takrif.md)
-25. [Satu atau dua salinan terjemah](bab/salinan.md)
-26. [Kamus sebagai rujukan](bab/kamus.md)
-27. [Terjemahan mesin](bab/mesin.md)
+21. [Bentuk lazim daftar](bab/lazim.md)
+22. [Kelainan ciri daftar](bab/lain.md)
+23. [Contoh daftar tersedia](bab/contoh.md)
+24. [Mencipta helai daftar](bab/helai.md)
+25. [Dua atau lebih lajur](bab/lajur.md)
+26. [Format asal dan mudah alih](bab/format.md)
+27. [Penamat baris](bab/baris.md)
+28. [Menyimpan helai dengan nama](bab/nama.md)
 
-#### Bab 3: Daftar baharu
+#### Bab 3: Aturan kerja
 
-31. [Mencipta helai daftar](bab/helai.md)
-32. [Format asal dan mudah alih](bab/format.md)
-33. [Dua atau lebih lajur](bab/lajur.md)
-34. [Penamat baris](bab/baris.md)
-35. [Menyunting daftar lama atau baharu](bab/sunting.md)
-
-#### Bab 4: Daftar lazim dan tersedia
-
-41. [Bentuk lazim daftar](bab/lazim.md)
-42. [Mengenal kelas daftar](bab/kelas.md)
-43. [Daftar tanpa makna](bab/daftar0.md)
-44. [Daftar satu bahasa](bab/daftar1.md)
-45. [Daftar dua bahasa](bab/daftar2.md)
-46. [Kelainan ciri daftar](bab/lain.md)
-47. [Contoh daftar tersedia](bab/contoh.md)
-
-#### Bab 5: Aturan kerja
-
-51. Menyedia daftar dari mula hingga akhir #todo
-52. Memuat daftar #todo
-53. Mengkaji lema dan daftar #todo
-54. Ulang untuk mahir #todo
+31. Menyedia daftar dari mula hingga akhir #todo
+32. Memuat daftar #todo
+33. Mengkaji lema dan daftar #todo
+34. [Menyunting daftar lama atau baharu](bab/sunting.md)
+35. Ulang untuk mahir #todo
 
 #### Rujukan
 
 - [Glosari](ruj/glosari.md)
-- [Dasar panduan](ruj/dasar.md)
 - [Sumber ilham](ruj/ilham.md)
 - [Perisian berperanan](ruj/perisian.md)
+- [Kelas daftar](ruj/kelas.md)
+- [Soal terjemah](ruj/terjemah.md)
 
+&emsp;  
 laman kembali: [utama][0]
 
   [0]: ../index.md

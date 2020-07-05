@@ -4,7 +4,7 @@
 ### Sumber kata masukan
 
 Usaha membangunkan daftar bermula dengan memilih sumber kata
-masukan. Ada tiga ciri sumber yang disarankan:
+masukan. Projek suaikata menggariskan tiga ciri sumber:
 
 1. Kata masukan adalah terkumpul
 2. Kata masukan adalah tanpa makna
@@ -21,26 +21,23 @@ abaikan makna dan senaraikan kata masukan sahaja. Senarai
 tanpa makna adalah **hak cipta tidak terpelihara**.
 
 Ciri 3 bermaksud kata masukan mematuhi peraturan bahasa dan
-ejaan terbaharu. Untuk bahasa pengantar, gunakan
-**bahasa Melayu piawai**. Untuk bahasa asal selain bahasa
-Melayu, peraturan bahasa dan ejaan harus dipelihara dan
-dikekalkan mengikut sumber.
+ejaan terbaharu. Gunakan **bahasa Melayu piawai**, kecuali
+senarai kata masukan bertujuan mengumpul ejaan lama dan
+baharu bersama untuk rujukan bersejarah.
 
-Jika kata masukan didapati menggunakan ejaan bahasa Inggeris
-versi Amerika, maka ejaan tersebut harus dikekalkan seperti
-keadaan asal sumber kata masukan. Tidak ada sebab munasabah
-untuk menukar ejaan kepada versi British, sebagai contoh.
+Secara umum, peraturan bahasa dan ejaan harus dipelihara dan
+dikekalkan mengikut sumber. Jika kata masukan menggunakan
+ejaan bahasa Inggeris versi Amerika, maka kekalkan ejaan itu
+seperti keadaan asal sumber. Sengaja menukar ejaan itu
+kepada versi British adalah tidak wajar, sebagai contoh.
 
 Ciri-ciri di atas adalah saranan yang ditulis berdasarkan
-usaha membangunkan daftar pertama untuk projek suaikata.
-Saranan adalah bukan kemestian dan sebenarnya boleh diabai
-bergantung pada keadaan atau sumber kata masukan.
-
+usaha awal projek suaikata. Saranan adalah bukan kemestian
+dan boleh diabai bergantung pada keadaan atau jenis sumber.
 Misalnya, sumber yang dipilih adalah sumber domain awam.
-Dalam hal ini, sekalipun sumber tersebut ada kata masukan
-bersama makna, tempoh perlindungan hak cipta sudah luput dan
-tidak terpelihara untuk domain awam. Dengan itu, ciri 2
-boleh diabai.
+Sekalipun kata masukan disertakan dengan makna, tempoh
+perlindungan hak cipta telah luput dan tidak terpelihara
+untuk domain awam. Dengan itu, ciri 2 boleh diabai.
 
 Tuntasnya, sumber kata masukan bermula dengan senarai sedia
 ada atau senarai kosong. Sumber pilihan yang baik adalah

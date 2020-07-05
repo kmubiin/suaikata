@@ -2,14 +2,23 @@
 ---
 
 ### Glosari
+&ensp;  
 
-&nbsp;  
+#### Simbol
+
+**¶** (en: paragraph sign)
+&ndash; aksara yang menandakan perenggan atau baris yang
+boleh diisi oleh pengguna di ruang menulis dalam perisian
+
+#### A
 
 **aksara** (en: character)
 &ndash; bahagian terkecil dalam teks biasa yang boleh
 memuatkan huruf, angka, simbol, dan ruang kosong
 
 **aplikasi mudah alih** (en: mobile apps)
+
+#### B
 
 **bahasa asal**&#178; (en: source language)
 &ndash; bahasa yang digunakan dalam mana-mana daftar asal,
@@ -31,6 +40,9 @@ bahasa dalam negara dan tempat serantau
 tersedia atau daftar asal yang disunting, sama ada bahasa
 Melayu atau bahasa lain
 
+#### C
+#### D
+
 **daftar dwibahasa lazim**
 &ndash; satu daftar kata dengan dua lajur yang memuatkan
 perkataan dalam satu bahasa dan terjemahan dalam bahasa lain
@@ -41,6 +53,9 @@ seperti kamus Inggeris-Melayu
 memuatkan dua salinan terjemah dan memetik salah satunya
 bersama tanda nama pengusaha
 
+#### E
+#### F
+
 **fail**&#179; (en: file)
 &ndash; kandungan dan maklumat yang dikumpul dan dikenal
 dengan nama tertentu dan disimpan dalam peranti storan,
@@ -50,9 +65,13 @@ umpama fail kertas kerja yang disusun dalam almari
 
 **format mudah alih** (en: portable format)
 
+#### G
+
 **garis perintah** (en: command line)
 &ndash; arahan yang digunakan oleh pengguna komputer untuk
 melakukan sesuatu tugas melalui antara muka teks sahaja
+
+#### H
 
 **hamparan elektronik**
 &ndash; lihat "helaian rebak"
@@ -62,9 +81,15 @@ melakukan sesuatu tugas melalui antara muka teks sahaja
 di sepanjang lajur dan baris, terutama helai yang dicipta
 oleh perisian komputer bagi menyediakan daftar kata
 
+#### I
+#### J
+#### K
+
 **korpus**&#179; (en: corpus; lat: corpus)
 &ndash; kata masukan dalam teks yang dikumpul bersama untuk
 penyelidikan bahasa
+
+#### L
 
 **laman sumber**&#178; (en: repository)
 &ndash; laman yang menyediakan kemudahan untuk melawat
@@ -82,6 +107,11 @@ membentuk kata-kata lain dalam sesuatu bahasa
 &ndash; kandungan dan maklumat yang dikumpul dan disimpan
 dalam satu fail tersendiri, misalnya salinan muat turun
 daripada pangkalan data wiki
+
+#### M
+#### N
+#### O
+#### P
 
 **pelayar web** (en: web browser)
 
@@ -119,10 +149,15 @@ teratur berdasarkan ciri tertentu
 
 **perisian** (en: software)
 
+#### Q
+#### R
+
 **rumus gunaan**&#178; (en: applied formula)
 &ndash; satu atau lebih rumus yang ditulis semula untuk
 membuat perangkaan dan selidik terhad dalam perisian seperti
 helaian rebak
+
+#### S
 
 **sebut nama**&#178; (en: attribution)
 &ndash; satu syarat yang ditetapkan oleh lesen sumber
@@ -134,21 +169,32 @@ menyatakan perakuan hak cipta asal
 
 **sumber terbuka** (en: open source)
 
+#### T
+
 **teks asal** (en: source text)
 
 **teks biasa** (en: plain text)
 
 **terjemahan mesin** (en: machine translation)
 
+#### U
+#### V
+#### W
+
 **wiki** (en: wiki; haw: wikiwiki)
 &ndash; laman web sumbangan ramai yang boleh disunting
 oleh sesiapa sahaja dengan menggunakan pelayar web
 
-&nbsp;  
+#### X
+#### Y
+#### Z
+
+&mdash;  
 &#185; istilah baharu, dicipta oleh projek suaikata  
 &#178; istilah pilihan, berbeza pendapat atau tidak rasmi  
 &#179; istilah akademik atau khusus dalam bidang tertentu  
 
+&emsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

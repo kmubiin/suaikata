@@ -14,13 +14,17 @@ Kata sama: abstrak, mujarad
 
 Kata terbitan: meniskalakan, keniskalaan, peniskalaan
 
-#### niskala dalam bahasa serantau
+#### niskala dalam bahasa
 
 Penggunaan lema dalam bahasa serantau:
 
 - Indonesia: abstrak
 - Brunei: abstrak
 - Malaysia: niskala, abstrak
+
+Penggunaan lema dalam bahasa lain:
+
+- Sanskrit (asal)
 
 #### niskala dalam istilah
 

@@ -4,49 +4,35 @@
 ### Penamat baris
 
 Apabila menyunting fail di platform tertentu, teks biasa
-mungkin menggunakan penamat baris yang berbeza.
+mungkin menggunakan **penamat baris yang berbeza**. Senarai
+platform umum dan penamat baris yang digunakan adalah
+seperti berikut:
 
-> Dalam pengkomputan, teks biasa (Bahasa Inggeris: Plain
-> text) ialah kandungan fail berjujukan biasa yang dapat
-> dibaca sebagai bahan teks tanpa banyak pemprosesan,
-> berbanding dengan teks berformat dan fail perduaan
->
-> Sumber: Wikipedia Bahasa Melayu
-
-Penamat baris bagi platform umum adalah seperti berikut:
-
-| Penamat baris | Platform    |
-| ------------- | ----------- |
-| LF            | Unix        |
-| CR            | Mac         |
-| CRLF (EOL)    | DOS/Windows |
+- Unix: LF (`\n`)
+- Mac: CR (`\r`)
+- DOS/Windows: CR LF (`\r \n`)
 
 Teks biasa dengan mana-mana penamat baris boleh dibaca
 seperti biasa menggunakan aplikasi lazim. Namun begitu,
 aplikasi atau laman dalam talian adakalanya tidak menyokong
 kesemua penamat baris.
 
-Misalnya di GitHub, pilihan penamat baris dalam teks biasa
-akan mempengaruhi jumlah sumbangan yang terpapar di laman,
-yakni bilangan baris yang diubah dalam teks biasa.
+Misalnya di GitHub, jumlah sumbangan yang terpapar di laman
+dipengaruhi oleh penamat baris. Bandingkan dua sumbangan
+berkaitan (0bda916, 5c4032d) dan kiraan baris fail CSV
+berkenaan seperti berikut:
 
-Sumbangan pertama:
+    $ git log --oneline | grep -A3 'Muatnaik'
+    5c4032d Muatnaik 4000 perkataan Inggeris paling biasa
+    747de60 Delete katakerap.csv
+    0bda916 Add files via upload
+    7447ef1 ...
 
-> Add files via upload  
-> 1 parent `7447ef1` commit
-`0bda916e5f03ec82696939ed507483bb4ba85c4f`  
-> [...] Showing with 23,020 additions and 0 deletions.  
+    $ git diff --shortstat 7447ef1 0bda916
+     1 file changed, 23020 insertions(+)
 
-Sumbangan kedua:
-
-> Muatnaik 4000 perkataan Inggeris paling biasa  
-> 1 parent `747de60` commit
-`5c4032de829ed5e2cde2214f59b0fea83345c326`  
-> [...] Showing with 1 addition and 0 deletions.  
-> 3 commits 23,021 ++ 23,020 --  
-
-Lihat juga perbezaan kiraan baris yang dilakukan melalui
-garis perintah `file` dan `wc` di GNU/Linux seperti berikut.
+    $ git diff --shortstat 0bda916 5c4032d
+     1 file changed, 1 insertion(+), 23020 deletions(-)
 
     $ file *.csv
     contoh.csv:                 ASCII text
@@ -61,13 +47,17 @@ garis perintah `file` dan `wc` di GNU/Linux seperti berikut.
      23020  40179 553304 katakerap-lama-0bda916.csv
      23026  80368 994602 total
 
-Teks biasa 'ASCII text' dianggap menggunakan penamat baris
-LF walaupun tidak tercatat. Teks biasa bersama baris
-penamat CR didapati menunjukkan bilangan baris yang salah
-(0) berbanding penamat baris CRLF yang menunjukkan
-bilangan baris yang betul (23020).
+Fail contoh 'ASCII text' menggunakan penamat baris LF
+walaupun tidak dipaparkan. Fail CSV dengan penamat baris
+yang berbeza memulangkan kiraan baris seperti berikut:
 
-Sebaiknya gunakan penamat baris **LF** atau **CRLF**.
+- LF: 6 (benar)
+- CR: 0 (tidak benar)
+- CRLF: 23020 (benar)
+
+GitHub dan perisian lain tidak boleh membuat kiraan baris
+yang betul bagi fail yang menggunakan penamat baris CR. Oleh
+sebab itu, lebih baik gunakan penamat baris LF atau CR LF.
 
 laman kembali: [panduan][0]
 
