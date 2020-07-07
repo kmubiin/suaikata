@@ -39,6 +39,8 @@ semasa menyiapkan daftar pertama.
 - [accessible][17a]
   &ndash; Collins English Dictionary
 
+&nbsp;  
+
   [#1]: https://github.com/kmubiin/suaikata/issues/1
   [#2]: https://github.com/kmubiin/suaikata/issues/2
   [#3]: https://github.com/kmubiin/suaikata/issues/3
@@ -81,6 +83,8 @@ sesuai supaya dapat dibaca semula kemudian.
 - [Malay translation for Notepad++][27a]
   &ndash; "Show Newline" diterjemah "Tunjuk Penamat Baris"
 
+&nbsp;  
+
   [#4]: https://github.com/kmubiin/suaikata/issues/4
   [#5]: https://github.com/kmubiin/suaikata/issues/5
   [#9]: https://github.com/kmubiin/suaikata/issues/9
@@ -102,6 +106,8 @@ dilakukan selepas itu.
   &ndash; kmubiin/suaikata on Nov 17, 2018
 - [Salin dan perbaik daftar kata kerap #32][#32]
   &ndash; kmubiin/suaikata on Mar 6, 2020
+
+&nbsp;  
 
   [3a]: https://help.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository
   [#20]: https://github.com/kmubiin/suaikata/issues/20
@@ -136,6 +142,8 @@ Sumber asal bagi laman rujukan berkenaan:
   &ndash; perisian web Microsoft
 - [Yandex.Translate][r4]
   &ndash; perisian web Yandex
+
+&nbsp;  
 
   [#14]: https://github.com/kmubiin/suaikata/issues/14
   [#29]: https://github.com/kmubiin/suaikata/issues/29
