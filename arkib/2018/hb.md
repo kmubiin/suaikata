@@ -26,4 +26,4 @@ beregu yang pertama.
 
 laman kembali: [arkib][0]
 
-  [0]: ../pokok.md
+  [0]: ../index.md

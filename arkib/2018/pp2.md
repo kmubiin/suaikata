@@ -505,5 +505,5 @@ GitHub.
 
 laman kembali: [arkib][0]
 
-  [0]: ../pokok.md
+  [0]: ../index.md
   [2i]: pp2i.png

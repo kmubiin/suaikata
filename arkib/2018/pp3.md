@@ -132,5 +132,5 @@ Automated as `Done`
 
 laman kembali: [arkib][0]
 
-  [0]: ../pokok.md
+  [0]: ../index.md
   [3i]: pp3i.png

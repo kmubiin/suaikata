@@ -34,4 +34,4 @@ diganti dengan `-` yang menyamai fungsi aksara asal.
 
 laman kembali: [arkib][0]
 
-  [0]: ../pokok.md
+  [0]: ../index.md

@@ -45,4 +45,4 @@ perisian lain dengan rumus yang sama atau sedikit berbeza.
 
 laman kembali: [arkib][0]
 
-  [0]: ../pokok.md
+  [0]: ../index.md

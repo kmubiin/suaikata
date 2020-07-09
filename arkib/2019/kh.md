@@ -43,4 +43,4 @@ Daftar dwibahasa beregu dengan enam lajur (2.6):
 
 laman kembali: [arkib][0]
 
-  [0]: ../pokok.md
+  [0]: ../index.md

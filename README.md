@@ -4,7 +4,7 @@ Koleksi ringkas kosa kata
 [Laman utama](docs/index.md)  
 &nbsp; &lt;https://kmubiin.github.io/suaikata/&gt;
 
-[Lihat arkib](arkib/pokok.md)  
+[Lihat arkib](arkib/index.md)  
 &nbsp; (GitHub sahaja)
 
 Projek ini berperingkat **alfa (alpha)**, bermaksud konsep

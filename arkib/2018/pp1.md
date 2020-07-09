@@ -192,5 +192,5 @@ batu penanda Akhir.
 
 laman kembali: [arkib][0]
 
-  [0]: ../pokok.md
+  [0]: ../index.md
   [1i]: pp1i.png

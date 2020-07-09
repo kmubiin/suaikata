@@ -28,6 +28,9 @@ dan disusun mengikut tarikh terawal kandungan.
 [Rumus gunaan daftar kerapu](2020/rh3.md)  
 [Daftar kerapu ada hasil #N/A](2020/rh3na.md)  
 
-Kembali ke [laman sumber][0]
+YYYY-MM-DD  
+Lagi salinan maklumat bersejarah?  
 
-  [0]: ../README.md "README"
+laman kembali: [README][0]
+
+  [0]: ../README.md
