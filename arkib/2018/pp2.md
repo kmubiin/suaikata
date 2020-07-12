@@ -3,7 +3,7 @@ Papan Projek 2 - Pencapaian
 
 Closed - Updated on 19 May (semakan terakhir: 17 Nov 2018)
 
-![Papan Projek 2 pada 80% saiz asal][2i]
+Lihat [tangkapan layar Papan Projek 2][2i]
 
 Salinan teks penuh adalah seperti berikut.
 

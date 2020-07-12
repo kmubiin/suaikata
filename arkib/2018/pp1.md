@@ -3,7 +3,7 @@ Papan Projek 1 - Rancangan
 
 Closed - Updated on 7 Nov (semakan terakhir: 17 Nov 2018)
 
-![Papan Projek 1 pada 80% saiz asal][1i]
+Lihat [tangkapan layar Papan Projek 1][1i]
 
 Salinan teks penuh adalah seperti berikut.
 

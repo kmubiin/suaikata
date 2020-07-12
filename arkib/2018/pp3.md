@@ -3,7 +3,7 @@ Papan Projek 3 - Semasa
 
 Open - Updated on 15 Nov (semakan terakhir: 17 Nov 2018)
 
-![Papan Projek 3 pada 80% saiz asal][3i]
+Lihat [tangkapan layar Papan Projek 3][3i]
 
 Salinan teks penuh adalah seperti berikut.
 
