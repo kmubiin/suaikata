@@ -19,7 +19,10 @@ Maklumat lanjut:
 &sect; **Kajian rinci**
 &ndash; Projek suaikata mendapati kamus bahasa Melayu
 sebagai sumber terbuka sukar dicari.
-[Lihat rinci](rinci.md)
+
+- [Hasil kajian Mac 2018](ura/1803.md)
+- [Hasil kajian April 2020](ura/2004.md)
+- Lagi kajian masa hadapan?
 
 &sect; **Lema dan daftar**
 &ndash; Projek suaikata membawakan lema dan daftar dalam
