@@ -10,6 +10,7 @@ seperti 1.4.1 ke 1.4.5, periksa nota yang terkemudian.
 
 &#42; merujuk pada terbitan jangka panjang
 
+&nbsp;[1.5.6](tag/1.5.6.md)&emsp;
 &nbsp;[1.5.5](tag/1.5.5.md)&emsp;
 &nbsp;[1.5.2](tag/1.5.2.md)&emsp;
 &nbsp;[1.5.1](tag/1.5.1.md)&emsp;
