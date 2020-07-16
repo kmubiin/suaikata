@@ -3,16 +3,16 @@ layout: default
 ---
 
 Projek suaikata ialah projek perkamusan sumber terbuka yang
-dimulakan oleh dua orang penutur bahasa Melayu. Satu tahun
-kemudian (2019), daftar kata pertama menjadi lengkap.
+dimulakan oleh dua orang penutur bahasa Melayu pada 2018.
+Satu tahun kemudian, daftar kata pertama menjadi lengkap.
 
 &#8889; **Daftar kata** &#8889;  
-Projek ini mengusahakan daftar kata dan bukan kamus lengkap.
-Daftar kata adalah terhad atau sekadar memadai.
+Bukan kamus harian. Projek ini mengusahakan daftar kata dan
+membawakan takrif terpilih atau sekadar memadai.
 
 &#9740; **CC-BY-4.0** &#9740;  
-Daftar itu boleh digunakan untuk apa-apa tujuan dengan
-syarat "sebut nama" atau menyatakan perakuan hak cipta asal.
+Syarat "sebut nama". Daftar kata itu boleh digunakan secara
+bebas dengan syarat menyatakan perakuan hak cipta asal.
 
 &nbsp;  
 Maklumat lanjut:
