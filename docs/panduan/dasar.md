@@ -15,11 +15,11 @@ semasa menyiapkan daftar pertama.
   &ndash; kmubiin/suaikata on Mar 8, 2018
 - [Pelesenan projek #3][#3]
   &ndash; kmubiin/suaikata on Mar 9, 2018
-- [Choose an open source license][15a]
+- [Choose an open source license][14a]
   &ndash; curated by GitHub
-- [Conformant Licenses][15b]
+- [Conformant Licenses][14b]
   &ndash; Open Definition
-- [CC BY 4.0][15c]
+- [CC BY 4.0][14c]
   &ndash; Creative Commons
 - [Keterbalikan antara sumber dan bidang kosa kata #7][#7]
   &ndash; kmubiin/suaikata on Mar 21, 2018
@@ -27,16 +27,15 @@ semasa menyiapkan daftar pertama.
   &ndash; U.S. Copyright Office
 - [Feist v. Rural][13b]
   &ndash; Wikipedia
-- [Wikipedia:Gunakan bahasa Melayu piawai][14a]
 - [Panduan penyediaan takrif #10][#10]
   &ndash; kmubiin/suaikata on Mar 23, 2018
-- [chronicle][16a]
+- [chronicle][15a]
   &ndash; Wiktionary
-- [transparent][16b]
+- [transparent][15b]
   &ndash; Wiktionary
 - [Soal kesesuaian takrif #11][#11]
   &ndash; kmubiin/suaikata on Mar 29, 2018
-- [accessible][17a]
+- [accessible][16a]
   &ndash; Collins English Dictionary
 
 &nbsp;  
@@ -49,13 +48,12 @@ semasa menyiapkan daftar pertama.
   [#11]: https://github.com/kmubiin/suaikata/issues/11
   [13a]: https://www.copyright.gov/help/faq/faq-protect.html
   [13b]: https://en.wikipedia.org/wiki/Feist_v._Rural
-  [14a]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai
-  [15a]: https://choosealicense.com/
-  [15b]: https://opendefinition.org/licenses/
-  [15c]: https://creativecommons.org/licenses/by/4.0/
-  [16a]: https://en.wiktionary.org/wiki/chronicle
-  [16b]: https://en.wiktionary.org/wiki/transparent
-  [17a]: https://www.collinsdictionary.com/dictionary/english/accessible
+  [14a]: https://choosealicense.com/
+  [14b]: https://opendefinition.org/licenses/
+  [14c]: https://creativecommons.org/licenses/by/4.0/
+  [15a]: https://en.wiktionary.org/wiki/chronicle
+  [15b]: https://en.wiktionary.org/wiki/transparent
+  [16a]: https://www.collinsdictionary.com/dictionary/english/accessible
 
 **Bab 2: Perihal daftar** menerangkan ciri daftar dan helai
 daftar. Bab ini juga menerangkan cara simpan helai yang
@@ -67,20 +65,13 @@ sesuai supaya dapat dibaca semula kemudian.
   &ndash; kmubiin/suaikata on Mar 12, 2018
 - [Penyediaan helaian rebak #9][#9]
   &ndash; kmubiin/suaikata on Mar 22, 2018
-- [Google Sheets][24a]
+- [Google Sheets][23a]
   &ndash; perisian web Google
-- [Microsoft Excel Online][24b]
+- [Microsoft Excel Online][23b]
   &ndash; perisian web Microsoft
-- [Rendering CSV and TSV data][26a]
-  &ndash; GitHub Help
-- [RFC 4180][26b]
-  &ndash; Common Format and MIME Type for Comma-Separated
-  Values (CSV) Files, IETF
-- [text/tab-separated-values][26c]
-  &ndash; Definition of tab-separated-values (tsv), IANA
 - [Pengaruh penamat baris untuk teks biasa #17][#17]
   &ndash; kmubiin/suaikata on May 3, 2018
-- [Malay translation for Notepad++][27a]
+- [Malay translation for Notepad++][25a]
   &ndash; "Show Newline" diterjemah "Tunjuk Penamat Baris"
 
 &nbsp;  
@@ -89,18 +80,15 @@ sesuai supaya dapat dibaca semula kemudian.
   [#5]: https://github.com/kmubiin/suaikata/issues/5
   [#9]: https://github.com/kmubiin/suaikata/issues/9
   [#17]: https://github.com/kmubiin/suaikata/issues/17
-  [24a]: https://docs.google.com/spreadsheets/
-  [24b]: https://office.live.com/start/Excel.aspx
-  [26a]: https://help.github.com/articles/rendering-csv-and-tsv-data/
-  [26b]: https://tools.ietf.org/html/rfc4180
-  [26c]: https://www.iana.org/assignments/media-types/text/tab-separated-values
-  [27a]: https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/installer/nativeLang/malay.xml
+  [23a]: https://docs.google.com/spreadsheets/
+  [23b]: https://office.live.com/start/Excel.aspx
+  [25a]: https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/installer/nativeLang/malay.xml
 
 **Bab 3: Aturan kerja** menerangkan semula cara menyedia dan
 memuat daftar ke laman sumber dan usaha lain yang boleh
 dilakukan selepas itu.
 
-- [Adding a file to a repository][3a]
+- [Adding a file to a repository][32a]
   &ndash; GitHub Help
 - [Ulasan pembangun daftar pertama #20][#20]
   &ndash; kmubiin/suaikata on Nov 17, 2018
@@ -109,7 +97,7 @@ dilakukan selepas itu.
 
 &nbsp;  
 
-  [3a]: https://help.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository
+  [32a]: https://help.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository
   [#20]: https://github.com/kmubiin/suaikata/issues/20
   [#32]: https://github.com/kmubiin/suaikata/issues/32
 
@@ -142,6 +130,14 @@ Sumber asal bagi laman rujukan berkenaan:
   &ndash; perisian web Microsoft
 - [Yandex.Translate][r4]
   &ndash; perisian web Yandex
+- [Wikipedia:Gunakan bahasa Melayu piawai][r14a]
+- [Rendering CSV and TSV data][r26a]
+  &ndash; GitHub Help
+- [RFC 4180][r26b]
+  &ndash; Common Format and MIME Type for Comma-Separated
+  Values (CSV) Files, IETF
+- [text/tab-separated-values][r26c]
+  &ndash; Definition of tab-separated-values (tsv), IANA
 
 &nbsp;  
 
@@ -151,6 +147,10 @@ Sumber asal bagi laman rujukan berkenaan:
   [r2]: https://translate.google.com/intl/en/about/license/
   [r3]: https://www.bing.com/translator/
   [r4]: https://translate.yandex.com/
+  [r14a]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai
+  [r26a]: https://help.github.com/articles/rendering-csv-and-tsv-data/
+  [r26b]: https://tools.ietf.org/html/rfc4180
+  [r26c]: https://www.iana.org/assignments/media-types/text/tab-separated-values
 
 Bab-bab lain, jika ada, belum ada dasar pada masa ini.
 Sebarang pautan yang tersenarai di atas adalah pautan
