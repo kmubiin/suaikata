@@ -36,14 +36,10 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 - [Sumber ilham](ruj/ilham.md)
 - [Perisian berperanan](ruj/perisian.md)
 - [Kelas daftar](ruj/kelas.md)
+- [Contoh daftar khusus](ruj/contoh.md)
 - [Soal terjemah](ruj/terjemah.md)
 - [Soal piawai](ruj/piawai.md)
 - [Format helai daftar](ruj/format.md)
-
-> Permudah bab berikut sebagai rujukan
-
-- Contoh daftar khusus <=
-[Contoh daftar tersedia](bab/contoh.md) #baiki
 
 &emsp;  
 laman kembali: [utama][0]
