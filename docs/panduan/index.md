@@ -26,14 +26,9 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 
 #### Bab 3: Aturan kerja
 
-31. Menyedia daftar dari mula hingga akhir #todo
+31. [Menyedia daftar dari mula hingga akhir](bab/sedia.md)
 32. Memuat daftar #todo
 33. [Mengulang kaji](bab/ulang-kaji.md)
-
-> Permudah bab berikut
-
-- 31 <=
-[Menyunting daftar lama atau baharu](bab/sunting.md) #baiki
 
 #### Rujukan
 
