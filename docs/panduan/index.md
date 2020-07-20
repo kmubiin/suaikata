@@ -38,13 +38,12 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 - [Kelas daftar](ruj/kelas.md)
 - [Soal terjemah](ruj/terjemah.md)
 - [Soal piawai](ruj/piawai.md)
+- [Format helai daftar](ruj/format.md)
 
 > Permudah bab berikut sebagai rujukan
 
 - Contoh daftar khusus <=
 [Contoh daftar tersedia](bab/contoh.md) #baiki
-- Format helai daftar <=
-[Format asal dan mudah alih](bab/format.md) #baiki
 
 &emsp;  
 laman kembali: [utama][0]

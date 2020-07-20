@@ -1,8 +1,10 @@
 ---
 ---
 
-### Format asal dan mudah alih
+### Format helai daftar
+&ensp;  
 
+&nbsp;  
 Helai daftar disimpan sebagai fail pada komputer supaya
 boleh dibaca semula kemudian. Fail tersebut boleh disimpan
 dalam dua bentuk:
@@ -72,6 +74,10 @@ Format mudah alih hanya mengingati isi dan rupa ringkas
 kandungan. Ciri ini menjadikan CSV dan TSV lebih mudah
 dibaca dan disunting menggunakan perisian yang berbeza.
 
+&emsp;  
+laman lompat kembali: [nama][1]
+
 laman kembali: [panduan][0]
 
   [0]: ../index.md
+  [1]: ../bab/nama.md
