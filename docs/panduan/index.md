@@ -28,14 +28,12 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 
 31. Menyedia daftar dari mula hingga akhir #todo
 32. Memuat daftar #todo
-33. Mengulang kaji #todo
+33. [Mengulang kaji](bab/ulang-kaji.md)
 
 > Permudah bab berikut
 
 - 31 <=
 [Menyunting daftar lama atau baharu](bab/sunting.md) #baiki
-- 33 <=
-Mengkaji lema dan daftar, Ulang untuk mahir #baiki
 
 #### Rujukan
 
