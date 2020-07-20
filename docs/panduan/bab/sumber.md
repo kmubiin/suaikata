@@ -43,6 +43,9 @@ Tuntasnya, sumber kata masukan bermula dengan senarai sedia
 ada atau senarai kosong. Sumber pilihan yang baik adalah
 tanpa makna dan mematuhi piawai.
 
+laman lompat rujukan: [piawai][1]
+
 laman kembali: [panduan][0]
 
   [0]: ../index.md
+  [1]: ../ruj/piawai.md

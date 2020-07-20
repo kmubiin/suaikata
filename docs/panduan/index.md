@@ -37,11 +37,10 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 - [Perisian berperanan](ruj/perisian.md)
 - [Kelas daftar](ruj/kelas.md)
 - [Soal terjemah](ruj/terjemah.md)
+- [Soal piawai](ruj/piawai.md)
 
 > Permudah bab berikut sebagai rujukan
 
-- Soal piawai <=
-[Bahasa Melayu piawai](bab/piawai.md) #baiki
 - Contoh daftar khusus <=
 [Contoh daftar tersedia](bab/contoh.md) #baiki
 - Format helai daftar <=

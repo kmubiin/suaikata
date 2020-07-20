@@ -115,6 +115,8 @@ bagi menyedia dan meneliti helai daftar
 semua daftar yang disediakan mengikut ciri tertentu
 - Soal terjemah ialah senarai masalah yang dikenal pasti
 semasa menyedia terjemahan bagi sesuatu daftar
+- Soal piawai ialah senarai peraturan yang wajar menjadi
+ikutan untuk kemudahan ramai
 
 Sumber asal bagi laman rujukan berkenaan:
 
