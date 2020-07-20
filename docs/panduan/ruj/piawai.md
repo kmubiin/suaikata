@@ -42,9 +42,41 @@ Indonesia, Malaysia, dan Brunei. Kosa kata yang diterima
 oleh penerbit kamus yang disanjung tinggi seperti Dewan
 Bahasa dan Pustaka (DBP) dan Oxford-Fajar adalah piawai.
 
-laman lompat kembali: [sumber][1]
+&nbsp;  
+**ISO 639**: Nama-nama bahasa sedunia boleh dikenal pasti
+dengan menggunakan kod perwakilan oleh pertubuhan badan
+bukan kerajaan ISO. Piawai antarabangsa ISO 639 terdiri
+daripada beberapa bahagian, tetapi hanya tiga sahaja yang
+laku pada masa ini.
+
+- ISO 639-1 (kod Alpha-2)
+- ISO 639-2 (kod Alpha-3 dengan jenis T dan B)
+- ISO 639-3 (kod Alpha-3 dengan rangkuman yang lebih luas
+berdasarkan 639-2/T yang setara dengan 639-1)
+
+Senarai kod Alpha-2 bagi beberapa bahasa:
+
+- bahasa Arab: ar
+- bahasa Cina: zh
+- bahasa Inggeris: en
+- bahasa Jerman: de
+- bahasa Indonesia: id
+- bahasa Jepun: ja
+- bahasa Latin: la
+- bahasa Melayu: ms
+- bahasa Parsi: fa
+- bahasa Zulu: zu
+
+Kod Alpha-2 atau kod perwakilan dua-huruf bagi nama-nama
+bahasa sedunia sudah memadai untuk kegunaan umum. ISO 639-1
+sememangnya adalah piawai yang digunakan bagi istilah,
+bidang perkamusan, dan bidang bahasa.
+
+&emsp;  
+laman lompat kembali: [sumber][1], [nama][2]
 
 laman kembali: [panduan][0]
 
   [0]: ../index.md
   [1]: ../bab/sumber.md
+  [2]: ../bab/nama.md

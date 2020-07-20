@@ -133,6 +133,9 @@ Sumber asal bagi laman rujukan berkenaan:
 - [Yandex.Translate][r4]
   &ndash; perisian web Yandex
 - [Wikipedia:Gunakan bahasa Melayu piawai][r14a]
+- [Standards - Frequently Asked Questions (FAQ)][r14b]
+  &ndash; Codes for the representation of the names of
+  languages (Library of Congress)
 - [Rendering CSV and TSV data][r26a]
   &ndash; GitHub Help
 - [RFC 4180][r26b]
@@ -150,6 +153,7 @@ Sumber asal bagi laman rujukan berkenaan:
   [r3]: https://www.bing.com/translator/
   [r4]: https://translate.yandex.com/
   [r14a]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai
+  [r14b]: https://www.loc.gov/standards/iso639-2/faq.html
   [r26a]: https://help.github.com/articles/rendering-csv-and-tsv-data/
   [r26b]: https://tools.ietf.org/html/rfc4180
   [r26c]: https://www.iana.org/assignments/media-types/text/tab-separated-values
