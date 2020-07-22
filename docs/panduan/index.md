@@ -11,29 +11,24 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 11. Mengenal projek suaikata #todo
 12. [Sumber kata masukan](bab/sumber.md)
 13. [Hak cipta tidak terpelihara](bab/hak-cipta.md)
-14. [Bahasa Melayu piawai](bab/piawai.md)
-15. [Lesen sumber terbuka](bab/lesen.md)
-16. [Asas penyediaan takrif](bab/asas.md)
-17. [Takrif asal dan terjemah](bab/takrif.md)
+14. [Lesen sumber terbuka](bab/lesen.md)
+15. [Asas penyediaan takrif](bab/asas.md)
+16. [Takrif asal dan terjemah](bab/takrif.md)
 
 #### Bab 2: Perihal daftar
 
 21. [Bentuk lazim daftar](bab/lazim.md)
 22. [Kelainan ciri daftar](bab/lain.md)
-23. [Contoh daftar tersedia](bab/contoh.md)
-24. [Mencipta helai daftar](bab/helai.md)
-25. [Dua atau lebih lajur](bab/lajur.md)
-26. [Format asal dan mudah alih](bab/format.md)
-27. [Penamat baris](bab/baris.md)
-28. [Menyimpan helai dengan nama](bab/nama.md)
+23. [Mencipta helai daftar](bab/helai.md)
+24. [Dua atau lebih lajur](bab/lajur.md)
+25. [Penamat baris](bab/baris.md)
+26. [Menyimpan helai dengan nama](bab/nama.md)
 
 #### Bab 3: Aturan kerja
 
-31. Menyedia daftar dari mula hingga akhir #todo
+31. [Menyedia daftar dari mula hingga akhir](bab/sedia.md)
 32. Memuat daftar #todo
-33. Mengkaji lema dan daftar #todo
-34. [Menyunting daftar lama atau baharu](bab/sunting.md)
-35. Ulang untuk mahir #todo
+33. [Mengulang kaji](bab/ulang-kaji.md)
 
 #### Rujukan
 
@@ -41,7 +36,10 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 - [Sumber ilham](ruj/ilham.md)
 - [Perisian berperanan](ruj/perisian.md)
 - [Kelas daftar](ruj/kelas.md)
+- [Contoh daftar khusus](ruj/contoh.md)
 - [Soal terjemah](ruj/terjemah.md)
+- [Soal piawai](ruj/piawai.md)
+- [Format helai daftar](ruj/format.md)
 
 &emsp;  
 laman kembali: [utama][0]

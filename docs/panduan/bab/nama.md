@@ -58,6 +58,10 @@ daripada aksara termudah (a-z, 0-9) dan menggunakan huruf
 kecil. Gunakan pedoman ini bersama pola bagi nama-nama yang
 ditentukan di atas.
 
+laman lompat rujukan: [piawai][1], [format][2]
+
 laman kembali: [panduan][0]
 
   [0]: ../index.md
+  [1]: ../ruj/piawai.md
+  [2]: ../ruj/format.md

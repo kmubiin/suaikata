@@ -1,7 +1,13 @@
 ---
 ---
 
-### Menyunting daftar lama atau baharu
+### Menyedia daftar dari mula hingga akhir
+
+Lagi huraian cara menyedia daftar baharu? #todo
+
+---
+
+Tajuk lama: Menyunting daftar lama atau baharu
 
 Apabila ingin mengkaji atau memperbaik sesuatu daftar, boleh
 timbul persoalan ini: Apakah wajar menyunting daftar lama

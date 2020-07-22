@@ -1,13 +1,14 @@
 ---
 ---
 
-### Contoh daftar tersedia
-
-Berikut adalah salinan sebahagian daripada daftar-daftar
-yang telah disedia untuk projek suaikata.
+### Contoh daftar khusus
+&ensp;  
 
 &nbsp;  
-A. Daftar dwibahasa beregu (PSAT):
+**Daftar PSAT**: Daftar dwibahasa beregu ini ada lajur
+khas yang memuatkan rujukan nama penterjemah. Lajur itu
+diisi dengan huruf pertama nama salah seorang penterjemah
+apabila memilih terjemahan yang sesuai untuk setiap lema.
 
 | inggeris    | ke | melayu                         | di |
 | ----------- | -- | ------------------------------ | -- |
@@ -19,13 +20,11 @@ A. Daftar dwibahasa beregu (PSAT):
 | chronicle   | 2  | mencatat dalam riwayat         | M  |
 | ...         | .. | ...                            | .. |
 
-Nota A: Daftar PSAT mengandungi lajur khas yang memuatkan
-rujukan nama penterjemah. Lajur itu diisi dengan huruf
-pertama nama salah seorang penterjemah apabila memilih
-terjemahan yang sesuai untuk setiap lema.
-
 &nbsp;  
-B. Daftar dwibahasa umum (kata kerap; kerapu):
+**Daftar kata kerap dan kerapu**: Kedua-dua daftar dwibahasa
+umum ini mengandungi dua lajur pertama yang sama, dan hanya
+daftar kerapu ada dua lajur tambahan. Lagi maklumat daftar
+di laman bersuai (pautan lompat di bawah).
 
 | perkataan | terjemahan  | unik | aksara |
 | --------- | ----------- | ---- | ------ |
@@ -38,10 +37,7 @@ B. Daftar dwibahasa umum (kata kerap; kerapu):
 | be        | adanya      | 8    | 2      |
 | ...       | ...         | ..   | ..     |
 
-Nota B: Kedua-dua daftar kata kerap dan kerapu mengandungi
-dua lajur pertama yang sama, dan hanya daftar kerapu ada dua
-lajur tambahan. Lagi maklumat daftar di laman bersuai.
-
+&emsp;  
 laman lompat berkaitan: [bersuai][1]
 
 laman kembali: [panduan][0]
