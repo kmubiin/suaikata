@@ -30,6 +30,9 @@ sebagai sumber terbuka sukar dicari.
 bahasa asal dan bahasa Melayu.
 [Lihat bersuai](bersuai.md)
 
+> Bahagian "Lema dan daftar" akan disemak semula bersama
+> nota terbitan #baiki
+
 &sect; **Cara kerja**
 &ndash; Projek suaikata mempunyai pendekatan tersendiri bagi
 mengusahakan daftar kata.
@@ -38,6 +41,8 @@ mengusahakan daftar kata.
 &sect; **Nota terbitan**
 &ndash; Projek suaikata menyediakan terbitan tanpa rutin.
 [Lihat bertag](bertag.md)
+
+> Bahagian "Nota terbitan" akan dibuang #kemudian
 
 &nbsp;  
 Untuk kemudahan lain, sila layari laman sumber di GitHub.
