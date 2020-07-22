@@ -113,10 +113,14 @@ rangsangan berfikir bagi mencipta helai daftar yang baharu
 bagi menyedia dan meneliti helai daftar
 - Kelas daftar ialah senarai kumpulan daftar yang mengumpul
 semua daftar yang disediakan mengikut ciri tertentu
+- Contoh daftar khusus ialah penerangan ringkas daftar yang
+disediakan khusus bagi projek suaikata
 - Soal terjemah ialah senarai masalah yang dikenal pasti
 semasa menyedia terjemahan bagi sesuatu daftar
 - Soal piawai ialah senarai peraturan yang wajar menjadi
 ikutan untuk kemudahan ramai
+- Format helai daftar ialah penerangan format bagi helai
+daftar yang disimpan sebagai fail pada komputer
 
 Sumber asal bagi laman rujukan berkenaan:
 
@@ -124,39 +128,39 @@ Sumber asal bagi laman rujukan berkenaan:
   &ndash; kmubiin/suaikata on Apr 16, 2018
 - [Kelas daftar terkumpul #29][#29]
   &ndash; kmubiin/suaikata on Sep 20, 2019
-- [Google Translate][r1]
+- [Google Translate][rt1]
   &ndash; perisian web Google
-- [Google Translate licenses][r2]
+- [Google Translate licenses][rt2]
   &ndash; lesen bagi semua bahasa yang disokong
-- [Microsoft Translator (Bing Translator)][r3]
+- [Microsoft Translator (Bing Translator)][rt3]
   &ndash; perisian web Microsoft
-- [Yandex.Translate][r4]
+- [Yandex.Translate][rt4]
   &ndash; perisian web Yandex
-- [Wikipedia:Gunakan bahasa Melayu piawai][r14a]
-- [Standards - Frequently Asked Questions (FAQ)][r14b]
+- [Wikipedia:Gunakan bahasa Melayu piawai][rp1]
+- [Standards - Frequently Asked Questions (FAQ)][rp2]
   &ndash; Codes for the representation of the names of
   languages (Library of Congress)
-- [Rendering CSV and TSV data][r26a]
+- [Rendering CSV and TSV data][rf1]
   &ndash; GitHub Help
-- [RFC 4180][r26b]
+- [RFC 4180][rf2]
   &ndash; Common Format and MIME Type for Comma-Separated
   Values (CSV) Files, IETF
-- [text/tab-separated-values][r26c]
+- [text/tab-separated-values][rf3]
   &ndash; Definition of tab-separated-values (tsv), IANA
 
 &nbsp;  
 
   [#14]: https://github.com/kmubiin/suaikata/issues/14
   [#29]: https://github.com/kmubiin/suaikata/issues/29
-  [r1]: https://translate.google.com
-  [r2]: https://translate.google.com/intl/en/about/license/
-  [r3]: https://www.bing.com/translator/
-  [r4]: https://translate.yandex.com/
-  [r14a]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai
-  [r14b]: https://www.loc.gov/standards/iso639-2/faq.html
-  [r26a]: https://help.github.com/articles/rendering-csv-and-tsv-data/
-  [r26b]: https://tools.ietf.org/html/rfc4180
-  [r26c]: https://www.iana.org/assignments/media-types/text/tab-separated-values
+  [rt1]: https://translate.google.com
+  [rt2]: https://translate.google.com/intl/en/about/license/
+  [rt3]: https://www.bing.com/translator/
+  [rt4]: https://translate.yandex.com/
+  [rp1]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai
+  [rp2]: https://www.loc.gov/standards/iso639-2/faq.html
+  [rf1]: https://help.github.com/articles/rendering-csv-and-tsv-data/
+  [rf2]: https://tools.ietf.org/html/rfc4180
+  [rf3]: https://www.iana.org/assignments/media-types/text/tab-separated-values
 
 Bab-bab lain, jika ada, belum ada dasar pada masa ini.
 Sebarang pautan yang tersenarai di atas adalah pautan
