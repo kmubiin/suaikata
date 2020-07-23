@@ -1,9 +1,7 @@
 ---
 ---
 
-### Bicara lema dan daftar (bersuai)
-
-> Tajuk laman ini akan dinamakan semula #baiki
+### Terbitan, lema dan daftar (bersuai)
 
 Kandungan disusun mengikut nama terbitan ala garis masa,
 terawal dari atas. Semua daftar yang diusahakan termasuk

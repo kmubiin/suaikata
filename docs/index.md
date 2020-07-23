@@ -25,13 +25,13 @@ sebagai sumber terbuka sukar dicari.
 - [Hasil kajian April 2020](ura/2004.md)
 - Lagi kajian masa hadapan?
 
-&sect; **Lema dan daftar**
-&ndash; Projek suaikata membawakan lema dan daftar dalam
-bahasa asal dan bahasa Melayu.
+&sect; **Hasil pena**
+&ndash; Projek suaikata menyediakan terbitan tanpa rutin,
+serta lema dan daftar dalam bahasa asal dan bahasa Melayu.
 [Lihat bersuai](bersuai.md)
 
-> Bahagian "Lema dan daftar" akan disemak semula bersama
-> nota terbitan #baiki
+> Bahagian "Hasil pena"--dahulu "Lema dan daftar"--akan
+> disemak semula bersama nota terbitan #baiki
 
 &sect; **Cara kerja**
 &ndash; Projek suaikata mempunyai pendekatan tersendiri bagi
