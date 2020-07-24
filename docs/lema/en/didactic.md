@@ -53,6 +53,6 @@ Oleh itu, terjemah 'didactic' membawakan takrif yang mantap
 "bersifat mengajar" dan takrif tersebut dapat dipadankan
 kepada kedua-dua makna dalam bahasa asal.
 
-laman kembali: [inggeris][0]
+laman kembali: [bersuai][0]
 
-  [0]: ../inggeris.md
+  [0]: ../../bersuai.md

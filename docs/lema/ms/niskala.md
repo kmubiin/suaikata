@@ -49,7 +49,7 @@ Lema ini muncul dalam terjemahan 'abstract'.
 
 laman lompat berkaitan: [abstract][1]
 
-laman kembali: [melayu][0]
+laman kembali: [bersuai][0]
 
-  [0]: ../melayu.md
+  [0]: ../../bersuai.md
   [1]: ../en/abstract.md

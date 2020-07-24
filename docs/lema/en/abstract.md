@@ -81,7 +81,7 @@ Contoh: algebra niskala, data niskala, dunia niskala
 
 laman lompat berkaitan: [niskala][1]
 
-laman kembali: [inggeris][0]
+laman kembali: [bersuai][0]
 
-  [0]: ../inggeris.md
+  [0]: ../../bersuai.md
   [1]: ../ms/niskala.md

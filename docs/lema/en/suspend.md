@@ -88,6 +88,6 @@ Kesimpulannya, pilihan terjemah yang "betul" untuk istilah
 komputer 'suspend' ialah 'gantung' melainkan ada bukti lain
 yang menyokong terjemah lain yang lebih sesuai.
 
-laman kembali: [inggeris][0]
+laman kembali: [bersuai][0]
 
-  [0]: ../inggeris.md
+  [0]: ../../bersuai.md

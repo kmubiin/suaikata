@@ -73,7 +73,7 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 > Pautan kembali perlu diperbetul #kemudian
 > 
 > - ~~tag/{tag}.md: {bertag => bersuai} dan~~
-> - lema/{en,ms}/{lema}.md: {inggeris,melayu => bersuai}
+> - ~~lema/{en,ms}/{lema}.md: {inggeris,melayu => bersuai}~~
 
 ---
 
