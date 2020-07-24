@@ -38,11 +38,5 @@ serta lema dan daftar dalam bahasa asal dan bahasa Melayu.
 mengusahakan daftar kata.
 [Lihat panduan](panduan/index.md)
 
-&sect; **Nota terbitan**
-&ndash; Projek suaikata menyediakan terbitan tanpa rutin.
-[Lihat bertag](bertag.md)
-
-> Bahagian "Nota terbitan" akan dibuang #kemudian
-
 &nbsp;  
 Untuk kemudahan lain, sila layari laman sumber di GitHub.
