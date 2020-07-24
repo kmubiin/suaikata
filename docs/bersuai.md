@@ -82,8 +82,8 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 Nota lema mengikut susunan abjad dalam bahasa asal. Terhad
 pada lema yang ada takrif sukar atau keliru.
 
-- [Melayu](lema/melayu.md)
-- [Inggeris](lema/inggeris.md)
+- Melayu ~~(lema/melayu.md)~~
+- Inggeris ~~(lema/inggeris.md)~~
 
 Daftar terawal dari atas, bagi semua daftar khusus dan umum
 kecuali contoh. Pautan sehala ke nota terbitan berkenaan.
