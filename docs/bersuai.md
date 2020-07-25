@@ -11,16 +11,16 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 [1.0](tag/1.0.md)&#42;&ensp;
 
 &emsp;Daftar: 2  
-&emsp;.. [PSAT](ura/psat.md)  
-&emsp;.. [Kata kerap](ura/katakerap.md)  
+&emsp;. @k [PSAT](ura/psat.md)  
+&emsp;. @u [Kata kerap](ura/katakerap.md)  
 
 [1.1.0](tag/1.1.0.md)&emsp;
 
 [1.2.0](tag/1.2.0.md)&emsp;
 
 &emsp;Lema: 2  
-&emsp;. en/[abstract](ura/en/abstract.md)  
-&emsp;. en/[suspend](ura/en/suspend.md)  
+&emsp;. #en [abstract](ura/en/abstract.md)  
+&emsp;. #en [suspend](ura/en/suspend.md)  
 
 [1.2.1](tag/1.2.1.md)&emsp;
 [1.2.2](tag/1.2.2.md)&emsp;
@@ -34,23 +34,23 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 [1.4.0](tag/1.4.0.md)&emsp;
 
 &emsp;Daftar: 3 (+1)  
-&emsp;.. Kata dua-huruf Melayu (tanpa makna)  
-&emsp;,, PSAT (lengkap)  
+&emsp;. @k Kata dua-huruf Melayu (tanpa makna)  
+&emsp;.. PSAT (lengkap)  
 
 &emsp;Lema: 7 (+5)  
-&emsp;. en/[charlatan](ura/en/charlatan.md)  
-&emsp;. en/[didactic](ura/en/didactic.md)  
-&emsp;. en/[immutable](ura/en/immutable.md)  
-&emsp;. en/[refute](ura/en/refute.md)  
-&emsp;. en/[repudiate](ura/en/repudiate.md)  
+&emsp;. #en [charlatan](ura/en/charlatan.md)  
+&emsp;. #en [didactic](ura/en/didactic.md)  
+&emsp;. #en [immutable](ura/en/immutable.md)  
+&emsp;. #en [refute](ura/en/refute.md)  
+&emsp;. #en [repudiate](ura/en/repudiate.md)  
 
 [1.4.1](tag/1.4.1.md)&#42;&ensp;
 [1.4.5](tag/1.4.5.md)&emsp;
 [1.4.6](tag/1.4.6.md)&emsp;
 
 &emsp;Daftar: 5 (+2)  
-&emsp;.. Kata dua-huruf Inggeris (tanpa makna)  
-&emsp;.. [Kata kerap unik](ura/kerapu.md)  
+&emsp;. @k Kata dua-huruf Inggeris (tanpa makna)  
+&emsp;. @u [Kata kerap unik](ura/kerapu.md)  
 
 [1.5.0](tag/1.5.0.md)&emsp;
 [1.5.1](tag/1.5.1.md)&emsp;
@@ -58,7 +58,7 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 [1.5.5](tag/1.5.5.md)&emsp;
 
 &emsp;Lema: 8 (+1)  
-&emsp;. ms/[niskala](ura/ms/niskala.md)  
+&emsp;. #ms [niskala](ura/ms/niskala.md)  
 
 [1.5.6](tag/1.5.6.md)&emsp;
 [1.5.7](tag/1.5.7.md)&emsp;
@@ -67,6 +67,8 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 
 &mdash;  
 &#42; (tanda bintang) mewakili terbitan jangka panjang  
+&#46; (tanda noktah) mewakili kemas kini baharu  
+&#46;&#46; (tanda noktah dua) mewakili kemas kini semula  
 
 ---
 

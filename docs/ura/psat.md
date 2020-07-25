@@ -45,7 +45,7 @@ bagi kata masukan yang pernah ada selisih terjemah
 Maklumat kemas kini bagi daftar PSAT:
 
 - Bahasa pengantar: Inggeris-Melayu
-- Kelas daftar: dwi
+- Kelas daftar: khusus; dwi
 - Pengusaha daftar: 2
 - Tarikh mula: 2018-03-29
 - Tarikh siap: 2018-04-30
