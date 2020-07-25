@@ -30,9 +30,6 @@ sebagai sumber terbuka sukar dicari.
 serta lema dan daftar dalam bahasa asal dan bahasa Melayu.
 [Lihat bersuai](bersuai.md)
 
-> Bahagian "Hasil pena"--dahulu "Lema dan daftar"--akan
-> disemak semula bersama nota terbitan #baiki
-
 &sect; **Cara kerja**
 &ndash; Projek suaikata mempunyai pendekatan tersendiri bagi
 mengusahakan daftar kata.
