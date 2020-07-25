@@ -150,6 +150,9 @@ Bahasa asal bagi daftar pertama yang diusahakan secara rasmi
 ialah bahasa Inggeris.
 
 &emsp;  
+laman lompat berkaitan: [bersuai][1]
+
 laman kembali: [panduan][0]
 
   [0]: ../index.md
+  [1]: ../../bersuai.md

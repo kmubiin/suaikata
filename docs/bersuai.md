@@ -18,6 +18,10 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 
 [1.2.0](tag/1.2.0.md)&emsp;
 
+&emsp;Rinci: 1  
+&emsp;,, Kajian Mac 2018 adalah kajian perintis  
+&emsp;,, [Hasil kajian Mac 2018](ura/1803.md)  
+
 &emsp;Lema: 2  
 &emsp;. #en [abstract](ura/en/abstract.md)  
 &emsp;. #en [suspend](ura/en/suspend.md)  
@@ -53,6 +57,10 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 &emsp;. @u [Kata kerap unik](ura/kerapu.md)  
 
 [1.5.0](tag/1.5.0.md)&emsp;
+
+&emsp;Rinci: 2 (+1)  
+&emsp;,, [Hasil kajian April 2020](ura/2004.md)  
+
 [1.5.1](tag/1.5.1.md)&emsp;
 [1.5.2](tag/1.5.2.md)&emsp;
 [1.5.5](tag/1.5.5.md)&emsp;
@@ -69,11 +77,13 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 &#42; (tanda bintang) mewakili terbitan jangka panjang  
 &#46; (tanda noktah) mewakili kemas kini baharu  
 &#46;&#46; (tanda noktah dua) mewakili kemas kini semula  
+&#44;&#44; (tanda koma dua) mewakili kemas kini sampingan  
 
 &emsp;  
-laman lompat rujukan: [contoh][1]
+laman lompat rujukan: [contoh][1], [kelas][2]
 
 laman kembali: [utama][0]
 
   [0]: index.md
   [1]: panduan/ruj/contoh.md
+  [2]: panduan/ruj/kelas.md
