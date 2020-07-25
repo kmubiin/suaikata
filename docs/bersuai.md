@@ -19,8 +19,8 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 [1.2.0](tag/1.2.0.md)&emsp;
 
 &emsp;Lema: 2  
-&emsp;. en/[abstract](lema/en/abstract.md)  
-&emsp;. en/[suspend](lema/en/suspend.md)  
+&emsp;. en/[abstract](ura/en/abstract.md)  
+&emsp;. en/[suspend](ura/en/suspend.md)  
 
 [1.2.1](tag/1.2.1.md)&emsp;
 [1.2.2](tag/1.2.2.md)&emsp;
@@ -38,11 +38,11 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 &emsp;,, PSAT (lengkap)  
 
 &emsp;Lema: 7 (+5)  
-&emsp;. en/[charlatan](lema/en/charlatan.md)  
-&emsp;. en/[didactic](lema/en/didactic.md)  
-&emsp;. en/[immutable](lema/en/immutable.md)  
-&emsp;. en/[refute](lema/en/refute.md)  
-&emsp;. en/[repudiate](lema/en/repudiate.md)  
+&emsp;. en/[charlatan](ura/en/charlatan.md)  
+&emsp;. en/[didactic](ura/en/didactic.md)  
+&emsp;. en/[immutable](ura/en/immutable.md)  
+&emsp;. en/[refute](ura/en/refute.md)  
+&emsp;. en/[repudiate](ura/en/repudiate.md)  
 
 [1.4.1](tag/1.4.1.md)&#42;&ensp;
 [1.4.5](tag/1.4.5.md)&emsp;
@@ -58,7 +58,7 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 [1.5.5](tag/1.5.5.md)&emsp;
 
 &emsp;Lema: 8 (+1)  
-&emsp;. ms/[niskala](lema/ms/niskala.md)  
+&emsp;. ms/[niskala](ura/ms/niskala.md)  
 
 [1.5.6](tag/1.5.6.md)&emsp;
 [1.5.7](tag/1.5.7.md)&emsp;
