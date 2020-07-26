@@ -3,6 +3,7 @@
 
 ### charlatan
 
+&nbsp;  
 Hasil rujukan kamus tersedia:
 
 - kamus ekabahasa terbitan 2012 membawakan makna 'charlatan'
@@ -14,6 +15,7 @@ pandai, terutama dalam perubatan"
 
 Berikut adalah huraian terjemah oleh projek suaikata.
 
+&nbsp;  
 #### charlatan(1)
 
 Terjemah 'charlatan' makna ke-1:
@@ -58,6 +60,7 @@ Oleh itu, terjemah 'charlatan' membawakan takrif yang lebih
 mudah faham "orang yang mengaku mahir" dan diikuti perkataan
 "penyemu" yang tepat tetapi kurang digunakan.
 
+&nbsp;  
 laman kembali: [bersuai][0]
 
   [0]: ../../bersuai.md

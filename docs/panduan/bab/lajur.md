@@ -3,6 +3,7 @@
 
 ### Dua atau lebih lajur
 
+&nbsp;  
 Daftar dwibahasa yang lazim ada dua lajur sahaja, iaitu satu
 bahasa untuk setiap lajur. Apabila dua ahli projek ingin
 bekerjasama, dua lajur sudah tidak memadai.
@@ -44,6 +45,7 @@ sebagai fail baru sebelum diterbit di laman sumber projek.
 cara kerja percubaan bagi kegunaan dua ahli projek. Perlu
 fikirkan cara kerja lain untuk kegunaan umum.
 
+&nbsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

@@ -3,6 +3,7 @@
 
 ### Mencipta helai daftar
 
+&nbsp;  
 Helai daftar disedia mengikut keperluan dan kesesuaian cara
 kerja individu atau berkumpulan. Helai daftar boleh disedia
 dengan dua cara:
@@ -49,6 +50,7 @@ disunting mengikut keperluan pengguna.
 Projek suaikata telah menyediakan helai daftar pertama
 bersama dua ahli projek menggunakan Google Sheets.
 
+&nbsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

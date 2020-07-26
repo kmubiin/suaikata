@@ -3,6 +3,7 @@
 
 ### Kajian daftar kata kerap unik
 
+&nbsp;  
 Daftar kata kerap unik (kerapu) terbitan projek suaikata
 ialah daftar dwibahasa Inggeris-Melayu berdasarkan daftar
 kata kerap yang disalin semula dengan pembaikan terhad.
@@ -94,6 +95,7 @@ baris yang ada dalam fail, kecuali tajuk di baris pertama.
 Bagaimanapun, bilangan semasa adalah termasuk perkataan
 berulang yang mempunyai terjemahan yang berbeza.
 
+&nbsp;  
 laman kembali: [bersuai][0]
 
   [0]: ../bersuai.md

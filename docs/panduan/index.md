@@ -2,8 +2,8 @@
 ---
 
 ### Panduan projek suaikata
-&ensp;  
 
+&nbsp;  
 Laman ini disediakan mengikut [dasar panduan](dasar.md)
 
 #### Bab 1: Satu permulaan
@@ -41,7 +41,7 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 - [Soal piawai](ruj/piawai.md)
 - [Format helai daftar](ruj/format.md)
 
-&emsp;  
+&nbsp;  
 laman kembali: [utama][0]
 
   [0]: ../index.md

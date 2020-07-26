@@ -3,6 +3,7 @@
 
 ### suspend
 
+&nbsp;  
 Hasil rujukan kamus tersedia:
 
 - kamus ekabahasa terbitan 2012 membawakan makna 'suspend'
@@ -88,6 +89,7 @@ Kesimpulannya, pilihan terjemah yang "betul" untuk istilah
 komputer 'suspend' ialah 'gantung' melainkan ada bukti lain
 yang menyokong terjemah lain yang lebih sesuai.
 
+&nbsp;  
 laman kembali: [bersuai][0]
 
   [0]: ../../bersuai.md

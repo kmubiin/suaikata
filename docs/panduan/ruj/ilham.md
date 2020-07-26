@@ -2,8 +2,8 @@
 ---
 
 ### Sumber ilham
-&ensp;  
 
+&nbsp;  
 **Internet Archive** ialah sebuah perpustakaan digital
 bukan untung dengan misi "capaian universal kepada semua
 pengetahuan". Perpustakaan ini menyediakan kemudahan awam
@@ -21,6 +21,7 @@ mungkin boleh dilihat semula melalui Wayback Machine.
 
 https://archive.org/
 
+&nbsp;  
 **Wiktionary** (bahasa Melayu: KamusWiki) ialah projek
 saudara Wikipedia untuk menghasilkan kamus bebas. Edisi
 bahasa Inggeris telah dibuka sejak akhir-2002, manakala
@@ -40,6 +41,7 @@ edisi bahasa Inggeris.
 
 https://wiktionary.org/
 
+&nbsp;  
 **Wikipedia** ialah sebuah ensiklopedia bebas yang boleh
 disunting oleh pengguna ramai. Ensiklopedia ini bermula
 dengan edisi bahasa Inggeris pada awal-2001, manakala edisi
@@ -68,7 +70,7 @@ berkenaan di Wiktionary, boleh rujuk di Wikipedia.
 
 https://wikipedia.org/
 
-&emsp;  
+&nbsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

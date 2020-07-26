@@ -3,6 +3,7 @@
 
 ### niskala
 
+&nbsp;  
 Hasil rujukan kamus tersedia:
 
 - kamus Wiktionary menyatakan 'niskala' adalah kata masukan
@@ -47,6 +48,7 @@ seperti jiwa, roh, suara hati, dan seumpamanya
 
 Lema ini muncul dalam terjemahan 'abstract'.
 
+&nbsp;  
 laman lompat berkaitan: [abstract][1]
 
 laman kembali: [bersuai][0]

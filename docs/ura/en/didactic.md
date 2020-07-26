@@ -3,6 +3,7 @@
 
 ### didactic
 
+&nbsp;  
 Hasil rujukan kamus tersedia:
 
 - kamus ekabahasa terbitan 2012 membawakan makna 'didactic'
@@ -53,6 +54,7 @@ Oleh itu, terjemah 'didactic' membawakan takrif yang mantap
 "bersifat mengajar" dan takrif tersebut dapat dipadankan
 kepada kedua-dua makna dalam bahasa asal.
 
+&nbsp;  
 laman kembali: [bersuai][0]
 
   [0]: ../../bersuai.md

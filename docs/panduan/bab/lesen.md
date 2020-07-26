@@ -3,6 +3,7 @@
 
 ## Lesen sumber terbuka
 
+&nbsp;  
 Laman sumber awam di GitHub dan kemudahan web seumpamanya
 membolehkan kandungan tersedia dibaca, diubah, dan disebar
 secara bebas oleh orang ramai. Kandungan tersebut adalah
@@ -31,6 +32,7 @@ sebagai syarat penggunaan sudah memadai.
 
 Projek suaikata menggunakan lesen CC-BY-4.0
 
+&nbsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

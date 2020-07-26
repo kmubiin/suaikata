@@ -3,7 +3,7 @@
 
 ### Menyedia daftar dari mula hingga akhir
 
-Lagi huraian cara menyedia daftar baharu? #todo
+> Lagi huraian cara menyedia daftar baharu? #todo
 
 ---
 
@@ -49,6 +49,9 @@ maka wajar menyunting daftar lama. Sebaliknya jika ada
 tujuan yang jelas, maka wajar menyalin semula dan menyunting
 sebagai daftar baharu.
 
+---
+
+&nbsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

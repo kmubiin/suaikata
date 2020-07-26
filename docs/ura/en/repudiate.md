@@ -3,6 +3,7 @@
 
 ### repudiate
 
+&nbsp;  
 Hasil rujukan kamus tersedia:
 
 - kamus ekabahasa terbitan 2012 membawakan makna 'repudiate'
@@ -78,6 +79,7 @@ manusia, perjanjian, atau tanggungjawab.
 Oleh itu, padanan terjemah yang sesuai bagi 'repudiate'
 ialah "menolak (kaitan)".
 
+&nbsp;  
 laman berkaitan: [refute][1], **repudiate**
 
 laman kembali: [bersuai][0]

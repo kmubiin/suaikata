@@ -3,6 +3,7 @@
 
 ### Bentuk lazim daftar
 
+&nbsp;  
 Biasanya, daftar didapati dalam bentuk senarai mudah atau
 jadual memanjang yang terdiri daripada lajur dan baris.
 Bentuk lazim bagi sesuatu daftar boleh berbeza.
@@ -36,6 +37,7 @@ ada lajur "kata dasar" dan "kata lawan". Daftar dua bahasa
 seperti daftar kata Inggeris-Melayu pula akan ada lajur
 "inggeris" dan "melayu".
 
+&nbsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

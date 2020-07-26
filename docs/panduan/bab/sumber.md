@@ -3,6 +3,7 @@
 
 ### Sumber kata masukan
 
+&nbsp;  
 Usaha membangunkan daftar bermula dengan memilih sumber kata
 masukan. Projek suaikata menggariskan tiga ciri sumber:
 
@@ -43,6 +44,7 @@ Tuntasnya, sumber kata masukan bermula dengan senarai sedia
 ada atau senarai kosong. Sumber pilihan yang baik adalah
 tanpa makna dan mematuhi piawai.
 
+&nbsp;  
 laman lompat rujukan: [piawai][1]
 
 laman kembali: [panduan][0]

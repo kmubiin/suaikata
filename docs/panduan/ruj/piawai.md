@@ -2,7 +2,6 @@
 ---
 
 ### Soal piawai
-&ensp;  
 
 &nbsp;  
 **Bahasa Melayu piawai**: Wikipedia bahasa Melayu ada garis
@@ -72,7 +71,7 @@ bahasa sedunia sudah memadai untuk kegunaan umum. ISO 639-1
 sememangnya adalah piawai yang digunakan bagi istilah,
 bidang perkamusan, dan bidang bahasa.
 
-&emsp;  
+&nbsp;  
 laman lompat kembali: [sumber][1], [nama][2]
 
 laman kembali: [panduan][0]

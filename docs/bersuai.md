@@ -3,6 +3,7 @@
 
 ### Terbitan, lema dan daftar (bersuai)
 
+&nbsp;  
 Kandungan disusun mengikut nama terbitan ala garis masa,
 terawal dari atas. Semua daftar yang diusahakan termasuk
 daftar tanpa makna akan disenarai. Bagaimanapun, kajian
@@ -70,7 +71,7 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 [1.5.6](tag/1.5.6.md)&emsp;
 [1.5.7](tag/1.5.7.md)&emsp;
 
-&emsp;Lagi terbitan masa hadapan?
+> Lagi terbitan masa hadapan?
 
 &mdash;  
 &#42; (tanda bintang) mewakili terbitan jangka panjang  
@@ -78,7 +79,7 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 &#46;&#46; (tanda noktah dua) mewakili kemas kini semula  
 &#44;&#44; (tanda koma dua) mewakili kemas kini sampingan  
 
-&emsp;  
+&nbsp;  
 laman lompat rujukan: [contoh][1], [kelas][2]
 
 laman kembali: [utama][0]

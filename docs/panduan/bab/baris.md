@@ -3,6 +3,7 @@
 
 ### Penamat baris
 
+&nbsp;  
 Apabila menyunting fail di platform tertentu, teks biasa
 mungkin menggunakan **penamat baris yang berbeza**. Senarai
 platform umum dan penamat baris yang digunakan adalah
@@ -59,6 +60,7 @@ GitHub dan perisian lain tidak boleh membuat kiraan baris
 yang betul bagi fail yang menggunakan penamat baris CR. Oleh
 sebab itu, lebih baik gunakan penamat baris LF atau CR LF.
 
+&nbsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md
