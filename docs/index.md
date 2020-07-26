@@ -17,13 +17,11 @@ bebas dengan syarat menyatakan perakuan hak cipta asal.
 &nbsp;  
 Maklumat lanjut:
 
-&sect; **Kajian rinci**
-&ndash; Projek suaikata mendapati kamus bahasa Melayu
-sebagai sumber terbuka sukar dicari.
+&sect; **Kemas kini**
 
-- [Hasil kajian Mac 2018](ura/1803.md)
-- [Hasil kajian April 2020](ura/2004.md)
-- Lagi kajian masa hadapan?
+> Bahagian ini akan memuat pautan lompat ke kandungan
+> terpilih atau terkini, sama ada dengan bantuan Jekyll
+> atau secara manual--perlu selidik #beta
 
 &sect; **Hasil pena**
 &ndash; Projek suaikata menyediakan terbitan tanpa rutin,
