@@ -17,32 +17,21 @@ bebas dengan syarat menyatakan perakuan hak cipta asal.
 &nbsp;  
 Maklumat lanjut:
 
-&sect; **Kajian rinci**
-&ndash; Projek suaikata mendapati kamus bahasa Melayu
-sebagai sumber terbuka sukar dicari.
+&sect; **Kemas kini**
 
-- [Hasil kajian Mac 2018](ura/1803.md)
-- [Hasil kajian April 2020](ura/2004.md)
-- Lagi kajian masa hadapan?
+> Bahagian ini akan memuat pautan lompat ke kandungan
+> terpilih atau terkini, sama ada dengan bantuan Jekyll
+> atau secara manual--perlu selidik #beta
 
-&sect; **Lema dan daftar**
-&ndash; Projek suaikata membawakan lema dan daftar dalam
-bahasa asal dan bahasa Melayu.
+&sect; **Hasil pena**
+&ndash; Projek suaikata menyediakan terbitan tanpa rutin,
+serta lema dan daftar dalam bahasa asal dan bahasa Melayu.
 [Lihat bersuai](bersuai.md)
-
-> Bahagian "Lema dan daftar" akan disemak semula bersama
-> nota terbitan #baiki
 
 &sect; **Cara kerja**
 &ndash; Projek suaikata mempunyai pendekatan tersendiri bagi
 mengusahakan daftar kata.
 [Lihat panduan](panduan/index.md)
-
-&sect; **Nota terbitan**
-&ndash; Projek suaikata menyediakan terbitan tanpa rutin.
-[Lihat bertag](bertag.md)
-
-> Bahagian "Nota terbitan" akan dibuang #kemudian
 
 &nbsp;  
 Untuk kemudahan lain, sila layari laman sumber di GitHub.

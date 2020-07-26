@@ -3,6 +3,7 @@
 
 ### Kajian daftar kata kerap
 
+&nbsp;  
 Daftar kata kerap terbitan projek suaikata ialah daftar
 dwibahasa Inggeris-Melayu berdasarkan daftar asal yang
 tidak dinamakan.
@@ -60,6 +61,7 @@ yang ada dalam fail, kecuali tajuk di baris pertama.
 Bagaimanapun, bilangan semasa adalah termasuk perkataan
 berulang yang mempunyai terjemahan yang berbeza.
 
+&nbsp;  
 laman kembali: [bersuai][0]
 
   [0]: ../bersuai.md

@@ -3,6 +3,7 @@
 
 ### immutable
 
+&nbsp;  
 Hasil rujukan kamus tersedia:
 
 - kamus ekabahasa terbitan 2012 membawakan makna 'immutable'
@@ -52,6 +53,7 @@ Takrif terpendek "tak terubah" bermaksud "yang tidak dapat
 ubah". Imbuhan awalan ter- membawa makna "sudah (dapat)".
 Dengan itu, terjemah A menyamai makna dalam bahasa asal.
 
-laman kembali: [inggeris][0]
+&nbsp;  
+laman kembali: [bersuai][0]
 
-  [0]: ../inggeris.md
+  [0]: ../../bersuai.md

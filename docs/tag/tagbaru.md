@@ -3,6 +3,7 @@
 
 ### Terbitan {apa}
 
+&nbsp;  
 Terbitan {apa} untuk pembaikan.
 
 - {apa inti sari perubahan}
@@ -16,6 +17,7 @@ beza: `git diff --stat {apa}`
 
 Terbitan ini dinamakan `{apa}`
 
-laman kembali: [bertag][0]
+&nbsp;  
+laman kembali: [bersuai][0]
 
-  [0]: ../bertag.md
+  [0]: ../bersuai.md

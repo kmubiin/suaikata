@@ -2,7 +2,6 @@
 ---
 
 ### Contoh daftar khusus
-&ensp;  
 
 &nbsp;  
 **Daftar PSAT**: Daftar dwibahasa beregu ini ada lajur
@@ -37,7 +36,7 @@ di laman bersuai (pautan lompat di bawah).
 | be        | adanya      | 8    | 2      |
 | ...       | ...         | ..   | ..     |
 
-&emsp;  
+&nbsp;  
 laman lompat berkaitan: [bersuai][1]
 
 laman kembali: [panduan][0]

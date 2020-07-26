@@ -3,6 +3,7 @@
 
 ### Menyimpan helai dengan nama
 
+&nbsp;  
 Setiap helai daftar akan diberi nama apabila disimpan
 sebagai fail menggunakan perisian komputer. Nama penuh
 fail `nama.anu` ada dua bahagian:
@@ -58,6 +59,7 @@ daripada aksara termudah (a-z, 0-9) dan menggunakan huruf
 kecil. Gunakan pedoman ini bersama pola bagi nama-nama yang
 ditentukan di atas.
 
+&nbsp;  
 laman lompat rujukan: [piawai][1], [format][2]
 
 laman kembali: [panduan][0]

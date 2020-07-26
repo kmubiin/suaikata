@@ -3,6 +3,7 @@
 
 ### Hak cipta tidak terpelihara
 
+&nbsp;  
 Sumber pilihan yang baik adalah senarai kata masukan tanpa
 makna. Secara umum, sebarang senarai bahan atau kandungan
 semata-mata adalah di luar kuasa undang-undang dan hak cipta
@@ -64,6 +65,7 @@ bagi mengusahakan daftar baharu yang bermakna. Daftar baharu
 yang diusahakan dengan cara tersendiri berpeluang ada
 nilai kesusasteraan, maka hak cipta boleh terpelihara.
 
+&nbsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

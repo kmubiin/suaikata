@@ -2,8 +2,8 @@
 ---
 
 ### Dasar panduan
-&ensp;  
 
+&nbsp;  
 **Bab 1: Satu permulaan** menerangkan asal usul projek
 suaikata dan pengetahuan umum yang berkaitan. Bab ini juga
 menyusun semula hasil perbincangan bagi menyedia takrif
@@ -55,6 +55,7 @@ semasa menyiapkan daftar pertama.
   [15b]: https://en.wiktionary.org/wiki/transparent
   [16a]: https://www.collinsdictionary.com/dictionary/english/accessible
 
+&nbsp;  
 **Bab 2: Perihal daftar** menerangkan ciri daftar dan helai
 daftar. Bab ini juga menerangkan cara simpan helai yang
 sesuai supaya dapat dibaca semula kemudian.
@@ -84,6 +85,7 @@ sesuai supaya dapat dibaca semula kemudian.
   [23b]: https://office.live.com/start/Excel.aspx
   [25a]: https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/installer/nativeLang/malay.xml
 
+&nbsp;  
 **Bab 3: Aturan kerja** menerangkan semula cara menyedia dan
 memuat daftar ke laman sumber dan usaha lain yang boleh
 dilakukan selepas itu.
@@ -101,6 +103,7 @@ dilakukan selepas itu.
   [#20]: https://github.com/kmubiin/suaikata/issues/20
   [#32]: https://github.com/kmubiin/suaikata/issues/32
 
+&nbsp;  
 **Rujukan** mengumpul sebarang kandungan yang menyokong
 panduan tetapi di luar tumpuan. Semua laman rujukan membawa
 maklumat sokongan bagi bab-bab panduan.
@@ -162,12 +165,13 @@ Sumber asal bagi laman rujukan berkenaan:
   [rf2]: https://tools.ietf.org/html/rfc4180
   [rf3]: https://www.iana.org/assignments/media-types/text/tab-separated-values
 
+&nbsp;  
 Bab-bab lain, jika ada, belum ada dasar pada masa ini.
 Sebarang pautan yang tersenarai di atas adalah pautan
 luaran, dan sekadar rujukan bagi menyemak semula kandungan
 asal sebelum laman panduan dicipta.
 
-&emsp;  
+&nbsp;  
 laman kembali: [panduan][0]
 
   [0]: index.md

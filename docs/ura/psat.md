@@ -3,6 +3,7 @@
 
 ### Kajian daftar PSAT
 
+&nbsp;  
 Daftar PSAT terbitan projek suaikata ialah daftar dwibahasa
 Inggeris-Melayu berdasarkan [PSAT High Frequency Words][a].
 
@@ -12,7 +13,7 @@ Jumlah kata masukan asal ialah 267, termasuk 2 pendua.
 
 #### Tentang PSAT atau SAT
 
-Tiada maklumat tentang PSAT atau SAT #todo
+> Tiada maklumat tentang PSAT atau SAT #todo
 
 #### Tentang binaan daftar
 
@@ -45,7 +46,7 @@ bagi kata masukan yang pernah ada selisih terjemah
 Maklumat kemas kini bagi daftar PSAT:
 
 - Bahasa pengantar: Inggeris-Melayu
-- Kelas daftar: dwi
+- Kelas daftar: khusus; dwi
 - Pengusaha daftar: 2
 - Tarikh mula: 2018-03-29
 - Tarikh siap: 2018-04-30
@@ -91,6 +92,7 @@ tepat. Had panjang terjemah ditetapkan pada 20 aksara.
 **Penafian**: Maklumat perangkaan bagi daftar PSAT adalah
 rujukan laku untuk pengusaha daftar ini sahaja.
 
+&nbsp;  
 laman kembali: [bersuai][0]
 
   [0]: ../bersuai.md

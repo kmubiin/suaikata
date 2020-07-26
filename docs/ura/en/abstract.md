@@ -3,6 +3,7 @@
 
 ### abstract
 
+&nbsp;  
 Hasil rujukan kamus tersedia:
 
 - kamus dwibahasa terbitan lewat 1990-an membawakan makna
@@ -79,9 +80,10 @@ bahasa Melayu dan juga di Wikipedia bahasa Melayu.
 
 Contoh: algebra niskala, data niskala, dunia niskala
 
+&nbsp;  
 laman lompat berkaitan: [niskala][1]
 
-laman kembali: [inggeris][0]
+laman kembali: [bersuai][0]
 
-  [0]: ../inggeris.md
+  [0]: ../../bersuai.md
   [1]: ../ms/niskala.md

@@ -3,6 +3,7 @@
 
 ### Takrif asal dan terjemah
 
+&nbsp;  
 Perbandingan takrif adalah cara lazim untuk membawakan
 takrif daripada bahasa asal kepada bahasa terjemah. Sebelum
 membuat pilihan terjemah, **buat perbandingan takrif** bagi
@@ -93,6 +94,7 @@ Sebagai kesimpulan, buat perbandingan takrif dan tentukan
 pilihan terjemah yang sesuai dan boleh difahami. Untuk
 bantuan, buat carian di web atau bincang secara berkumpulan.
 
+&nbsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md

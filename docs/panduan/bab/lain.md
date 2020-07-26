@@ -3,6 +3,7 @@
 
 ### Kelainan ciri daftar
 
+&nbsp;  
 Dalam bentuk lazim, daftar tanpa makna adalah senarai mudah
 manakala daftar yang ada makna adalah jadual memanjang.
 Namun, sesuatu daftar boleh memiliki bentuk lain yang
@@ -42,6 +43,7 @@ tersebut diubah bagi mengendali dua cadangan terjemah.
 Mana-mana daftar boleh memiliki bentuk lain dan bentuk lazim
 boleh berubah mengikut ketentuan atau keperluan.
 
+&nbsp;  
 laman kembali: [panduan][0]
 
   [0]: ../index.md
