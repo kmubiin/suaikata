@@ -19,7 +19,6 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 [1.2.0](tag/1.2.0.md)&emsp;
 
 &emsp;Rinci: 1  
-&emsp;,, Kajian Mac 2018 adalah kajian perintis  
 &emsp;,, [Hasil kajian Mac 2018](ura/1803.md)  
 
 &emsp;Lema: 2  
