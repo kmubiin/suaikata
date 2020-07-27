@@ -28,6 +28,11 @@ Maklumat lanjut:
 serta lema dan daftar dalam bahasa asal dan bahasa Melayu.
 [Lihat bersuai](bersuai.md)
 
+&sect; **Perkakasan**
+&ndash; Projek suaikata dapat mengusahakan daftar kata
+dengan adanya sumber dan perisian yang memainkan peranan.
+[Lihat berbantu](berbantu.md)
+
 &sect; **Cara kerja**
 &ndash; Projek suaikata mempunyai pendekatan tersendiri bagi
 mengusahakan daftar kata.

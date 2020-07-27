@@ -4,7 +4,7 @@
 ### Panduan projek suaikata
 
 &nbsp;  
-Laman ini disediakan mengikut [dasar panduan](dasar.md)
+Laman ini disediakan mengikut [dasar panduan](dasar.md) #baiki
 
 #### Bab 1: Satu permulaan
 
@@ -33,8 +33,8 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 #### Rujukan
 
 - [Glosari](ruj/glosari.md)
-- [Sumber ilham](ruj/ilham.md)
-- [Perisian berperanan](ruj/perisian.md)
+- [Sumber ilham](ruj/ilham.md) #tersalin
+- [Perisian berperanan](ruj/perisian.md) #tersalin
 - [Kelas daftar](ruj/kelas.md)
 - [Contoh daftar khusus](ruj/contoh.md)
 - [Soal terjemah](ruj/terjemah.md)
