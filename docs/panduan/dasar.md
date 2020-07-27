@@ -110,10 +110,6 @@ maklumat sokongan bagi bab-bab panduan.
 
 - Glosari ialah senarai kosa kata atau istilah pilihan
 daripada semua bab panduan selain rujukan ini
-- Sumber ilham ialah senarai kumpulan bahan yang memberi
-rangsangan berfikir bagi mencipta helai daftar yang baharu
-- Perisian berperanan ialah senarai perisian yang digunakan
-bagi menyedia dan meneliti helai daftar
 - Kelas daftar ialah senarai kumpulan daftar yang mengumpul
 semua daftar yang disediakan mengikut ciri tertentu
 - Contoh daftar khusus ialah penerangan ringkas daftar yang
