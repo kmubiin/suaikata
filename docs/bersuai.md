@@ -9,6 +9,8 @@ terawal dari atas. Semua daftar yang diusahakan termasuk
 daftar tanpa makna akan disenarai. Bagaimanapun, kajian
 bagi mana-mana daftar atau lema tidak semestinya ada.
 
+Carian segera: Tekan Ctrl+F dan taip &blank;@ atau &blank;#
+
 [1.0](tag/1.0.md)&#42;&ensp;
 
 &emsp;Daftar: 2  
@@ -70,6 +72,8 @@ bagi mana-mana daftar atau lema tidak semestinya ada.
 
 [1.5.6](tag/1.5.6.md)&emsp;
 [1.5.7](tag/1.5.7.md)&emsp;
+
+[1.6.0](tag/1.6.0.md)&emsp;
 
 > Lagi terbitan masa hadapan?
 
