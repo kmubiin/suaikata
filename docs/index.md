@@ -14,14 +14,14 @@ membawakan takrif terpilih atau sekadar memadai.
 Syarat "sebut nama". Daftar kata itu boleh digunakan secara
 bebas dengan syarat menyatakan perakuan hak cipta asal.
 
+Termuat pada masa ini:
+
+> Bahagian ini akan memuat senarai pautan ke kandungan
+> terpilih atau terkini, sama ada dengan bantuan Jekyll atau
+> secara manual--perlu selidik #beta
+
 &nbsp;  
 Maklumat lanjut:
-
-&sect; **Kemas kini**
-
-> Bahagian ini akan memuat pautan lompat ke kandungan
-> terpilih atau terkini, sama ada dengan bantuan Jekyll
-> atau secara manual--perlu selidik #beta
 
 &sect; **Hasil pena**
 &ndash; Projek suaikata menyediakan terbitan tanpa rutin,
