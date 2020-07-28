@@ -19,3 +19,8 @@ Cuba entiti HTML sokongan HTML 4:
 Cuba entiti HTML sokongan baharu HTML 5:
 
 `&blank;` menjadi &blank; [explicit space character](https://en.wikipedia.org/wiki/Whitespace_character)  
+
+Cuba aksara asal yang dinyahkan dengan aksara miring terbalik:
+
+`\[` menjadi \[  
+`\]` menjadi \]  
