@@ -8,7 +8,7 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 
 #### Bab 1: Satu permulaan
 
-11. Mengenal projek suaikata #todo
+11. [Mengenal projek suaikata](bab/kenal.md)
 12. [Sumber kata masukan](bab/sumber.md)
 13. [Hak cipta tidak terpelihara](bab/hak-cipta.md)
 14. [Lesen sumber terbuka](bab/lesen.md)
@@ -27,7 +27,7 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 #### Bab 3: Aturan kerja
 
 31. [Menyedia daftar dari mula hingga akhir](bab/sedia.md)
-32. Memuat daftar #todo
+32. [Memuat daftar](bab/muat.md)
 33. [Mengulang kaji](bab/ulang-kaji.md)
 
 #### Rujukan

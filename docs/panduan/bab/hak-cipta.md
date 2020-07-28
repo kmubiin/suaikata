@@ -3,6 +3,8 @@
 
 ### Hak cipta tidak terpelihara
 
+> Perbaik bab hak cipta? #todo #beta
+
 &nbsp;  
 Sumber pilihan yang baik adalah senarai kata masukan tanpa
 makna. Secara umum, sebarang senarai bahan atau kandungan

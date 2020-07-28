@@ -3,6 +3,8 @@
 
 ### Mengulang kaji
 
+> Perbaik bab ulang kaji? #todo #beta
+
 &nbsp;  
 Apa yang boleh dibuat selain mencipta daftar:
 
@@ -23,8 +25,6 @@ maklumat perangkaan.
 Perkara "mengkaji lema" tidak perlu ada daftar dan boleh
 mengambil lema daripada daftar atau tanpa daftar. Tumpu
 pada lema dengan terjemah keliru atau sukar.
-
-> Lagi huraian bab ulang kaji? #todo
 
 &nbsp;  
 laman kembali: [panduan][0]

@@ -4,6 +4,11 @@
 ### Dasar panduan
 
 &nbsp;  
+Semua pautan yang tersenarai adalah di luar laman utama.
+Mana-mana pautan ini boleh dicapai bagi menyemak semula
+kandungan asal sebelum laman panduan dicipta.
+
+&nbsp;  
 **Bab 1: Satu permulaan** menerangkan asal usul projek
 suaikata dan pengetahuan umum yang berkaitan. Bab ini juga
 menyusun semula hasil perbincangan bagi menyedia takrif
@@ -160,12 +165,6 @@ Sumber asal bagi laman rujukan berkenaan:
   [rf1]: https://help.github.com/articles/rendering-csv-and-tsv-data/
   [rf2]: https://tools.ietf.org/html/rfc4180
   [rf3]: https://www.iana.org/assignments/media-types/text/tab-separated-values
-
-&nbsp;  
-Bab-bab lain, jika ada, belum ada dasar pada masa ini.
-Sebarang pautan yang tersenarai di atas adalah pautan
-luaran, dan sekadar rujukan bagi menyemak semula kandungan
-asal sebelum laman panduan dicipta.
 
 &nbsp;  
 laman kembali: [panduan][0]
