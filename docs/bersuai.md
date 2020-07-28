@@ -9,7 +9,7 @@ terawal dari atas. Semua daftar yang diusahakan termasuk
 daftar tanpa makna akan disenarai. Bagaimanapun, kajian
 bagi mana-mana daftar atau lema tidak semestinya ada.
 
-Carian segera: Tekan Ctrl+F dan taip &blank;@ atau &blank;#
+Carian segera: Tekan Ctrl+F dan taip &#9251;@ atau &#9251;#
 
 [1.0](tag/1.0.md)&#42;&ensp;
 
