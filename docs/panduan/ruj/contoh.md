@@ -37,6 +37,42 @@ di laman bersuai (pautan lompat di bawah).
 | ...       | ...         | ..   | ..     |
 
 &nbsp;  
+**Daftar kata dua-huruf**: Daftar tanpa makna telah
+diperkenalkan pada masa daftar PSAT menjadi lengkap. Bermula
+dengan bahasa Melayu (ms2) bersama terbitan 1.4.1, diikuti
+bahasa Inggeris (en2) bersama terbitan 1.4.6.
+
+Kata dua-huruf Melayu (ms2):
+
+| melayu | ke | pembayang                   |
+|:------ |:-- |:--------------------------- |
+| ah     | 1  | kata seru                   |
+| am     | 1  | kata nama                   |
+| bu     | 1  | 'ibu’                       |
+| cu     | 1  | ‘cucu’                      |
+| di     | 1  | kata sendi                  |
+| eh     | 1  | kata seru                   |
+| fi     | 1  | 'fai’ bagi abjad dan simbol |
+| fi     | 2  | ‘fee’ bagi 'bayaran’        |
+| ...    | .. | ...                         |
+
+Kata dua-huruf Inggeris (en2):
+
+| inggeris | ke | pembayang     |
+|:-------- |:-- |:------------- |
+| ad       | 1  | informal noun |
+| ah       | 1  | interjection  |
+| am       | 1  | verb          |
+| an       | 1  | adjective     |
+| as       | 1  | conjunction   |
+| at       | 1  | preposition   |
+| aw       | 1  | interjection  |
+| be       | 1  | verb          |
+| by       | 1  | preposition   |
+| cc       | 1  | ‘carbon copy’ |
+| ...      | .. | ...           |
+
+&nbsp;  
 laman lompat berkaitan: [bersuai][1]
 
 laman kembali: [panduan][0]
