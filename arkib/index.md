@@ -1,5 +1,6 @@
-Semua dokumen dalam arkib adalah salinan maklumat bersejarah
-dan disusun mengikut tarikh terawal kandungan.
+Semua kandungan dalam arkib adalah salinan maklumat
+bersejarah. Kandungan disusun mengikut tarikh peristiwa atau
+tarikh terawal dokumen.
 
 2018-02-25  
 [Helai daftar awal](2018/ha.md)  
@@ -12,6 +13,9 @@ dan disusun mengikut tarikh terawal kandungan.
 2018-04-28  
 [Helai daftar beregu](2018/hb.md)  
 
+2018-05-09 (UTC)  
+Terbitan 1.0 tersimpan di GitHub
+
 2018-12-02  
 [Imbas tahun 2018](2018/t1.md)  
 
@@ -21,16 +25,22 @@ dan disusun mengikut tarikh terawal kandungan.
 2019-04-01  
 [Helai daftar beregu terperinci](2019/hb10.md)  
 
+2019-10-31 (UTC)  
+Terbitan 1.4.1 tersimpan di GitHub
+
 2019-12-02  
 [Imbas tahun 2019](2019/t2.md)  
+
+2020-02-20 (UTC)  
+Terbitan 1.4.1 tersalin bagi GitHub Archive Program
 
 2020-03-10  
 [Rumus gunaan daftar kerapu](2020/rh3.md)  
 [Daftar kerapu ada hasil #N/A](2020/rh3na.md)  
 
-YYYY-MM-DD  
-Lagi salinan maklumat bersejarah?  
+> Lagi salinan maklumat bersejarah?
 
+&nbsp;  
 laman kembali: [README][0]
 
   [0]: ../README.md

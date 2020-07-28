@@ -41,6 +41,7 @@ Daftar dwibahasa beregu dengan enam lajur (2.6):
 | -------- | ---- | ------ | ---- | ---------- | ---------- |
 | ...      | ...  | ...    | ...  | ...        | ...        |
 
+&nbsp;  
 laman kembali: [arkib][0]
 
   [0]: ../index.md

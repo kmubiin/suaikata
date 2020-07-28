@@ -43,6 +43,7 @@ Daftar kerapu menggunakan perisian komputer LibreOffice Calc
 untuk menjalankan semua rumus gunaan di atas. Boleh mencuba
 perisian lain dengan rumus yang sama atau sedikit berbeza.
 
+&nbsp;  
 laman kembali: [arkib][0]
 
   [0]: ../index.md
