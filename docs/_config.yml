@@ -1,4 +1,9 @@
+### Senarai tetapan lazim bagi GitHub Pages
 title: suaikata
 description: Koleksi ringkas kosa kata
-show_downloads: false
 theme: jekyll-theme-slate
+show_downloads: false
+
+### Lagi tetapan mengikut tema dan laman
+### https://pages.github.com/themes/
+### https://jekyllrb.com/docs/configuration/

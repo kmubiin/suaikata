@@ -38,8 +38,8 @@ Terbitan 1.4.1 tersalin bagi GitHub Archive Program
 [Rumus gunaan daftar kerapu](2020/rh3.md)  
 [Daftar kerapu ada hasil #N/A](2020/rh3na.md)  
 
-2020-07-30 (UTC)  
-Terbitan 1.6.1 tersimpan di GitHub
+2020-07-31 (UTC)  
+Terbitan 2.20.0731 tersimpan di GitHub
 
 > Lagi salinan maklumat bersejarah?
 

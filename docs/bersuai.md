@@ -9,8 +9,15 @@ terawal dari atas. Semua daftar yang diusahakan termasuk
 daftar tanpa makna akan disenarai. Bagaimanapun, kajian
 bagi mana-mana daftar atau lema tidak semestinya ada.
 
-Carian segera: Ctrl+F dan taip &#9251;@ atau &#9251;#
+Carian segera: Ctrl+F dan taip kata kunci:
 
+&ensp;&#9251;@ untuk semua daftar tersenarai  
+&ensp;&#9251;# untuk semua lema tersenarai  
+&ensp;&#42; untuk semua terbitan jangka panjang  
+&ensp;&#46;&#46; untuk semua kemas kini semula  
+&ensp;&#44;&#44; untuk semua kemas kini sampingan  
+
+&nbsp;  
 [1.0](tag/1.0.md)&#42;&ensp;
 
 &emsp;Daftar: 2  
@@ -74,15 +81,10 @@ Carian segera: Ctrl+F dan taip &#9251;@ atau &#9251;#
 [1.5.7](tag/1.5.7.md)&emsp;
 
 [1.6.0](tag/1.6.0.md)&emsp;
-[1.6.1](tag/1.6.1.md)&#42;&ensp;
+[1.6.1](tag/1.6.1.md)&emsp;
+[2.20.0731](tag/2.20.0731.md)&#42;&ensp;
 
 > Lagi terbitan masa hadapan?
-
-&mdash;  
-&#42; (tanda bintang) mewakili terbitan jangka panjang  
-&#46; (tanda noktah) mewakili kemas kini baharu  
-&#46;&#46; (tanda noktah dua) mewakili kemas kini semula  
-&#44;&#44; (tanda koma dua) mewakili kemas kini sampingan  
 
 &nbsp;  
 laman lompat rujukan: [contoh][1], [kelas][2]

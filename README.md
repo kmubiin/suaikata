@@ -11,8 +11,8 @@ Laman ini
 &emsp;`README.md` adalah fail asal  
 &emsp;`index.md` adalah fail rujukan di luar talian
 
-Projek ini berperingkat **alfa (alpha)**, bermaksud konsep
+Projek ini berperingkat **Alfa (&#945;)**, bermaksud konsep
 awal sudah terlaksana dan hasil kerja sedia digunakan. Lagi
-perubahan ketara boleh berlaku dari semasa ke semasa.
+perubahan tidak tentu pada masa ini.
 
 Baca lebih lanjut di laman utama.
