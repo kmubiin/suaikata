@@ -124,7 +124,17 @@ luar talian. Perisian ini adalah sumber terbuka yang
 dibawakan oleh Keith L Robertson.
 
 <https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-webext/>  
-<https://github.com/KeithLRobertson/markdown-viewer>  
+<https://github.com/KeithLRobertson/markdown-viewer>
+
+&nbsp;  
+**Side View** boleh dipasang pada pelayar web Mozilla
+Firefox melalui Firefox Add-ons. Perisian ini membolehkan
+laman web dipapar di bar sisi bagi menguji paparan jenis
+mudah alih. Perisian ini adalah sumber terbuka yang
+dibawakan oleh Mozilla, pembangun Mozilla Firefox.
+
+<https://addons.mozilla.org/en-US/firefox/addon/side-view/>  
+<https://github.com/mozilla/side-view/>
 
 &nbsp;  
 **simple markdown surfer** (smurf) boleh memaparkan fail
@@ -159,6 +169,14 @@ mempunyai kawalan tambahan untuk mengira bilangan padanan
 atau perkataan umpama `wc` dalam GNU core utilities.
 
 <http://www.gnu.org/software/grep/>
+
+&nbsp;  
+**GNU sed** (sed) boleh digunakan untuk menapis dan
+menyunting teks biasa melalui garis perintah. Perkakas ini
+memudahkan penggantian baris dan perkataan sama seperti
+fungsi "cari dan ganti" dalam perisian yang lazim.
+
+<https://www.gnu.org/software/sed/>
 
 &nbsp;  
 Lain-lain perisian tidak disenarai melainkan pernah diguna

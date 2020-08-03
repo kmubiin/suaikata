@@ -144,6 +144,8 @@ Sumber asal bagi laman rujukan berkenaan:
 - [Standards - Frequently Asked Questions (FAQ)][rp2]
   &ndash; Codes for the representation of the names of
   languages (Library of Congress)
+- [ISO 639-1 (pautan ke senarai tidak tentu)][rp3]
+  &ndash; Wikipedia bahasa Melayu, ensiklopedia bebas
 - [Rendering CSV and TSV data][rf1]
   &ndash; GitHub Help
 - [RFC 4180][rf2]
@@ -162,6 +164,7 @@ Sumber asal bagi laman rujukan berkenaan:
   [rt4]: https://translate.yandex.com/
   [rp1]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai
   [rp2]: https://www.loc.gov/standards/iso639-2/faq.html
+  [rp3]: https://ms.wikipedia.org/wiki/ISO_639-1
   [rf1]: https://help.github.com/articles/rendering-csv-and-tsv-data/
   [rf2]: https://tools.ietf.org/html/rfc4180
   [rf3]: https://www.iana.org/assignments/media-types/text/tab-separated-values
