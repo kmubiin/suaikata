@@ -48,12 +48,12 @@ bukan kerajaan ISO. Piawai antarabangsa ISO 639 terdiri
 daripada beberapa bahagian, tetapi hanya tiga sahaja yang
 laku pada masa ini.
 
-- ISO 639-1 (kod Alpha-2)
-- ISO 639-2 (kod Alpha-3 dengan jenis T dan B)
-- ISO 639-3 (kod Alpha-3 dengan rangkuman yang lebih luas
+- ISO 639-1 (kod Alfa-2)
+- ISO 639-2 (kod Alfa-3 dengan jenis T dan B)
+- ISO 639-3 (kod Alfa-3 dengan rangkuman yang lebih luas
 berdasarkan 639-2/T yang setara dengan 639-1)
 
-Senarai kod Alpha-2 bagi beberapa bahasa:
+Senarai kod Alfa-2 bagi beberapa bahasa:
 
 - bahasa Arab: ar
 - bahasa Cina: zh
@@ -66,7 +66,7 @@ Senarai kod Alpha-2 bagi beberapa bahasa:
 - bahasa Parsi: fa
 - bahasa Zulu: zu
 
-Kod Alpha-2 atau kod perwakilan dua-huruf bagi nama-nama
+Kod Alfa-2 atau kod perwakilan dua-huruf bagi nama-nama
 bahasa sedunia sudah memadai untuk kegunaan umum. ISO 639-1
 sememangnya adalah piawai yang digunakan bagi istilah,
 bidang perkamusan, dan bidang bahasa.
