@@ -47,13 +47,14 @@ Kata dua-huruf Melayu (ms2):
 | melayu | ke | pembayang                   |
 |:------ |:-- |:--------------------------- |
 | ah     | 1  | kata seru                   |
+| ai     | 1  | kata seru                   |
 | am     | 1  | kata nama                   |
-| bu     | 1  | 'ibu’                       |
+| bi     | 1  | ‘bibi’                      |
+| bu     | 1  | ‘ibu’                       |
 | cu     | 1  | ‘cucu’                      |
 | di     | 1  | kata sendi                  |
 | eh     | 1  | kata seru                   |
-| fi     | 1  | 'fai’ bagi abjad dan simbol |
-| fi     | 2  | ‘fee’ bagi 'bayaran’        |
+| fi     | 1  | ‘fai’ bagi abjad dan simbol |
 | ...    | .. | ...                         |
 
 Kata dua-huruf Inggeris (en2):
