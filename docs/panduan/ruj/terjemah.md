@@ -80,8 +80,8 @@ komputer masih tidak mampu "faham" seperti manusia.
 
 Hakikatnya, terjemahan mesin ada dua masalah utama:
 
-1. Terjemahan mesin adalah sekadar memadai dan tidak sesuai
-untuk mengusahakan kamus dan daftar kata
+1. Terjemahan mesin mementingkan masa berbanding takrif,
+dan takrif yang dibawakan adalah sengaja tidak tepat
 2. Terjemahan mesin bergantung pada peraturan terjemah dan
 pembelajaran mesin, dan boleh membawa lesen yang berbeza
 
