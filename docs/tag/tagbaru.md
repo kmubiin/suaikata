@@ -1,10 +1,12 @@
 ---
+layout: null
+anu: cubaan
 ---
 
-### Terbitan {apa}
+### Terbitan {{ page.anu }}
 
 &nbsp;  
-Terbitan {apa} untuk pembaikan.
+Terbitan {{ page.anu }} untuk pembaikan.
 
 - {apa inti sari perubahan}
 
@@ -13,9 +15,9 @@ dan garis perintah git berikut.
 
 - {apa lagi butir dan beza}  
 - semua perubahan antara dua terbitan berturutan  
-beza: `git diff --stat {apa}`
+beza: `git diff --stat {{ page.anu }}`
 
-Terbitan ini dinamakan `{apa}`
+Terbitan ini dinamakan `{{ page.anu }}`
 
 &nbsp;  
 laman kembali: [bersuai][0]
