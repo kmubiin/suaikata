@@ -4,6 +4,9 @@ description: Koleksi ringkas kosa kata
 theme: jekyll-theme-slate
 show_downloads: false
 
+### Cuba anu bagi capaian seluruh laman melalui Liquid
+anu: boleh
+
 ### Lagi tetapan mengikut tema dan laman
 ### https://pages.github.com/themes/
 ### https://jekyllrb.com/docs/configuration/

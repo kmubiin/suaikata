@@ -5,6 +5,8 @@ anu: cubaan
 
 ### Terbitan {{ page.anu }}
 
+> Boleh guna anu daripada `_config.yml`? {{ site.anu }}
+
 &nbsp;  
 Terbitan {{ page.anu }} untuk pembaikan.
 
