@@ -52,12 +52,25 @@ Hujah 2:
 > information contained in Rural's phone directory was not
 > copyrightable and that therefore no infringement existed.
 >
-> Sumber: Feist v. Rural, Wikipedia
+> Ulasan kes dari Justia:  
+> This case created the idea/expression dichotomy, in which
+> ideas are not protected, but expression is protected. Mere
+> facts cannot be copyrighted, but the selection and
+> arrangement of them may be copyrighted if there is some
+> originality to it. It is worth noting that something truly
+> novel may be eligible for a patent, which sets a higher
+> standard for eligibility but provides a stronger level of
+> protection.
+>
+> Sumber: Feist v. Rural, 499 U.S. 340 (1991), via Justia,
+> via Wikipedia
 
 Hujah 2 menyatakan bahawa: "mahkamah telah memutuskan bahawa
 maklumat yang terkandung dalam buku direktori telefon adalah
 hak cipta tidak boleh terpelihara dan dengan itu pelanggaran
-hak cipta tidak wujud".
+hak cipta tidak wujud". Ulasan kes itu turut menyatakan:
+"...pemilihan dan susunan fakta adalah hak cipta boleh
+terpelihara jika ada serba sedikit sifat asli padanya".
 
 Berdasarkan hujah 2, senarai yang **mengandungi fakta**
 semata-mata adalah hak cipta tidak terpelihara.

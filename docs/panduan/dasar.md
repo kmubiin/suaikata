@@ -32,6 +32,8 @@ semasa menyiapkan daftar pertama.
   &ndash; U.S. Copyright Office
 - [Feist v. Rural][13b]
   &ndash; Wikipedia
+- [Feist v. Rural, 499 U.S. 340 (1991)][13c]
+  &ndash; Justia US Supreme Court Center
 - [Panduan penyediaan takrif #10][#10]
   &ndash; kmubiin/suaikata on Mar 23, 2018
 - [chronicle][15a]
@@ -53,6 +55,7 @@ semasa menyiapkan daftar pertama.
   [#11]: https://github.com/kmubiin/suaikata/issues/11
   [13a]: https://www.copyright.gov/help/faq/faq-protect.html
   [13b]: https://en.wikipedia.org/wiki/Feist_v._Rural
+  [13c]: https://supreme.justia.com/cases/federal/us/499/340/
   [14a]: https://choosealicense.com/
   [14b]: https://opendefinition.org/licenses/
   [14c]: https://creativecommons.org/licenses/by/4.0/
