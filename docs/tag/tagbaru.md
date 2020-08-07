@@ -1,7 +1,7 @@
 ---
 layout: null
 anu: cubaan
-category: cuba
+categories: cuba lagi
 tags: ini itu
 ---
 
