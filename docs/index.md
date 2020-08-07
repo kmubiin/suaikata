@@ -20,6 +20,10 @@ Termuat pada masa ini:
 > terpilih atau terkini, sama ada dengan bantuan Jekyll atau
 > secara manual--perlu selidik #beta
 
+{{ site.categories.cuba }}
+
+> Cuba papar objek Liquid di atas?
+
 &nbsp;  
 Maklumat lanjut:
 

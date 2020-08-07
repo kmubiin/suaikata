@@ -1,11 +1,16 @@
 ---
 layout: null
 anu: cubaan
+category: cuba
+tags: ini itu
 ---
 
 ### Terbitan {{ page.anu }}
 
 > Boleh guna anu daripada `_config.yml`? {{ site.anu }}
+
+> Cuba papar category laman ini: {{ page.categories }}  
+> Cuba papar tags laman ini: {{ page.tags }}  
 
 &nbsp;  
 Terbitan {{ page.anu }} untuk pembaikan.
