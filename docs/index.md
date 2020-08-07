@@ -20,11 +20,21 @@ Termuat pada masa ini:
 > terpilih atau terkini, sama ada dengan bantuan Jekyll atau
 > secara manual--perlu selidik #beta
 
-{% for post in site.categories.cuba %}
 <ul>
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
 </ul>
-{% endfor %}
+
+<ul>
+  {% for post in site.categories.cuba %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 > Cuba papar objek Liquid di atas?
 
