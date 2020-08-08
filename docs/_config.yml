@@ -1,9 +1,12 @@
 ### Senarai tetapan lazim bagi GitHub Pages
-url: https://kmubiin.github.io/suaikata
 title: suaikata
 description: Koleksi ringkas kosa kata
 theme: jekyll-theme-slate
 show_downloads: false
+
+## paparan pautan
+url: https://kmubiin.github.io/suaikata
+permalink: /:title:output_ext
 
 ### Cuba anu bagi capaian seluruh laman melalui Liquid
 anu: boleh
