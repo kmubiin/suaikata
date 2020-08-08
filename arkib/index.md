@@ -41,6 +41,9 @@ Terbitan 1.4.1 tersalin bagi GitHub Archive Program
 2020-07-31 (UTC)  
 Terbitan 2.20.0731 tersimpan di GitHub
 
+2020-08-08  
+[Objek gunaan pertama di laman Jekyll](2020/obj1.md)
+
 > Lagi salinan maklumat bersejarah?
 
 &nbsp;  
