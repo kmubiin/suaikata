@@ -21,17 +21,17 @@ Termuat pada masa ini:
 > secara manual--perlu selidik #beta
 
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
+{% for post in site.categories.cuba %}
+<li>
+<a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+</li>
+{% endfor %}
 </ul>
 
 > Cuba papar objek Liquid di atas guna HTML?
 
 {% for post in site.categories.cuba %}
-[{{ post.title }}]({{ site.url }}{{ post.url }})
+- [{{ post.title }}]({{ site.url }}{{ post.url }})
 {% endfor %}
 
 > Cuba papar objek Liquid di atas guna Markdown?
