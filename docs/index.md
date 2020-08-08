@@ -28,15 +28,13 @@ Termuat pada masa ini:
   {% endfor %}
 </ul>
 
-<ul>
-  {% for post in site.categories.cuba %}
-    <li>
-      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+> Cuba papar objek Liquid di atas guna HTML?
 
-> Cuba papar objek Liquid di atas?
+{% for post in site.categories.cuba %}
+[{{ post.title }}]({{ site.url }}{{ post.url }})
+{% endfor %}
+
+> Cuba papar objek Liquid di atas guna Markdown?
 
 &nbsp;  
 Maklumat lanjut:
