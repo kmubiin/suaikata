@@ -55,8 +55,8 @@ menggunakan nama yang sama lagi. Sebaliknya, berikan nama
 `berhuruf2.csv` atau nama lain.
 
 Untuk pedoman umum, simpan helai dengan nama yang terdiri
-daripada aksara termudah (a-z, 0-9) dan menggunakan huruf
-kecil. Gunakan pedoman ini bersama pola bagi nama-nama yang
+daripada aksara termudah dan berhuruf kecil (a-z, 0-9).
+Gunakan pedoman ini bersama pola bagi nama-nama yang
 ditentukan di atas.
 
 &nbsp;  

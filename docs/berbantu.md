@@ -173,15 +173,18 @@ atau perkataan umpama `wc` dalam GNU core utilities.
 &nbsp;  
 **GNU sed** (sed) boleh digunakan untuk menapis dan
 menyunting teks biasa melalui garis perintah. Perkakas ini
-memudahkan penggantian baris dan perkataan sama seperti
-fungsi "cari dan ganti" dalam perisian yang lazim.
+memudahkan penggantian perkataan sama seperti fungsi "cari
+dan ganti" dalam perisian lazim. Lagi, perkakas ini boleh
+menambah atau membuang baris mengikut kedudukan baris dalam
+teks biasa umpama baris dalam helaian rebak.
 
 <https://www.gnu.org/software/sed/>
 
 &nbsp;  
 Lain-lain perisian tidak disenarai melainkan pernah diguna
-dalam projek suaikata, dan perisian sangat lazim seperti
-penyunting teks biasa sengaja tidak disenarai.
+dalam projek suaikata. Perisian lazim seperti penyunting
+teks biasa dan perisian terbina seperti penerbit laman yang
+menukar Markdown ke HTML pula, sengaja tidak disenarai.
 
 &nbsp;  
 laman kembali: [utama][0]

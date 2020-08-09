@@ -15,7 +15,6 @@ pandai, terutama dalam perubatan"
 
 Berikut adalah huraian terjemah oleh projek suaikata.
 
-&nbsp;  
 #### charlatan(1)
 
 Terjemah 'charlatan' makna ke-1:
