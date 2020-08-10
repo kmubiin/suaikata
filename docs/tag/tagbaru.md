@@ -2,12 +2,22 @@
 published: true
 layout: null
 anu: cubaan
+terbitan: 2.20.0731
+peringkat: alfa
 ---
 
 ### Terbitan {{ page.anu }}
 
-> Cuba papar waktu guna objek global: {{ site.time }}
+> Cuba papar guna objek page untuk cubaan:
 
+&nbsp;  
+Termuat pada masa ini:
+
+&#8942; Kemas kini setakat {{ site.time }}
+
+&#8942; Terbitan {{ page.terbitan }} ({{ page.peringkat }})
+
+&nbsp;  
 > Cuba aksara Unicode 1.1/entiti XML:  
 `&#8942;`	&#8942;	U+22EE VERTICAL ELLIPSIS  
 `&#8943;`	&#8943;	U+22EF MIDLINE HORIZONTAL ELLIPSIS  
@@ -17,8 +27,7 @@ anu: cubaan
 `&#9634;`	&#9634; U+25A2 WHITE SQUARE WITH ROUNDED CORNERS  
 `&#9633;`	&#9635;	U+25A3 WHITE SQUARE CONTAINING BLACK SMALL SQUARE  
 
-> Cuba papar category laman ini: {{ page.categories }}  
-> Cuba papar tags laman ini: {{ page.tags }}  
+---
 
 &nbsp;  
 Terbitan {{ page.anu }} untuk pembaikan.
