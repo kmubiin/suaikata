@@ -18,6 +18,21 @@ Termuat pada masa ini:
 &#8942; Terbitan {{ page.terbitan }} ({{ page.peringkat }})
 
 &nbsp;  
+
+---
+
+> Cuba papar senarai laman guna `{{ site.pages }}`:
+
+{{ site.pages }}
+
+---
+
+> Cuba papar senarai laman guna `{{ site.html_pages }}`:
+
+{{ site.html_pages }}
+
+---
+
 > Cuba aksara Unicode 1.1/entiti XML:  
 `&#8942;`	&#8942;	U+22EE VERTICAL ELLIPSIS  
 `&#8943;`	&#8943;	U+22EF MIDLINE HORIZONTAL ELLIPSIS  
