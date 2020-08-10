@@ -8,8 +8,8 @@ show_downloads: false
 url: https://kmubiin.github.io/suaikata
 permalink: /:title:output_ext
 
-### Cuba anu bagi capaian seluruh laman melalui Liquid
-anu: boleh
+## paparan waktu tzdata (IANA time zone database)
+timezone: Etc/UTC
 
 ### Lagi tetapan mengikut tema dan laman
 ### https://pages.github.com/themes/

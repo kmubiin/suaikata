@@ -1,13 +1,12 @@
 ---
+published: true
 layout: null
 anu: cubaan
-categories: cuba lagi
-tags: ini itu
 ---
 
 ### Terbitan {{ page.anu }}
 
-> Boleh guna anu daripada `_config.yml`? {{ site.anu }}
+> Cuba papar waktu guna objek global: {{ site.time }}
 
 > Cuba papar category laman ini: {{ page.categories }}  
 > Cuba papar tags laman ini: {{ page.tags }}  
