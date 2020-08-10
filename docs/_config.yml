@@ -1,4 +1,8 @@
-### Senarai tetapan lazim bagi GitHub Pages
+## tetapan khas bagi projek suaikata
+peringkat: alfa
+terbitan: 2.20.0731
+
+## tetapan lazim bagi GitHub Pages
 title: suaikata
 description: Koleksi ringkas kosa kata
 theme: jekyll-theme-slate
@@ -11,6 +15,6 @@ permalink: /:title:output_ext
 ## paparan waktu tzdata (IANA time zone database)
 timezone: Etc/UTC
 
-### Lagi tetapan mengikut tema dan laman
-### https://pages.github.com/themes/
-### https://jekyllrb.com/docs/configuration/
+## Lagi tetapan mengikut tema dan laman
+## https://pages.github.com/themes/
+## https://jekyllrb.com/docs/configuration/

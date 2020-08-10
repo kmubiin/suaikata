@@ -16,9 +16,14 @@ bebas dengan syarat menyatakan perakuan hak cipta asal.
 
 Termuat pada masa ini:
 
-> Bahagian ini akan memuat senarai pautan ke kandungan
-> terpilih atau terkini, sama ada dengan bantuan Jekyll atau
-> secara manual--perlu selidik #beta
+&#8942; Kemas kini setakat {{ site.time }}
+
+&#8942; Terbitan {{ site.terbitan }} ({{ site.peringkat }})
+
+{% comment %}
+anu site.terbitan dan site.peringkat adalah tetapan khas
+bagi projek suaikata, sila rujuk _config.yml
+{% endcomment %}
 
 &nbsp;  
 Maklumat lanjut:
