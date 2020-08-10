@@ -26,11 +26,11 @@ Terbitan 1.0 tersimpan di GitHub
 Terbitan 1.0 ke 1.2.0 sepanjang tahun 2018
 
 Terbitan separuh awal 2018:  
-1.0&#42;&ensp;
+[1.0](tag/1.0.md)&#42;&ensp;
 
 Terbitan separuh akhir 2018:  
-1.1.0&emsp;  
-1.2.0&emsp;
+[1.1.0](tag/1.1.0.md)&emsp;  
+[1.2.0](tag/1.2.0.md)&emsp;
 
 2019-03-31  
 [Kumpulan helai daftar](2019/kh.md)
@@ -48,17 +48,17 @@ Terbitan 1.4.1 tersimpan di GitHub
 Terbitan 1.2.1 ke 1.4.1 sepanjang tahun 2019
 
 Terbitan separuh awal 2019:  
-1.2.1&emsp;
-1.2.2&emsp;
-1.2.3&emsp;
-1.2.4&emsp;  
-1.3.0&emsp;
-1.3.1&emsp;
-1.3.2&emsp;  
-1.4.0&emsp;
+[1.2.1](tag/1.2.1.md)&emsp;
+[1.2.2](tag/1.2.2.md)&emsp;
+[1.2.3](tag/1.2.3.md)&emsp;
+[1.2.4](tag/1.2.4.md)&emsp;  
+[1.3.0](tag/1.3.0.md)&emsp;
+[1.3.1](tag/1.3.1.md)&emsp;
+[1.3.2](tag/1.3.2.md)&emsp;  
+[1.4.0](tag/1.4.0.md)&emsp;
 
 Terbitan separuh akhir 2019:  
-1.4.1&#42;&ensp;
+[1.4.1](tag/1.4.1.md)&#42;&ensp;
 
 2020-02-20 (UTC)  
 Terbitan 1.4.1 tersalin bagi GitHub Archive Program
@@ -71,21 +71,21 @@ Terbitan 1.4.1 tersalin bagi GitHub Archive Program
 Terbitan 1.4.5 ke 1.6.1 dan tamat siri pertama
 
 Terbitan separuh awal 2020:  
-1.4.5&emsp;
-1.4.6&emsp;  
-1.5.0&emsp;
-1.5.1&emsp;
-1.5.2&emsp;
+[1.4.5](tag/1.4.5.md)&emsp;
+[1.4.6](tag/1.4.6.md)&emsp;  
+[1.5.0](tag/1.5.0.md)&emsp;
+[1.5.1](tag/1.5.1.md)&emsp;
+[1.5.2](tag/1.5.2.md)&emsp;
 
 Terbitan separuh akhir 2020 setakat 30 Julai:  
-1.5.5&emsp;
-1.5.6&emsp;
-1.5.7&emsp;  
-1.6.0&emsp;
-1.6.1&emsp;
+[1.5.5](tag/1.5.5.md)&emsp;
+[1.5.6](tag/1.5.6.md)&emsp;
+[1.5.7](tag/1.5.7.md)&emsp;  
+[1.6.0](tag/1.6.0.md)&emsp;
+[1.6.1](tag/1.6.1.md)&emsp;
 
 Terbitan siri kedua bermula:  
-2.20.0731&#42;&ensp;
+[2.20.0731](tag/2.20.0731.md)&#42;&ensp;
 
 2020-07-31 (UTC)  
 Terbitan 2.20.0731 tersimpan di GitHub
