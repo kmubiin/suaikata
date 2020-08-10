@@ -2,6 +2,18 @@
 layout: default
 ---
 
+Termuat pada masa ini:
+
+&#8942; Kemas kini setakat {{ site.time }}
+
+&#8942; Terbitan {{ site.terbitan }} ({{ site.peringkat }})
+
+{% comment %}
+anu site.terbitan dan site.peringkat adalah tetapan khas
+bagi projek suaikata, sila rujuk _config.yml
+{% endcomment %}
+
+&nbsp;  
 Projek suaikata ialah projek perkamusan sumber terbuka yang
 dimulakan oleh dua orang penutur bahasa Melayu pada 2018.
 Satu tahun kemudian, daftar kata pertama menjadi lengkap.
@@ -13,17 +25,6 @@ membawakan takrif terpilih atau sekadar memadai.
 &#9740; **CC-BY-4.0** &#9740;  
 Syarat "sebut nama". Daftar kata itu boleh digunakan secara
 bebas dengan syarat menyatakan perakuan hak cipta asal.
-
-Termuat pada masa ini:
-
-&#8942; Kemas kini setakat {{ site.time }}
-
-&#8942; Terbitan {{ site.terbitan }} ({{ site.peringkat }})
-
-{% comment %}
-anu site.terbitan dan site.peringkat adalah tetapan khas
-bagi projek suaikata, sila rujuk _config.yml
-{% endcomment %}
 
 &nbsp;  
 Maklumat lanjut:
