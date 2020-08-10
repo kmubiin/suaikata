@@ -17,19 +17,16 @@ Termuat pada masa ini:
 
 &#8942; Terbitan {{ page.terbitan }} ({{ page.peringkat }})
 
-&nbsp;  
+{% comment %}
+anu page.terbitan dan page.peringkat adalah tetapan khas
+bagi projek suaikata yang hanya muncul di laman ini
+{% endcomment %}
 
 ---
 
-> Cuba papar senarai laman guna `{{ site.pages }}`:
+> Cuba papar senarai laman guna `site.pages`:
 
 {{ site.pages }}
-
----
-
-> Cuba papar senarai laman guna `{{ site.html_pages }}`:
-
-{{ site.html_pages }}
 
 ---
 
