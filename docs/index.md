@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-Termuat pada masa ini:
-
 &#8942; Kemas kini setakat {{ site.time }}
 
 &#8942; Terbitan {{ site.terbitan }} ({{ site.peringkat }})
