@@ -1,18 +1,16 @@
 # suaikata
 Koleksi ringkas kosa kata
 
-[Laman utama](docs/index.md)  
-&emsp;<https://kmubiin.github.io/suaikata/>
+Laman utama  
+&emsp;<https://kmubiin.github.io/suaikata/>  
+&emsp;bersumber pada [docs/index.md](docs/index.md)
 
-[Lihat arkib](arkib/index.md)  
-&emsp;(GitHub sahaja)
-
-Laman ini  
-&emsp;`README.md` adalah fail asal  
-&emsp;`index.md` adalah fail rujukan di luar talian
-
-Projek ini berperingkat **Alfa (&#945;)**, bermaksud konsep
-awal sudah terlaksana dan hasil kerja sedia digunakan. Lagi
-perubahan tidak tentu pada masa ini.
+Laman sumber  
+&emsp;`README.md` &ndash; fail asal (laman ini)  
+&emsp;`index.md` &ndash; fail rujukan di luar talian  
+&emsp;`LICENSE` &ndash; fail salinan lesen projek ini  
+&emsp;[arkib](arkib) &ndash; kandungan bersejarah  
+&emsp;[daftar](daftar) &ndash; sumber daftar kata  
+&emsp;[docs](docs) &ndash; sumber laman utama  
 
 Baca lebih lanjut di laman utama.
