@@ -95,5 +95,5 @@ rujukan laku untuk pengusaha daftar ini sahaja.
 &nbsp;  
 laman kembali: [bersuai][0]
 
-  [0]: ../bersuai.md
+  [0]: ../../bersuai.md
   [a]: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords

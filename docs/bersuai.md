@@ -13,8 +13,8 @@ Carian segera: Ctrl+F dan taip kata kunci:
 
 &#9251;&#46; untuk semua tersenarai  
 &#9251;&#46;&#46; untuk rinci sahaja  
-&#9251;&#46;@ untuk daftar sahaja  
 &#9251;&#46;# untuk lema sahaja  
+&#9251;&#46;@ untuk daftar sahaja  
 
 Rinci: 2  
  .. [Hasil kajian Mac 2018](ura/1803.md)  
@@ -31,11 +31,11 @@ Lema: 8
  .#ms [niskala](ura/ms/niskala.md)  
 
 Daftar: 5  
- .@k [PSAT](ura/psat.md)  
- .@u [Kata kerap](ura/katakerap.md)  
+ .@k [PSAT](ura/k/psat.md)  
+ .@u [Kata kerap](ura/u/katakerap.md)  
  .@k Kata dua-huruf Melayu (tanpa makna)  
  .@k Kata dua-huruf Inggeris (tanpa makna)  
- .@u [Kata kerap unik](ura/kerapu.md)  
+ .@u [Kata kerap unik](ura/u/kerapu.md)  
 
 &nbsp;  
 laman lompat rujukan: [contoh][1], [kelas][2]

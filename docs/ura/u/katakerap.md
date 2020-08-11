@@ -64,4 +64,4 @@ berulang yang mempunyai terjemahan yang berbeza.
 &nbsp;  
 laman kembali: [bersuai][0]
 
-  [0]: ../bersuai.md
+  [0]: ../../bersuai.md
