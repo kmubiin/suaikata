@@ -1,20 +1,47 @@
-## tetapan khas bagi projek suaikata
+## tetapan umum
+language: ms
+
+## tetapan bagi projek suaikata
 peringkat: alfa
 terbitan: 2.20.0731
 
-## tetapan lazim bagi GitHub Pages
+## tetapan bagi GitHub Pages
 title: suaikata
 description: Koleksi ringkas kosa kata
 theme: jekyll-theme-slate
 show_downloads: false
+## ---TETAPAN LALAI---
+#github:
+#  repository_url: https://github.com/kmubiin/suaikata
+#  zip_url: https://github.com/kmubiin/suaikata/archive/master.zip
+#  tar_url: https://github.com/kmubiin/suaikata/archive/master.tar.gz
+## ---TETAPAN LALAI---
+## baris di atas sengaja dinyahaktif
 
-## paparan pautan
+## tetapan bagi Jekyll
 url: https://kmubiin.github.io/suaikata
 permalink: /:title:output_ext
-
 ## paparan waktu tzdata (IANA time zone database)
 timezone: Etc/UTC
+## paparan dan terjemah kandungan
+## ---TETAPAN LALAI---
+#liquid:
+#  error_mode        : warn
+#  strict_filters    : false
+#  strict_variables  : false
+#markdown: kramdown
+#kramdown:
+#  auto_ids          : true
+#  entity_output     : as_char
+#  toc_levels        : [1, 2, 3, 4, 5, 6]
+#  smart_quotes      : lsquo,rsquo,ldquo,rdquo
+#  input             : GFM
+#  hard_wrap         : false
+#  footnote_nr       : 1
+#  show_warnings     : false
+## ---TETAPAN LALAI---
+## baris di atas sengaja dinyahaktif
 
-## Lagi tetapan mengikut tema dan laman
+## lagi tetapan mengikut tema dan laman
 ## https://pages.github.com/themes/
 ## https://jekyllrb.com/docs/configuration/
