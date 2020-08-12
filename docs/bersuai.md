@@ -1,4 +1,5 @@
 ---
+asal: docs/
 ---
 
 ### Rinci, lema dan daftar (bersuai)

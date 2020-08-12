@@ -1,4 +1,5 @@
 ---
+asal: docs/panduan/bab/
 ---
 
 ### Mencipta helai daftar

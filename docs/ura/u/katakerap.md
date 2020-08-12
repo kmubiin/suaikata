@@ -1,4 +1,5 @@
 ---
+asal: docs/ura/u/
 ---
 
 ### Kajian daftar kata kerap

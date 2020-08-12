@@ -1,4 +1,5 @@
 ---
+asal: docs/panduan/bab/
 ---
 
 ### Dua atau lebih lajur

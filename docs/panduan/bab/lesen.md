@@ -1,4 +1,5 @@
 ---
+asal: docs/panduan/bab/
 ---
 
 ## Lesen sumber terbuka

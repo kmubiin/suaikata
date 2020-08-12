@@ -1,4 +1,5 @@
 ---
+asal: docs/panduan/bab/
 ---
 
 ### Hak cipta tidak terpelihara

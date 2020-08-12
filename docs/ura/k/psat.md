@@ -1,4 +1,5 @@
 ---
+asal: docs/ura/k/
 ---
 
 ### Kajian daftar PSAT

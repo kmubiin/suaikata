@@ -1,4 +1,5 @@
 ---
+asal: docs/panduan/bab/
 ---
 
 ### Kelainan ciri daftar

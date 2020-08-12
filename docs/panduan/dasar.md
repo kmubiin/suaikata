@@ -1,4 +1,5 @@
 ---
+asal: docs/panduan/
 ---
 
 ### Dasar panduan

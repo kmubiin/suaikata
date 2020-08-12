@@ -1,4 +1,5 @@
 ---
+asal: docs/
 layout: default
 ---
 &#8942; Kemas kini setakat {{ site.time }}

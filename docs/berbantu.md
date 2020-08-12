@@ -1,4 +1,5 @@
 ---
+asal: docs/
 ---
 
 ### Kemudahan sumber dan perisian (berbantu)
