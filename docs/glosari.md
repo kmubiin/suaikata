@@ -21,6 +21,15 @@ boleh diisi oleh pengguna di ruang menulis dalam perisian
 &ndash; bahagian terkecil dalam teks biasa yang boleh
 memuatkan huruf, angka, simbol, dan ruang kosong
 
+**antara muka**&#179; (en: interface)
+&ndash; ruang interaksi antara pengguna dan mesin, lebih
+terkenal dengan antara muka web (WUI), antara muka grafik
+(GUI), antara muka garis perintah (CLI) pada komputer
+
+**anu**&#179; (en: variable)
+&ndash; nama am bagi nilai yang boleh berubah atau yang
+tidak diketahui
+
 **aplikasi mudah alih** (en: mobile apps)
 
 #### B
@@ -45,7 +54,14 @@ bahasa dalam negara dan tempat serantau
 tersedia atau daftar asal yang disunting, sama ada bahasa
 Melayu atau bahasa lain
 
+**baris perintah**
+&ndash; lihat "garis perintah"
+
 #### C
+
+**CLI** (en: command line interface)
+&ndash; lihat "antara muka"
+
 #### D
 
 **daftar dwibahasa lazim**
@@ -57,6 +73,8 @@ seperti kamus Inggeris-Melayu
 &ndash; satu daftar kata dengan beberapa lajur tambahan bagi
 memuatkan dua salinan terjemah dan memetik salah satunya
 bersama tanda nama pengusaha
+
+**dalam talian** (en: online)
 
 #### E
 #### F
@@ -72,9 +90,12 @@ umpama fail kertas kerja yang disusun dalam almari
 
 #### G
 
-**garis perintah** (en: command line)
+**garis perintah**&#178; (en: command line)
 &ndash; arahan yang digunakan oleh pengguna komputer untuk
 melakukan sesuatu tugas melalui antara muka teks sahaja
+
+**GUI** (en: graphical user interface)
+&ndash; lihat "antara muka"
 
 #### H
 
@@ -113,10 +134,14 @@ membentuk kata-kata lain dalam sesuatu bahasa
 dalam satu fail tersendiri, misalnya salinan muat turun
 daripada pangkalan data wiki
 
+**luar talian** (en: offline)
+
 #### M
 #### N
 #### O
 #### P
+
+**paparan mudah alih** (en: mobile view)
 
 **pelayar web** (en: web browser)
 
@@ -182,13 +207,22 @@ menyatakan perakuan hak cipta asal
 
 **terjemahan mesin** (en: machine translation)
 
+**tetapan lalai**&#179; (en: default settings)
+
 #### U
+
+**UI** (en: user interface)
+&ndash; lihat "antara muka"
+
 #### V
 #### W
 
 **wiki** (en: wiki; haw: wikiwiki)
 &ndash; laman web sumbangan ramai yang boleh disunting
 oleh sesiapa sahaja dengan menggunakan pelayar web
+
+**WUI** (en: web user interface)
+&ndash; lihat "antara muka"
 
 #### X
 #### Y
