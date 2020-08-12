@@ -43,4 +43,10 @@ mengusahakan daftar kata.
 [Lihat panduan](panduan/index.md)
 
 &nbsp;  
+Tahukah anda? Bukan semua perkataan dalam bahasa asal dapat
+diterjemah begitu sahaja. Selain hasil pena, projek suaikata
+ada satu laman khas untuk senarai istilah.
+[Lihat glosari](glosari.md)
+
+&nbsp;  
 Untuk kemudahan lain, sila layari laman sumber di GitHub.

@@ -117,8 +117,6 @@ dilakukan selepas itu.
 panduan tetapi di luar tumpuan. Semua laman rujukan membawa
 maklumat sokongan bagi bab-bab panduan.
 
-- Glosari ialah senarai kosa kata atau istilah pilihan
-daripada semua bab panduan selain rujukan ini
 - Kelas daftar ialah senarai kumpulan daftar yang mengumpul
 semua daftar yang disediakan mengikut ciri tertentu
 - Contoh daftar khusus ialah penerangan ringkas daftar yang

@@ -33,7 +33,6 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 
 #### Rujukan
 
-- [Glosari](ruj/glosari.md)
 - [Kelas daftar](ruj/kelas.md)
 - [Contoh daftar khusus](ruj/contoh.md)
 - [Soal terjemah](ruj/terjemah.md)

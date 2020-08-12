@@ -1,10 +1,13 @@
 ---
-asal: docs/panduan/ruj/
+asal: docs/
 ---
 
 ### Glosari
 
 &nbsp;  
+Istilah disusun mengikut simbol dan abjad. Sebarang istilah
+yang tersenarai disertakan dengan istilah asal dan makna.
+Bagaimanapun, mana-mana istilah tidak semestinya ada.
 
 #### Simbol
 
@@ -197,6 +200,6 @@ oleh sesiapa sahaja dengan menggunakan pelayar web
 &#179; istilah akademik atau khusus dalam bidang tertentu  
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [utama][0]
 
-  [0]: ../index.md
+  [0]: index.md
