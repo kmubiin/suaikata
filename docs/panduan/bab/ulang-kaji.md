@@ -4,7 +4,9 @@ asal: docs/panduan/bab/
 
 ### Mengulang kaji
 
-> Perbaik bab ulang kaji? #todo #beta
+{% comment %}
+Perbaik bab ulang kaji? #todo #beta
+{% endcomment %}
 
 &nbsp;  
 Apa yang boleh dibuat selain mencipta daftar:

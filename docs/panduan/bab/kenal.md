@@ -4,7 +4,9 @@ asal: docs/panduan/bab/
 
 ### Mengenal projek suaikata
 
-> Perbaik bab mengenal projek suaikata? #todo #beta
+{% comment %}
+Perbaik bab mengenal projek suaikata? #todo #beta
+{% endcomment %}
 
 &nbsp;  
 Asal usul projek suaikata dan hala tuju projek ini.

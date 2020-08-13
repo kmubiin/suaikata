@@ -4,7 +4,9 @@ asal: docs/panduan/bab/
 
 ### Memuat daftar
 
-> Perbaik bab memuat daftar? #todo #beta
+{% comment %}
+Perbaik bab memuat daftar? #todo #beta
+{% endcomment %}
 
 &nbsp;  
 Cara memuat daftar bagi projek suaikata, sama ada melalui

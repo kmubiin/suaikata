@@ -4,8 +4,6 @@ asal: docs/panduan/bab/
 
 ### Hak cipta tidak terpelihara
 
-> Perbaik bab hak cipta? #todo #beta
-
 &nbsp;  
 Sumber pilihan yang baik adalah senarai kata masukan tanpa
 makna. Secara umum, sebarang senarai bahan atau kandungan
@@ -75,6 +73,14 @@ terpelihara jika ada serba sedikit sifat asli padanya".
 
 Berdasarkan hujah 2, senarai yang **mengandungi fakta**
 semata-mata adalah hak cipta tidak terpelihara.
+
+{% comment %}
+Lagi hujah hak cipta? #todo
+
+<https://en.wikipedia.org/wiki/List_of_copyright_case_law>
+
+Teliti kes berkaitan idea dan fakta
+{% endcomment %}
 
 Projek suaikata bermula dengan senarai kata tanpa makna
 bagi mengusahakan daftar baharu yang bermakna. Daftar baharu

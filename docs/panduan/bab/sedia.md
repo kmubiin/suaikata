@@ -4,7 +4,9 @@ asal: docs/panduan/bab/
 
 ### Menyedia daftar dari mula hingga akhir
 
-> Perbaik bab menyedia daftar? #todo #beta
+{% comment %}
+Perbaik bab menyedia daftar? #todo #beta
+{% endcomment %}
 
 &nbsp;  
 Tajuk lama: Menyunting daftar lama atau baharu

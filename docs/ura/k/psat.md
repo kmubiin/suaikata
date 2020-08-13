@@ -14,7 +14,11 @@ Jumlah kata masukan asal ialah 267, termasuk 2 pendua.
 
 #### Tentang PSAT atau SAT
 
-> Tiada maklumat tentang PSAT atau SAT #todo
+{% comment %}
+Perbaik tentang PSAT atau SAT? #todo
+{% endcomment %}
+
+Tiada maklumat tentang PSAT atau SAT
 
 #### Tentang binaan daftar
 
