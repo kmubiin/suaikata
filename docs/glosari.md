@@ -9,99 +9,130 @@ Istilah disusun mengikut simbol dan abjad. Sebarang istilah
 yang tersenarai disertakan dengan istilah asal dan makna.
 Bagaimanapun, mana-mana istilah tidak semestinya ada.
 
+{% comment %}
+satu baris tertentu ditambah sebelum setiap baris istilah
+membolehkan carian segera dibuat seperti laman bersuai,
+entiti XML `&nbsp;` akan menukarkan aksara berikut menjadi
+kata kunci &#9251;&#46; yang sah dalam pelayar web, dua
+aksara `  ` terakhir menjadikan baris itu hadir sebagai
+baris baharu dan terasing daripada baris istilah
+{% endcomment %}
+
 #### Simbol
 
+&nbsp; .  
 **¶** (en: paragraph sign)
 &ndash; aksara yang menandakan perenggan atau baris yang
 boleh diisi oleh pengguna di ruang menulis dalam perisian
 
 #### A
 
+&nbsp; .  
 **aksara** (en: character)
 &ndash; bahagian terkecil dalam teks biasa yang boleh
 memuatkan huruf, angka, simbol, dan ruang kosong
 
+&nbsp; .  
 **antara muka**&#179; (en: interface)
 &ndash; ruang interaksi antara pengguna dan mesin, lebih
 terkenal dengan antara muka web (WUI), antara muka grafik
 (GUI), antara muka garis perintah (CLI) pada komputer
 
+&nbsp; .  
 **anu**&#179; (en: variable)
 &ndash; nama am bagi nilai yang boleh berubah atau yang
 tidak diketahui
 
+&nbsp; .  
 **aplikasi mudah alih** (en: mobile apps)
 
 #### B
 
+&nbsp; .  
 **bahasa asal**&#178; (en: source language)
 &ndash; bahasa yang digunakan dalam mana-mana daftar asal,
 sama ada bahasa Melayu atau bahasa lain
 
+&nbsp; .  
 **bahasa Melayu piawai**
 &ndash; bahasa Melayu yang mematuhi tatabahasa untuk
 kegunaan rasmi dan umum, dan diiktiraf oleh pihak pemantau
 bahasa dalam negara dan tempat serantau
 
+&nbsp; .  
 **bahasa sasaran**
 &ndash; lihat "bahasa terjemah"
 
+&nbsp; .  
 **bahasa sumber**
 &ndash; lihat "bahasa asal"
 
+&nbsp; .  
 **bahasa terjemah**&#178; (en: target language)
 &ndash; bahasa yang digunakan dalam mana-mana daftar
 tersedia atau daftar asal yang disunting, sama ada bahasa
 Melayu atau bahasa lain
 
+&nbsp; .  
 **baris perintah**
 &ndash; lihat "garis perintah"
 
 #### C
 
+&nbsp; .  
 **CLI** (en: command line interface)
 &ndash; lihat "antara muka"
 
 #### D
 
+&nbsp; .  
 **daftar dwibahasa lazim**
 &ndash; satu daftar kata dengan dua lajur yang memuatkan
 perkataan dalam satu bahasa dan terjemahan dalam bahasa lain
 seperti kamus Inggeris-Melayu
 
+&nbsp; .  
 **daftar dwibahasa beregu**&#185;
 &ndash; satu daftar kata dengan beberapa lajur tambahan bagi
 memuatkan dua salinan terjemah dan memetik salah satunya
 bersama tanda nama pengusaha
 
+&nbsp; .  
 **dalam talian** (en: online)
 
 #### E
 #### F
 
+&nbsp; .  
 **fail**&#179; (en: file)
 &ndash; kandungan dan maklumat yang dikumpul dan dikenal
 dengan nama tertentu dan disimpan dalam peranti storan,
 umpama fail kertas kerja yang disusun dalam almari
 
+&nbsp; .  
 **format asal** (en: native format)
 
+&nbsp; .  
 **format mudah alih** (en: portable format)
 
 #### G
 
+&nbsp; .  
 **garis perintah**&#178; (en: command line)
 &ndash; arahan yang digunakan oleh pengguna komputer untuk
 melakukan sesuatu tugas melalui antara muka teks sahaja
 
+&nbsp; .  
 **GUI** (en: graphical user interface)
 &ndash; lihat "antara muka"
 
 #### H
 
+&nbsp; .  
 **hamparan elektronik**
 &ndash; lihat "helaian rebak"
 
+&nbsp; .  
 **helaian rebak**&#178; (en: spreadsheet)
 &ndash; satu atau lebih helai yang berisi sel-sel berpetak
 di sepanjang lajur dan baris, terutama helai yang dicipta
@@ -111,29 +142,35 @@ oleh perisian komputer bagi menyediakan daftar kata
 #### J
 #### K
 
+&nbsp; .  
 **korpus**&#179; (en: corpus; lat: corpus)
 &ndash; kata masukan dalam teks yang dikumpul bersama untuk
 penyelidikan bahasa
 
 #### L
 
+&nbsp; .  
 **laman sumber**&#178; (en: repository)
 &ndash; laman yang menyediakan kemudahan untuk melawat
 kandungan penuh projek
 
+&nbsp; .  
 **laman utama**&#178; (en: homepage)
 &ndash; laman yang menyediakan kemudahan untuk melawat
 kandungan mesra pembaca
 
+&nbsp; .  
 **lema**&#179; (en: lemma)
 &ndash; kata masukan dalam kamus, atau kata dasar yang
 membentuk kata-kata lain dalam sesuatu bahasa
 
+&nbsp; .  
 **longgokan data**&#178; (en: data dump, database dump)
 &ndash; kandungan dan maklumat yang dikumpul dan disimpan
 dalam satu fail tersendiri, misalnya salinan muat turun
 daripada pangkalan data wiki
 
+&nbsp; .  
 **luar talian** (en: offline)
 
 #### M
@@ -141,47 +178,61 @@ daripada pangkalan data wiki
 #### O
 #### P
 
+&nbsp; .  
 **paparan mudah alih** (en: mobile view)
 
+&nbsp; .  
 **pelayar web** (en: web browser)
 
+&nbsp; .  
 **pemaju**
 &ndash; lihat "pengusaha"
 
+&nbsp; .  
 **pembangun** (en: developer)
 &ndash; pihak asal yang memulakan sesuatu rancangan dan
 menyedia hasil kerja daripada kosong, lihat juga "pengusaha"
 
+&nbsp; .  
 **pemisah teks** (en: separator)
 
+&nbsp; .  
 **penamat baris** (en: newline)
 
+&nbsp; .  
 **pengusaha**&#178; (en: developer, collaborator)
 &ndash; pihak atau gabungan pihak yang mengusaha rancangan,
 yang menyedia hasil kerja, yang diberi kelebihan untuk
 bekerjasama, mana-mana satu atau beberapa peranan tersebut
 
+&nbsp; .  
 **penyumbang** (en: contributor)
 &ndash; pihak umum yang terutamanya membantu pengusaha
 dengan memberi maklum balas atau memperbaik hasil kerja
 
+&nbsp; .  
 **penyumbang rapat**&#178; (en: collaborator)
 &ndash; pihak umum yang diberi kelebihan tertentu untuk
 bekerjasama dengan pengusaha, lihat juga "pengusaha"
 
+&nbsp; .  
 **penyunting teks biasa** (en: text editor)
 
+&nbsp; .  
 **perangkaan** (en: statistic)
 &ndash; maklumat dalam bentuk angka yang disusun dengan
 teratur berdasarkan ciri tertentu
 
+&nbsp; .  
 **peranti storan** (en: storage device)
 
+&nbsp; .  
 **perisian** (en: software)
 
 #### Q
 #### R
 
+&nbsp; .  
 **rumus gunaan**&#178; (en: applied formula)
 &ndash; satu atau lebih rumus yang ditulis semula untuk
 membuat perangkaan dan selidik terhad dalam perisian seperti
@@ -189,38 +240,48 @@ helaian rebak
 
 #### S
 
+&nbsp; .  
 **sebut nama**&#178; (en: attribution)
 &ndash; satu syarat yang ditetapkan oleh lesen sumber
 terbuka; apabila karya yang dilesenkan sedemikian hendak
 digunakan semula untuk apa-apa tujuan, pengguna mesti
 menyatakan perakuan hak cipta asal
 
+&nbsp; .  
 **sumbangan** (en: contribution)
 
+&nbsp; .  
 **sumber terbuka** (en: open source)
 
 #### T
 
+&nbsp; .  
 **teks asal** (en: source text)
 
+&nbsp; .  
 **teks biasa** (en: plain text)
 
+&nbsp; .  
 **terjemahan mesin** (en: machine translation)
 
+&nbsp; .  
 **tetapan lalai**&#179; (en: default settings)
 
 #### U
 
+&nbsp; .  
 **UI** (en: user interface)
 &ndash; lihat "antara muka"
 
 #### V
 #### W
 
+&nbsp; .  
 **wiki** (en: wiki; haw: wikiwiki)
 &ndash; laman web sumbangan ramai yang boleh disunting
 oleh sesiapa sahaja dengan menggunakan pelayar web
 
+&nbsp; .  
 **WUI** (en: web user interface)
 &ndash; lihat "antara muka"
 
