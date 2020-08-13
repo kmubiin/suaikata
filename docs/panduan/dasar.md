@@ -101,6 +101,8 @@ dilakukan selepas itu.
 
 - [Adding a file to a repository][32a]
   &ndash; GitHub Help
+- [Adding a file to a repository using the command line][32b]
+  &ndash; GitHub Help
 - [Ulasan pembangun daftar pertama #20][#20]
   &ndash; kmubiin/suaikata on Nov 17, 2018
 - [Salin dan perbaik daftar kata kerap #32][#32]
@@ -108,7 +110,8 @@ dilakukan selepas itu.
 
 &nbsp;  
 
-  [32a]: https://help.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository
+  [32a]: https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository
+  [32b]: https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line
   [#20]: https://github.com/kmubiin/suaikata/issues/20
   [#32]: https://github.com/kmubiin/suaikata/issues/32
 
