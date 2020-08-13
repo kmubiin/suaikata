@@ -10,12 +10,24 @@ Semua daftar yang diusahakan termasuk daftar tanpa makna
 akan disenarai. Bagaimanapun, kajian bagi mana-mana daftar
 atau lema tidak semestinya ada.
 
-Carian segera: Ctrl+F dan taip kata kunci:
+{% comment %}
+penerangan carian segera
 
+tiga aksara pertama bagi setiap baris kandungan adalah
+penanda senarai dan juga kata kunci bagi carian segera yang
+hadir dalam pelayar web, tekan Ctrl+F dan taip mana-mana
+tiga aksara pertama untuk mencapai kandungan tertentu
+
+padanan kata kunci:  
 &#9251;&#46; untuk semua tersenarai  
 &#9251;&#46;&#46; untuk rinci sahaja  
 &#9251;&#46;# untuk lema sahaja  
 &#9251;&#46;@ untuk daftar sahaja  
+
+perwakilan aksara:  
+&#9251; mewakili aksara ruang kosong (whitespace) atau
+penjarak (space), biasanya hadir di antara dua perkataan
+{% endcomment %}
 
 Rinci: 2  
  .. [Hasil kajian Mac 2018](ura/1803.md)  
