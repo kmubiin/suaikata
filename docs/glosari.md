@@ -44,7 +44,13 @@ terkenal dengan antara muka web (WUI), antara muka grafik
 tidak diketahui
 
 &nbsp; .  
-**aplikasi mudah alih** (en: mobile apps)
+**aplikasi mudah alih** (en: mobile app)
+&ndash; lihat "app"
+
+&nbsp; .  
+**app**
+&ndash; nama pendek dan terkenal bagi perisian pada peranti
+mudah alih, khususnya telefon pintar
 
 #### B
 
@@ -80,6 +86,10 @@ Melayu atau bahasa lain
 #### C
 
 &nbsp; .  
+**cabang**&#178; (en: fork)
+&ndash; satu atau lebih salinan asing sumber
+
+&nbsp; .  
 **CLI** (en: command line interface)
 &ndash; lihat "antara muka"
 
@@ -98,6 +108,10 @@ memuatkan dua salinan terjemah dan memetik salah satunya
 bersama tanda nama pengusaha
 
 &nbsp; .  
+**dahan**&#179; (en: branch)
+&ndash; satu atau lebih salinan asal sumber
+
+&nbsp; .  
 **dalam talian** (en: online)
 
 #### E
@@ -108,6 +122,10 @@ bersama tanda nama pengusaha
 &ndash; kandungan dan maklumat yang dikumpul dan dikenal
 dengan nama tertentu dan disimpan dalam peranti storan,
 umpama fail kertas kerja yang disusun dalam almari
+
+&nbsp; .  
+**folder**&#179; (en: folder)
+&ndash; fail yang mengandungi fail lain
 
 &nbsp; .  
 **format asal** (en: native format)
@@ -129,6 +147,12 @@ melakukan sesuatu tugas melalui antara muka teks sahaja
 #### H
 
 &nbsp; .  
+**hak capaian**&#178; (en: access)
+&ndash; hak tambahan yang diberi oleh pengusaha kepada
+penyumbang rapat supaya boleh membuat kemas kini di laman
+sumber berkenaan
+
+&nbsp; .  
 **hamparan elektronik**
 &ndash; lihat "helaian rebak"
 
@@ -137,6 +161,9 @@ melakukan sesuatu tugas melalui antara muka teks sahaja
 &ndash; satu atau lebih helai yang berisi sel-sel berpetak
 di sepanjang lajur dan baris, terutama helai yang dicipta
 oleh perisian komputer bagi menyediakan daftar kata
+
+&nbsp; .  
+**heret dan letak** (en: drag and drop)
 
 #### I
 #### J
@@ -150,9 +177,28 @@ penyelidikan bahasa
 #### L
 
 &nbsp; .  
+**laman cabang**&#178; (en: fork, forked repository)
+&ndash; laman sumber yang tercipta kemudian atau yang
+menyalin kemas kini daripada laman punca
+&ndash; lihat juga "cabang"
+
+&nbsp; .  
+**laman punca**&#178; (en: root, upstream repository)
+&ndash; laman sumber yang tercipta mula-mula sekali atau
+yang membuat kemas kini sendiri dan terawal
+
+&nbsp; .  
 **laman sumber**&#178; (en: repository)
 &ndash; laman yang menyediakan kemudahan untuk melawat
 kandungan penuh projek
+
+&nbsp; .  
+**laman sumber asal**
+&ndash; lihat "laman punca"
+
+&nbsp; .  
+**laman sumber salinan**
+&ndash; lihat "laman cabang"
 
 &nbsp; .  
 **laman utama**&#178; (en: homepage)
@@ -246,6 +292,9 @@ helaian rebak
 terbuka; apabila karya yang dilesenkan sedemikian hendak
 digunakan semula untuk apa-apa tujuan, pengguna mesti
 menyatakan perakuan hak cipta asal
+
+&nbsp; .  
+**storan awan** (en: cloud storage)
 
 &nbsp; .  
 **sumbangan** (en: contribution)
