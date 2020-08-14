@@ -52,6 +52,9 @@ Projek suaikata telah menyediakan helai daftar pertama
 bersama dua ahli projek menggunakan Google Sheets.
 
 &nbsp;  
+laman lompat bab: [muat][1]
+
 laman kembali: [panduan][0]
 
   [0]: ../index.md
+  [1]: muat.md
