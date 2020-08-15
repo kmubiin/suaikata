@@ -86,8 +86,10 @@ Melayu atau bahasa lain
 #### C
 
 &nbsp; .  
-**cabang**&#178; (en: fork)
-&ndash; satu atau lebih salinan asing sumber
+**cabang**&#178; &#179; (en: fork)
+&ndash; satu atau lebih salinan asing sumber; beberapa
+cabang boleh lahir daripada satu dahan dan jika dahan itu
+hilang, maka cabang terawal boleh mengganti dahan
 
 &nbsp; .  
 **CLI** (en: command line interface)
@@ -148,9 +150,8 @@ melakukan sesuatu tugas melalui antara muka teks sahaja
 
 &nbsp; .  
 **hak capaian**&#178; (en: access)
-&ndash; hak tambahan yang diberi oleh pengusaha kepada
-penyumbang rapat supaya boleh membuat kemas kini di laman
-sumber berkenaan
+&ndash; hak yang ada pada pembangun dan penyumbang rapat
+untuk membuat kemas kini secara langsung di laman sumber
 
 &nbsp; .  
 **hamparan elektronik**
@@ -237,7 +238,8 @@ daripada pangkalan data wiki
 &nbsp; .  
 **pembangun** (en: developer)
 &ndash; pihak asal yang memulakan sesuatu rancangan dan
-menyedia hasil kerja daripada kosong, lihat juga "pengusaha"
+menyedia hasil kerja daripada kosong
+&ndash; lihat juga "pengusaha"
 
 &nbsp; .  
 **pemisah teks** (en: separator)
@@ -259,7 +261,8 @@ dengan memberi maklum balas atau memperbaik hasil kerja
 &nbsp; .  
 **penyumbang rapat**&#178; (en: collaborator)
 &ndash; pihak umum yang diberi kelebihan tertentu untuk
-bekerjasama dengan pengusaha, lihat juga "pengusaha"
+bekerjasama dengan pengusaha
+&ndash; lihat juga "pengusaha"
 
 &nbsp; .  
 **penyunting teks biasa** (en: text editor)
