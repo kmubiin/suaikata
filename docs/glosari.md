@@ -158,6 +158,12 @@ untuk membuat kemas kini secara langsung di laman sumber
 &ndash; lihat "helaian rebak"
 
 &nbsp; .  
+**helai daftar**&#185;
+&ndash; nama am bagi helaian rebak yang mengandungi daftar,
+khususnya fail yang menyimpan daftar kata
+&ndash; lihat juga "helaian rebak" dan "fail"
+
+&nbsp; .  
 **helaian rebak**&#178; (en: spreadsheet)
 &ndash; satu atau lebih helai yang berisi sel-sel berpetak
 di sepanjang lajur dan baris, terutama helai yang dicipta
@@ -352,7 +358,7 @@ oleh sesiapa sahaja dengan menggunakan pelayar web
 #### Z
 
 &mdash;  
-&#185; istilah baharu, dicipta oleh projek suaikata  
+&#185; istilah gunaan projek suaikata  
 &#178; istilah pilihan, berbeza pendapat atau tidak rasmi  
 &#179; istilah akademik atau khusus dalam bidang tertentu  
 
