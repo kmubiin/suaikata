@@ -43,13 +43,14 @@ dengan memilih **lesen yang sesuai** sebelum sumber itu
 boleh digunakan oleh orang ramai. Lesen itu sebaiknya ada
 **saranan daripada badan bebas**.
 
-Projek suaikata menyedia dan memuat naik daftar kata ke
-laman sumber awam. Daftar itu adalah data sumber terbuka.
-Lesen yang diperlukan adalah lesen bagi sumber bukan atur
-cara. Dua ahli projek telah memutuskan bahawa "sebut nama"
+Projek suaikata menyedia dan memuat daftar kata di laman
+sumber awam. Daftar kata itu adalah data sumber terbuka.
+Lesen yang sesuai adalah lesen bagi sumber bukan atur cara.
+Dua orang pengusaha telah memutuskan bahawa "sebut nama"
 sebagai syarat penggunaan sudah memadai.
 
-Projek suaikata menggunakan lesen CC-BY-4.0
+Projek suaikata menggunakan CC-BY-4.0 bagi lesen semua
+kandungan termasuk daftar kata di laman sumber.
 
 &mdash;  
 &#185; lesen bagi sumber domain awam  
