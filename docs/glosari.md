@@ -44,13 +44,13 @@ terkenal dengan antara muka web (WUI), antara muka grafik
 tidak diketahui
 
 &nbsp; .  
-**aplikasi mudah alih** (en: mobile app)
+**aplikasi mudah alih**
 &ndash; lihat "app"
 
 &nbsp; .  
-**app**
-&ndash; nama pendek dan terkenal bagi perisian pada peranti
-mudah alih, khususnya telefon pintar
+**app** (en: app, mobile app)
+&ndash; nama pendek bagi aplikasi mudah alih, atau perisian
+pada peranti mudah alih, khususnya telefon pintar
 
 #### B
 
@@ -196,6 +196,16 @@ kandungan penuh projek
 &nbsp; .  
 **laman sumber asal**
 &ndash; lihat "laman punca"
+
+&nbsp; .  
+**laman sumber awam** (en: public repository)
+&ndash; laman sumber yang boleh dicapai oleh pengguna awam
+dan siapa-siapa juga
+
+&nbsp; .  
+**laman sumber sulit** (en: private repository)
+&ndash; laman sumber yang tidak boleh dicapai oleh pengguna
+awam kecuali pengguna tertentu sahaja
 
 &nbsp; .  
 **laman sumber salinan**
