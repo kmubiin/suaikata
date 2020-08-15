@@ -6,17 +6,18 @@ asal: docs/panduan/bab/
 
 &nbsp;  
 Daftar dwibahasa yang lazim ada dua lajur sahaja, iaitu satu
-bahasa untuk setiap lajur. Apabila dua ahli projek ingin
+bahasa untuk setiap lajur. Apabila dua orang pengusaha ingin
 bekerjasama, dua lajur sudah tidak memadai.
 
 | inggeris | melayu       |
 | -------- | ------------ |
 | dissent  | percanggahan |
 
-Sebagai contoh, ahli A telah mengisi lajur 'melayu' dengan
-satu terjemah tetapi ahli M ada cadangan terjemah lain yang
-hendak diisi dalam ruang terjemah yang sama. Dalam hal ini,
-lajur tersebut sewajarnya dipecah menjadi dua lajur baru.
+Sebagai contoh, pengusaha A telah mengisi lajur 'melayu'
+dengan satu terjemah tetapi pengusaha M ada cadangan
+terjemah lain yang hendak diisi dalam ruang terjemah yang
+sama. Dalam hal ini, lajur tersebut sewajarnya dipecah
+menjadi dua lajur baru.
 
 | inggeris | terjemah M  | terjemah A   |
 | -------- | ----------- | ------------ |
@@ -43,8 +44,9 @@ sebagai fail baru sebelum diterbit di laman sumber projek.
 | dissent  | 2  | pembantahan | M+ |
 
 **Penafian**: Daftar dwibahasa beregu (enam lajur) adalah
-cara kerja percubaan bagi kegunaan dua ahli projek. Perlu
-fikirkan cara kerja lain untuk kegunaan umum.
+cara kerja percubaan yang dibuat oleh projek suaikata bagi
+kegunaan dua orang pengusaha sahaja. Cara ini agak rumit
+dan tidak sesuai untuk kegunaan umum.
 
 &nbsp;  
 laman kembali: [panduan][0]
