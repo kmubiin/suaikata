@@ -5,7 +5,7 @@ asal: docs/panduan/bab/
 ### Menyedia daftar dari mula hingga akhir
 
 {% comment %}
-Perbaik bab menyedia daftar? #todo #beta
+Bab sedia tidak ditulis dan tidak teratur #todo #beta
 {% endcomment %}
 
 &nbsp;  

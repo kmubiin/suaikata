@@ -75,11 +75,10 @@ Berdasarkan hujah 2, senarai yang **mengandungi fakta**
 semata-mata adalah hak cipta tidak terpelihara.
 
 {% comment %}
-Lagi hujah hak cipta? #todo
-
+Teliti kes berkaitan idea dan fakta di Wikipedia
 <https://en.wikipedia.org/wiki/List_of_copyright_case_law>
 
-Teliti kes berkaitan idea dan fakta
+Bab hak cipta tidak cukup hujah #todo #terkemudian
 {% endcomment %}
 
 Projek suaikata bermula dengan senarai kata tanpa makna

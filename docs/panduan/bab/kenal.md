@@ -5,7 +5,7 @@ asal: docs/panduan/bab/
 ### Mengenal projek suaikata
 
 {% comment %}
-Perbaik bab mengenal projek suaikata? #todo #beta
+Bab kenal tidak ditulis #todo #terkemudian
 {% endcomment %}
 
 &nbsp;  

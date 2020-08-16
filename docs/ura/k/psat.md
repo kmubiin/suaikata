@@ -15,7 +15,7 @@ Jumlah kata masukan asal ialah 267, termasuk 2 pendua.
 #### Tentang PSAT atau SAT
 
 {% comment %}
-Perbaik tentang PSAT atau SAT? #todo
+Ura PSAT atau SAT tidak ditulis #todo #terserah
 {% endcomment %}
 
 Tiada maklumat tentang PSAT atau SAT

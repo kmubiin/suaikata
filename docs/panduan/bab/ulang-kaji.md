@@ -5,7 +5,7 @@ asal: docs/panduan/bab/
 ### Mengulang kaji
 
 {% comment %}
-Perbaik bab ulang kaji? #todo #beta
+Bab ulang kaji tidak teratur #todo #beta
 {% endcomment %}
 
 &nbsp;  
