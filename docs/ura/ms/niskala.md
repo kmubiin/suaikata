@@ -12,9 +12,18 @@ bahasa Indonesia yang berasal daripada bahasa Sanskrit
 - kamus bahasa Melayu terbitan lewat 1990-an membawakan
 'niskala' sebagai "tidak berwujud atau tidak berbenda"
 
-Kata sama: abstrak, mujarad
+#### niskala dalam perkataan
 
-Kata terbitan: meniskalakan, keniskalaan, peniskalaan
+Kata sama:
+
+- abstrak
+- mujarad
+
+Kata terbitan:
+
+- keniskalaan
+- meniskalakan
+- peniskalaan
 
 #### niskala dalam bahasa
 
