@@ -11,6 +11,7 @@ Hasil rujukan kamus tersedia:
 dalam bahasa Inggeris sebagai "hang from a high place, cause
 to remain floating or hanging; cause to cease temporarily,
 remove (someone) temporarily from a job or team"
+
 - kamus dwibahasa terbitan lewat 1990-an membawakan makna
 'suspend' dalam bahasa Melayu sebagai "menyangkut;
 menangguhkan; menunda; untuk sementara waktu; menggantung
@@ -20,16 +21,22 @@ Frasa 'gantung' dalam bahasa Melayu:
 
 - gantung baju
 &ndash; letakkan baju pada penyangkut
+
 - gantung mati
 &ndash; hukuman menamatkan hayat seseorang
+
 - gantung diri
 &ndash; perbuatan menamatkan hayat seseorang
+
 - gantung sekolah
 &ndash; hukuman tidak dibenarkan hadir ke sekolah
+
 - gantung kelas
 &ndash; seumpama 'gantung sekolah' (jarang didapati)
+
 - gantung sesi
 &ndash; seumpama 'gantung sekolah' (jarang didapati)
+
 - gantung tugas
 &ndash; hukuman tidak dibenarkan hadir ke tempat kerja
 
@@ -66,6 +73,7 @@ yang paling masuk akal: 'gantung baju' dan 'gantung tugas'.
 1. Jika kita fahamkan keadaan semasa sebagai satu benda atau
 pemilikan, maka makna 'gantung baju' lebih masuk akal,
 yakni gantung rekod semasa.
+
 2. Jika kita fahamkan keadaan semasa sebagai satu kerja atau
 perbuatan, maka makna 'gantung tugas' lebih masuk akal,
 yakni gantung tugas semasa.
@@ -81,6 +89,7 @@ komputer 'suspend':
 
 - tangguh
 &ndash; yakni hentikan tugas buat sementara waktu atau;
+
 - tidurkan
 &ndash; yakni rujukan langsung untuk istilah komputer yang
 lebih umum 'sleep mode' yang merangkumi semua jenis arahan

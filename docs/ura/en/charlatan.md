@@ -10,6 +10,7 @@ Hasil rujukan kamus tersedia:
 - kamus ekabahasa terbitan 2012 membawakan makna 'charlatan'
 dalam bahasa Inggeris sebagai "person who claims expertise
 that he or she does not have"
+
 - kamus dwibahasa terbitan lewat 1990-an membawakan makna
 'charlatan' dalam bahasa Melayu sebagai "orang yang berlagak
 pandai, terutama dalam perubatan"
@@ -46,9 +47,8 @@ mantap: penyemu. Kata dasar bagi penyemu ialah semu. Kata
 dasar tersebut sudah ada dalam Kamus Bahasa Malaysia Edisi
 Pelajar (1980) dan ada dua makna.
 
-1. hanya rupanya sahaja sebagai benar-benar; bukan yang
-sebenarnya
-2. tipu muslihat yang halus; tipu daya
+> 1 hanya rupanya sahaja sebagai benar-benar; bukan yang
+sebenarnya 2 tipu muslihat yang halus; tipu daya
 
 Berdasarkan takrif kata dasar di atas, kata terbitan
 penyemu sudah tepat dan menyamai makna dalam bahasa asal.

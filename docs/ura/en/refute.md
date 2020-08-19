@@ -9,10 +9,12 @@ Hasil rujukan kamus tersedia:
 
 - kamus ekabahasa terbitan 2012 membawakan makna 'refute'
 dalam bahasa Inggeris sebagai "disprove"
+
 - kamus ekabahasa tersebut juga ada nota penggunaan seperti
 berikut: refute is not same as deny. It means 'show evidence
 to disprove something', while deny means only 'say something
 that is not true'
+
 - kamus dwibahasa terbitan lewat 1990-an membawakan makna
 'refute' dalam bahasa Melayu sebagai "menyangkal"
 

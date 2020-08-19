@@ -9,10 +9,13 @@ Hasil rujukan kamus tersedia:
 
 - kamus ekabahasa terbitan 2012 membawakan makna 'didactic'
 dalam bahasa Inggeris sebagai "intended to instruct"
+
 - kamus dwibahasa terbitan lewat 1990-an membawakan makna
 'didactic' dalam bahasa Melayu sebagai "bertujuan mengajar"
+
 - carian dalam talian mendapati kata masukan 'didactic'
 tidak terhad pada satu makna sahaja;
+
 - kamus bebas Wiktionary membawakan dua makna yang umum
 dalam bahasa Inggeris iaitu "1. Instructive or intended to
 teach or demonstrate; 2. Excessively moralizing"

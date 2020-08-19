@@ -22,12 +22,17 @@ terjemahan seperti berikut.
 
 - aksara `~` diganti dengan `-` kerana formula dalam helaian
 rebak tidak dapat melakukan padanan yang betul
+
 - aksara noktah `.` di hujung dan tengah baris dibuang
+
 - aksara koma `,` diganti dengan `;` supaya setiap sel tidak
 perlukan tanda petik kata&mdash;fail menjadi lebih kecil
+
 - aksara angka berkurung yang tidak seragam diganti dengan
 angka latin dan diiringi satu aksara penjarak
+
 - aksara penjarak berlebihan sebelum aksara lain dibuang
+
 - aksara penjarak berlebihan dan berturutan dibuang
 
 Semua analisa awal dan perubahan di atas dilakukan dalam

@@ -9,6 +9,7 @@ Hasil rujukan kamus tersedia:
 
 - kamus Wiktionary menyatakan 'niskala' adalah kata masukan
 bahasa Indonesia yang berasal daripada bahasa Sanskrit
+
 - kamus bahasa Melayu terbitan lewat 1990-an membawakan
 'niskala' sebagai "tidak berwujud atau tidak berbenda"
 
@@ -53,6 +54,7 @@ dalam bidang Sastera dan Keagamaan.
 
 - dunia niskala, iaitu dunia ghaib atau dunia yang tidak
 kelihatan dan tidak dapat dilihat
+
 - bahagian niskala, iaitu bahagian yang tidak kelihatan
 seperti jiwa, roh, suara hati, dan seumpamanya
 

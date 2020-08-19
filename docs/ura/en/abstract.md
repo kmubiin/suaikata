@@ -10,15 +10,20 @@ Hasil rujukan kamus tersedia:
 - kamus dwibahasa terbitan lewat 1990-an membawakan makna
 'abstract' dalam bahasa Melayu sebagai "abstrak, mujarad"
 yang berkongsi ejaan dengan bahasa asing
+
 - perkataan 'mujarad' membawa makna "tidak nampak dan tidak
 dapat dirasa, tidak maujud, abstrak, niskala"
+
 - perkataan 'nyata' membawa makna "benar-benar ada, maujud,
 wujud"
+
 - perkataan 'zahir' membawa makna "lahir, yang nyata
 kelihatan, jasmani, maujud"
+
 - kamus bahasa Melayu terbitan seawal 1970-an ada membawa
 makna 'nyata' sebagai "lawan abstrak" dan perkataan 'lahir'
 digunakan untuk 'zahir' pada masa itu
+
 - kamus bahasa Melayu terbitan lewat 1990-an bagaimanapun
 telah membuang perkaitan "lawan abstrak" dan memperkenal
 'zahir' sebagai perkataan seerti 'lahir'

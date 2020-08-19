@@ -10,11 +10,14 @@ Hasil rujukan kamus tersedia:
 - kamus ekabahasa terbitan 2012 membawakan makna 'repudiate'
 dalam bahasa Inggeris sebagai "reject the authority or
 validity of; disown"
+
 - kamus dwibahasa terbitan lewat 1990-an membawakan makna
 'repudiate' dalam bahasa Melayu sebagai "menolak,
 menyangkal"
+
 - carian dalam talian mendapati kata masukan 'repudiate'
 ada lebih daripada satu makna;
+
 - kamus bebas Wiktionary membawakan tiga makna dalam bahasa
 Inggeris iaitu "1. To reject the truth or validity of; to
 deny; 2. To refuse to have anything to do with;
@@ -53,25 +56,25 @@ membawakan padanan terjemah "menolak".
 
 Bandingkan kesesuaian ketiga-tiga padanan terjemah dengan
 ayat ringkas Inggeris-Melayu untuk ketiga-tiga makna kata
-'repudiate' seperti berikut:
+'repudiate' seperti berikut.
 
-> makna asal 1: to repudiate a lover
->
-> - menafikan hubungan kekasih (kurang sesuai)
-> - membantah hubungan kekasih (tidak sesuai)
-> - menolak hubungan kekasih (sesuai)
->
-> makna asal 2: to repudiate contract
->
-> - menafikan perjanjian (sesuai)
-> - membantah perjanjian (sesuai)
-> - menolak perjanjian (sesuai)
->
-> makna asal 3: to repudiate debt
->
-> - menafikan hutang (kurang sesuai)
-> - membantah hutang (tidak sesuai)
-> - menolak hutang (sesuai)
+Makna asal 1: to repudiate a lover
+
+- menafikan hubungan kekasih (kurang sesuai)
+- membantah hubungan kekasih (tidak sesuai)
+- menolak hubungan kekasih (sesuai)
+
+Makna asal 2: to repudiate contract
+
+- menafikan perjanjian (sesuai)
+- membantah perjanjian (sesuai)
+- menolak perjanjian (sesuai)
+
+Makna asal 3: to repudiate debt
+
+- menafikan hutang (kurang sesuai)
+- membantah hutang (tidak sesuai)
+- menolak hutang (sesuai)
 
 Dalam semua ayat ringkas di atas, kata 'repudiate' digunakan
 untuk merujuk pada suatu perkaitan, sama ada hubungan

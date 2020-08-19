@@ -9,6 +9,7 @@ Hasil rujukan kamus tersedia:
 
 - kamus ekabahasa terbitan 2012 membawakan makna 'immutable'
 dalam bahasa Inggeris sebagai "unchangeable"
+
 - kamus dwibahasa terbitan lewat 1990-an membawakan makna
 'immutable' dalam bahasa Melayu sebagai "yang tidak dapat
 berubah; yang tidak dapat ditukar; tetap"
