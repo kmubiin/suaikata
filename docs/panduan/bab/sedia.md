@@ -2,7 +2,13 @@
 asal: docs/panduan/bab/
 ---
 
-### Menyedia daftar dari mula hingga akhir
+### Menyedia daftar sendiri
+
+&nbsp;  
+Daftar harus disediakan mengikut cara sendiri kerana tidak
+ada aturan kerja yang tetap. Tambahan pula, projek suaikata
+menyedia daftar dengan cara berlainan. Bagaimanapun, apa
+yang pernah dicuba masih boleh dijadikan panduan.
 
 {% comment %}
 Bab sedia tidak ditulis dan tidak teratur #todo #beta

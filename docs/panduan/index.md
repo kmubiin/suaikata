@@ -27,7 +27,7 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 
 #### Bab 3: Aturan kerja
 
-31. [Menyedia daftar dari mula hingga akhir](bab/sedia.md)
+31. [Menyedia daftar sendiri](bab/sedia.md)
 32. [Memuat daftar](bab/muat.md)
 33. [Mengulang kaji](bab/ulang-kaji.md)
 
