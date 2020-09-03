@@ -2,9 +2,7 @@
 asal: docs/
 layout: default
 ---
-&#8942; Kemas kini setakat {{ site.time }}
-
-&#8942; Terbitan {{ site.terbitan }} ({{ site.peringkat }})
+{% include_relative kemaskini.md %}
 
 {% comment %}
 anu site.terbitan dan site.peringkat adalah tetapan khas
