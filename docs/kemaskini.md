@@ -4,7 +4,7 @@ dan tetapan anu 'site' melalui objek YAML di _config.yml
 {% endcomment %}
 
 &#8942; Kemas kini setakat {{ site.time }}  
-&#8942; Terbitan {{ site.terbitan }} ({{ site.peringkat }})
+&#8942; Terbitan {{ site.kini.xyz }} ({{ site.kini.dev }})
 
 {% if page.name %}
 <!--cubaan objek Liquid mengesan objek YAML iaitu page.name

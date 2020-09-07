@@ -2,8 +2,11 @@
 language: ms
 
 ## tetapan bagi projek suaikata
-peringkat: alfa
-terbitan: 2.20.0731
+kini:
+  # peringkat pembangunan (alfa|beta|nil)
+  dev: alfa
+  # nama terbitan (siri.tahun.bulanhari)
+  xyz: 2.20.0731
 
 ## tetapan bagi GitHub Pages
 title: suaikata
