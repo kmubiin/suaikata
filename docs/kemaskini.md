@@ -1,5 +1,6 @@
 {% comment %}
-cubaan objek Liquid include_relative
+paparan kemas kini melalui objek Liquid 'include_relative'
+dan tetapan anu 'site' melalui objek YAML di _config.yml
 {% endcomment %}
 
 &#8942; Kemas kini setakat {{ site.time }}  

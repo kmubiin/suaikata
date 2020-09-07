@@ -4,11 +4,6 @@ layout: default
 ---
 {% include_relative kemaskini.md %}
 
-{% comment %}
-anu site.terbitan dan site.peringkat adalah tetapan khas
-bagi projek suaikata, sila rujuk _config.yml
-{% endcomment %}
-
 &nbsp;  
 Projek suaikata ialah projek perkamusan sumber terbuka yang
 dimulakan oleh dua orang penutur bahasa Melayu pada 2018.
