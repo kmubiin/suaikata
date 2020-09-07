@@ -18,6 +18,19 @@ Syarat "sebut nama". Daftar kata itu boleh digunakan secara
 bebas dengan syarat menyatakan perakuan hak cipta asal.
 
 &nbsp;  
+Tahukah anda? Bukan semua perkataan dalam bahasa asal dapat
+diterjemah begitu sahaja. Selain daftar kata, projek suaikata
+ada senarai istilah yang terhad.
+[Lihat glosari](glosari.md)
+
+{% comment %}
+Laman utama mudah sesak dengan pautan dan boleh hilang
+tumpuan; "maklumat lanjut" mungkin wajar disalin semula ke
+laman bersuai, di mana pautan banyak berkumpul; akhirnya
+ganti semua dibawah dengan satu pautan ke laman bersuai
+{% endcomment %}
+
+&nbsp;  
 Maklumat lanjut:
 
 &sect; **Hasil pena**
@@ -34,12 +47,6 @@ dengan adanya sumber dan perisian yang memainkan peranan.
 &ndash; Projek suaikata mempunyai pendekatan tersendiri bagi
 mengusahakan daftar kata.
 [Lihat panduan](panduan/index.md)
-
-&nbsp;  
-Tahukah anda? Bukan semua perkataan dalam bahasa asal dapat
-diterjemah begitu sahaja. Selain hasil pena, projek suaikata
-ada satu laman khas untuk senarai istilah.
-[Lihat glosari](glosari.md)
 
 &nbsp;  
 Untuk kemudahan lain, sila layari laman sumber di GitHub.
