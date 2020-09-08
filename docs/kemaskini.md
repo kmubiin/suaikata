@@ -6,9 +6,9 @@ dan tetapan anu 'site' melalui objek YAML di _config.yml
 &#8942; Kemas kini setakat {{ site.time }}  
 &#8942; Terbitan {{ site.kini.xyz }} ({{ site.kini.dev }})
 
-{% if page.name %}
-<!--cubaan objek Liquid mengesan objek YAML iaitu page.name
-yang mengandungi nama laman asal seperti index.md-->
-<p style="color:#999999;">Kandungan hadir di {{ page.name }}</p>
+{% if site.data.daftar %}
+<!--cubaan objek Liquid memuat kandungan daripada fail YAML
+yang tersimpan di _data/daftar.yml -->
+<p style="color:#999999;">Data termuat {{ site.data.daftar.size }}</p>
 {% endif %}
 
