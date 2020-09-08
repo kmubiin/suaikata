@@ -1,21 +1,28 @@
 -
-  fail: psat.csv
-  kelas: [khusus, dwi]
+  id: psat
+  fail:
+    asal: nil
+    kini: psat.csv
   nama:
     asal: PSAT High Frequency Words
     kini: Daftar PSAT suaikata
+  sumber:
+    asal: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
+    kini: https://github.com/kmubiin/suaikata
   bahasa:
     asal: en
     kini: ms
-    pengantar: en-ms
   tarikh:
     mula: 2018-03-29
     siap: 2018-04-30
     lengkap: 2019-04-06
-  sumber:
-    asal: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
-    kini: https://github.com/kmubiin/suaikata
-  pengusaha: [kmubiin, raafsmakmal]
+  pengusaha:
+    [kmubiin, raafsmakmal]
+  ciri:
+    rasmi: true
+    makna: true
+    regu: true
+    baiki: false
   nota:
     Daftar pertama projek suaikata.
     Daftar dwibahasa beregu.
