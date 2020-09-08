@@ -26,4 +26,61 @@
   nota:
     Daftar pertama projek suaikata.
     Daftar dwibahasa beregu.
+-
+  id: katakerap
+  fail:
+    asal: nil
+    kini: katakerap.csv
+  nama:
+    asal: nil
+    kini: Daftar kata kerap
+  sumber:
+    asal: nil
+    kini: https://github.com/kmubiin/suaikata
+  bahasa:
+    asal: en
+    kini: ms
+  tarikh:
+    mula: nil
+    siap: 2018-05-03
+    lengkap: nil
+  pengusaha:
+    [raafsmakmal]
+  ciri:
+    rasmi: false
+    makna: true
+    regu: false
+    baiki: false
+  nota:
+    Daftar sumbangan sukarela.
+    Disusun mengikut kekerapan; lagi tinggi kedudukan di
+    senarai, lagi kerap perkataan itu digunakan.
+-
+  id: kerapu
+  fail:
+    asal: katakerap.csv
+    kini: kerapu.csv
+  nama:
+    asal: Daftar kata kerap
+    kini: Daftar kata kerap unik
+  sumber:
+    asal: https://github.com/kmubiin/suaikata
+    kini: https://github.com/kmubiin/suaikata
+  bahasa:
+    asal: en
+    kini: ms
+  tarikh:
+    mula: 2020-03-08
+    siap: 2020-04-08
+    lengkap: nil
+  pengusaha:
+    [kmubiin]
+  ciri:
+    rasmi: false
+    makna: true
+    regu: false
+    baiki: true
+  nota:
+    Daftar sumbangan sukarela.
+    Disusun mengikut kekerapan, setara dengan yang asal.
 
