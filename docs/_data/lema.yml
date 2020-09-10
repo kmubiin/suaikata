@@ -1,0 +1,112 @@
+-
+  id: abstract
+  bahasa: en
+  nama:
+    en: abstract
+    ms: abstrak
+  ciri:
+    pinjam: true
+    daftar: true
+    makna: false
+    selisih: true
+  nota:
+    4 lema dalam daftar PSAT;
+    pernah selisih terjemah 1/4.
+-
+  id: charlatan
+  bahasa: en
+  nama:
+    en: charlatan
+    ms: nil
+  ciri:
+    pinjam: false
+    daftar: true
+    makna: false
+    selisih: true
+  nota:
+    1 lema dalam daftar PSAT;
+    pernah selisih terjemah 1/1.
+-
+  id: didactic
+  bahasa: en
+  nama:
+    en: didactic
+    ms: nil
+  ciri:
+    pinjam: false
+    daftar: true
+    makna: false
+    selisih: true
+  nota:
+    1 lema dalam daftar PSAT;
+    pernah selisih terjemah 1/1.
+-
+  id: immutable
+  bahasa: en
+  nama:
+    en: immutable
+    ms: nil
+  ciri:
+    pinjam: false
+    daftar: true
+    makna: false
+    selisih: true
+  nota:
+    1 lema dalam daftar PSAT;
+    pernah selisih terjemah 1/1.
+-
+  id: refute
+  bahasa: en
+  nama:
+    en: refute
+    ms: nil
+  ciri:
+    pinjam: false
+    daftar: true
+    makna: false
+    selisih: true
+  nota:
+    1 lema dalam daftar PSAT;
+    pernah selisih terjemah 1/1.
+-
+  id: repudiate
+  bahasa: en
+  nama:
+    en: repudiate
+    ms: nil
+  ciri:
+    pinjam: false
+    daftar: true
+    makna: false
+    selisih: true
+  nota:
+    1 lema dalam daftar PSAT;
+    pernah selisih terjemah 1/1.
+-
+  id: suspend
+  bahasa: en
+  nama:
+    en: suspend
+    ms: nil
+  ciri:
+    pinjam: false
+    daftar: true
+    makna: false
+    selisih: false
+  nota:
+    2 lema dalam daftar PSAT.
+-
+  id: niskala
+  bahasa: ms
+  nama:
+    sa: nishkala
+    en: nil
+    ms: niskala
+  ciri:
+    pinjam: true
+    daftar: false
+    makna: true
+    selisih: false
+  nota:
+    1 makna dalam daftar PSAT.
+
