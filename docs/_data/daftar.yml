@@ -1,27 +1,26 @@
+# maklumat meta bagi kajian daftar
+---
 -
   id: psat
-  fail:
-    asal: nil
-    kini: psat.csv
+  bahasa: en+ms
   nama:
-    asal: PSAT High Frequency Words
-    kini: Daftar PSAT suaikata
+    en: PSAT High Frequency Words
+    ms: Daftar PSAT suaikata
   sumber:
-    asal: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
-    kini: https://github.com/kmubiin/suaikata
-  bahasa:
-    asal: en
-    kini: ms
+    en: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
+    ms: https://github.com/kmubiin/suaikata
   tarikh:
     mula: 2018-03-29
     siap: 2018-04-30
     lengkap: 2019-04-06
-  pengusaha:
-    [kmubiin, raafsmakmal]
+  para:
+    fail: [psat]
+    penerbit: [archive, cabrinihigh, suaikata]
+    pengusaha: [kmubiin, raafsmakmal]
   ciri:
-    rasmi: true
+    daftar: true
     makna: true
-    regu: true
+    rasmi: true
     baiki: false
   nota:
     Daftar pertama projek suaikata.
@@ -31,28 +30,25 @@
     tanda pilihan dibuat selepas ada selisih terjemah.
 -
   id: katakerap
-  fail:
-    asal: nil
-    kini: katakerap.csv
+  bahasa: en+ms
   nama:
-    asal: nil
-    kini: Daftar kata kerap
+    en:
+    ms: Daftar kata kerap
   sumber:
-    asal: nil
-    kini: https://github.com/kmubiin/suaikata
-  bahasa:
-    asal: en
-    kini: ms
+    en:
+    ms: https://github.com/kmubiin/suaikata
   tarikh:
-    mula: nil
+    mula:
     siap: 2018-05-03
-    lengkap: nil
-  pengusaha:
-    [raafsmakmal]
+    lengkap:
+  para:
+    fail: [katakerap]
+    penerbit: [suaikata]
+    pengusaha: [raafsmakmal]
   ciri:
-    rasmi: false
+    daftar: true
     makna: true
-    regu: false
+    rasmi: false
     baiki: false
   nota:
     Daftar sumbangan sukarela.
@@ -60,31 +56,28 @@
     senarai, lagi kerap perkataan itu digunakan.
 -
   id: kerapu
-  fail:
-    asal: katakerap.csv
-    kini: kerapu.csv
+  bahasa: en+ms
   nama:
-    asal: Daftar kata kerap
-    kini: Daftar kata kerap unik
+    en:
+    ms: Daftar kata kerap unik
   sumber:
-    asal: https://github.com/kmubiin/suaikata
-    kini: https://github.com/kmubiin/suaikata
-  bahasa:
-    asal: en
-    kini: ms
+    en:
+    ms: https://github.com/kmubiin/suaikata
   tarikh:
     mula: 2020-03-08
     siap: 2020-04-08
-    lengkap: nil
-  pengusaha:
-    [kmubiin]
+    lengkap:
+  para:
+    fail: [katakerap, kerapu]
+    penerbit: [suaikata]
+    pengusaha: [kmubiin]
   ciri:
-    rasmi: false
+    daftar: true
     makna: true
-    regu: false
+    rasmi: false
     baiki: true
   nota:
     Daftar sumbangan sukarela.
     Disusun mengikut kekerapan, setara dengan yang asal.
     Lema terhad pada 3 aksara atau kurang sahaja.
-
+...
