@@ -1,3 +1,5 @@
+# maklumat meta bagi kajian lema
+---
 -
   id: abstract
   bahasa: en
@@ -5,8 +7,7 @@
     en: abstract
     ms: abstrak
   ciri:
-    pinjam: true
-    daftar: true
+    lema: true
     makna: false
     selisih: true
   nota:
@@ -17,10 +18,9 @@
   bahasa: en
   nama:
     en: charlatan
-    ms: nil
+    ms:
   ciri:
-    pinjam: false
-    daftar: true
+    lema: true
     makna: false
     selisih: true
   nota:
@@ -31,10 +31,9 @@
   bahasa: en
   nama:
     en: didactic
-    ms: nil
+    ms:
   ciri:
-    pinjam: false
-    daftar: true
+    lema: true
     makna: false
     selisih: true
   nota:
@@ -45,10 +44,9 @@
   bahasa: en
   nama:
     en: immutable
-    ms: nil
+    ms:
   ciri:
-    pinjam: false
-    daftar: true
+    lema: true
     makna: false
     selisih: true
   nota:
@@ -59,10 +57,9 @@
   bahasa: en
   nama:
     en: refute
-    ms: nil
+    ms:
   ciri:
-    pinjam: false
-    daftar: true
+    lema: true
     makna: false
     selisih: true
   nota:
@@ -73,10 +70,9 @@
   bahasa: en
   nama:
     en: repudiate
-    ms: nil
+    ms:
   ciri:
-    pinjam: false
-    daftar: true
+    lema: true
     makna: false
     selisih: true
   nota:
@@ -87,10 +83,9 @@
   bahasa: en
   nama:
     en: suspend
-    ms: nil
+    ms:
   ciri:
-    pinjam: false
-    daftar: true
+    lema: true
     makna: false
     selisih: false
   nota:
@@ -100,13 +95,12 @@
   bahasa: ms
   nama:
     sa: nishkala
-    en: nil
+    en:
     ms: niskala
   ciri:
-    pinjam: true
-    daftar: false
+    lema: false
     makna: true
     selisih: false
   nota:
     1 makna dalam daftar PSAT.
-
+...
