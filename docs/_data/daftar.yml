@@ -80,4 +80,52 @@
     Daftar sumbangan sukarela.
     Disusun mengikut kekerapan, setara dengan yang asal.
     Lema terhad pada 3 aksara atau kurang sahaja.
+-
+  id: ms2
+  bahasa: ms
+  nama:
+    ms: Daftar kata dua-huruf Melayu
+  sumber:
+    ms: https://github.com/kmubiin/suaikata
+  tarikh:
+    mula:
+    siap: 2019-04-06
+    lengkap:
+  para:
+    fail: [ms2]
+    penerbit: [suaikata]
+    pengusaha: [kmubiin]
+  ciri:
+    daftar: true
+    makna: false
+    rasmi: true
+    baiki: false
+  nota:
+    Daftar tanpa makna, ada pembayang.
+    Lema terhad pada 2 aksara sahaja.
+-
+  id: en2
+  bahasa: en
+  nama:
+    en: Two-letter English words
+    ms: Daftar kata dua-huruf Inggeris
+  sumber:
+    en: https://github.com/kmubiin/suaikata
+    ms: https://github.com/kmubiin/suaikata
+  tarikh:
+    mula:
+    siap: 2020-04-08
+    lengkap:
+  para:
+    fail: [en2]
+    penerbit: [suaikata]
+    pengusaha: [kmubiin]
+  ciri:
+    daftar: true
+    makna: false
+    rasmi: true
+    baiki: false
+  nota:
+    Daftar tanpa makna, ada pembayang.
+    Lema terhad pada 2 aksara sahaja.
 ...
