@@ -16,6 +16,14 @@ dokumen tidak semestinya ada.
 2018-04-28  
 [Helai daftar beregu](2018/hb.md)
 
+2018-04-30  
+Daftar PSAT telah siap:  
+[Kajian daftar 1](2018/kd1.md)
+
+2018-05-03  
+Daftar kata kerap telah siap:  
+[Kajian daftar 2](2018/kd2.md)
+
 2018-05-09 (UTC)  
 Terbitan 1.0 tersimpan di GitHub
 
@@ -67,6 +75,10 @@ Terbitan 1.4.1 tersalin bagi GitHub Archive Program
 [Rumus gunaan daftar kerapu](2020/rh3.md)  
 [Daftar kerapu ada hasil #N/A](2020/rh3na.md)
 
+2020-04-08  
+Daftar kerapu telah siap:  
+[Kajian daftar 3](2020/kd3.md)
+
 2020-07-30  
 Terbitan 1.4.5 ke 1.6.1 dan tamat siri pertama
 
@@ -92,6 +104,10 @@ Terbitan 2.20.0731 tersimpan di GitHub
 
 2020-08-08  
 [Objek gunaan pertama di laman Jekyll](2020/obj1.md)
+
+2020-09-14  
+Kajian daftar dahulu tersalin di arkib  
+Maklumat meta kajian boleh dicapai melalui `site.data`
 
 > Lagi salinan maklumat bersejarah?
 
