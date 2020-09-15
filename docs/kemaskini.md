@@ -7,12 +7,9 @@ dan tetapan anu 'site' melalui objek YAML di _config.yml
 &#8942; Terbitan {{ site.kini.xyz }} ({{ site.kini.dev }})
 
 <!--cubaan objek Liquid memuat kandungan daripada fail YAML
-yang tersimpan di _data/daftar.yml -->
+yang tersimpan di _data/*.yml -->
 <p style="color:#999999;">Data termuat
-{% if site.data.daftar %}
-<span> {{ site.data.daftar.size }}dt</span>
-{% endif %}
-{% if site.data.lema %}
-<span> {{ site.data.lema.size }}lm</span>
-{% endif %}
+{% if site.data.daftar %} {{ site.data.daftar.size }}d {% endif %}
+{% if site.data.lema %} {{ site.data.lema.size }}m {% endif %}
+{% if site.data.terbit %} {{ site.data.terbit.size }}t {% endif %}
 </p>
