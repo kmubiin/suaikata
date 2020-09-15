@@ -11,5 +11,10 @@ yang tersimpan di _data/*.yml -->
 <p style="color:#999999;">Data termuat
 {% if site.data.daftar %} {{ site.data.daftar.size }}d {% endif %}
 {% if site.data.lema %} {{ site.data.lema.size }}m {% endif %}
-{% if site.data.terbit %} {{ site.data.terbit.size }}t {% endif %}
+{% if site.data.terbit %}
+{% for t in site.data.terbit reversed %}
+ tag terakhir {{ t.tag }} pada {{ t.id }} ({{ t.dev }})
+{% break %}
+{% endfor %}
+{% endif %}
 </p>
