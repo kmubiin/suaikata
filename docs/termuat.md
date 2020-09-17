@@ -17,46 +17,70 @@ site.timezone
 
 site.data
 : bilangan {{ site.data.size }}
-: kandungan {{ site.data }}
+: kandungan adalah satu longgokan data JSON
+(Liquid tidak ada cara `Object.keys()` untuk pulangkan
+senarai mudah data seperti JavaScript)
 
 {% if site.data.terbit %}
-{% for t in site.data.terbit reversed %}
+{% assign t = site.data.terbit.last %}
 
 site.data.terbit
-: bilangan {{ site.data.terbit.size}}
+: bilangan {{ site.data.terbit.size }}
 : terakhir tag {{ t.tag }} commit {{ t.id }} ({{ t.dev }})
 
-{% break %}
-{% endfor %}
 {% endif %}
 
 site.pages
 : bilangan {{ site.pages.size }}
 
+{% if site.html_pages.size > 0 %}
+
 site.html_pages
 : subset site.pages
 : bilangan {{ site.html_pages.size }}
+
+{% endif %}
 
 site.static_files
 : bilangan {{ site.static_files.size }}
 : kandungan {{ site.static_files }}
 
+{% if site.static_files.size > 0 %}
+{% for file in site.static_files %}
+
+- {{ file.path }} {{ file.modified_time }}
+
+{% endfor %}
+{% endif %}
+
+{% if site.html_files.size > 0 %}
+
 site.html_files
 : subset site.static_files
 : bilangan {{ site.html_files.size }}
-: kandungan {{ site.html_files }}
+
+{% endif %}
 
 site.posts
 : bilangan {{ site.posts.size }}
 
+{% if site.related_posts.size > 0 %}
+
 site.related_posts
+: subset atau berkaitan site.posts
 : bilangan {{ site.related_posts.size }}
+
+{% endif %}
 
 site.collections
 : bilangan {{ site.collections.size }}
 : kandungan {{ site.collections }}
 
+{% if site.documents.size > 0 %}
+
 site.documents
 : subset site.collections
 : bilangan {{ site.documents.size }}
+
+{% endif %}
 
