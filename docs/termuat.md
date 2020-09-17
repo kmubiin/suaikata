@@ -43,13 +43,14 @@ site.html_pages
 
 site.static_files
 : bilangan {{ site.static_files.size }}
-: kandungan {{ site.static_files }}
+: kandungan adalah satu longgokan data object berpagar
+(Jekyll ada cara untuk mencapai metadata berikut:
+`file.path`, `file.modified_time`, `file.name`,
+`file.basename`, `file.extname` bagi anu pilihan `file`)
 
 {% if site.static_files.size > 0 %}
 {% for file in site.static_files %}
-
-- {{ file.path }} {{ file.modified_time }}
-
+  {{ file.modified_time }} {{ file.path }}
 {% endfor %}
 {% endif %}
 
