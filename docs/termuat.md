@@ -17,9 +17,15 @@ site.timezone
 
 site.data
 : bilangan {{ site.data.size }}
-: kandungan adalah satu longgokan data JSON
-(Liquid tidak ada cara `Object.keys()` untuk pulangkan
-senarai mudah data seperti JavaScript)
+: kandungan hadir sebagai longgokan data JSON
+
+{% comment %}
+Liquid tiada cara `Object.keys()` sepertimana JavaScript
+ada, untuk pulangkan senarai ringkas data JSON. Untuk
+mengatasi kekurangan ini, gunakan data berformat YAML dan
+pastikan sekurang-kurangnya ada satu anu di aras teratas
+sebelum mengisi blok maklumat lain.
+{% endcomment %}
 
 {% if site.data.size > 0 %}
 {% assign num = 0 %}
@@ -27,13 +33,14 @@ senarai mudah data seperti JavaScript)
 
   {% if data.size > 1 %}
 
-  perihal data {{ data[0] }}
+  perihal data {% increment num %} ({{ data[0] }})
   : {{ data[1].nama }} {{ data[1].bagi.size }}
 
   {% else %}
 
   perihal data {% increment num %}
   : bilangan {{ data.size }}
+  : kandungan {{ data }}
 
   {% endif %}
 
@@ -62,10 +69,14 @@ site.html_pages
 
 site.static_files
 : bilangan {{ site.static_files.size }}
-: kandungan adalah satu longgokan data object berpagar
-(Jekyll ada cara untuk mencapai metadata berikut:
-`file.path`, `file.modified_time`, `file.name`,
-`file.basename`, `file.extname` bagi anu pilihan `file`)
+: kandungan hadir sebagai longgokan data terbina Jekyll
+
+{% comment %}
+Jekyll ada cara untuk mencapai metadata bagi static files
+seperti berikut: `file.path`, `file.modified_time`,
+`file.name`, `file.basename`, `file.extname` bagi `file`
+atau anu pilihan lain.
+{% endcomment %}
 
 {% if site.static_files.size > 0 %}
 {% for file in site.static_files %}
