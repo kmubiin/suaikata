@@ -21,12 +21,22 @@ site.data
 (Liquid tidak ada cara `Object.keys()` untuk pulangkan
 senarai mudah data seperti JavaScript)
 
-site.data | inspect
-: selidik site.data menggunakan filter bagi Jekyll Liquid
-
 {% if site.data.size > 0 %}
+{% assign num = 0 %}
 {% for data in site.data %}
-{{ data.size }} {{ data | inspect }}
+
+  {% if data.size > 1 %}
+
+  perihal data {{ data[0] }}
+  : {{ data[1].nama }} {{ data[1].bagi.size }}
+
+  {% else %}
+
+  perihal data {% increment num %}
+  : bilangan {{ data.size }}
+
+  {% endif %}
+
 {% endfor %}
 {% endif %}
 
