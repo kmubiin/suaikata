@@ -23,13 +23,18 @@ senarai mudah data seperti JavaScript)
 
 site.data | inspect
 : selidik site.data menggunakan filter bagi Jekyll Liquid
-: {{ site.data | inspect }}
+
+{% if site.data.size > 0 %}
+{% for data in site.data %}
+{{ data.size }} {{ data | inspect }}
+{% endfor %}
+{% endif %}
 
 {% if site.data.terbit %}
-{% assign t = site.data.terbit.last %}
+{% assign t = site.data.terbit.bagi.last %}
 
 site.data.terbit
-: bilangan {{ site.data.terbit.size }}
+: bilangan {{ site.data.terbit.bagi.size }}
 : terakhir tag {{ t.tag }} commit {{ t.id }} ({{ t.dev }})
 
 {% endif %}
