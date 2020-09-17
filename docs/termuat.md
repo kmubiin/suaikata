@@ -17,13 +17,14 @@ site.timezone
 
 site.data
 : bilangan {{ site.data.size }}
+: kandungan {{ site.data }}
 
 {% if site.data.terbit %}
 {% for t in site.data.terbit reversed %}
 
 site.data.terbit
 : bilangan {{ site.data.terbit.size}}
-: tag terakhir {{ t.tag }} commit {{ t.id }} ({{ t.dev }})
+: terakhir tag {{ t.tag }} commit {{ t.id }} ({{ t.dev }})
 
 {% break %}
 {% endfor %}
@@ -38,11 +39,12 @@ site.html_pages
 
 site.static_files
 : bilangan {{ site.static_files.size }}
+: kandungan {{ site.static_files }}
 
 site.html_files
 : subset site.static_files
-: bilangan {{ site.static_files.size }}
-: kandungan {{ site.static_files }}
+: bilangan {{ site.html_files.size }}
+: kandungan {{ site.html_files }}
 
 site.posts
 : bilangan {{ site.posts.size }}
