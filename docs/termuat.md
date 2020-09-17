@@ -21,6 +21,10 @@ site.data
 (Liquid tidak ada cara `Object.keys()` untuk pulangkan
 senarai mudah data seperti JavaScript)
 
+site.data | inspect
+: selidik site.data menggunakan filter bagi Jekyll Liquid
+: {{ site.data | inspect }}
+
 {% if site.data.terbit %}
 {% assign t = site.data.terbit.last %}
 
