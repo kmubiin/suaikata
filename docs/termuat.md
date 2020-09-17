@@ -28,10 +28,10 @@ sebelum mengisi blok maklumat lain.
 {% endcomment %}
 
 {% if site.data.size > 0 %}
-{% assign num = 0 %}
+{% increment num %}
 {% for data in site.data %}
 
-  {% if data.size > 1 %}
+  {% if data[1] %}
 
   perihal data {% increment num %} ({{ data[0] }})
   : {{ data[1].nama }} {{ data[1].bagi.size }}
