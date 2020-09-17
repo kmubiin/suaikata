@@ -2,7 +2,7 @@
 asal: docs/
 layout: default
 ---
-{% include_relative kemaskini.md %}
+&#8942; termuat pada [{{ site.time }}](termuat.md)
 
 &nbsp;  
 Projek suaikata ialah projek perkamusan sumber terbuka yang
