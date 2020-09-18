@@ -1,0 +1,9 @@
+# maklumat meta bagi pergunaan blok
+---
+# beberapa pasangan anu dan nilai disimpan dalam satu blok
+# pada aras teratas supaya site.data dapat diuji
+-
+  id: '0x001'
+  num: 1
+  test: true
+...
