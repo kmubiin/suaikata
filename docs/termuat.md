@@ -28,8 +28,7 @@ untuk kandungan data selebihnya.
 {% endcomment %}
 
 {% if site.data.size > 0 %}
-{% assign sdata = site.data | sort_natural %}
-{% for data in sdata %}
+{% for data in site.data %}
 
   {% if data[0] == "terbit" %}
   {% assign t = data[1].last %}
