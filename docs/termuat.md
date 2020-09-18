@@ -31,10 +31,10 @@ untuk kandungan data selebihnya.
 {% for data in site.data %}
 
   {% if data[0] == "terbit" %}
-  {% assign t = data[1].bagi.last %}
+  {% assign t = data[1].last %}
 
   site.data.{{ data[0] }}
-  : bilangan {{ data[1].bagi.size }}
+  : bilangan {{ data[1].size }}
   : terakhir tag {{ t.tag }} commit {{ t.id }} ({{ t.dev }})
 
   {% elsif data[1].size > 1 %}
