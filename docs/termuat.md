@@ -28,21 +28,11 @@ sebelum mengisi blok maklumat lain.
 {% endcomment %}
 
 {% if site.data.size > 0 %}
-{% increment num %}
 {% for data in site.data %}
 
-  {% if data[1] %}
-
-  perihal data {% increment num %} ({{ data[0] }})
-  : {{ data[1].nama }} {{ data[1].bagi.size }}
-
-  {% else %}
-
-  perihal data {% increment num %}
-  : bilangan {{ data.size }}
-  : kandungan {{ data }}
-
-  {% endif %}
+site.data.{{ data[0] }}
+: bilangan {{ data.size }}
+: kandungan {{ data | inspect }}
 
 {% endfor %}
 {% endif %}
