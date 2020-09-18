@@ -21,10 +21,10 @@ site.data
 
 {% comment %}
 Liquid tiada cara `Object.keys()` sepertimana JavaScript
-ada, untuk pulangkan senarai ringkas data JSON. Untuk
-mengatasi kekurangan ini, gunakan data berformat YAML dan
-pastikan sekurang-kurangnya ada satu anu di aras teratas
-sebelum mengisi blok maklumat lain.
+ada, untuk pulangkan senarai ringkas data JSON. Gunakan
+`for data in site.data` untuk memapar data. Capai objek
+`data[0]` untuk senarai ringkas data, dan objek `data[1]`
+untuk kandungan data selebihnya.
 {% endcomment %}
 
 {% if site.data.size > 0 %}
