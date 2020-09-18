@@ -76,11 +76,10 @@ atau anu pilihan lain.
 {% endcomment %}
 
 {% if site.static_files.size > 0 %}
-{% assign ssize = site.static_files.size %}
-{% for n in (1..ssize) %}
+{% for file in site.static_files %}
 
-  site.static_files[{{ n | minus: 1 }}]
-  : {{ site.static_files[{{ n | minus: 1 }}].path }}
+  {{ file.path }}
+  : {{ file.modified_time }} {{ file.name }}
 
 {% endfor %}
 {% endif %}
