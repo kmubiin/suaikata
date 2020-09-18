@@ -76,8 +76,12 @@ atau anu pilihan lain.
 {% endcomment %}
 
 {% if site.static_files.size > 0 %}
-{% for file in site.static_files %}
-  {{ file.modified_time }} {{ file.path }}
+{% assign ssize = site.static_files.size %}
+{% for n in (1..ssize) %}
+
+  site.static_files[{{ n | minus: 1 }}]
+  : {{ site.static_files[{{ n | minus: 1 }}].path }}
+
 {% endfor %}
 {% endif %}
 
