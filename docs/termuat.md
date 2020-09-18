@@ -30,20 +30,26 @@ sebelum mengisi blok maklumat lain.
 {% if site.data.size > 0 %}
 {% for data in site.data %}
 
-site.data.{{ data[0] }}
-: bilangan {{ data.size }}
-: kandungan {{ data | inspect }}
+  {% if data[0] == "terbit" %}
+  {% assign t = data[1].bagi.last %}
+
+  site.data.{{ data[0] }}
+  : bilangan {{ data[1].bagi.size }}
+  : terakhir tag {{ t.tag }} commit {{ t.id }} ({{ t.dev }})
+
+  {% elsif data[1].size > 1 %}
+
+  site.data.{{ data[0] }}
+  : bilangan {{ data[1].size }}
+
+  {% else %}
+
+  site.data.{{ data[0] }}
+  : kandungan {{ data[1] }}
+
+  {% endif %}
 
 {% endfor %}
-{% endif %}
-
-{% if site.data.terbit %}
-{% assign t = site.data.terbit.bagi.last %}
-
-site.data.terbit
-: bilangan {{ site.data.terbit.bagi.size }}
-: terakhir tag {{ t.tag }} commit {{ t.id }} ({{ t.dev }})
-
 {% endif %}
 
 site.pages
