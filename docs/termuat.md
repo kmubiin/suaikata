@@ -28,7 +28,8 @@ untuk kandungan data selebihnya.
 {% endcomment %}
 
 {% if site.data.size > 0 %}
-{% for data in site.data %}
+{% assign sdata = site.data | sort_natural %}
+{% for data in sdata %}
 
   {% if data[0] == "terbit" %}
   {% assign t = data[1].last %}
@@ -45,7 +46,7 @@ untuk kandungan data selebihnya.
   {% else %}
 
   site.data.{{ data[0] }}
-  : kandungan {{ data[1] }}
+  : {{ data[1] }}
 
   {% endif %}
 
