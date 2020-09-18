@@ -37,7 +37,7 @@ untuk kandungan data selebihnya.
   : bilangan {{ data[1].size }}
   : terakhir tag {{ t.tag }} commit {{ t.id }} ({{ t.dev }})
 
-  {% elsif data[1].size > 1 %}
+  {% elsif data[1].size > 2 %}
 
   site.data.{{ data[0] }}
   : bilangan {{ data[1].size }}
