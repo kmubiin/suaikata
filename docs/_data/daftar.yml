@@ -1,135 +1,133 @@
 # maklumat meta bagi kajian daftar
 ---
-nama: daftar.yml
-bagi:
-  -
-    id: psat
-    bahasa: en+ms
-    nama:
-      en: PSAT High Frequency Words
-      ms: Daftar PSAT suaikata
-    sumber:
-      en: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
-      ms: https://github.com/kmubiin/suaikata
-    tarikh:
-      mula: 2018-03-29
-      siap: 2018-04-30
-      lengkap: 2019-04-06
-    para:
-      fail: [psat]
-      penerbit: [archive, cabrinihigh, suaikata]
-      pengusaha: [kmubiin, raafsmakmal]
-    ciri:
-      daftar: true
-      makna: true
-      rasmi: true
-      baiki: false
-    nota:
-      Daftar pertama projek suaikata.
-      Daftar dwibahasa beregu.
-      Lajur terakhir ada dua huruf (A, M, A+, M+) yang
-      merujuk pada nama dua orang pengusaha; simbol adalah
-      tanda pilihan dibuat selepas ada selisih terjemah.
-  -
-    id: katakerap
-    bahasa: en+ms
-    nama:
-      en:
-      ms: Daftar kata kerap
-    sumber:
-      en:
-      ms: https://github.com/kmubiin/suaikata
-    tarikh:
-      mula:
-      siap: 2018-05-03
-      lengkap:
-    para:
-      fail: [katakerap]
-      penerbit: [suaikata]
-      pengusaha: [raafsmakmal]
-    ciri:
-      daftar: true
-      makna: true
-      rasmi: false
-      baiki: false
-    nota:
-      Daftar sumbangan sukarela.
-      Berdasarkan daftar yang tidak dinamakan.
-      Disusun mengikut kekerapan; lagi tinggi kedudukan di
-      senarai, lagi kerap perkataan itu digunakan.
-  -
-    id: kerapu
-    bahasa: en+ms
-    nama:
-      en:
-      ms: Daftar kata kerap unik
-    sumber:
-      en:
-      ms: https://github.com/kmubiin/suaikata
-    tarikh:
-      mula: 2020-03-08
-      siap: 2020-04-08
-      lengkap:
-    para:
-      fail: [katakerap, kerapu]
-      penerbit: [suaikata]
-      pengusaha: [kmubiin]
-    ciri:
-      daftar: true
-      makna: true
-      rasmi: false
-      baiki: true
-    nota:
-      Daftar sumbangan sukarela.
-      Berdasarkan daftar kata kerap dengan pembaikan terhad.
-      Disusun mengikut kekerapan, setara dengan yang asal.
-      Lema terhad pada 3 aksara atau kurang sahaja.
-  -
-    id: ms2
-    bahasa: ms
-    nama:
-      ms: Daftar kata dua-huruf Melayu
-    sumber:
-      ms: https://github.com/kmubiin/suaikata
-    tarikh:
-      mula:
-      siap: 2019-04-06
-      lengkap:
-    para:
-      fail: [ms2]
-      penerbit: [suaikata]
-      pengusaha: [kmubiin]
-    ciri:
-      daftar: true
-      makna: false
-      rasmi: true
-      baiki: false
-    nota:
-      Daftar tanpa makna, ada pembayang bahasa Melayu.
-      Lema Melayu terhad pada 2 aksara sahaja.
-  -
-    id: en2
-    bahasa: en
-    nama:
-      en: Two-letter English words
-      ms: Daftar kata dua-huruf Inggeris
-    sumber:
-      en: https://github.com/kmubiin/suaikata
-      ms: https://github.com/kmubiin/suaikata
-    tarikh:
-      mula:
-      siap: 2020-04-08
-      lengkap:
-    para:
-      fail: [en2]
-      penerbit: [suaikata]
-      pengusaha: [kmubiin]
-    ciri:
-      daftar: true
-      makna: false
-      rasmi: true
-      baiki: false
-    nota:
-      Daftar tanpa makna, ada pembayang bahasa Inggeris.
-      Lema Inggeris terhad pada 2 aksara sahaja.
+-
+  id: psat
+  bahasa: en+ms
+  nama:
+    en: PSAT High Frequency Words
+    ms: Daftar PSAT suaikata
+  sumber:
+    en: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
+    ms: https://github.com/kmubiin/suaikata
+  tarikh:
+    mula: 2018-03-29
+    siap: 2018-04-30
+    lengkap: 2019-04-06
+  para:
+    fail: [psat]
+    penerbit: [archive, cabrinihigh, suaikata]
+    pengusaha: [kmubiin, raafsmakmal]
+  ciri:
+    daftar: true
+    makna: true
+    rasmi: true
+    baiki: false
+  nota:
+    Daftar pertama projek suaikata.
+    Daftar dwibahasa beregu.
+    Lajur terakhir ada dua huruf (A, M, A+, M+) yang
+    merujuk pada nama dua orang pengusaha; simbol adalah
+    tanda pilihan dibuat selepas ada selisih terjemah.
+-
+  id: katakerap
+  bahasa: en+ms
+  nama:
+    en:
+    ms: Daftar kata kerap
+  sumber:
+    en:
+    ms: https://github.com/kmubiin/suaikata
+  tarikh:
+    mula:
+    siap: 2018-05-03
+    lengkap:
+  para:
+    fail: [katakerap]
+    penerbit: [suaikata]
+    pengusaha: [raafsmakmal]
+  ciri:
+    daftar: true
+    makna: true
+    rasmi: false
+    baiki: false
+  nota:
+    Daftar sumbangan sukarela.
+    Berdasarkan daftar yang tidak dinamakan.
+    Disusun mengikut kekerapan; lagi tinggi kedudukan di
+    senarai, lagi kerap perkataan itu digunakan.
+-
+  id: kerapu
+  bahasa: en+ms
+  nama:
+    en:
+    ms: Daftar kata kerap unik
+  sumber:
+    en:
+    ms: https://github.com/kmubiin/suaikata
+  tarikh:
+    mula: 2020-03-08
+    siap: 2020-04-08
+    lengkap:
+  para:
+    fail: [katakerap, kerapu]
+    penerbit: [suaikata]
+    pengusaha: [kmubiin]
+  ciri:
+    daftar: true
+    makna: true
+    rasmi: false
+    baiki: true
+  nota:
+    Daftar sumbangan sukarela.
+    Berdasarkan daftar kata kerap dengan pembaikan terhad.
+    Disusun mengikut kekerapan, setara dengan yang asal.
+    Lema terhad pada 3 aksara atau kurang sahaja.
+-
+  id: ms2
+  bahasa: ms
+  nama:
+    ms: Daftar kata dua-huruf Melayu
+  sumber:
+    ms: https://github.com/kmubiin/suaikata
+  tarikh:
+    mula:
+    siap: 2019-04-06
+    lengkap:
+  para:
+    fail: [ms2]
+    penerbit: [suaikata]
+    pengusaha: [kmubiin]
+  ciri:
+    daftar: true
+    makna: false
+    rasmi: true
+    baiki: false
+  nota:
+    Daftar tanpa makna, ada pembayang bahasa Melayu.
+    Lema Melayu terhad pada 2 aksara sahaja.
+-
+  id: en2
+  bahasa: en
+  nama:
+    en: Two-letter English words
+    ms: Daftar kata dua-huruf Inggeris
+  sumber:
+    en: https://github.com/kmubiin/suaikata
+    ms: https://github.com/kmubiin/suaikata
+  tarikh:
+    mula:
+    siap: 2020-04-08
+    lengkap:
+  para:
+    fail: [en2]
+    penerbit: [suaikata]
+    pengusaha: [kmubiin]
+  ciri:
+    daftar: true
+    makna: false
+    rasmi: true
+    baiki: false
+  nota:
+    Daftar tanpa makna, ada pembayang bahasa Inggeris.
+    Lema Inggeris terhad pada 2 aksara sahaja.
 ...
