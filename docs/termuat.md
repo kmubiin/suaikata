@@ -152,3 +152,21 @@ output size sort:
 {% else %}
 so tidak berhasil
 {% endif %}
+
+Cuba longgok data menjadi senarai objek sebagai string
+seperti `assign b = site.data.b | join: ","`
+
+{% if site.data.b %}
+input size:
+{{ site.data.b }} {{ site.data.b | size }}
+{% else %}
+site.data.b tidak ada
+{% endif %}
+
+{% assign b = site.data.b | join: "," %}
+{% if b %}
+output size:
+{{ b }} {{ b | size }}
+{% else %}
+b tidak berhasil
+{% endif %}
