@@ -154,7 +154,7 @@ so tidak berhasil
 {% endif %}
 
 Cuba longgok data menjadi senarai objek sebagai string
-seperti `assign b = site.data.b | join: ","`
+seperti `assign b = site.data.b | join: ";"`
 
 {% if site.data.b %}
 input size:
@@ -163,7 +163,7 @@ input size:
 site.data.b tidak ada
 {% endif %}
 
-{% assign b = site.data.b | join: "," %}
+{% assign b = site.data.b | join: ";" %}
 {% if b %}
 output size:
 {{ b }} {{ b | size }}
@@ -172,12 +172,16 @@ b tidak berhasil
 {% endif %}
 
 Seterusnya longgok senarai objek b menjadi array
-seperti `assign ba = b | split: ","`
+seperti `assign ba = b | split: ";"` dan harus guna aksara
+selain aksara yang diguna dalam senarai objek tersebut.
 
-{% assign ba = b | split: "," %}
+{% assign ba = b | split: ";" %}
 {% if ba %}
-output size sort:
-{{ ba }} {{ ba | size }} {{ ba | sort }}
+output size:
+{{ ba }} {{ ba | size }}
+
+output sort:
+{{ ba | sort }}
 {% else %}
 ba tidak berhasil
 {% endif %}
