@@ -116,111 +116,149 @@ site.documents
 
 --------- **sempadan kod cubaan bermula** ---------
 
-Longgok site.data:
-
-{{ site.data }}
-
-Cuba longgok string menjadi array
-seperti `assign s = "foo, bar" | split: ", "`
+Cuba longgok string menjadi array?
 
 {% assign s = "foo, bar" | split: ", " %}
+
+raw code:
+
+{% raw %}
+    {% assign s = "foo, bar" | split: ", " %}
+{% endraw %}
+
+output size sort:
+
 {% if s %}
-output size sort:
-{{ s }} {{ s | size }} {{ s | sort }}
+    {{ s }} {{ s | size }} {{ s | sort }}
 {% else %}
-s tidak berhasil
+    s tidak berhasil
 {% endif %}
 
-Cuba longgok objek tanpa tanda petik
-seperti `assign o = {'c','a','b'}`
+Cuba longgok objek tanpa tanda petik?
 
-{% assign o = {'c','a','b'} %}
-{% if o %}
-output size sort:
-{{ o }} {{ o | size }} {{ o | sort }}
-{% else %}
-o tidak berhasil
-{% endif %}
+raw code:
 
-Cuba longgok senarai objek sebagai string menjadi array
-seperti `assign so = "{'foo'=>'x'},{'bar'=>nil}" | split: ","`
+{% raw %}
+    {% assign o = {'c','a','b'} %}
+{% endraw %}
+
+output:
+
+{% raw %}
+    Liquid Warning: Liquid syntax error (line 126):
+    Unexpected character { in "{{{'c','a','b'} }}" ...
+{% endraw %}
+
+Jadi, ternyata Liquid tidak boleh mencipta anu dengan objek
+dan tidak berhasil juga seperti array.
+
+Cuba longgok senarai objek sebagai string menjadi array?
 
 {% assign so = "{'foo'=>'x'},{'bar'=>nil}" | split: "," %}
-{% if so %}
+
+raw code:
+
+{% raw %}
+    {% assign so = "{'foo'=>'x'},{'bar'=>nil}" | split: "," %}
+{% endraw %}
+
 output size sort:
-{{ so }} {{ so | size }} {{ so | sort }}
+
+{% if so %}
+    {{ so }} {{ so | size }} {{ so | sort }}
 {% else %}
-so tidak berhasil
+    so tidak berhasil
 {% endif %}
 
-Cuba longgok data menjadi senarai objek sebagai string
-seperti `assign b = site.data.b | join: ";;"` dan pastikan
-aksara pilihan bagi split dan join tidak diguna dalam string
-tersebut. Boleh cuba dengan satu atau dua aksara.
+Cuba longgok data menjadi senarai objek sebagai string?
+Pastikan aksara pilihan bagi split dan join tidak diguna
+dalam string tersebut. Cuba dengan satu atau dua aksara.
+
+input:
 
 {% if site.data.b %}
-input size:
-{{ site.data.b }} {{ site.data.b | size }}
+    {{ site.data.b }}
+    {% assign b = site.data.b | join: ";;" %}
 {% else %}
-site.data.b tidak ada
+    tiada data
 {% endif %}
 
-{% assign b = site.data.b | join: ";;" %}
-{% if b %}
+raw code:
+
+{% raw %}
+    {% assign b = site.data.b | join: ";;" %}
+{% endraw %}
+
 output string size:
-{{ b }} {{ b | size }}
+
+{% if b %}
+    {{ b }} {{ b | size }}
 {% else %}
-b tidak berhasil
+    b tidak berhasil
 {% endif %}
 
-Seterusnya longgok senarai objek b menjadi array
-seperti `assign ba = b | split: ";;"` dan harus guna aksara
-selain aksara yang diguna dalam senarai objek tersebut.
+Seterusnya longgok senarai objek b menjadi array dan guna
+aksara selain yang diguna dalam senarai objek tersebut.
 
 {% assign ba = b | split: ";;" %}
-{% if ba %}
-output array size:
-{{ ba }} {{ ba | size }}
 
-output array sort:
-{{ ba | sort }}
+raw code:
+
+{% raw %}
+    {% assign ba = b | split: ";;" %}
+{% endraw %}
+
+output array size sort:
+
+{% if ba %}
+    {{ ba }} {{ ba | size }}
+    {{ ba | sort }}
 {% else %}
-ba tidak berhasil
+    ba tidak berhasil
 {% endif %}
 
 Akhirnya array ba boleh dipapar seperti site.data.b yang
 asal. Beza antara dua data tersebut adalah ba boleh disusun,
 dan ba mengandungi string dan bukan objek seperti asal.
 
-output asal:
+{% assign asal = site.data.b %}
+{% assign baru = ba | sort %}
 
 {% comment %}
-Kod `assign asal = site.data.b | sort` mungkin tidak sah
-kerana tidak sesuai dengan ciri data? Rasanya `site.data.b`
-adalah objek dan bukan array. Juga mungkin punca github
-pages gagal bina laman (a8d487e). Tiada maklumat lanjut.
+Kod `site.data.b | sort` mungkin sekali tidak sah kerana
+data adalah objek dan bukan array. Juga disyaki punca github
+pages gagal bina laman (a8d487e). Tiada petunjuk lain.
 {% endcomment %}
 
-{% assign asal = site.data.b %}
+raw code:
+
+{% raw %}
+    {% assign asal = site.data.b %}
+    {% assign baru = ba | sort %}
+{% endraw %}
+
+output asal:
+
 {% if asal %}
 {% for a1 in asal %}
-{{ a1 }} {{ a1 | size }}
+    {{ a1 }} {{ a1 | size }}
 {% endfor %}
 {% endif %}
 
 output baru:
 
-{% assign baru = ba | sort %}
 {% if baru %}
 {% for a2 in baru %}
-{{ a2 }} {{ a2 | size }}
+    {{ a2 }} {{ a2 | size }}
 {% endfor %}
 {% endif %}
 
-Atau papar terus dengan index array:
+output index `asal[0] asal[1]`:
 
-output index `asal[0]`: {{ asal[0] }}  
-output index `baru[0]`: {{ baru[0] }}
+    {{ asal[0] }}
+    {{ asal[1] }}
 
-output index `asal[1]`: {{ asal[1] }}  
-output index `baru[1]`: {{ baru[1] }}
+output index `baru[0] baru[1]`:
+
+    {{ baru[0] }}
+    {{ baru[1] }}
