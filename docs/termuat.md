@@ -167,7 +167,7 @@ site.data.b tidak ada
 
 {% assign b = site.data.b | join: ";;" %}
 {% if b %}
-output size:
+output string size:
 {{ b }} {{ b | size }}
 {% else %}
 b tidak berhasil
@@ -179,11 +179,24 @@ selain aksara yang diguna dalam senarai objek tersebut.
 
 {% assign ba = b | split: ";;" %}
 {% if ba %}
-output size:
+output array size:
 {{ ba }} {{ ba | size }}
 
-output sort:
+output array sort:
 {{ ba | sort }}
 {% else %}
 ba tidak berhasil
 {% endif %}
+
+Akhirnya array ba boleh dipapar seperti site.data.b, beza
+antara dua data tersebut adalah ba disusun terlebih dahulu.
+
+{% for a in ba %}
+{{ a }} {{ a | size }}
+{% endfor %}
+
+Atau papar terus dengan index array:
+
+output `ba[0]`: {{ ba[0] }}
+
+output `ba[1]`: {{ ba[1] }}
