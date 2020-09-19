@@ -114,3 +114,14 @@ site.documents
 
 {% endif %}
 
+--------- **sempadan kod cubaan bermula** ---------
+
+Longgok site.data:
+
+{{ site.data }}
+
+Cuba longgok site.data menjadi array:
+
+{% assign arraydata = site.data | split: "," %}
+{{ arraydata }}
+
