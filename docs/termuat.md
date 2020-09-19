@@ -123,19 +123,13 @@ Longgok site.data:
 Cuba longgok string atau objek menjadi array:
 
 {% assign x = "foo, bar" | split: ", " %}
-{% raw %}
-tag: assign x = "foo, bar" | split: ", "
-(% endraw %)
+tag: `assign x = "foo, bar" | split: ", "`
 {{ x }}
 
 {% assign y = "{'one','two'}" | split: "," %}
-{% raw %}
-tag: assign y = "{'one','two'}" | split: ","
-(% endraw %)
+tag: `assign y = "{'one','two'}" | split: ","`
 {{ y }}
 
 {% assign z = "{'foo'=>['one','two']}" | split: "=>" %}
-{% raw %}
-tag: assign z = "{'foo'=>['one','two']}" | split: "=>"
-(% endraw %)
+tag: `assign z = "{'foo'=>['one','two']}" | split: "=>"`
 {{ z }}
