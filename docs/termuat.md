@@ -170,3 +170,14 @@ output size:
 {% else %}
 b tidak berhasil
 {% endif %}
+
+Seterusnya longgok senarai objek b menjadi array
+seperti `assign ba = b | split: ","`
+
+{% assign ba = b | split: "," %}
+{% if ba %}
+output size sort:
+{{ ba }} {{ ba | size }} {{ ba | sort }}
+{% else %}
+ba tidak berhasil
+{% endif %}
