@@ -120,25 +120,24 @@ Longgok site.data:
 
 {{ site.data }}
 
-Cuba longgok string atau objek menjadi array:
+Cuba longgok string menjadi array
+seperti `assign s = "foo, bar" | split: ", "`
 
-{% assign x = "foo, bar" | split: ", " %}
-tag: `assign x = "foo, bar" | split: ", "`
+{% assign s = "foo, bar" | split: ", " %}
+{% if s %}
+output size sort:
+{{ s }} {{ s | size }} {{ s | sort }}
+{% else %}
+s tidak berhasil
+{% endif %}
 
-{{ x }}
+Cuba longgok objek tanpa tanda petik
+seperti `assign o = {'c','a','b'}`
 
-sort: {{ x | sort }}
-
-{% assign y = "{'c','a','b'}" | split: "," %}
-tag: `assign y = "{'c','a','b'}" | split: ","`
-
-{{ y }}
-
-sort: {{ y | sort }}
-
-{% assign z = "{'foo'=>['a','b'],'bar'=>['c']}" | split: "," %}
-tag: `assign z = "{'foo'=>['a','b'],'bar'=>['c']}" | split: "=>"`
-
-{{ z }}
-
-sort: {{ z | sort }}
+{% assign o = {'c','a','b'} %}
+{% if o %}
+output size sort:
+{{ o }} {{ o | size }} {{ o | sort }}
+{% else %}
+o tidak berhasil
+{% endif %}
