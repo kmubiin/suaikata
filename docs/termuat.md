@@ -120,8 +120,22 @@ Longgok site.data:
 
 {{ site.data }}
 
-Cuba longgok site.data menjadi array:
+Cuba longgok string atau objek menjadi array:
 
-{% assign arraydata = site.data | split: "," %}
-{{ arraydata }}
+{% assign x = "foo, bar" | split: ", " %}
+{% raw %}
+{% assign x = "foo, bar" | split: ", " %}
+(% endraw %)
+{{ x }}
 
+{% assign y = "{'one','two'}" | split: "," %}
+{% raw %}
+{% assign y = "{'one','two'}" | split: "," %}
+(% endraw %)
+{{ y }}
+
+{% assign z = "{'foo'=>['one','two']}" | split: "=>" %}
+{% raw %}
+{% assign z = "{'foo'=>['one','two']}" | split: "=>" %}
+(% endraw %)
+{{ z }}
