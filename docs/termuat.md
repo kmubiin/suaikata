@@ -188,25 +188,32 @@ output array sort:
 ba tidak berhasil
 {% endif %}
 
-Akhirnya array ba boleh dipapar seperti site.data.b, beza
-antara dua data tersebut adalah ba disusun terlebih dahulu.
+Akhirnya array ba boleh dipapar seperti site.data.b yang
+asal. Beza antara dua data tersebut adalah ba boleh disusun,
+dan ba mengandungi string dan bukan objek seperti asal.
 
-output for site.data.b:
+output asal:
 
-{% for a1 in site.data.b %}
+{% assign asal = site.data.b | sort %}
+{% if asal %}
+{% for a1 in asal %}
 {{ a1 }} {{ a1 | size }}
 {% endfor %}
+{% endif %}
 
-output for ba:
+output baru:
 
-{% for a2 in ba %}
+{% assign baru = ba | sort %}
+{% if baru %}
+{% for a2 in baru %}
 {{ a2 }} {{ a2 | size }}
 {% endfor %}
+{% endif %}
 
 Atau papar terus dengan index array:
 
-output index `site.data.b[0]`: {{ site.data.b[0] }}  
-output index `ba[0]`: {{ ba[0] }}
+output index `asal[0]`: {{ asal[0] }}  
+output index `baru[0]`: {{ baru[0] }}
 
-output index `site.data.b[1]`: {{ site.data.b[1] }}  
-output index `ba[1]`: {{ ba[1] }}
+output index `asal[1]`: {{ asal[1] }}  
+output index `baru[1]`: {{ baru[1] }}
