@@ -124,12 +124,21 @@ Cuba longgok string atau objek menjadi array:
 
 {% assign x = "foo, bar" | split: ", " %}
 tag: `assign x = "foo, bar" | split: ", "`
+
 {{ x }}
 
-{% assign y = "{'one','two'}" | split: "," %}
-tag: `assign y = "{'one','two'}" | split: ","`
+sort: {{ x | sort }}
+
+{% assign y = "{'c','a','b'}" | split: "," %}
+tag: `assign y = "{'c','a','b'}" | split: ","`
+
 {{ y }}
 
-{% assign z = "{'foo'=>['one','two']}" | split: "=>" %}
-tag: `assign z = "{'foo'=>['one','two']}" | split: "=>"`
+sort: {{ y | sort }}
+
+{% assign z = "{'foo'=>['a','b'],'bar'=>['c']}" | split: "," %}
+tag: `assign z = "{'foo'=>['a','b'],'bar'=>['c']}" | split: "=>"`
+
 {{ z }}
+
+sort: {{ z | sort }}
