@@ -194,7 +194,14 @@ dan ba mengandungi string dan bukan objek seperti asal.
 
 output asal:
 
-{% assign asal = site.data.b | sort %}
+{% comment %}
+Kod `assign asal = site.data.b | sort` mungkin tidak sah
+kerana tidak sesuai dengan ciri data? Rasanya `site.data.b`
+adalah objek dan bukan array. Juga mungkin punca github
+pages gagal bina laman (a8d487e). Tiada maklumat lanjut.
+{% endcomment %}
+
+{% assign asal = site.data.b %}
 {% if asal %}
 {% for a1 in asal %}
 {{ a1 }} {{ a1 | size }}
