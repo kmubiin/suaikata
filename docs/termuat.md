@@ -191,12 +191,22 @@ ba tidak berhasil
 Akhirnya array ba boleh dipapar seperti site.data.b, beza
 antara dua data tersebut adalah ba disusun terlebih dahulu.
 
-{% for a in ba %}
-{{ a }} {{ a | size }}
+output for site.data.b:
+
+{% for a1 in site.data.b %}
+{{ a1 }} {{ a1 | size }}
+{% endfor %}
+
+output for ba:
+
+{% for a2 in ba %}
+{{ a2 }} {{ a2 | size }}
 {% endfor %}
 
 Atau papar terus dengan index array:
 
-output `ba[0]`: {{ ba[0] }}
+output index `site.data.b[0]`: {{ site.data.b[0] }}  
+output index `ba[0]`: {{ ba[0] }}
 
-output `ba[1]`: {{ ba[1] }}
+output index `site.data.b[1]`: {{ site.data.b[1] }}  
+output index `ba[1]`: {{ ba[1] }}
