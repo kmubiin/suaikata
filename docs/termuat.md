@@ -141,3 +141,14 @@ output size sort:
 {% else %}
 o tidak berhasil
 {% endif %}
+
+Cuba longgok senarai objek sebagai string menjadi array
+seperti `assign so = "{'foo'=>'x'},{'bar'=>nil}" | split: ","`
+
+{% assign so = "{'foo'=>'x'},{'bar'=>nil}" | split: "," %}
+{% if so %}
+output size sort:
+{{ so }} {{ so | size }} {{ so | sort }}
+{% else %}
+so tidak berhasil
+{% endif %}
