@@ -1,170 +1,170 @@
 # maklumat meta bagi terbitan
 ---
 -
-  id: '7e5cf23'  # git log --oneline <tag> | cut -c -7
-  tag: '0.0'     # tag rujukan atau nama terbitan ini
-  col: 1         # git rev-list <tag> --count
-  dev: null      # peringkat pembangunan terbitan ini
-  poi: false     # tanda untuk terbitan jangka panjang
-  gap: false     # hadir dalam GitHub Archive Program
+  tag: '0.0'      # tag rujukan atau nama terbitan ini
+  tid: '7e5cf23'  # git log --abbrev-commit <tag>
+  tcc: 1          # git rev-list --count <tag>
+  dev: null       # peringkat pembangunan terbitan ini
+  poi: false      # tanda untuk terbitan jangka panjang
+  gap: false      # hadir dalam GitHub Archive Program
 -
-  id: '1e9baa9'
   tag: '1.0'
-  col: 100
+  tid: '1e9baa9'
+  tcc: 100
   dev:
   poi: true
   gap: false
 -
-  id: 'f91258d'
   tag: '1.1.0'
-  col: 123
+  tid: 'f91258d'
+  tcc: 123
   dev:
   poi: false
   gap: false
 -
-  id: '212ce76'
   tag: '1.2.0'
-  col: 158
+  tid: '212ce76'
+  tcc: 158
   dev:
   poi: false
   gap: false
 -
-  id: 'c2065d5'
   tag: '1.2.1'
-  col: 163
+  tid: 'c2065d5'
+  tcc: 163
   dev:
   poi: false
   gap: false
 -
-  id: 'a502cc9'
   tag: '1.2.2'
-  col: 165
+  tid: 'a502cc9'
+  tcc: 165
   dev:
   poi: false
   gap: false
 -
-  id: '62452cb'
   tag: '1.2.3'
-  col: 169
+  tid: '62452cb'
+  tcc: 169
   dev:
   poi: false
   gap: false
 -
-  id: '972d2b2'
   tag: '1.2.4'
-  col: 173
+  tid: '972d2b2'
+  tcc: 173
   dev:
   poi: false
   gap: false
 -
-  id: 'e338b3a'
   tag: '1.3.0'
-  col: 226
+  tid: 'e338b3a'
+  tcc: 226
   dev:
   poi: false
   gap: false
 -
-  id: '96209f2'
   tag: '1.3.1'
-  col: 242
+  tid: '96209f2'
+  tcc: 242
   dev:
   poi: false
   gap: false
 -
-  id: '56acd86'
   tag: '1.3.2'
-  col: 250
+  tid: '56acd86'
+  tcc: 250
   dev:
   poi: false
   gap: false
 -
-  id: 'ffd5ad0'
   tag: '1.4.0'
-  col: 322
+  tid: 'ffd5ad0'
+  tcc: 322
   dev:
   poi: false
   gap: false
 -
-  id: 'd0b30e2'
   tag: '1.4.1'
-  col: 343
+  tid: 'd0b30e2'
+  tcc: 343
   dev: alfa  # mula menyata peringkat pembangunan
   poi: true  # mula menanda terbitan jangka panjang
   gap: true  # mula tersimpan kerana ada 1 star
 -
-  id: '92a8c33'
   tag: '1.4.5'
-  col: 372
+  tid: '92a8c33'
+  tcc: 372
   dev: alfa
   poi: false
   gap: false
 -
-  id: 'bd5f4b0'
   tag: '1.4.6'
-  col: 379
+  tid: 'bd5f4b0'
+  tcc: 379
   dev: alfa
   poi: false
   gap: false
 -
-  id: 'b9355d2'
   tag: '1.5.0'
-  col: 398
+  tid: 'b9355d2'
+  tcc: 398
   dev: alfa
   poi: false
   gap: false
 -
-  id: '31312ee'
   tag: '1.5.1'
-  col: 410
+  tid: '31312ee'
+  tcc: 410
   dev: alfa
   poi: false
   gap: false
 -
-  id: '9e7f42b'
   tag: '1.5.2'
-  col: 421
+  tid: '9e7f42b'
+  tcc: 421
   dev: alfa
   poi: false
   gap: false
 -
-  id: '23ab687'
   tag: '1.5.5'
-  col: 448
+  tid: '23ab687'
+  tcc: 448
   dev: alfa
   poi: false
   gap: false
 -
-  id: '53197e1'  # awas! ini adalah string dan bukan float
   tag: '1.5.6'
-  col: 461
+  tid: '53197e1'  # awas! ini adalah string dan bukan float
+  tcc: 461
   dev: alfa
   poi: false
   gap: false
 -
-  id: 'ce094d2'
   tag: '1.5.7'
-  col: 474
+  tid: 'ce094d2'
+  tcc: 474
   dev: alfa
   poi: false
   gap: false
 -
-  id: '3b796fb'
   tag: '1.6.0'
-  col: 494
+  tid: '3b796fb'
+  tcc: 494
   dev: alfa
   poi: false
   gap: false
 -
-  id: 'e0a1fa2'
   tag: '1.6.1'
-  col: 500
+  tid: 'e0a1fa2'
+  tcc: 500
   dev: alfa
   poi: false
   gap: false
 -
-  id: '527ac21'
   tag: '2.20.0731'  # mula siri kedua N.YY.MMDD
-  col: 501
+  tid: '527ac21'
+  tcc: 501
   dev: alfa
   poi: true         # ambil alih tanda dari 1.6.1
   gap: false
