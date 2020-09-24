@@ -1,0 +1,102 @@
+# maklumat meta bagi perisian berperanan
+---
+-
+  t: Git                   # nama perisian
+  u: https://git-scm.com/  # alamat web rasmi atau sumber
+  v:  # huraian tentang perisian
+    Git (git) boleh digunakan untuk membuat kemas kini pada
+    laman sumber seperti GitHub melalui garis perintah.
+    Kemas kini boleh dilakukan di luar talian terlebih
+    dahulu sebelum menghantar kemas kini ke laman sumber
+    dalam talian.
+-
+  t: Google Sheets
+  u: https://docs.google.com/spreadsheets/
+  v:
+    Google Sheets mempunyai fungsi sunting bersama dalam
+    talian dan ini membolehkan dua orang pengguna mencapai
+    satu helaian rebak pada masa yang sama. Projek suaikata
+    telah menyiapkan daftar kata pertama secara beregu
+    menggunakan Google Sheets.
+-
+  t: LibreOffice Calc
+  u: https://www.libreoffice.org/
+  v:
+    LibreOffice Calc boleh membaca helaian rebak dalam
+    format asal seperti ODS dan XLS dan juga format mudah
+    alih seperti CSV di luar talian. Calc adalah sebahagian
+    daripada perisian lengkap LibreOffice.
+-
+  t: Mozilla Firefox
+  u: https://www.mozilla.org/en-US/firefox/
+  v:
+    Mozilla Firefox boleh digunakan sebagai pelayar web dan
+    juga pemapar fail Markdown, dengan bantuan Firefox
+    Add-ons atau perisian tambahan lain. Lihat juga
+    "Markdown Viewer Webext" atau "simple markdown surfer".
+-
+  t: Markdown Viewer Webext
+  u: https://github.com/KeithLRobertson/markdown-viewer
+  v:
+    Markdown Viewer Webext boleh dipasang pada pelayar web
+    Mozilla Firefox melalui Firefox Add-ons. Perisian ini
+    membolehkan fail Markdown dipapar ala HTML dan GitHub di
+    luar talian. Perisian ini adalah sumber terbuka yang
+    dibawakan oleh Keith L Robertson.
+-
+  t: Side View
+  u: https://github.com/mozilla/side-view/
+  v:
+    Side View boleh dipasang pada pelayar web Mozilla
+    Firefox melalui Firefox Add-ons. Perisian ini
+    membolehkan laman web dipapar di bar sisi bagi menguji
+    paparan jenis mudah alih. Perisian ini adalah sumber
+    terbuka yang dibawakan oleh Mozilla, pembangun pelayar
+    web Mozilla Firefox.
+-
+  t: simple markdown surfer
+  u: https://github.com/oxalorg/smurf
+  v:
+    simple markdown surfer (smurf) boleh memaparkan fail
+    Markdown melalui pelayar web. Perisian ini bergantung
+    pada Python 3 dan satu perisian tambahan (pandoc atau
+    markdown2). Hanya satu skrip Python untuk fungsi asas,
+    dan satu fail tambahan CSS untuk menghias paparan. Lihat
+    juga "Pandoc".
+-
+  t: Pandoc
+  u: https://pandoc.org/
+  v:
+    Pandoc (pandoc) boleh menukarkan sesuatu fail antara
+    pelbagai markup format, termasuk Markdown dan HTML.
+    Perisian ini digunakan sama ada melalui garis perintah
+    atau bersama perisian lain.
+-
+  t: GNU core utilities
+  u: http://www.gnu.org/software/coreutils/
+  v:
+    GNU core utilities (coreutils) terdiri daripada pelbagai
+    perkakasan asas yang lazim bagi sistem operasi ala Unix.
+    Projek suaikata kerap menggunakan beberapa perkakasan
+    tersebut seperti `head`, `sort`, `tail`, `wc` untuk
+    meneliti daftar kata melalui garis perintah.
+-
+  t: GNU Grep
+  u: http://www.gnu.org/software/grep/
+  v:
+    GNU Grep (grep) boleh digunakan untuk mencari baris yang
+    mengandungi padanan mengikut ciri tertentu. Perkakas ini
+    mempunyai kawalan tambahan untuk mengira bilangan
+    padanan atau perkataan umpama GNU core utilities.
+-
+  t: GNU sed
+  u: https://www.gnu.org/software/sed/
+  v:
+    GNU sed (sed) boleh digunakan untuk menapis dan
+    menyunting teks biasa melalui garis perintah. Perkakas
+    ini memudahkan penggantian perkataan sama seperti fungsi
+    "cari dan ganti" dalam perisian lazim. Lagi, perkakas
+    ini boleh menambah atau membuang baris mengikut
+    kedudukan baris dalam teks biasa umpama baris dalam
+    helaian rebak.
+...
