@@ -123,7 +123,8 @@
   e: gabung dahan 1.4.1-kan
   f: '1.4.1'
   g:  # git diff --stat 58628bd d250f16
-    Ternyata projek ini berperingkat Alfa.
+    Mula menyata peringkat pembangunan (Alfa).
+    Terbitan jangka panjang ke-2 selepas 1.0.
     Daftar berpindah kelas (regu => eka,dwi).
     Selesai kelas daftar terkumpul (#29).
     Selesai susunan bermakna di arkib (#30).
@@ -271,6 +272,7 @@
   e: kemaskan sekaligus bagi terbitan 2.20.0731
   f: '2.20.0731'
   g:  # git diff --stat e0a1fa2 527ac21
+    Terbitan jangka panjang ke-3 selepas 1.4.1.
     Perubahan pada nama terbitan baharu.
     Nama semantik X.Y.Z tetap dicontohi.
     Sebelum ini, terbitan asal X.Y dan imbuh X.Y.Z.
