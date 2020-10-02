@@ -2,5 +2,5 @@
 ---
 # pasangan anu dan nilai pada aras teratas sahaja
 # supaya site.data dalam bentuk termudah dapat diuji
-language: ms
+lang: ms  # anu bahasa ialah 'lang' dan bukan 'language'
 ...
