@@ -2,7 +2,7 @@
 ---
 -
   id: psat
-  bahasa: en+ms
+  lang: en+ms
   nama:
     en: PSAT High Frequency Words
     ms: Daftar PSAT suaikata
@@ -30,7 +30,7 @@
     tanda pilihan dibuat selepas ada selisih terjemah.
 -
   id: katakerap
-  bahasa: en+ms
+  lang: en+ms
   nama:
     en:
     ms: Daftar kata kerap
@@ -57,7 +57,7 @@
     senarai, lagi kerap perkataan itu digunakan.
 -
   id: kerapu
-  bahasa: en+ms
+  lang: en+ms
   nama:
     en:
     ms: Daftar kata kerap unik
@@ -84,7 +84,7 @@
     Lema terhad pada 3 aksara atau kurang sahaja.
 -
   id: ms2
-  bahasa: ms
+  lang: ms
   nama:
     ms: Daftar kata dua-huruf Melayu
   sumber:
@@ -107,7 +107,7 @@
     Lema Melayu terhad pada 2 aksara sahaja.
 -
   id: en2
-  bahasa: en
+  lang: en
   nama:
     en: Two-letter English words
     ms: Daftar kata dua-huruf Inggeris

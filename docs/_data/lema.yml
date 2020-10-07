@@ -2,7 +2,7 @@
 ---
 -
   id: abstract
-  bahasa: en
+  lang: en
   nama:
     en: abstract
     ms: abstrak
@@ -16,7 +16,7 @@
     Bahas antara nyata dan zahir.
 -
   id: charlatan
-  bahasa: en
+  lang: en
   nama:
     en: charlatan
     ms:
@@ -30,7 +30,7 @@
     Bahas antara penyemu dan penipu.
 -
   id: didactic
-  bahasa: en
+  lang: en
   nama:
     en: didactic
     ms:
@@ -44,7 +44,7 @@
     Bahas antara mengajar dan bersyarah.
 -
   id: immutable
-  bahasa: en
+  lang: en
   nama:
     en: immutable
     ms:
@@ -58,7 +58,7 @@
     Bahas antara tak terubah/berubah dan nyahubah.
 -
   id: refute
-  bahasa: en
+  lang: en
   nama:
     en: refute
     ms:
@@ -72,7 +72,7 @@
     Bahas antara membuktikan tidak benar dan membantah.
 -
   id: repudiate
-  bahasa: en
+  lang: en
   nama:
     en: repudiate
     ms:
@@ -87,7 +87,7 @@
     Boleh keliru dengan refute(1).
 -
   id: suspend
-  bahasa: en
+  lang: en
   nama:
     en: suspend
     ms:
@@ -101,7 +101,7 @@
     Bahas terjemah tepat tangguh atau tidurkan.
 -
   id: niskala
-  bahasa: ms
+  lang: ms
   nama:
     sa: nishkala
     en:
