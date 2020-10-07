@@ -7,8 +7,7 @@
     en: PSAT High Frequency Words
     ms: Daftar PSAT suaikata
   sumber:  # sumber asal daftar ini jika ada
-    en: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
-    ms: https://github.com/kmubiin/suaikata
+    https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
   tarikh:  # tarikh usaha daftar ini jika ada
     mula: 2018-03-29
     siap: 2018-04-30
@@ -35,8 +34,6 @@
     en:
     ms: Daftar kata kerap
   sumber:
-    en:
-    ms: https://github.com/kmubiin/suaikata
   tarikh:
     mula:
     siap: 2018-05-03
@@ -62,8 +59,6 @@
     en:
     ms: Daftar kata kerap unik
   sumber:
-    en:
-    ms: https://github.com/kmubiin/suaikata
   tarikh:
     mula: 2020-03-08
     siap: 2020-04-08
@@ -88,7 +83,6 @@
   nama:
     ms: Daftar kata dua-huruf Melayu
   sumber:
-    ms: https://github.com/kmubiin/suaikata
   tarikh:
     mula:
     siap: 2019-04-06
@@ -112,8 +106,6 @@
     en: Two-letter English words
     ms: Daftar kata dua-huruf Inggeris
   sumber:
-    en: https://github.com/kmubiin/suaikata
-    ms: https://github.com/kmubiin/suaikata
   tarikh:
     mula:
     siap: 2020-04-08
