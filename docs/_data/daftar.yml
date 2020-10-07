@@ -1,28 +1,28 @@
 # maklumat meta bagi kajian daftar
 ---
 -
-  id: psat
-  lang: en+ms
-  nama:
+  id: psat     # nama daftar ini
+  lang: en+ms  # bahasa pengantar daftar ini
+  nama:  # nama daftar dalam bahasa asal dan lain jika ada
     en: PSAT High Frequency Words
     ms: Daftar PSAT suaikata
-  sumber:
+  sumber:  # sumber asal daftar ini jika ada
     en: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
     ms: https://github.com/kmubiin/suaikata
-  tarikh:
+  tarikh:  # tarikh usaha daftar ini jika ada
     mula: 2018-03-29
     siap: 2018-04-30
     lengkap: 2019-04-06
-  para:
+  para:  # maklumat berkaitan dalam senarai
     fail: [psat]
     penerbit: [archive, cabrinihigh, suaikata]
     pengusaha: [kmubiin, raafsmakmal]
-  ciri:
-    daftar: true
-    makna: true
-    rasmi: true
-    baiki: false
-  nota:
+  ciri:  # ciri daftar yang hadir
+    daftar: true  # ada fail daftar
+    makna: true   # ada lajur makna atau terjemah
+    rasmi: true   # usaha mengikut rancangan
+    baiki: false  # usaha memperbaik daftar terdahulu
+  nota:  # maklumat tambahan bagi daftar ini
     Daftar pertama projek suaikata.
     Daftar dwibahasa beregu.
     Lajur terakhir ada dua huruf (A, M, A+, M+) yang
