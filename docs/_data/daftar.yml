@@ -4,6 +4,7 @@
   id: psat     # nama daftar ini
   lang: en+ms  # bahasa pengantar daftar ini
   nama:  # nama daftar dalam bahasa asal dan lain jika ada
+    c: kata kerap PSAT  # nama umum untuk rujukan lalai
     en: PSAT High Frequency Words
     ms: Daftar PSAT suaikata
   sumber:  # sumber asal daftar ini jika ada
@@ -31,8 +32,7 @@
   id: katakerap
   lang: en+ms
   nama:
-    en:
-    ms: Daftar kata kerap
+    c: kata kerap
   sumber:
   tarikh:
     mula:
@@ -56,8 +56,7 @@
   id: kerapu
   lang: en+ms
   nama:
-    en:
-    ms: Daftar kata kerap unik
+    c: kata kerap unik
   sumber:
   tarikh:
     mula: 2020-03-08
@@ -81,7 +80,7 @@
   id: ms2
   lang: ms
   nama:
-    ms: Daftar kata dua-huruf Melayu
+    c: kata dua-huruf Melayu
   sumber:
   tarikh:
     mula:
@@ -103,8 +102,7 @@
   id: en2
   lang: en
   nama:
-    en: Two-letter English words
-    ms: Daftar kata dua-huruf Inggeris
+    c: kata dua-huruf Inggeris
   sumber:
   tarikh:
     mula:
