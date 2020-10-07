@@ -1,16 +1,16 @@
 # maklumat meta bagi kajian lema
 ---
 -
-  id: abstract
-  lang: en
-  nama:
+  id: abstract  # nama lema ini
+  lang: en      # bahasa lema ini
+  nama:  # nama lema dalam bahasa asal dan lain jika ada
     en: abstract
     ms: abstrak
-  ciri:
-    lema: true
-    makna: false
-    selisih: true
-  nota:
+  ciri:  # ciri lema yang hadir dalam daftar
+    lema: true     # ada di lajur lema
+    makna: false   # ada di lajur makna
+    selisih: true  # pernah ada selisih terjemah
+  nota:  # maklumat tambahan bagi lema ini
     4 lema dalam daftar PSAT.
     Pernah selisih terjemah abstract(1).
     Bahas antara nyata dan zahir.
