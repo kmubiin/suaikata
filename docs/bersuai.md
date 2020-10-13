@@ -33,22 +33,9 @@ Rinci: 2
  .. [Hasil kajian Mac 2018](ura/1803.md)  
  .. [Hasil kajian April 2020](ura/2004.md)  
 
-Lema: 8  
- .#en [abstract](ura/en/abstract.md)  
- .#en [suspend](ura/en/suspend.md)  
- .#en [charlatan](ura/en/charlatan.md)  
- .#en [didactic](ura/en/didactic.md)  
- .#en [immutable](ura/en/immutable.md)  
- .#en [refute](ura/en/refute.md)  
- .#en [repudiate](ura/en/repudiate.md)  
- .#ms [niskala](ura/ms/niskala.md)  
-
-Daftar: 5  
- .@k [PSAT](ura/k/psat.md)  
- .@u [Kata kerap](ura/u/katakerap.md)  
- .@k Kata dua-huruf Melayu (tanpa makna)  
- .@k Kata dua-huruf Inggeris (tanpa makna)  
- .@u [Kata kerap unik](ura/u/kerapu.md)  
+**Nota semasa**: Kajian lema dan daftar telah disalin semula
+sebagai data dan boleh dicapai dan dipapar di laman utama
+melalui `site.data.lema` dan `site.data.daftar`
 
 &nbsp;  
 laman lompat rujukan: [contoh][1], [kelas][2]
