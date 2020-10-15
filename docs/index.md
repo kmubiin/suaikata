@@ -17,18 +17,18 @@ membawakan takrif terpilih atau sekadar memadai.
 Syarat "sebut nama". Daftar kata itu boleh digunakan secara
 bebas dengan syarat menyatakan perakuan hak cipta asal.
 
+{% comment %}
+kebanyakan teks dan pautan berikut wajar disalin semula ke
+laman bersuai, dan akhirnya ganti dengan teks pendek dan
+pautan ke laman bersuai di bawah--pautan ke laman termuat
+dikumpul sekaligus di perenggan akhir juga, mungkin?
+{% endcomment %}
+
 &nbsp;  
 Tahukah anda? Bukan semua perkataan dalam bahasa asal dapat
 diterjemah begitu sahaja. Selain daftar kata, projek suaikata
 ada senarai istilah yang terhad.
 [Lihat glosari](glosari.md)
-
-{% comment %}
-Laman utama mudah sesak dengan pautan dan boleh hilang
-tumpuan; "maklumat lanjut" mungkin wajar disalin semula ke
-laman bersuai, di mana pautan banyak berkumpul; akhirnya
-ganti semua dibawah dengan satu pautan ke laman bersuai
-{% endcomment %}
 
 &nbsp;  
 Maklumat lanjut:
