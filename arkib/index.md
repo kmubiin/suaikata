@@ -53,7 +53,8 @@ Daftar kerapu telah siap:
 
 2020-09-14  
 Kajian daftar dahulu tersalin di arkib  
-Maklumat meta kajian boleh dicapai melalui `site.data`
+Maklumat meta kajian boleh dicapai melalui `site.data`  
+[Kod cubaan awal memapar data](2020/dat1.md)
 
 > Lagi salinan maklumat bersejarah?
 
