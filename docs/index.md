@@ -2,7 +2,7 @@
 asal: docs/
 layout: default
 ---
-&#8942; termuat pada [{{ site.time }}](termuat.md)
+&#8942; [{{ site.time }}](termuat.md)
 
 &nbsp;  
 Projek suaikata ialah projek perkamusan sumber terbuka yang
@@ -24,24 +24,5 @@ pautan ke laman bersuai di bawah--pautan ke laman termuat
 dikumpul sekaligus di perenggan akhir juga, mungkin?
 {% endcomment %}
 
-&nbsp;  
-Tahukah anda? Bukan semua perkataan dalam bahasa asal dapat
-diterjemah begitu sahaja. Selain daftar kata, projek suaikata
-ada senarai istilah yang terhad.
-[Lihat glosari](glosari.md)
+Untuk maklumat lanjut, [lihat bersuai](bersuai.md)
 
-&nbsp;  
-Maklumat lanjut:
-
-&sect; **Hasil pena**
-&ndash; Projek suaikata menyediakan terbitan tanpa rutin,
-serta lema dan daftar dalam bahasa asal dan bahasa Melayu.
-[Lihat bersuai](bersuai.md)
-
-&sect; **Cara kerja**
-&ndash; Projek suaikata mempunyai pendekatan tersendiri bagi
-mengusahakan daftar kata.
-[Lihat panduan](panduan/index.md)
-
-&nbsp;  
-Untuk kemudahan lain, sila layari laman sumber di GitHub.

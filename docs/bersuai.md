@@ -19,11 +19,16 @@ Rinci: 2
 sebagai data dan boleh dicapai dan dipapar di laman utama
 melalui `site.data.lema` dan `site.data.daftar`
 
-&nbsp;  
-laman lompat rujukan: [contoh][1], [kelas][2]
+Tahukah anda? Bukan semua perkataan dalam bahasa asal dapat
+diterjemah begitu sahaja. Selain daftar kata, projek suaikata
+ada senarai istilah yang terhad.
+[Lihat glosari](glosari.md)
+
+Projek suaikata mempunyai pendekatan tersendiri bagi
+mengusahakan daftar kata.
+[Lihat panduan](panduan/index.md)
 
 laman kembali: [utama][0]
 
   [0]: index.md
-  [1]: panduan/ruj/contoh.md
-  [2]: panduan/ruj/kelas.md
+
