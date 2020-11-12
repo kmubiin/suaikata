@@ -2,31 +2,32 @@
 asal: docs/
 ---
 
-### Rinci, lema dan daftar (bersuai)
-
-{% comment %}
-tajuk lama "rinci, lema dan daftar" masih digunakan pada
-masa ini, sebahagian teks dan pautan dari laman utama akan
-disalin ke sini, hanya selepas itu tajuk baru ditentukan
-{% endcomment %}
-
-&nbsp;  
-Rinci: 2  
- .. [Hasil kajian Mac 2018](ura/1803.md)  
- .. [Hasil kajian April 2020](ura/2004.md)  
-
-**Nota semasa**: Kajian lema dan daftar telah disalin semula
-sebagai data dan boleh dicapai dan dipapar di laman utama
-melalui `site.data.lema` dan `site.data.daftar`
-
-Tahukah anda? Bukan semua perkataan dalam bahasa asal dapat
-diterjemah begitu sahaja. Selain daftar kata, projek suaikata
-ada senarai istilah yang terhad.
-[Lihat glosari](glosari.md)
+### Kandungan (bersuai)
 
 Projek suaikata mempunyai pendekatan tersendiri bagi
-mengusahakan daftar kata.
-[Lihat panduan](panduan/index.md)
+mengusahakan daftar kata. Suatu daftar kata harus bermula
+dengan senarai tanpa makna.
+
+&emsp;[Lihat panduan](panduan/index.md)
+
+Hakikatnya, bukan semua perkataan dalam bahasa asal dapat
+diterjemah begitu sahaja. Di luar daftar kata, projek
+suaikata ada senarai istilah yang terhad.
+
+&emsp;[Lihat glosari](glosari.md)
+
+Sebelum daftar pertama diusahakan, projek suaikata telah
+membuat kajian rinci. Hasil kajian terawal ialah Mac 2018.
+
+&emsp;[Mac 2018](ura/1803.md)
+&emsp;[April 2020](ura/2004.md)
+
+Berikut adalah senarai daftar kata yang diusahakan oleh
+projek suaikata.
+
+> Kajian daftar telah disalin semula sebagai data dan boleh
+> dipapar melalui `site.data.daftar`, kecuali belum dipapar
+> di sini pada masa ini
 
 laman kembali: [utama][0]
 
