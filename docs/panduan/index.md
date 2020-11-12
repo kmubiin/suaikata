@@ -40,6 +40,6 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 - [Format helai daftar](ruj/format.md)
 
 &nbsp;  
-laman kembali: [utama][0]
+laman kembali: [bersuai][0]
 
-  [0]: ../index.md
+  [0]: ../bersuai.md
