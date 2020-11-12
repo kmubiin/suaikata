@@ -286,4 +286,12 @@
     sifar masa sedunia (UTC+0) supaya mudah dirujuk.
     Nama terbitan kini berguna untuk mengetahui tarikh kemas
     kini yang bertanda tanpa perlu melihat sejarah git.
+-
+  c: '8746219'
+  d: 2020-11-12 +0000
+  e: gabung dahan buang-isu44
+  f: '2.20.1112'
+  g:  # git diff --stat eead24c 8980ac5
+    Selesai isu buang kandungan terabai dari arkib dan
+    laman utama (#44).
 ...
