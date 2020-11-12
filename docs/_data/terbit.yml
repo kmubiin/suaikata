@@ -122,7 +122,7 @@
   gap: false
 -
   tag: '2.20.1112'
-  tid:  # isi selepas selesai terbitan
-  tcc:  # isi selepas selesai terbitan
+  tid: 'a557cf9'
+  tcc: 650
   gap: false
 ...
