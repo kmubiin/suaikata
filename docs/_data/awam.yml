@@ -44,7 +44,7 @@
   r: wtfl
   s: true
   t: Wiktionary:Frequency_lists
-  u: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
+  u: https://en.wiktionary.org/wiki/WT:FL
   v:  # salinan teks dalam bahasa asal
     Shortcut is `WT:FL` or `WT:FREQ`.
     Counting words and lemmas. The following frequency lists
@@ -55,7 +55,7 @@
   r: be850
   s: true
   t: Wiktionary:Basic_English_alphabetical_wordlist
-  u: https://simple.wiktionary.org/wiki/Wiktionary:Basic_English_alphabetical_wordlist
+  u: https://simple.wiktionary.org/wiki/WT:BE850
   v:  # salinan teks dalam bahasa asal
     Shortcut is `WT:BE850` or `BE850`.
     This is a list of the 850 words of Charles Kay Ogden's
@@ -69,7 +69,7 @@
     Do not change this page. These words are from
     Wiktionary:BNC spoken freq 01.
 -
-  r: worg
+  r: wy
   s: false
   t: Wikipedia
   u: https://wikipedia.org/
@@ -84,7 +84,7 @@
     berasingan. Jika tiada senarai berkenaan di Wiktionary,
     boleh rujuk di Wikipedia.
 -
-  r: worgen42
+  r: wyen42
   s: true
   t: List of English words of Indonesian origin - Wikipedia
   u: https://en.wikipedia.org/wiki/List_of_English_words_of_Indonesian_origin
@@ -94,7 +94,7 @@
     borrowed or derived, either directly or indirectly, from
     the Indonesian language.
 -
-  r: worgen37
+  r: wyen37
   s: true
   t: List of English words of Malay origin - Wikipedia
   u: https://en.wikipedia.org/wiki/List_of_English_words_of_Malay_origin
@@ -103,7 +103,7 @@
     that were borrowed or derived, either directly or
     indirectly, from Malay language.
 -
-  r: worgms18
+  r: wyms18
   s: false
   t: Kategori:Perbendaharaan kata - Wikipedia bahasa Melayu
   u: https://ms.wikipedia.org/wiki/Kategori:Perbendaharaan_kata
@@ -113,7 +113,7 @@
     Leksi, dan Perkataan. Laman khas ini juga mengandungi
     laman umum yang berkenaan seperti Perbendaharaan kata.
 -
-  r: worgms10
+  r: wyms10
   s: false
   t: Kategori:Peribahasa - Wikipedia bahasa Melayu
   u: https://ms.wikipedia.org/wiki/Kategori:Peribahasa
@@ -122,7 +122,7 @@
     bahasa. Laman khas ini juga mengandungi laman umum
     seperti Senarai peribahasa (A-M) dan (N-Z).
 -
-  r: worgms79
+  r: wyms79
   s: true
   t: Senarai kata pinjaman dari bahasa Arab dalam bahasa Melayu dan bahasa Indonesia - Wikipedia bahasa Melayu
   u: https://ms.wikipedia.org/wiki/Senarai_kata_pinjaman_dari_bahasa_Arab_dalam_bahasa_Melayu_dan_bahasa_Indonesia
@@ -135,7 +135,7 @@
     sesuai antara sebutan dan maknanya, dan ada sebahagian
     lagi berubah.
 -
-  r: worgms58
+  r: wyms58
   s: false
   t: Perbezaan antara Bahasa Melayu Piawai dan Bahasa Indonesia - Wikipedia bahasa Melayu
   u: https://ms.wikipedia.org/wiki/Perbezaan_antara_Bahasa_Melayu_Piawai_dan_Bahasa_Indonesia
