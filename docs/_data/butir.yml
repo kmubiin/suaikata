@@ -166,7 +166,7 @@
     Selesai salin dan perbaik daftar kata kerap (#32).
 -
   c: '1bb4ab1'
-  d: 2020-04-20 0+0000
+  d: 2020-04-20 +0000
   e: kemas kini kajian rinci dan cipta 2004
   f: '1.5.0'
   g:  # git diff --stat f28ff8a 1bb4ab1
@@ -234,14 +234,6 @@
     rinci, lema dan daftar, dan tersusun di laman bersuai.
     Kandungan disusun mengikut terbitan ala garis masa.
     Selesai kemas dan capai semula dari bersuai (#38).
--
-  c: 'b4a0958'
-  d: 2020-07-27 +0000
-  e: buang rujukan ilham dan perisian
-  f: '1.6.0'
-  g:  # git diff --stat f8c9d65 b4a0958
-    Rujukan ilham dan perisian disalin semula ke laman
-    baharu yang dinamakan berbantu.
 -
   c: 'f4b62de'
   d: 2020-07-28 +0000
