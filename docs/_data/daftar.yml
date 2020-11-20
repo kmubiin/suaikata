@@ -2,6 +2,7 @@
 ---
 -
   id: psat     # nama daftar ini
+  idda:        # nama daftar asal jika ada
   lang: en+ms  # bahasa pengantar daftar ini
   nama:  # nama daftar dalam bahasa asal dan lain jika ada
     c: kata kerap PSAT  # nama umum untuk rujukan lalai
@@ -14,7 +15,6 @@
     siap: 2018-04-30
     lengkap: 2019-04-06
   para:  # maklumat berkaitan dalam senarai
-    fail: [psat]
     penerbit: [archive, cabrinihigh, suaikata]
     pengusaha: [kmubiin, raafsmakmal]
   ciri:  # ciri daftar yang hadir
@@ -30,6 +30,7 @@
     tanda pilihan dibuat selepas ada selisih terjemah.
 -
   id: katakerap
+  idda:
   lang: en+ms
   nama:
     c: kata kerap
@@ -39,7 +40,6 @@
     siap: 2018-05-03
     lengkap:
   para:
-    fail: [katakerap]
     penerbit: [suaikata]
     pengusaha: [raafsmakmal]
   ciri:
@@ -54,6 +54,7 @@
     senarai, lagi kerap perkataan itu digunakan.
 -
   id: kerapu
+  idda: katakerap
   lang: en+ms
   nama:
     c: kata kerap unik
@@ -63,7 +64,6 @@
     siap: 2020-04-08
     lengkap:
   para:
-    fail: [katakerap, kerapu]
     penerbit: [suaikata]
     pengusaha: [kmubiin]
   ciri:
@@ -78,6 +78,7 @@
     Lema terhad pada 3 aksara atau kurang sahaja.
 -
   id: ms2
+  idda:
   lang: ms
   nama:
     c: kata dua-huruf Melayu
@@ -87,7 +88,6 @@
     siap: 2019-04-06
     lengkap:
   para:
-    fail: [ms2]
     penerbit: [suaikata]
     pengusaha: [kmubiin]
   ciri:
@@ -100,6 +100,7 @@
     Lema Melayu terhad pada 2 aksara sahaja.
 -
   id: en2
+  idda:
   lang: en
   nama:
     c: kata dua-huruf Inggeris
@@ -109,7 +110,6 @@
     siap: 2020-04-08
     lengkap:
   para:
-    fail: [en2]
     penerbit: [suaikata]
     pengusaha: [kmubiin]
   ciri:
