@@ -39,7 +39,7 @@ terkenal dengan antara muka web (WUI), antara muka grafik
 (GUI), antara muka garis perintah (CLI) pada komputer
 
 &nbsp; .  
-**anu**&#179; (en: variable)
+**anu**&#178; (en: unknown, variable)
 &ndash; nama am bagi nilai yang boleh berubah atau yang
 tidak diketahui
 
@@ -256,6 +256,12 @@ daripada pangkalan data wiki
 &ndash; pihak asal yang memulakan sesuatu rancangan dan
 menyedia hasil kerja daripada kosong
 &ndash; lihat juga "pengusaha"
+
+&nbsp; .  
+**pemboleh ubah** (en: variable)
+&ndash; suatu rujukan bagi nilai yang boleh berubah; istilah
+dalam bidang matematik, sains dan kejuruteraan
+&ndash; lihat juga "anu"
 
 &nbsp; .  
 **pemisah teks** (en: separator)
