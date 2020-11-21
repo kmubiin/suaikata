@@ -1,6 +1,6 @@
 # maklumat meta bagi pergunaan blok
 ---
-# beberapa pasangan anu dan nilai disimpan dalam satu atau
+# beberapa pasangan nama dan nilai disimpan dalam satu atau
 # lebih blok pada aras teratas supaya site.data dapat diuji
 -
   id: '0x011'

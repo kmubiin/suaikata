@@ -1,6 +1,6 @@
 # maklumat meta bagi pergunaan umum
 ---
-# pasangan anu dan nilai pada aras teratas sahaja
+# pasangan nama dan nilai pada aras teratas sahaja
 # supaya site.data dalam bentuk termudah dapat diuji
-lang: ms  # anu bahasa ialah 'lang' dan bukan 'language'
+lang: ms  # nama bahasa ialah 'lang' dan bukan 'language'
 ...
