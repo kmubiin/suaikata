@@ -17,32 +17,26 @@ site.timezone
 
 site.data
 : bilangan {{ site.data.size }}
-: kandungan hadir sebagai longgokan data JSON
 
 {% comment %}
+kandungan hadir sebagai longgokan data JSON, bagaimanapun
 Liquid tiada cara `Object.keys()` sepertimana JavaScript
-ada, untuk pulangkan senarai ringkas data JSON. Gunakan
-`for data in site.data` untuk memapar data. Capai objek
-`data[0]` untuk senarai ringkas data, dan objek `data[1]`
-untuk kandungan data selebihnya.
+ada, untuk pulangkan senarai ringkas data JSON; gunakan
+`for d in site.data` untuk memapar data; capai objek `d[0]`
+untuk bina senarai ringkas data, dan objek `d[1]` untuk
+kandungan data selebihnya
 {% endcomment %}
 
 {% if site.data.size > 0 %}
-{% for data in site.data %}
-
-  {% if data[1].size > 2 %}
-
-  site.data.{{ data[0] }}
-  : bilangan {{ data[1].size }}
-  : terakhir {{ data[1].last }}
-
+{% for d in site.data %}
+  {% if d[1].size > 2 %}
+    site.data.{{ d[0] }}
+    : bilangan {{ d[1].size }}
+    : terakhir {{ d[1].last }}
   {% else %}
-
-  site.data.{{ data[0] }}
-  : {{ data[1] }}
-
+    site.data.{{ d[0] }}
+    : {{ d[1] }}
   {% endif %}
-
 {% endfor %}
 {% endif %}
 
@@ -50,50 +44,34 @@ site.pages
 : bilangan {{ site.pages.size }}
 
 {% if site.html_pages.size > 0 %}
-
 site.html_pages
 : subset site.pages
 : bilangan {{ site.html_pages.size }}
-
 {% endif %}
 
 site.static_files
 : bilangan {{ site.static_files.size }}
-: kandungan hadir sebagai longgokan data terbina Jekyll
 
 {% comment %}
-Jekyll ada cara untuk mencapai metadata bagi static files
-seperti berikut: `file.path`, `file.modified_time`,
-`file.name`, `file.basename`, `file.extname` bagi `file`
-atau anu pilihan lain.
+kandungan `site.static_files` hadir sebagai longgokan data
+terbina Jekyll; gunakan `for f in site.static_files` dan
+capai objek `f` dengan `f.path`, `f.modified_time`,
+`f.name`, `f.basename`, `f.extname` bagi metadata fail
 {% endcomment %}
 
-{% if site.static_files.size > 0 %}
-{% for file in site.static_files %}
-
-  {{ file.path }}
-  : {{ file.modified_time }} {{ file.name }}
-
-{% endfor %}
-{% endif %}
-
 {% if site.html_files.size > 0 %}
-
 site.html_files
 : subset site.static_files
 : bilangan {{ site.html_files.size }}
-
 {% endif %}
 
 site.posts
 : bilangan {{ site.posts.size }}
 
 {% if site.related_posts.size > 0 %}
-
 site.related_posts
 : subset atau berkaitan site.posts
 : bilangan {{ site.related_posts.size }}
-
 {% endif %}
 
 site.collections
@@ -101,10 +79,8 @@ site.collections
 : kandungan {{ site.collections }}
 
 {% if site.documents.size > 0 %}
-
 site.documents
 : subset site.collections
 : bilangan {{ site.documents.size }}
-
 {% endif %}
 
