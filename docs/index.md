@@ -1,5 +1,5 @@
 ---
-asal: docs/
+published: true
 layout: default
 ---
 &#8942; [{{ site.time }}](termuat.md)

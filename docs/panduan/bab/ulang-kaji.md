@@ -1,5 +1,5 @@
 ---
-asal: docs/panduan/bab/
+published: true
 ---
 
 ### Mengulang kaji

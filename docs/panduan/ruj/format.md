@@ -1,5 +1,5 @@
 ---
-asal: docs/panduan/ruj/
+published: true
 ---
 
 ### Format helai daftar

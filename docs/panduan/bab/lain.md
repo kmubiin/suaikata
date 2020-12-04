@@ -1,5 +1,5 @@
 ---
-asal: docs/panduan/bab/
+published: true
 ---
 
 ### Kelainan ciri daftar

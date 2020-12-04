@@ -1,5 +1,5 @@
 ---
-asal: docs/panduan/bab/
+published: true
 ---
 
 ### Dua atau lebih lajur

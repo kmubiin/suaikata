@@ -1,5 +1,5 @@
 ---
-asal: docs/panduan/ruj/
+published: true
 ---
 
 ### Contoh daftar khusus

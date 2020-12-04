@@ -1,5 +1,5 @@
 ---
-asal: docs/
+published: true
 ---
 
 ### Glosari

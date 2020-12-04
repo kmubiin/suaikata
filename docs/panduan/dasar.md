@@ -1,5 +1,5 @@
 ---
-asal: docs/panduan/
+published: true
 ---
 
 ### Dasar panduan
