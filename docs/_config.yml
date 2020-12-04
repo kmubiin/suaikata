@@ -1,6 +1,9 @@
-## tetapan bagi GitHub Pages
+## tetapan patuh piawai
+lang: ms  # bahasa Melayu
 title: suaikata
 description: Koleksi ringkas kosa kata
+
+## tetapan bagi GitHub Pages
 theme: jekyll-theme-slate
 show_downloads: false
 ## ---TETAPAN LALAI---
