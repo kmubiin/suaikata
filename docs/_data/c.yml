@@ -1,6 +1,0 @@
-# maklumat meta bagi pergunaan umum
----
-# pasangan nama dan nilai pada aras teratas sahaja
-# supaya site.data dalam bentuk termudah dapat diuji
-lang: ms  # nama bahasa ialah 'lang' dan bukan 'language'
-...
