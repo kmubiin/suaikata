@@ -48,26 +48,12 @@
     Selesai ulasan pembangun daftar pertama (#20).
     Selesai salinan dokumentasi (#21).
 -
-  c: '29bc71c'
-  d: 2019-02-17 +0800
-  e: pindahkan fail kajian dan betulkan pautan
-  f: '1.2.1'
-  g:  # git diff --stat 198d1f0 29bc71c
-    Selesai senarai kajian tidak seragam (#24).
--
   c: 'dfc9f2b'
   d: 2019-02-24 +0800
   e: ganti salinan daftar psat
   f: '1.2.2'
   g:  # git diff --stat c2065d5 dfc9f2b
     Selesai terjemah pendua dalam daftar PSAT (#23).
--
-  c: '8eead96'
-  d: 2019-03-01 +0800
-  e: salinan lesen dari sumber asal
-  f: '1.2.3'
-  g:  # git diff --stat f199b04 8eead96
-    Salinan lesen dan pautan dari sumber asal (GitHub).
 -
   c: '25e2448'
   d: 2019-03-17 +0800
@@ -179,17 +165,6 @@
   g:  # git diff --stat 7a5475c 039e1d8
     Laman perisian disimpan sebagai rujukan dalam panduan.
     Panduan lazim, lain atau kelainan, dan mesin dicipta.
--
-  c: '4e56571'
-  d: 2020-06-24 +0000
-  e: betulkan butir nota terbitan
-  f: '1.5.2'
-  g:  # git diff --stat eb19318 4e56571
-    Terbitan langkau atau bukan langkau diperjelas;
-    Contoh terbitan langkau (1.4.1 => 1.4.5) dan terbitan
-    bukan langkau (1.0 => 1.1.0).
-    Nota terbitan yang terkemudian akan menyatakan sama ada
-    "terbitan imbuh langkau" atau sebaliknya.
 -
   c: '6d2092a'
   d: 2020-07-05 +0000
