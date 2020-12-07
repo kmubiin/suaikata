@@ -1,128 +1,154 @@
-# maklumat meta bagi terbitan
+# maklumat meta bagi terbitan dan butir perubahan
 ---
 -
-  tag: '0.0'      # tag rujukan atau nama terbitan ini
-  tid: '7e5cf23'  # git log --abbrev-commit <tag>
-  tcc: 1          # git rev-list --count <tag>
-  gap: false      # hadir dalam GitHub Archive Program
+  id: '0.0'       # tag rujukan atau nama terbitan ini
+  idc: '7e5cf23'  # git log --abbrev-commit <id>
+  rev: 1          # git rev-list --count <id>
+  ciri:  # ciri terbitan yang hadir
+    arkib: false  # tersalin bagi GitHub Archive Program
+  lagi:  # butir perubahan (pindah salin data butir)
 -
-  tag: '1.0'
-  tid: '1e9baa9'
-  tcc: 100
-  gap: false
+  id: '1.0'
+  idc: '1e9baa9'
+  rev: 100
+  ciri:
+    arkib: false
 -
-  tag: '1.1.0'
-  tid: 'f91258d'
-  tcc: 123
-  gap: false
+  id: '1.1.0'
+  idc: 'f91258d'
+  rev: 123
+  ciri:
+    arkib: false
 -
-  tag: '1.2.0'
-  tid: '212ce76'
-  tcc: 158
-  gap: false
+  id: '1.2.0'
+  idc: '212ce76'
+  rev: 158
+  ciri:
+    arkib: false
 -
-  tag: '1.2.1'
-  tid: 'c2065d5'
-  tcc: 163
-  gap: false
+  id: '1.2.1'
+  idc: 'c2065d5'
+  rev: 163
+  ciri:
+    arkib: false
 -
-  tag: '1.2.2'
-  tid: 'a502cc9'
-  tcc: 165
-  gap: false
+  id: '1.2.2'
+  idc: 'a502cc9'
+  rev: 165
+  ciri:
+    arkib: false
 -
-  tag: '1.2.3'
-  tid: '62452cb'
-  tcc: 169
-  gap: false
+  id: '1.2.3'
+  idc: '62452cb'
+  rev: 169
+  ciri:
+    arkib: false
 -
-  tag: '1.2.4'
-  tid: '972d2b2'
-  tcc: 173
-  gap: false
+  id: '1.2.4'
+  idc: '972d2b2'
+  rev: 173
+  ciri:
+    arkib: false
 -
-  tag: '1.3.0'
-  tid: 'e338b3a'
-  tcc: 226
-  gap: false
+  id: '1.3.0'
+  idc: 'e338b3a'
+  rev: 226
+  ciri:
+    arkib: false
 -
-  tag: '1.3.1'
-  tid: '96209f2'
-  tcc: 242
-  gap: false
+  id: '1.3.1'
+  idc: '96209f2'
+  rev: 242
+  ciri:
+    arkib: false
 -
-  tag: '1.3.2'
-  tid: '56acd86'
-  tcc: 250
-  gap: false
+  id: '1.3.2'
+  idc: '56acd86'
+  rev: 250
+  ciri:
+    arkib: false
 -
-  tag: '1.4.0'
-  tid: 'ffd5ad0'
-  tcc: 322
-  gap: false
+  id: '1.4.0'
+  idc: 'ffd5ad0'
+  rev: 322
+  ciri:
+    arkib: false
 -
-  tag: '1.4.1'
-  tid: 'd0b30e2'
-  tcc: 343
-  gap: true  # mula tersimpan kerana ada 1 star
+  id: '1.4.1'
+  idc: 'd0b30e2'
+  rev: 343
+  ciri:
+    arkib: true  # mula tersimpan kerana ada 1 star
 -
-  tag: '1.4.5'
-  tid: '92a8c33'
-  tcc: 372
-  gap: false
+  id: '1.4.5'
+  idc: '92a8c33'
+  rev: 372
+  ciri:
+    arkib: false
 -
-  tag: '1.4.6'
-  tid: 'bd5f4b0'
-  tcc: 379
-  gap: false
+  id: '1.4.6'
+  idc: 'bd5f4b0'
+  rev: 379
+  ciri:
+    arkib: false
 -
-  tag: '1.5.0'
-  tid: 'b9355d2'
-  tcc: 398
-  gap: false
+  id: '1.5.0'
+  idc: 'b9355d2'
+  rev: 398
+  ciri:
+    arkib: false
 -
-  tag: '1.5.1'
-  tid: '31312ee'
-  tcc: 410
-  gap: false
+  id: '1.5.1'
+  idc: '31312ee'
+  rev: 410
+  ciri:
+    arkib: false
 -
-  tag: '1.5.2'
-  tid: '9e7f42b'
-  tcc: 421
-  gap: false
+  id: '1.5.2'
+  idc: '9e7f42b'
+  rev: 421
+  ciri:
+    arkib: false
 -
-  tag: '1.5.5'
-  tid: '23ab687'
-  tcc: 448
-  gap: false
+  id: '1.5.5'
+  idc: '23ab687'
+  rev: 448
+  ciri:
+    arkib: false
 -
-  tag: '1.5.6'
-  tid: '53197e1'  # awas! ini adalah string dan bukan float
-  tcc: 461
-  gap: false
+  id: '1.5.6'
+  idc: '53197e1'  # awas! ini adalah string dan bukan float
+  rev: 461
+  ciri:
+    arkib: false
 -
-  tag: '1.5.7'
-  tid: 'ce094d2'
-  tcc: 474
-  gap: false
+  id: '1.5.7'
+  idc: 'ce094d2'
+  rev: 474
+  ciri:
+    arkib: false
 -
-  tag: '1.6.0'
-  tid: '3b796fb'
-  tcc: 494
-  gap: false
+  id: '1.6.0'
+  idc: '3b796fb'
+  rev: 494
+  ciri:
+    arkib: false
 -
-  tag: '1.6.1'
-  tid: 'e0a1fa2'
-  tcc: 500
-  gap: false
+  id: '1.6.1'
+  idc: 'e0a1fa2'
+  rev: 500
+  ciri:
+    arkib: false
 -
-  tag: '2.20.0731'  # mula siri kedua N.YY.MMDD
-  tid: '527ac21'
-  tcc: 501
-  gap: false
+  id: '2.20.0731'  # mula siri kedua N.YY.MMDD
+  idc: '527ac21'
+  rev: 501
+  ciri:
+    arkib: false
 -
-  tag: '2.20.1112'
-  tid: 'a557cf9'
-  tcc: 650
-  gap: false
+  id: '2.20.1112'
+  idc: 'a557cf9'
+  rev: 650
+  ciri:
+    arkib: false
 ...
