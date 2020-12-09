@@ -24,146 +24,43 @@
       n: '5c4032d'
       o: 2018-05-03 +0800
       p:  # git diff --stat 747de60 5c4032d
-        Daftar kata kerap disimpan dengan penamat baris CR
-        dan hanya dikira sebagai 0 atau 1 baris (GitHub).
-        Bilangan baris sebenar ialah 23020.
+        Daftar kata kerap ada penamat baris CR yang hanya
+        dikira 0 atau 1 baris (GitHub), sebenarnya 23020.
     - m: psat
       n: 'ae3db55'
       o: 2018-05-08 +0800
       p:  # git diff --stat c30f034 ae3db55
         Daftar PSAT ada lema sementara 24.
-        Kemudahan laman disediakan dan butang muat turun
-        sengaja dinyahaktif (GitHub Pages).
 -
-  id: '1.1.0'
-  idc: 'f91258d'
-  rev: 123
+  id: '1.4.1'  # mewarisi 1.1.0...1.4.0
+  idc: 'd0b30e2'
+  rev: 343
   ciri:
-    arkib: false
-    muat: false
+    arkib: true  # mula tersimpan kerana ada 1 star
+    muat: true   # mewarisi ms2 dari 1.4.0
   lagi:
     - m:
       n: '6adaf67'
       o: 2018-11-10 +0800
       p:  # git diff --stat 7df2543 6adaf67
         Daftar PSAT ada lema selesai 17, sementara 6.
-        Dahan dinamakan "1.1" terlebih dahulu, maka tag
-        "1.1" tidak boleh dinamakan sama sekali.
         Pembaikan keluaran pertama (#18).
--
-  id: '1.2.0'
-  idc: '212ce76'
-  rev: 158
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
     - m:
       n: '7d62d70'
       o: 2018-12-03 +0800
       p:  # git diff --stat ad9c7d4 7d62d70
-        Terbitan imbuh dinamakan semula (1.1 => 1.1.0).
         Had panjang aksara adalah 60 setiap baris.
-        Kajian perintis ada laporan penuh (#2 berkait).
-        Panduan baharu untuk penamat baris (#17 berkait).
-        Salinan kandungan papan projek (#19 berkait).
-        Selesai ulasan pembangun daftar pertama (#20).
-        Selesai salinan dokumentasi (#21).
--
-  id: '1.2.1'
-  idc: 'c2065d5'
-  rev: 163
-  ciri:
-    arkib: false
-    muat: false
-  lagi: []
--
-  id: '1.2.2'
-  idc: 'a502cc9'
-  rev: 165
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
+        Hasil kajian Mac 2018 (#2 berkait).
     - m:
       n: 'dfc9f2b'
       o: 2019-02-24 +0800
       p:  # git diff --stat c2065d5 dfc9f2b
         Selesai terjemah pendua dalam daftar PSAT (#23).
--
-  id: '1.2.3'
-  idc: '62452cb'
-  rev: 169
-  ciri:
-    arkib: false
-    muat: false
-  lagi: []
--
-  id: '1.2.4'
-  idc: '972d2b2'
-  rev: 173
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
-    - m:
-      n: '25e2448'
-      o: 2019-03-17 +0800
-      p:  # git diff --stat 7a23b77 25e2448
-        Pembetulan nama am di laman utama;
-        Istilah "laman sumber" merujuk pada laman di GitHub
-        yang ada paparan kandungan penuh projek.
-        Istilah "laman utama" merujuk pada laman di GitHub
-        Pages yang memapar docs dalam format HTML.
--
-  id: '1.3.0'
-  idc: 'e338b3a'
-  rev: 226
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
-    - m:
-      n: 'db8a8c1'
-      o: 2019-03-22 +0800
-      p:   # git diff --stat 972d2b2 db8a8c1
-        Selesai antara panduan dan bukan panduan (#22).
-        Selesai senarai kajian tidak seragam (#25).
--
-  id: '1.3.1'
-  idc: '96209f2'
-  rev: 242
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
-    - m:
-      n: '80bde62'
-      o: 2019-03-23 +0800
-      p:  # git diff --stat 6f8cd0d 80bde62
-        Dasar panduan ada senarai pautan luar.
--
-  id: '1.3.2'
-  idc: '56acd86'
-  rev: 250
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
     - m:
       n: '34caf02'
       o: 2019-03-26 +0800
       p:  # git diff --stat cd36004 34caf02
-        Selesai terjemah pilihan salah dalam daftar PSAT
-        (#26).
--
-  id: '1.4.0'
-  idc: 'ffd5ad0'
-  rev: 322
-  ciri:
-    arkib: false
-    muat: true
-  lagi:
+        Selesai terjemah pilihan salah daftar PSAT (#26).
     - m: ms2
       n: '3438cb7'
       o: 2019-03-28 +0800
@@ -173,59 +70,25 @@
       n: '4a00c5d'
       o: 2019-04-06 +0800
       p:  # git diff --stat 3bce53a 4a00c5d
-        Daftar PSAT ada lema lengkap 344.
-        Perbaik ulasan pembangun daftar pertama (#20).
-        Selesai lengkap daftar PSAT (#27).
--
-  id: '1.4.1'
-  idc: 'd0b30e2'
-  rev: 343
-  ciri:
-    arkib: true  # mula tersimpan kerana ada 1 star
-    muat: false
-  lagi:
+        Selesai lengkap daftar PSAT (#27), ada 344 lema.
     - m:
       n: 'd250f16'
       o: 2019-10-31 +0000  # mula guna tarikh dan masa UTC
       p:  # git diff --stat 58628bd d250f16
-        Mula menyata peringkat pembangunan (Alfa).
         Terbitan jangka panjang ke-2 selepas 1.0.
-        Daftar berpindah kelas (regu => eka,dwi).
-        Selesai kelas daftar terkumpul (#29).
-        Selesai susunan bermakna di arkib (#30).
-        Kandungan laman disusun (#31 berkait).
 -
-  id: '1.4.5'
-  idc: '92a8c33'
-  rev: 372
+  id: '1.6.0'  # mewarisi 1.4.5...1.5.7
+  idc: '3b796fb'
+  rev: 494
   ciri:
     arkib: false
-    muat: false
+    muat: true  # mewarisi en2 kerapu dari 1.4.6
   lagi:
-    - m:
-      n: '6e85813'
-      o: 2020-04-02 +0000
-      p:  # git diff --stat d0b30e2 6e85813
-        Memilih salin dari dahan 1.4.2-kan ke baiki-docs.
-        Selesai kandungan laman dokumentasi (#31).
     - m:
       n: 'bb12376'
       o: 2020-04-03 +0000
       p:  # git diff --stat 993e547 bb12376
         Semua nota terbitan ada butir perubahan.
-        Pembetulan istilah...
-        bahasa daftar => bahasa pengantar
-        kumpulan daftar => kelas daftar
-        pembangun (developer) => pengusaha
-        ...bagi kajian daftar (ed8360e).
--
-  id: '1.4.6'
-  idc: 'bd5f4b0'
-  rev: 379
-  ciri:
-    arkib: false
-    muat: true
-  lagi:
     - m: en2
       n: 'a93f3c5'
       o: 2020-04-06 +0000
@@ -237,122 +100,22 @@
       p:  # git diff --stat 77f4e27 30c95bf
         Daftar kata kerap unik (kerapu).
         Selesai salin dan perbaik daftar kata kerap (#32).
--
-  id: '1.5.0'
-  idc: 'b9355d2'
-  rev: 398
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
     - m:
       n: '1bb4ab1'
       o: 2020-04-20 +0000
       p:  # git diff --stat f28ff8a 1bb4ab1
         Hasil kajian April 2020 (2004).
--
-  id: '1.5.1'
-  idc: '31312ee'
-  rev: 410
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
-    - m:
-      n: '039e1d8'
-      o: 2020-05-13 +0000
-      p:  # git diff --stat 7a5475c 039e1d8
-        Laman perisian disimpan sebagai rujukan dalam
-        panduan. Panduan lazim, lain atau kelainan, dan
-        mesin dicipta.
--
-  id: '1.5.2'
-  idc: '9e7f42b'
-  rev: 421
-  ciri:
-    arkib: false
-    muat: false
-  lagi: []
--
-  id: '1.5.5'
-  idc: '23ab687'
-  rev: 448
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
     - m:
       n: '6d2092a'
       o: 2020-07-05 +0000
       p:  # git diff --stat 6858af2 6d2092a
-        Semua daftar dalam folder tunggal buat selamanya.
-        Daftar tanpa makna ada tanda petik satu yang betul
-        dan berubah format (csv => tsv).
-        Panduan kini ada tiga bab sahaja dan selebihnya
-        rujukan dan dasar kini searas dengan index.
         Permudah simpanan daftar dan bab panduan (#34).
         Perbetul aksara tanda petik satu (#35).
--
-  id: '1.5.6'
-  idc: '53197e1'  # awas! ini adalah string dan bukan float
-  rev: 461
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
-    - m:
-      n: '316260d'
-      o: 2020-07-14 +0000
-      p:  # git diff --stat ffa50db 316260d
-        Buang laman rinci dan contoh terabai (#37).
--
-  id: '1.5.7'
-  idc: 'ce094d2'
-  rev: 474
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
-    - m:
-      n: 'd239e34'
-      o: 2020-07-16 +0000
-      p:  # git diff --stat 53197e1 d239e34
-        Laman utama ada pengenalan lebih bermakna.
-    - m:
-      n: 'd8844f6'
-      o: 2020-07-22 +0000
-      p:  # git diff --stat d239e34 d8844f6
-        Permudah lagi bab panduan (#36).
--
-  id: '1.6.0'
-  idc: '3b796fb'
-  rev: 494
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
     - m:
       n: 'f8c9d65'
       o: 2020-07-26 +0000
       p:  # git diff --stat e0cf155 f8c9d65
-        Senarai tunggal memuat semua nota terbitan, kajian
-        rinci, lema dan daftar, tersusun di laman bersuai.
-        Kandungan disusun mengikut terbitan ala garis masa.
         Selesai kemas dan capai semula dari bersuai (#38).
--
-  id: '1.6.1'
-  idc: 'e0a1fa2'
-  rev: 500
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
-    - m:
-      n: 'ce0a933'
-      o: 2020-07-29 +0000
-      p:  # git diff --stat 64c6075 ce0a933
-        Fail rujukan `index.md` dicipta supaya README sedia
-        dipapar di luar talian.
 -
   id: '2.20.0731'  # mula siri kedua N.YY.MMDD
   idc: '527ac21'
@@ -366,19 +129,11 @@
       o: 2020-07-31 +0000
       p:  # git diff --stat e0a1fa2 527ac21
         Terbitan jangka panjang ke-3 selepas 1.4.1.
-        Perubahan pada nama terbitan baharu.
-        Nama semantik X.Y.Z tetap dicontohi.
-        Sebelum ini, terbitan asal X.Y dan imbuh X.Y.Z.
-        Kini tiada beza dan semua terbitan baharu
-        menggunakan tujuh angka X.YY.ZZZZ;
-        X adalah nombor siri semasa.
-        YY adalah dua nombor terakhir bagi tahun semasa.
-        ZZZZ adalah empat nombor berturutan bagi bulan dan
-        hari semasa pada tahun tersebut.
-        Penyataan bulan dan hari sebaiknya mengikut zon jam
-        sifar masa sedunia (UTC+0) supaya mudah dirujuk.
-        Nama terbitan kini berguna untuk imbas tarikh kemas
-        kini yang bertanda tanpa perlu melihat sejarah git.
+        Sebelum ini, terbitan asal X.Y dan imbuh X.Y.Z, kini
+        semua terbitan baharu X.YY.ZZZZ; X adalah nombor
+        siri semasa, YY adalah dua nombor terakhir tahun
+        semasa, ZZZZ adalah empat nombor berturutan bulan
+        dan hari semasa tahun itu. Sebaiknya ikut UTC+0.
 -
   id: '2.20.1112'
   idc: 'a557cf9'
@@ -391,6 +146,5 @@
       n: '8746219'
       o: 2020-11-12 +0000
       p:  # git diff --stat eead24c 8980ac5
-        Selesai isu buang kandungan terabai dari arkib dan
-        laman utama (#44).
+        Selesai isu kandungan terabai arkib/utama (#44).
 ...
