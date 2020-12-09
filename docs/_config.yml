@@ -1,5 +1,6 @@
 ## tetapan patuh piawai
 lang: ms  # bahasa Melayu
+repository: kmubiin/suaikata  # metadata tanpa .git
 title: suaikata
 description: Koleksi ringkas kosa kata
 
@@ -22,7 +23,10 @@ timezone: Etc/UTC
 ## hasil paparan di luar talian perlu ada tetapan lain
 ## untuk menyamai hasil paparan di GitHub Pages
 ## ---TETAPAN LOCALHOST---
-# plugins: [jekyll-relative-links]
+# plugins:
+# - jekyll-relative-links
+# - jekyll-seo-tag          # jika perlu ikut tema
+# - jekyll-github-metadata  # jika perlu ikut tema
 # defaults:
 #   -
 #     scope:
