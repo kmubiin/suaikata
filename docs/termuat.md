@@ -6,6 +6,9 @@ layout: null
 Laman ini adalah laman khas untuk menyelidik kandungan yang
 boleh dicapai dengan anu terbina bagi Jekyll.
 
+site.repository
+: {{ site.repository }}
+
 site.url
 : {{ site.url }}
 : bersumber pada [index.md](index.md)
