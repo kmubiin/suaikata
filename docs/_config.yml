@@ -19,23 +19,6 @@ url: https://kmubiin.github.io/suaikata
 permalink: /:title:output_ext
 ## paparan waktu tzdata (IANA time zone database)
 timezone: Etc/UTC
-## paparan dan terjemah kandungan
-## ---TETAPAN LALAI---
-# liquid:
-#   error_mode        : warn
-#   strict_filters    : false
-#   strict_variables  : false
-# markdown: kramdown
-# kramdown:
-#   auto_ids          : true
-#   entity_output     : as_char
-#   toc_levels        : [1, 2, 3, 4, 5, 6]
-#   smart_quotes      : lsquo,rsquo,ldquo,rdquo
-#   input             : GFM
-#   hard_wrap         : false
-#   footnote_nr       : 1
-#   show_warnings     : false
-## ---TETAPAN LALAI---
 ## hasil paparan di luar talian perlu ada tetapan lain
 ## untuk menyamai hasil paparan di GitHub Pages
 ## ---TETAPAN LOCALHOST---
@@ -50,5 +33,4 @@ timezone: Etc/UTC
 ## baris di atas sengaja dinyahaktif
 
 ## lagi tetapan mengikut tema dan laman
-## https://pages.github.com/themes/
 ## https://jekyllrb.com/docs/configuration/
