@@ -6,27 +6,26 @@ description: Koleksi ringkas kosa kata
 
 ## tetapan bagi GitHub Pages
 theme: jekyll-theme-slate
-show_downloads: false
+show_downloads: false  # mengikut tema
 ## ---TETAPAN LALAI---
+## pautan mengikut pilihan dahan dan boleh diubah
 # github:
 #   repository_url: https://github.com/kmubiin/suaikata
 #   zip_url: https://github.com/kmubiin/suaikata/archive/master.zip
 #   tar_url: https://github.com/kmubiin/suaikata/archive/master.tar.gz
 ## ---TETAPAN LALAI---
-## baris di atas sengaja dinyahaktif
 
 ## tetapan bagi Jekyll
 url: https://kmubiin.github.io/suaikata
 permalink: /:title:output_ext
-## paparan waktu tzdata (IANA time zone database)
-timezone: Etc/UTC
+timezone: Etc/UTC  # tzdata (IANA time zone database)
+## ---TETAPAN LOCALHOST---
 ## hasil paparan di luar talian perlu ada tetapan lain
 ## untuk menyamai hasil paparan di GitHub Pages
-## ---TETAPAN LOCALHOST---
 # plugins:
-# - jekyll-relative-links
-# - jekyll-seo-tag          # jika perlu ikut tema
-# - jekyll-github-metadata  # jika perlu ikut tema
+#   - jekyll-relative-links
+#   - jekyll-seo-tag          # mengikut tema
+#   - jekyll-github-metadata  # mengikut tema
 # defaults:
 #   -
 #     scope:
@@ -34,7 +33,6 @@ timezone: Etc/UTC
 #     values:
 #       layout: "default"
 ## ---TETAPAN LOCALHOST---
-## baris di atas sengaja dinyahaktif
 
 ## lagi tetapan mengikut tema dan laman
 ## https://jekyllrb.com/docs/configuration/
