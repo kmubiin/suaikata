@@ -4,8 +4,6 @@ published: true
 
 ### Kandungan (bersuai)
 
-Kemas kini setakat [{{ site.time }}](termuat.md)
-
 Projek suaikata mempunyai pendekatan tersendiri bagi
 mengusahakan daftar kata. Suatu daftar kata harus bermula
 dengan senarai tanpa makna.
