@@ -13,7 +13,7 @@
   tarikh:  # tarikh usaha daftar ini jika ada
     mula: 2018-03-29
     siap: 2018-04-30  # juga tarikh muat
-    lengkap: 2019-04-06
+    ubah: 2019-04-06  # juga tarikh lengkap
   para:  # maklumat berkaitan dalam senarai
     penerbit: [archive, cabrinihigh, suaikata]
     pengusaha: [kmubiin, raafsmakmal]
@@ -38,7 +38,7 @@
   tarikh:
     mula:
     siap: 2018-05-03
-    lengkap:
+    ubah:
   para:
     penerbit: [suaikata]
     pengusaha: [raafsmakmal]
@@ -62,7 +62,7 @@
   tarikh:
     mula:
     siap: 2019-03-28
-    lengkap:
+    ubah:
   para:
     penerbit: [suaikata]
     pengusaha: [kmubiin]
@@ -84,7 +84,7 @@
   tarikh:
     mula:
     siap: 2020-04-06
-    lengkap:
+    ubah:
   para:
     penerbit: [suaikata]
     pengusaha: [kmubiin]
@@ -106,7 +106,7 @@
   tarikh:
     mula: 2020-03-08
     siap: 2020-04-08
-    lengkap:
+    ubah:
   para:
     penerbit: [suaikata]
     pengusaha: [kmubiin]
