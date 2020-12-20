@@ -33,6 +33,7 @@ timezone: Etc/UTC  # tzdata (IANA time zone database)
 #     values:
 #       layout: "default"
 ## ---TETAPAN LOCALHOST---
+includes_dir: _muat  # asalnya _includes
 
 ## lagi tetapan mengikut tema dan laman
 ## https://jekyllrb.com/docs/configuration/

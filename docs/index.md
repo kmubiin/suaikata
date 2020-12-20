@@ -16,17 +16,7 @@ membawakan takrif terpilih atau sekadar memadai.
 Syarat "sebut nama". Daftar kata itu boleh digunakan secara
 bebas dengan syarat menyatakan perakuan hak cipta asal.
 
-Keadaan projek pada masa ini:
-
-- Bilangan daftar: `{{ site.data.daftar | size }}`
-- Tarikh hadir: `{{ site.time }}`
-
-{% comment %}
-Keadaan projek memapar maklumat ringkas berdasarkan salinan
-maklumat yang disimpan sebagai data, paparan harus terhad
-pada beberapa baris sahaja, tarikh daftar dan tarikh terbit
-sedang diuji dan akan ditambah kemudian
-{% endcomment %}
+{% include keadaan.md %}
 
 Untuk maklumat lanjut, [lihat bersuai](bersuai.md)
 
