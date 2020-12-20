@@ -1,7 +1,4 @@
----
-published: false
-layout: null
----
+--- SELIDIK MULA ---
 
 Laman ini adalah laman khas untuk menyelidik kandungan yang
 boleh dicapai dengan anu terbina bagi Jekyll.
@@ -87,4 +84,4 @@ site.documents
 : subset site.collections
 : bilangan {{ site.documents.size }}
 {% endif %}
-
+--- SELIDIK TAMAT ---
