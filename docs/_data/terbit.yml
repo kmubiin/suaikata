@@ -10,7 +10,7 @@
   lagi:  # butir berkenaan dalam senarai jika ada
     - m:  # nama daftar yang dimuat jika ada
       n:  # git log --abbrev-commit \
-      o:  # --date=format:'%Y-%m-%d %z'
+      o:  # --date=short  # =format:'%Y-%m-%d'
       p:  # lagi huraian jika ada
 -
   id: '1.0'
@@ -22,13 +22,13 @@
   lagi:
     - m: katakerap
       n: '5c4032d'
-      o: 2018-05-03 +0800
+      o: 2018-05-03  # +0800
       p:  # git diff --stat 747de60 5c4032d
         Daftar kata kerap ada penamat baris CR yang hanya
         dikira 0 atau 1 baris (GitHub), sebenarnya 23020.
     - m: psat
       n: 'ae3db55'
-      o: 2018-05-08 +0800
+      o: 2018-05-08  # +0800
       p:  # git diff --stat c30f034 ae3db55
         Daftar PSAT ada lema sementara 24.
 -
@@ -41,39 +41,39 @@
   lagi:
     - m:
       n: '6adaf67'
-      o: 2018-11-10 +0800
+      o: 2018-11-10  # +0800
       p:  # git diff --stat 7df2543 6adaf67
         Daftar PSAT ada lema selesai 17, sementara 6.
         Pembaikan keluaran pertama (#18).
     - m:
       n: '7d62d70'
-      o: 2018-12-03 +0800
+      o: 2018-12-03  # +0800
       p:  # git diff --stat ad9c7d4 7d62d70
         Had panjang aksara adalah 60 setiap baris.
         Hasil kajian Mac 2018 (#2 berkait).
     - m:
       n: 'dfc9f2b'
-      o: 2019-02-24 +0800
+      o: 2019-02-24  # +0800
       p:  # git diff --stat c2065d5 dfc9f2b
         Selesai terjemah pendua dalam daftar PSAT (#23).
     - m:
       n: '34caf02'
-      o: 2019-03-26 +0800
+      o: 2019-03-26  # +0800
       p:  # git diff --stat cd36004 34caf02
         Selesai terjemah pilihan salah daftar PSAT (#26).
     - m: ms2
       n: '3438cb7'
-      o: 2019-03-28 +0800
+      o: 2019-03-28  # +0800
       p:  # git diff --stat a1a2b0d 3438cb7
         Daftar kata dua-huruf Melayu (ms2).
     - m:
       n: '4a00c5d'
-      o: 2019-04-06 +0800
+      o: 2019-04-06  # +0800
       p:  # git diff --stat 3bce53a 4a00c5d
         Selesai lengkap daftar PSAT (#27), ada 344 lema.
     - m:
       n: 'd250f16'
-      o: 2019-10-31 +0000  # mula guna tarikh dan masa UTC
+      o: 2019-10-31  # mula guna tarikh UTC
       p:  # git diff --stat 58628bd d250f16
         Terbitan jangka panjang ke-2 selepas 1.0.
 -
@@ -86,34 +86,34 @@
   lagi:
     - m:
       n: 'bb12376'
-      o: 2020-04-03 +0000
+      o: 2020-04-03
       p:  # git diff --stat 993e547 bb12376
         Semua nota terbitan ada butir perubahan.
     - m: en2
       n: 'a93f3c5'
-      o: 2020-04-06 +0000
+      o: 2020-04-06
       p:  # git diff --stat b2b7058 a93f3c5
         Daftar kata dua-huruf Inggeris (en2).
     - m: kerapu
       n: '30c95bf'
-      o: 2020-04-08 +0000
+      o: 2020-04-08
       p:  # git diff --stat 77f4e27 30c95bf
         Daftar kata kerap unik (kerapu).
         Selesai salin dan perbaik daftar kata kerap (#32).
     - m:
       n: '1bb4ab1'
-      o: 2020-04-20 +0000
+      o: 2020-04-20
       p:  # git diff --stat f28ff8a 1bb4ab1
         Hasil kajian April 2020 (2004).
     - m:
       n: '6d2092a'
-      o: 2020-07-05 +0000
+      o: 2020-07-05
       p:  # git diff --stat 6858af2 6d2092a
         Permudah simpanan daftar dan bab panduan (#34).
         Perbetul aksara tanda petik satu (#35).
     - m:
       n: 'f8c9d65'
-      o: 2020-07-26 +0000
+      o: 2020-07-26
       p:  # git diff --stat e0cf155 f8c9d65
         Selesai kemas dan capai semula dari bersuai (#38).
 -
@@ -126,7 +126,7 @@
   lagi:
     - m:
       n: '527ac21'
-      o: 2020-07-31 +0000
+      o: 2020-07-31
       p:  # git diff --stat e0a1fa2 527ac21
         Terbitan jangka panjang ke-3 selepas 1.4.1.
         Sebelum ini, terbitan asal X.Y dan imbuh X.Y.Z, kini
@@ -144,7 +144,7 @@
   lagi:
     - m:
       n: '8746219'
-      o: 2020-11-12 +0000
+      o: 2020-11-12
       p:  # git diff --stat eead24c 8980ac5
         Selesai isu kandungan terabai arkib/utama (#44).
 ...
