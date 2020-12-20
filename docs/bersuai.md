@@ -25,24 +25,7 @@ membuat kajian rinci. Hasil kajian terawal ialah Mac 2018.
 Berikut adalah senarai daftar kata yang diusahakan secara
 rasmi oleh projek suaikata.
 
-{% assign d = site.data.daftar %}{% assign di = 0 %}
-<ul>{% for sa in d %}{% if sa.ciri.rasmi %}
-<li>"{{ sa.nama.c }}"{% capture di %}{% increment i %}{% endcapture %}
-oleh {{ sa.para.pengusaha | join: ", " }}</li>
-{% endif %}{% endfor %}</ul>
-
-Bilangan daftar rasmi/semua:
-{{ di | plus: 1 }}/{{ d.size }}
-
-{% comment %}
-Kod Liquid di atas sengaja ditulis rapat sedemikian supaya
-hasil tukaran ke kod HTML adalah lebih baik. Sama ada
-kebolehan terhad atau keadaan ralat pada Liquid.
-{% endcomment %}
-
-> Kajian daftar telah disalin semula sebagai data dan boleh
-> dipapar melalui `site.data.daftar`, kecuali paparan sedang
-> diuji pada masa ini
+{% include senarai.md %}
 
 laman kembali: [utama][0]
 
