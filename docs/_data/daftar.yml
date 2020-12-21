@@ -11,8 +11,8 @@
   sumber:  # sumber asal daftar ini jika ada
     https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
   tarikh:  # tarikh usaha daftar ini jika ada
+    c: 2018-05-08  # tarikh muat untuk rujukan lalai
     mula: 2018-03-29
-    siap: 2018-04-30  # juga tarikh muat
     ubah: 2019-04-06  # juga tarikh lengkap
   para:  # maklumat berkaitan dalam senarai
     penerbit: [archive, cabrinihigh, suaikata]
@@ -36,8 +36,8 @@
     c: kata kerap
   sumber:
   tarikh:
+    c: 2018-05-03
     mula:
-    siap: 2018-05-03
     ubah:
   para:
     penerbit: [suaikata]
@@ -60,8 +60,8 @@
     c: kata dua-huruf Melayu
   sumber:
   tarikh:
+    c: 2019-03-28
     mula:
-    siap: 2019-03-28
     ubah:
   para:
     penerbit: [suaikata]
@@ -82,8 +82,8 @@
     c: kata dua-huruf Inggeris
   sumber:
   tarikh:
+    c: 2020-04-06
     mula:
-    siap: 2020-04-06
     ubah:
   para:
     penerbit: [suaikata]
@@ -104,8 +104,8 @@
     c: kata kerap unik
   sumber:
   tarikh:
+    c: 2020-04-08
     mula: 2020-03-08
-    siap: 2020-04-08
     ubah:
   para:
     penerbit: [suaikata]
