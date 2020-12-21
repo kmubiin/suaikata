@@ -1,64 +1,25 @@
 Semua kandungan dalam arkib adalah salinan maklumat
-bersejarah. Kandungan disusun mengikut tarikh peristiwa atau
-tarikh terawal dokumen. Tarikh mesti ada, tetapi pautan atau
-dokumen tidak semestinya ada.
+bersejarah. Tambah kandungan di baris paling bawah dalam
+senarai. Hanya satu kandungan setiap baris.
 
-2018-02-25  
-[Helai daftar awal](2018/ha.md)
-
-2018-03-12  
-[Papan Projek 1 - Rancangan](2018/pp1.md)  
-[Papan Projek 2 - Pencapaian](2018/pp2.md)  
-[Papan Projek 3 - Semasa](2018/pp3.md)
-
-2018-04-28  
-[Helai daftar beregu](2018/hb.md)
-
-2018-04-30  
-Daftar PSAT telah siap:  
-[Kajian daftar 1](2018/kd1.md)
-
-2018-05-03  
-Daftar kata kerap telah siap:  
-[Kajian daftar 2](2018/kd2.md)
-
-2018-05-09 (UTC)  
-Terbitan 1.0 tersimpan di GitHub
-
-2018-12-02  
-[Imbas tahun 2018](2018/t1.md)
-
-2019-03-31  
-[Kumpulan helai daftar](2019/kh.md)
-
-2019-04-01  
-[Helai daftar beregu terperinci](2019/hb10.md)
-
-2019-12-02  
-[Imbas tahun 2019](2019/t2.md)
-
-2020-02-20 (UTC)  
-Terbitan 1.4.1 tersalin bagi GitHub Archive Program
-
-2020-03-10  
-[Rumus gunaan daftar kerapu](2020/rh3.md)  
-[Daftar kerapu ada hasil #N/A](2020/rh3na.md)
-
-2020-04-08  
-Daftar kerapu telah siap:  
-[Kajian daftar 3](2020/kd3.md)
-
-2020-08-08  
-[Objek gunaan pertama di laman Jekyll](2020/obj1.md)
-
-2020-09-14  
-Kajian daftar dahulu tersalin di arkib  
-Maklumat meta kajian boleh dicapai melalui `site.data`  
-[Kod cubaan awal memapar data](2020/dat1.md)
+- [Helai daftar awal](2018/ha.md)
+- [Papan Projek 1 - Rancangan](2018/pp1.md)
+- [Papan Projek 2 - Pencapaian](2018/pp2.md)
+- [Papan Projek 3 - Semasa](2018/pp3.md)
+- [Helai daftar beregu](2018/hb.md)
+- [Kajian daftar 1](2018/kd1.md)
+- [Kajian daftar 2](2018/kd2.md)
+- [Imbas tahun 2018](2018/t1.md)
+- [Kumpulan helai daftar](2019/kh.md)
+- [Helai daftar beregu terperinci](2019/hb10.md)
+- [Imbas tahun 2019](2019/t2.md)
+- [Rumus gunaan daftar kerapu](2020/rh3.md)
+- [Daftar kerapu ada hasil #N/A](2020/rh3na.md)
+- [Kajian daftar 3](2020/kd3.md)
+- [Objek gunaan pertama di laman Jekyll](2020/obj1.md)
+- [Kod cubaan awal memapar data](2020/dat1.md)
 
 > Lagi salinan maklumat bersejarah?
 
-&nbsp;  
-laman kembali: [README][0]
+Laman ini hanya boleh dicapai dari [README](../README.md)
 
-  [0]: ../README.md
