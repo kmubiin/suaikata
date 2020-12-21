@@ -143,6 +143,16 @@
     muat: false
   lagi:
     - m:
+      n: 'c70eac8'
+      o: 2020-08-12
+      p:  # git diff --stat 41f1932 c70eac8
+        Pindah glosari ke aras sama dengan laman utama.
+    - m:
+      n: '0fb4466'
+      o: 2020-10-16
+      p:  # git diff --stat e9ed4c5 0fb4466
+        Buang kod cubaan dan pindah bersama nota ke arkib.
+    - m:
       n: '8746219'
       o: 2020-11-12
       p:  # git diff --stat eead24c 8980ac5
