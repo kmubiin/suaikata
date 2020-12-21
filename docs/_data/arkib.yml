@@ -1,0 +1,130 @@
+# maklumat meta bagi kandungan bersejarah dalam projek
+---
+-
+  o: 2018-02-25         # tarikh terawal kandungan
+  t: Helai daftar awal  # tajuk kandungan
+  u: arkib/2018/ha.md   # kandungan relatif jika ada
+  v:  # lagi huraian jika ada
+    Kandungan terawal di arkib.
+-
+  o: 2018-03-12
+  t: Papan Projek 1 - Rancangan
+  u: arkib/2018/pp1.md
+  v:
+    Salinan teks penuh bagi papan projek rancangan.
+    Kemas kini 7 Nov, semakan terakhir 17 Nov 2018.
+-
+  o: 2018-03-12
+  t: Papan Projek 2 - Pencapaian
+  u: arkib/2018/pp2.md
+  v:
+    Salinan teks penuh bagi papan projek pencapaian.
+    Kemas kini 19 May, semakan terakhir 17 Nov 2018.
+-
+  o: 2018-03-12
+  t: Papan Projek 3 - Semasa
+  u: arkib/2018/pp3.md
+  v:
+    Salinan teks penuh bagi papan projek semasa.
+    Kemas kini 15 Nov, semakan terakhir 17 Nov 2018.
+-
+  o: 2018-04-28
+  t: Helai daftar beregu
+  u: arkib/2018/hb.md
+  v:
+    Helai daftar beregu telah dicipta untuk membangunkan
+    daftar dwibahasa pertama oleh dua ahli projek.
+-
+  o: 2018-04-30
+  t: Kajian daftar 1
+  u: arkib/2018/kd1.md
+  v:
+    Kajian daftar pertama bagi kata kerap PSAT.
+-
+  o: 2018-05-03
+  t: Kajian daftar 2
+  u: arkib/2018/kd2.md
+  v:
+    Kajian daftar kedua bagi kata kerap (Inggeris).
+-
+  o: 2018-05-09
+  t: Terbitan 1.0 tersimpan di GitHub
+  u:
+  v:
+-
+  o: 2018-12-02
+  t: Imbas tahun 2018
+  u: arkib/2018/t1.md
+  v:  # git log --since=2018-01-01 --until=2018-12-31
+    Tahun 2018 adalah tahun pertama projek suaikata.
+-
+  o: 2019-03-31
+  t: Kumpulan helai daftar
+  u: arkib/2019/kh.md
+  v:
+    Helai daftar pada mulanya dibahagi kepada tiga kumpulan
+    iaitu; tidak berkumpulan, lazim, regu.
+-
+  o: 2019-04-01
+  t: Helai daftar beregu terperinci
+  u: arkib/2019/hb10.md
+  v:
+    Maklumat terperinci bagi helai daftar beregu dari segi
+    paparan, kejadian, peranan tanda soal dan tanda pagar,
+    kegunaan warna, dan kesesuaian cara kerja.
+-
+  o: 2019-12-02
+  t: Imbas tahun 2019
+  u: arkib/2019/t2.md
+  v:  # git log --since=2019-01-01 --until=2019-12-31
+    Tahun 2019 adalah tahun kedua projek suaikata.
+-
+  o: 2020-02-20
+  t: Terbitan 1.4.1 tersalin bagi GitHub Archive Program
+  u:
+  v:
+-
+  o: 2020-03-10
+  t: Rumus gunaan daftar kerapu
+  u: arkib/2020/rh3.md
+  v:
+    Senarai rumus gunaan yang digunakan untuk menghasilkan
+    lajur baharu “terjemah” dalam daftar kerapu, dengan
+    perisian komputer LibreOffice Calc.
+-
+  o: 2020-03-10
+  t: Daftar kerapu ada hasil "#N/A"
+  u: arkib/2020/rh3na.md
+  v:
+    Semasa mengusahakan daftar kata kerap unik (kerapu),
+    rumus gunaan memberi jumlah baris unik yang salah. Hal
+    ini kerana baris tertentu ada hasil "#N/A".
+-
+  o: 2020-04-08
+  t: Kajian daftar 3
+  u: arkib/2020/kd3.md
+  v:
+    Kajian daftar ketiga bagi kata kerap unik (Inggeris).
+-
+  o: 2020-08-08
+  t: Objek gunaan pertama di laman Jekyll
+  u: arkib/2020/obj1.md
+  v:
+    Objek gunaan boleh digunakan untuk memapar senarai laman
+    yang ditanda dengan suatu kategori. Namun, hanya laman
+    bertarikh (post) yang berada dalam "_posts" akan dipapar
+    dan laman umum (page) yang berada di luar diabai.
+-
+  o: 2020-09-14
+  t: Maklumat meta boleh dicapai melalui "site.data"
+  u:
+  v:
+-
+  o: 2020-09-14
+  t: Kod cubaan awal memapar data
+  u: arkib/2020/dat1.md
+  v:
+    Mengikut cara Liquid, data harus ditukar menjadi string
+    terlebih dahulu sebelum menjadi array. Hasilnya, data
+    dapat disusun tetapi bukan lagi objek seperti asal.
+...
