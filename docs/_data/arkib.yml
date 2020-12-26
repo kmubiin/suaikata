@@ -1,130 +1,124 @@
 # maklumat meta bagi kandungan bersejarah dalam projek
 ---
 -
-  o: 2018-02-25         # tarikh terawal kandungan
-  t: Helai daftar awal  # tajuk kandungan
-  u: arkib/2018/ha.md   # kandungan relatif jika ada
-  v:  # lagi huraian jika ada
-    Kandungan terawal di arkib.
+  o: 2018-02-25  # tarikh kandungan
+  p:  # petunjuk kandungan
+    Perihal helai daftar awal.
+    # sebaris huraian pendek dan lagi huraian jika ada
+  q: Helai daftar awal  # tajuk rujukan jika ada
+  r: arkib/2018/ha.md   # pautan rujukan jika ada
 -
   o: 2018-03-12
-  t: Papan Projek 1 - Rancangan
-  u: arkib/2018/pp1.md
-  v:
+  p:
+    Laman rancangan projek suaikata.
     Salinan teks penuh bagi papan projek rancangan.
     Kemas kini 7 Nov, semakan terakhir 17 Nov 2018.
+  q: Papan Projek 1 - Rancangan
+  r: arkib/2018/pp1.md
 -
   o: 2018-03-12
-  t: Papan Projek 2 - Pencapaian
-  u: arkib/2018/pp2.md
-  v:
+  p:
+    Laman pencapaian projek suaikata.
     Salinan teks penuh bagi papan projek pencapaian.
     Kemas kini 19 May, semakan terakhir 17 Nov 2018.
+  q: Papan Projek 2 - Pencapaian
+  r: arkib/2018/pp2.md
 -
   o: 2018-03-12
-  t: Papan Projek 3 - Semasa
-  u: arkib/2018/pp3.md
-  v:
+  p:
+    Laman semasa projek suaikata.
     Salinan teks penuh bagi papan projek semasa.
     Kemas kini 15 Nov, semakan terakhir 17 Nov 2018.
+  q: Papan Projek 3 - Semasa
+  r: arkib/2018/pp3.md
 -
   o: 2018-04-28
-  t: Helai daftar beregu
-  u: arkib/2018/hb.md
-  v:
-    Helai daftar beregu telah dicipta untuk membangunkan
-    daftar dwibahasa pertama oleh dua ahli projek.
+  p:
+    Perihal helai daftar beregu.
+  q: Helai daftar beregu
+  r: arkib/2018/hb.md
 -
   o: 2018-04-30
-  t: Kajian daftar 1
-  u: arkib/2018/kd1.md
-  v:
-    Kajian daftar pertama bagi kata kerap PSAT.
+  p:
+    Kajian daftar kata kerap PSAT.
+    Ini adalah kajian daftar pertama.
+  q: Kajian daftar 1
+  r: arkib/2018/kd1.md
 -
   o: 2018-05-03
-  t: Kajian daftar 2
-  u: arkib/2018/kd2.md
-  v:
-    Kajian daftar kedua bagi kata kerap (Inggeris).
--
-  o: 2018-05-09
-  t: Terbitan 1.0 tersimpan di GitHub
-  u:
-  v:
+  p:
+    Kajian daftar kata kerap (Inggeris).
+    Ini adalah kajian daftar kedua.
+  q: Kajian daftar 2
+  r: arkib/2018/kd2.md
 -
   o: 2018-12-02
-  t: Imbas tahun 2018
-  u: arkib/2018/t1.md
-  v:  # git log --since=2018-01-01 --until=2018-12-31
+  p:  # git log --since=2018-01-01 --until=2018-12-31
     Tahun 2018 adalah tahun pertama projek suaikata.
+  q: Imbas tahun 2018
+  r: arkib/2018/t1.md
 -
   o: 2019-03-31
-  t: Kumpulan helai daftar
-  u: arkib/2019/kh.md
-  v:
+  p:
+    Perihal kumpulan helai daftar.
     Helai daftar pada mulanya dibahagi kepada tiga kumpulan
-    iaitu; tidak berkumpulan, lazim, regu.
+    iaitu, tidak berkumpulan; lazim; regu.
+  q: Kumpulan helai daftar
+  r: arkib/2019/kh.md
 -
   o: 2019-04-01
-  t: Helai daftar beregu terperinci
-  u: arkib/2019/hb10.md
-  v:
-    Maklumat terperinci bagi helai daftar beregu dari segi
-    paparan, kejadian, peranan tanda soal dan tanda pagar,
-    kegunaan warna, dan kesesuaian cara kerja.
+  p:
+    Perihal helai daftar beregu terperinci.
+    Maklumat paparan, kejadian, peranan tanda soal dan tanda
+    pagar, kegunaan warna, dan kesesuaian cara kerja.
+  q: Helai daftar beregu terperinci
+  r: arkib/2019/hb10.md
 -
   o: 2019-12-02
-  t: Imbas tahun 2019
-  u: arkib/2019/t2.md
-  v:  # git log --since=2019-01-01 --until=2019-12-31
+  p:  # git log --since=2019-01-01 --until=2019-12-31
     Tahun 2019 adalah tahun kedua projek suaikata.
--
-  o: 2020-02-20
-  t: Terbitan 1.4.1 tersalin bagi GitHub Archive Program
-  u:
-  v:
+  q: Imbas tahun 2019
+  r: arkib/2019/t2.md
 -
   o: 2020-03-10
-  t: Rumus gunaan daftar kerapu
-  u: arkib/2020/rh3.md
-  v:
+  p:
+    Perihal rumus bagi helai daftar.
     Senarai rumus gunaan yang digunakan untuk menghasilkan
-    lajur baharu “terjemah” dalam daftar kerapu, dengan
-    perisian komputer LibreOffice Calc.
+    lajur baharu “terjemah” dalam daftar kerapu.
+  q: Rumus gunaan daftar kerapu
+  r: arkib/2020/rh3.md
 -
   o: 2020-03-10
-  t: Daftar kerapu ada hasil "#N/A"
-  u: arkib/2020/rh3na.md
-  v:
-    Semasa mengusahakan daftar kata kerap unik (kerapu),
-    rumus gunaan memberi jumlah baris unik yang salah. Hal
-    ini kerana baris tertentu ada hasil "#N/A".
+  p:
+    Perihal hasil luar dugaan bagi helai daftar.
+    Semasa mengusahakan daftar kerapu, rumus gunaan memberi
+    jumlah baris unik yang salah kerana ada hasil "#N/A".
+  q: Daftar kerapu ada hasil "#N/A"
+  r: arkib/2020/rh3na.md
 -
   o: 2020-04-08
-  t: Kajian daftar 3
-  u: arkib/2020/kd3.md
-  v:
-    Kajian daftar ketiga bagi kata kerap unik (Inggeris).
+  p:
+    Kajian daftar kata kerap unik (Inggeris).
+    Ini adalah kajian daftar ketiga.
+  q: Kajian daftar 3
+  r: arkib/2020/kd3.md
 -
   o: 2020-08-08
-  t: Objek gunaan pertama di laman Jekyll
-  u: arkib/2020/obj1.md
-  v:
-    Objek gunaan boleh digunakan untuk memapar senarai laman
-    yang ditanda dengan suatu kategori. Namun, hanya laman
-    bertarikh (post) yang berada dalam "_posts" akan dipapar
-    dan laman umum (page) yang berada di luar diabai.
+  p:
+    Perihal objek bagi laman Jekyll.
+    Senarai laman bagi suatu kategori boleh dipapar melalui
+    objek, tetapi terhad pada laman bertarikh (post) dalam
+    "_posts" dan laman umum (page) di luar diabai.
+  q: Objek gunaan pertama di laman Jekyll
+  r: arkib/2020/obj1.md
 -
   o: 2020-09-14
-  t: Maklumat meta boleh dicapai melalui "site.data"
-  u:
-  v:
--
-  o: 2020-09-14
-  t: Kod cubaan awal memapar data
-  u: arkib/2020/dat1.md
-  v:
+  p:
+    Perihal tukaran data oleh Liquid.
+    Data dalam "_data" boleh dicapai melalui "site.data".
     Mengikut cara Liquid, data harus ditukar menjadi string
     terlebih dahulu sebelum menjadi array. Hasilnya, data
     dapat disusun tetapi bukan lagi objek seperti asal.
+  q: Kod cubaan awal memapar data
+  r: arkib/2020/dat1.md
 ...
