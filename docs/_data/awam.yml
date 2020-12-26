@@ -1,78 +1,71 @@
 # maklumat meta bagi sumber awam
 ---
 -
-  r: ia                    # nama rujukan tetap
-  s: false                 # adakah ini senarai kata
-  t: Internet Archive      # tajuk atau nama sumber
-  u: https://archive.org/  # alamat web sumber
+  s: false             # adakah ini senarai kata
+  t: Internet Archive  # nama sumber
+  u: ia                # nama rujukan pendek
   v:  # huraian tentang sumber
     Internet Archive ialah sebuah perpustakaan digital
-    bukan untung dengan misi "capaian universal kepada semua
-    pengetahuan". Sumber ini menyediakan kemudahan awam
-    untuk mencapai kumpulan bahan digital secara percuma.
-    Senarai kata masukan daripada sumber domain awam boleh
-    dicari di Internet Archive, dan laman web yang hilang
-    mungkin boleh dilihat semula melalui Wayback Machine.
+    bukan untung. Pengguna awam boleh mencapai kumpulan
+    bahan digital secara percuma. Laman web yang hilang pula
+    boleh dilihat semula melalui Wayback Machine.
+  w: https://archive.org/  # alamat web sumber
 -
-  r: wt
   s: false
   t: Wiktionary
-  u: https://wiktionary.org/
+  u: wt
   v:
     Wiktionary atau KamusWiki ialah projek saudara Wikipedia
-    untuk menghasilkan kamus bebas. Edisi bahasa Inggeris
-    telah dibuka sejak akhir-2002, manakala edisi bahasa
-    Melayu sejak pertengahan-2004.
-    Senarai kata masukan tanpa makna boleh didapati di
-    beberapa laman khas di Wiktionary. Contohnya seperti
-    Simple English word list, Frequency lists (WT:FL), dan
-    Basic English alphabetical wordlist (WT:BE850).
-    Bagaimanapun, edisi bahasa Melayu setakat ini belum ada
+    untuk menghasilkan kamus bebas. Senarai kata masukan
+    tanpa makna boleh didapati di beberapa laman khas
+    seperti Simple English word list, Frequency lists
+    (WT:FL), dan Basic English alphabetical wordlist
+    (WT:BE850). Bagaimanapun, edisi bahasa Melayu tidak ada
     laman khas sepertimana edisi bahasa Inggeris.
+  w: https://wiktionary.org/
 -
-  r: wtsl
   s: true
   t: Wiktionary:Simple_English_word_list
-  u: https://simple.wiktionary.org/wiki/Wiktionary:Simple_English_word_list
+  u: wtsl
   v:  # salinan teks dalam bahasa asal
     You can change this page. Please keep the number of
     words the same. If you put a word in, take a different
     word out. Please talk on the talk page. Let's work
     together to make a list of words for Simple English that
     we can all use.
+  w: https://simple.wiktionary.org/wiki/Wiktionary:Simple_English_word_list
 -
-  r: wtfl
   s: true
   t: Wiktionary:Frequency_lists
-  u: https://en.wiktionary.org/wiki/WT:FL
+  u: wtfl
   v:  # salinan teks dalam bahasa asal
     Shortcut is `WT:FL` or `WT:FREQ`.
     Counting words and lemmas. The following frequency lists
     count distinct orthographic words, including inflected
     and some capitalised forms. For example, the verb "to
     be" is represented by "is", "are", "were", and so on.
+  w: https://en.wiktionary.org/wiki/WT:FL
 -
-  r: be850
   s: true
   t: Wiktionary:Basic_English_alphabetical_wordlist
-  u: https://simple.wiktionary.org/wiki/WT:BE850
+  u: be850
   v:  # salinan teks dalam bahasa asal
     Shortcut is `WT:BE850` or `BE850`.
     This is a list of the 850 words of Charles Kay Ogden's
     Basic English, in alphabetical order.
+  w: https://simple.wiktionary.org/wiki/WT:BE850
 -
-  r: bnc1k
   s: true
   t: Wiktionary:Most_frequent_1000_words_in_English
-  u: https://simple.wiktionary.org/wiki/Wiktionary:Most_frequent_1000_words_in_English
+  u: bnc1k
   v:  # salinan teks dalam bahasa asal
     Do not change this page. These words are from
     Wiktionary:BNC spoken freq 01.
+  w: https://simple.wiktionary.org/wiki/Wiktionary:Most_frequent_1000_words_in_English
 -
-  r: wy
   s: false
   t: Wikipedia
-  u: https://wikipedia.org/
+  u: wy
   v:
     Wikipedia ialah sebuah ensiklopedia bebas yang boleh
     disunting oleh pengguna ramai. Ensiklopedia ini bermula
@@ -83,49 +76,49 @@
     masukan dalam bahasa Melayu yang tersendiri di laman
     berasingan. Jika tiada senarai berkenaan di Wiktionary,
     boleh rujuk di Wikipedia.
+  w: https://wikipedia.org/
 -
-  r: wyen42
   s: true
-  t: List of English words of Indonesian origin - Wikipedia
-  u: https://en.wikipedia.org/wiki/List_of_English_words_of_Indonesian_origin
+  t: List of English words of Indonesian origin (wiki)
+  u: wyen42
   v:  # salinan teks dalam bahasa asal
     The following is a partial list of English words of
     Indonesian origin. The loanwords in this list may be
     borrowed or derived, either directly or indirectly, from
     the Indonesian language.
+  w: https://en.wikipedia.org/wiki/List_of_English_words_of_Indonesian_origin
 -
-  r: wyen37
   s: true
-  t: List of English words of Malay origin - Wikipedia
-  u: https://en.wikipedia.org/wiki/List_of_English_words_of_Malay_origin
+  t: List of English words of Malay origin (wiki)
+  u: wyen37
   v:  # salinan teks dalam bahasa asal
     This is a partial list of loanwords in English language,
     that were borrowed or derived, either directly or
     indirectly, from Malay language.
+  w: https://en.wikipedia.org/wiki/List_of_English_words_of_Malay_origin
 -
-  r: wyms18
   s: false
-  t: Kategori:Perbendaharaan kata - Wikipedia bahasa Melayu
-  u: https://ms.wikipedia.org/wiki/Kategori:Perbendaharaan_kata
+  t: Kategori:Perbendaharaan kata (wiki)
+  u: wyms18
   v:
     Laman khas ini mengandungi subkategori seperti Bahasa
     kiasan, Frasa, Glosari, Istilah, Kata, Kata kesat,
     Leksi, dan Perkataan. Laman khas ini juga mengandungi
     laman umum yang berkenaan seperti Perbendaharaan kata.
+  w: https://ms.wikipedia.org/wiki/Kategori:Perbendaharaan_kata
 -
-  r: wyms10
   s: false
-  t: Kategori:Peribahasa - Wikipedia bahasa Melayu
-  u: https://ms.wikipedia.org/wiki/Kategori:Peribahasa
+  t: Kategori:Peribahasa (wiki)
+  u: wyms10
   v:
     Laman khas ini mengandungi subkategori seperti Simpulan
     bahasa. Laman khas ini juga mengandungi laman umum
     seperti Senarai peribahasa (A-M) dan (N-Z).
+  w: https://ms.wikipedia.org/wiki/Kategori:Peribahasa
 -
-  r: wyms79
   s: true
-  t: Senarai kata pinjaman dari bahasa Arab dalam bahasa Melayu dan bahasa Indonesia - Wikipedia bahasa Melayu
-  u: https://ms.wikipedia.org/wiki/Senarai_kata_pinjaman_dari_bahasa_Arab_dalam_bahasa_Melayu_dan_bahasa_Indonesia
+  t: Senarai kata pinjaman dari bahasa Arab (wiki)
+  u: wyms79
   v:  # salinan teks dalam bahasa asal
     Perbendaharaan kata bahasa Melayu yang berasal dari
     bahasa Arab cukup banyak, diperkirakan sekitar 2,000 -
@@ -134,22 +127,22 @@
     Sebagian kata-kata Arab ini masih utuh dalam erti yang
     sesuai antara sebutan dan maknanya, dan ada sebahagian
     lagi berubah.
+  w: https://ms.wikipedia.org/wiki/Senarai_kata_pinjaman_dari_bahasa_Arab_dalam_bahasa_Melayu_dan_bahasa_Indonesia
 -
-  r: wyms58
   s: false
-  t: Perbezaan antara Bahasa Melayu Piawai dan Bahasa Indonesia - Wikipedia bahasa Melayu
-  u: https://ms.wikipedia.org/wiki/Perbezaan_antara_Bahasa_Melayu_Piawai_dan_Bahasa_Indonesia
+  t: Perbezaan antara Bahasa Melayu Piawai dan Bahasa Indonesia (wiki)
+  u: wyms58
   v:
     Laman umum ini mengandungi beberapa senarai dalam
     bentuk jadual di bawah tajuk kecil seperti Perbezaan
     kosa kata, Sama kata lain erti, dan Sama kata tetapi
     huruf berbeza.
+  w: https://ms.wikipedia.org/wiki/Perbezaan_antara_Bahasa_Melayu_Piawai_dan_Bahasa_Indonesia
 -
-  r: iams38
   s: false
   t: Perkataan pinjaman dalam Bahasa Melayu (arkib)
-  u: https://web.archive.org/web/20140723030634/http://lincahtaiping.wordpress.com/2008/08/29/perkataan-pinjaman-dalam-bahasa-melayu/
-  v:  # rumusan bukan salinan teks penuh pada sumber
+  u: iams38
+  v:
     Satu rencana tentang perkataan pinjaman dalam bahasa
     Melayu telah diterbit pada 29 Ogos 2008 di suatu blog,
     yang kini ditanda peribadi. Bagaimanapun, pengguna awam
@@ -160,4 +153,5 @@
     Kamus Dewan (1989, 1984). Diberi jumlah kata dasar dalam
     kamus tersebut ialah 28,651. Oleh itu, kadar jumlah kata
     pinjaman terhadap jumlah kata dasar ialah 35%.
+  w: https://web.archive.org/web/20140723030634/http://lincahtaiping.wordpress.com/2008/08/29/perkataan-pinjaman-dalam-bahasa-melayu/
 ...
