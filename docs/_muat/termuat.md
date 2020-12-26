@@ -8,7 +8,6 @@ site.repository
 
 site.url
 : {{ site.url }}
-: bersumber pada [index.md](index.md)
 
 site.time
 : {{ site.time }}
@@ -30,28 +29,24 @@ kandungan data selebihnya
 
 {% if site.data.size > 0 %}
 {% for d in site.data %}
-  {% if d[1].size > 2 %}
-    site.data.{{ d[0] }}
-    : bilangan {{ d[1].size }}
-    : terakhir {{ d[1].last }}
-  {% else %}
-    site.data.{{ d[0] }}
-    : {{ d[1] }}
-  {% endif %}
+{% if d[1].size > 2 %}
+site.data.{{ d[0] }}
+: bilangan {{ d[1].size }}
+: terakhir {{ d[1].last }}
+{% else %}
+site.data.{{ d[0] }}
+: {{ d[1] }}
+{% endif %}
 {% endfor %}
 {% endif %}
 
 site.pages
 : bilangan {{ site.pages.size }}
-
-{% if site.html_pages.size > 0 %}
-site.html_pages
-: subset site.pages
-: bilangan {{ site.html_pages.size }}
-{% endif %}
+: bilangan html {{ site.html_pages.size }}
 
 site.static_files
 : bilangan {{ site.static_files.size }}
+: bilangan html {{ site.html_files.size }}
 
 {% comment %}
 kandungan `site.static_files` hadir sebagai longgokan data
@@ -59,12 +54,6 @@ terbina Jekyll; gunakan `for f in site.static_files` dan
 capai objek `f` dengan `f.path`, `f.modified_time`,
 `f.name`, `f.basename`, `f.extname` bagi metadata fail
 {% endcomment %}
-
-{% if site.html_files.size > 0 %}
-site.html_files
-: subset site.static_files
-: bilangan {{ site.html_files.size }}
-{% endif %}
 
 site.posts
 : bilangan {{ site.posts.size }}
