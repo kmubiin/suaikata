@@ -40,13 +40,13 @@
     muat: true   # mewarisi ms2 dari 1.4.0
   lagi:
     - m:
-      n: '6adaf67'
+      n: '6adaf67'  # merge 7df2543 1c6c2d0
       o: 2018-11-10  # +0800
       p:  # git diff --stat 7df2543 6adaf67
         Daftar PSAT ada lema selesai 17, sementara 6.
         Pembaikan keluaran pertama (#18).
     - m:
-      n: '7d62d70'
+      n: '7d62d70'  # merge ad9c7d4 b515952
       o: 2018-12-03  # +0800
       p:  # git diff --stat ad9c7d4 7d62d70
         Had panjang aksara adalah 60 setiap baris.
@@ -67,12 +67,12 @@
       p:  # git diff --stat a1a2b0d 3438cb7
         Daftar kata dua-huruf Melayu (ms2).
     - m:
-      n: '4a00c5d'
+      n: '4a00c5d'  # merge 3bce53a 29dcebc
       o: 2019-04-06  # +0800
       p:  # git diff --stat 3bce53a 4a00c5d
         Selesai lengkap daftar PSAT (#27), ada 344 lema.
     - m:
-      n: 'd250f16'
+      n: 'd250f16'  # merge 58628bd a27b840
       o: 2019-10-31  # mula guna tarikh UTC
       p:  # git diff --stat 58628bd d250f16
         Terbitan jangka panjang ke-2 selepas 1.0.
@@ -106,7 +106,7 @@
       p:  # git diff --stat f28ff8a 1bb4ab1
         Hasil kajian April 2020 (2004).
     - m:
-      n: '6d2092a'
+      n: '6d2092a'  # merge 6858af2 1436fc0
       o: 2020-07-05
       p:  # git diff --stat 6858af2 6d2092a
         Permudah simpanan daftar dan bab panduan (#34).
@@ -153,7 +153,7 @@
       p:  # git diff --stat e9ed4c5 0fb4466
         Buang kod cubaan dan pindah bersama nota ke arkib.
     - m:
-      n: '8746219'
+      n: '8746219'  # merge eead24c 8980ac5
       o: 2020-11-12
       p:  # git diff --stat eead24c 8980ac5
         Selesai isu kandungan terabai arkib/utama (#44).
