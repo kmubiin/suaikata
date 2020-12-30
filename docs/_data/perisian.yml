@@ -114,4 +114,14 @@
     atau membuang baris mengikut kedudukan baris dalam teks
     biasa umpama baris dalam helaian rebak.
   w: https://www.gnu.org/software/sed/
+-
+  s: true
+  t: yamllint
+  u: yamllint
+  v:
+    yamllint boleh digunakan untuk memeriksa fail YAML sama
+    ada sah piawai atau tidak. Perkakas ini juga boleh
+    mengenal pasti kandungan pelik seperti ulangan nama dan
+    penggunaan baris yang panjang atau tidak sekata.
+  w: https://github.com/adrienverge/yamllint
 ...
