@@ -19,6 +19,7 @@ senarai. Hanya satu kandungan setiap baris.
 - [Objek gunaan pertama di laman Jekyll](2020/obj1.md)
 - [Kod cubaan awal memapar data](2020/dat1.md)
 - [Kod cubaan memapar data terubah](2020/dat2.md)
+- [Imbas tahun 2020](2020/t3.md)
 
 > Lagi salinan maklumat bersejarah?
 
