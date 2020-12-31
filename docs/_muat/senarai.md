@@ -1,5 +1,4 @@
 {% assign d = site.data.daftar %}
-{% assign n = 0 %}
 
 {% comment %}
 Kod berikut sengaja ditulis rapat sedemikian supaya hasil
@@ -13,7 +12,3 @@ oleh {{ sa.para.pengusaha | join: ", " }}</li>
 
 Bilangan daftar rasmi/semua:
 {{ n | plus: 1 }}/{{ d | size }}
-
-> Kajian daftar telah disalin semula sebagai data dan boleh
-> dipapar melalui `site.data.daftar`, kecuali paparan sedang
-> diuji pada masa ini
