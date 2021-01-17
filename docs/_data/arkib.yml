@@ -122,6 +122,21 @@
   q: Kod cubaan awal memapar data
   r: arkib/2020/dat1.md
 -
+  o: 2020-12-31
+  p:
+    Perihal paparan nilai oleh Liquid.
+    Mengikut cara Liquid, cara memapar nilai dalam gelung
+    "for" adalah lain berbanding JavaScript dan Python. Guna
+    fungsi terbina Liquid "capture", "increment", "plus".
+  q: Kod cubaan memapar data terubah
+  r: arkib/2020/dat2.md
+-
+  o: 2020-12-31
+  p:  # git log --since=2020-01-01 --until=2020-12-31
+    Tahun 2020 adalah tahun ketiga projek suaikata.
+  q: Imbas tahun 2020
+  r: arkib/2020/t3.md
+-
   o: 2021-01-17
   p: Dahan bertukar nama dari "master" ke "asal".
   q:
