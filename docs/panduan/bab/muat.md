@@ -47,7 +47,7 @@ dan aras kandungan, serta beberapa menu terbina;
 
   Kenal pasti petunjuk berikut:
 
-  - nama dahan: `main` (dahulunya `master`)
+  - nama dahan: `asal` (dahulunya `master`)
   - aras kandungan: `suaikata/daftar`
 
   Nota: Helai daftar bagi projek suaikata tersimpan dalam

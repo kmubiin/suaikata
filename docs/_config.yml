@@ -11,8 +11,8 @@ show_downloads: false  # mengikut tema
 ## pautan mengikut pilihan dahan dan boleh diubah
 # github:
 #   repository_url: https://github.com/kmubiin/suaikata
-#   zip_url: https://github.com/kmubiin/suaikata/archive/master.zip
-#   tar_url: https://github.com/kmubiin/suaikata/archive/master.tar.gz
+#   zip_url: https://github.com/kmubiin/suaikata/archive/asal.zip
+#   tar_url: https://github.com/kmubiin/suaikata/archive/asal.tar.gz
 ## ---TETAPAN LALAI---
 
 ## tetapan bagi Jekyll
