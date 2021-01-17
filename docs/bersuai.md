@@ -17,18 +17,15 @@ membuat kajian rinci. Hasil kajian terawal ialah Mac 2018.
 &emsp;[April 2020](ura/2004.md)
 
 Selepas daftar pertama disiapkan, projek suaikata bertumpu
-pada pembaikan bagi daftar kata siap, dan pengkajian aturan
+pada pembaikan bagi daftar kata rasmi, dan pengkajian aturan
 kerja untuk mengusahakan daftar kata. Selain itu, daftar
 kata baharu tidak diusahakan.
-
-Berikut adalah senarai daftar kata yang diusahakan secara
-rasmi oleh projek suaikata.
-
-{% include senarai.md %}
 
 Mana-mana daftar kata tidak dipapar di sini. Hanya senarai
 istilah yang terhad dipapar terus di [glosari](glosari.md).
 Kandungan penuh boleh didapati di laman sumber.
+
+{% include senarai.md %}
 
 laman kembali: [utama][0]
 

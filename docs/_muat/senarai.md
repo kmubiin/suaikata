@@ -5,6 +5,7 @@ Kod berikut sengaja ditulis rapat sedemikian supaya hasil
 tukaran ke kod HTML lebih kemas. Mungkin ralat pada Liquid.
 {% endcomment %}
 
+Senarai daftar kata yang rasmi:
 <ul>{% for sa in d %}{% if sa.ciri.rasmi %}
 <li>"{{ sa.nama.c }}"{% capture n %}{% increment i %}{% endcapture %}
 oleh {{ sa.para.pengusaha | join: ", " }}</li>
