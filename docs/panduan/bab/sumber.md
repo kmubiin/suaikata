@@ -46,7 +46,7 @@ ada atau senarai kosong. Sumber pilihan yang baik adalah
 tanpa makna dan mematuhi piawai.
 
 &nbsp;  
-laman lompat rujukan: [piawai][1]
+laman lompat berkaitan: [piawai][1]
 
 laman kembali: [panduan][0]
 

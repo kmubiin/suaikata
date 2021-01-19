@@ -73,7 +73,7 @@ sememangnya adalah piawai yang digunakan bagi istilah,
 bidang perkamusan, dan bidang bahasa.
 
 &nbsp;  
-laman lompat kembali: [sumber][1], [nama][2]
+laman lompat berkaitan: [sumber][1], [nama][2]
 
 laman kembali: [panduan][0]
 

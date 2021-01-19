@@ -61,9 +61,7 @@ Gunakan pedoman ini bersama pola bagi nama-nama yang
 ditentukan di atas.
 
 &nbsp;  
-laman lompat bab: [muat][3]
-
-laman lompat rujukan: [piawai][1], [format][2]
+laman lompat berkaitan: [muat][3], [piawai][1], [format][2]
 
 laman kembali: [panduan][0]
 

@@ -53,7 +53,7 @@ secara berkumpulan menggunakan Google Sheets, bagaimanapun
 hanya dua orang dalam kumpulan pada masa itu.
 
 &nbsp;  
-laman lompat bab: [muat][1]
+laman lompat berkaitan: [muat][1]
 
 laman kembali: [panduan][0]
 

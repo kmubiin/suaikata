@@ -107,7 +107,7 @@ kandungan. Ciri ini menjadikan CSV dan TSV lebih mudah
 dibaca dan disunting menggunakan perisian yang berbeza.
 
 &nbsp;  
-laman lompat kembali: [nama][1]
+laman lompat berkaitan: [nama][1]
 
 laman kembali: [panduan][0]
 

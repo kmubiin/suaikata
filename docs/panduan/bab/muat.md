@@ -148,7 +148,7 @@ adalah sekadar cadangan dan di luar rancangan
 {% endcomment %}
 
 &nbsp;  
-laman lompat bab: [helai][1], [nama][2]
+laman lompat berkaitan: [helai][1], [nama][2]
 
 laman kembali: [panduan][0]
 
