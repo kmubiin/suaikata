@@ -27,7 +27,10 @@ Kandungan penuh boleh didapati di laman sumber.
 
 {% include senarai.md %}
 
+&nbsp;  
+laman lompat berkaitan: [contoh][1]
+
 laman kembali: [utama][0]
 
   [0]: index.md
-
+  [1]: panduan/ruj/contoh.md
