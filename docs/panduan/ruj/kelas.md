@@ -23,14 +23,13 @@ mengumpul daftar yang diusahakan secara beregu atau
 berkumpulan. Selepas itu, daftar tanpa makna diperkenalkan,
 dan kelas regu diasing mengikut satu bahasa dan dua bahasa.
 
-Kelas umum juga boleh mengumpul daftar tanpa makna, satu
-bahasa, dan dua bahasa seperti kelas khusus. Beza antara
-dua kelas ini adalah kelas khusus mengumpul daftar dalam
-rancangan dan diusahakan secara rasmi, manakala kelas umum
-mengumpul daftar di luar rancangan.
+Kelas umum juga boleh mengumpul semua daftar tersebut umpama
+kelas khusus. Beza antara dua kelas ini adalah kelas khusus
+mengumpul daftar dalam rancangan dan yang rasmi, manakala
+kelas umum mengumpul daftar di luar rancangan.
 
 Dengan kata lain, projek suaikata memberi perhatian penuh
-pada daftar dalam kelas khusus sahaja.
+pada daftar yang rasmi sahaja.
 
 &nbsp;  
 **101** adalah kelas bagi daftar tanpa makna. Kelas ini
@@ -52,9 +51,6 @@ dinyatakan secara halus dengan pembayang.
 
 Sebarang daftar dalam kelas ini boleh disalin semula dan
 disertakan makna menjadi daftar baharu dalam kelas lain.
-
-Dalam 101, projek suaikata mengumpul daftar tanpa makna
-atau daftar kata bersama pembayang dalam bahasa asal.
 
 &nbsp;  
 **eka** adalah kelas bagi daftar satu bahasa. Kelas ini
@@ -88,9 +84,6 @@ Kata sama Melayu-Melayu (cth4b):
 | kanan  | timur        |
 | ...    | ...          |
 
-Dalam eka, projek suaikata mengumpul daftar ekabahasa atau
-daftar satu bahasa dalam bahasa Melayu.
-
 &nbsp;  
 **dwi** adalah kelas bagi daftar dua bahasa. Kelas ini
 mengambil nama daripada tiga huruf pertama lema 'dwibahasa'.
@@ -113,10 +106,10 @@ Kata terjemah sukar Inggeris-Melayu (bab takrif):
 | vocabulary | kosa kata       |
 | screenshot | tangkapan layar |
 
-Dalam dwi, projek suaikata mengumpul daftar dwibahasa atau
-daftar dua bahasa dalam bahasa asal dan bahasa Melayu.
-Bahasa asal bagi daftar pertama yang diusahakan secara rasmi
-ialah bahasa Inggeris.
+Projek suaikata mengumpul daftar tanpa makna, satu bahasa,
+dan dua bahasa. Dua bahasa terdiri daripada bahasa asal dan
+bahasa Melayu. Bahasa asal bagi daftar pertama yang
+diusahakan secara rasmi ialah bahasa Inggeris.
 
 &nbsp;  
 laman lompat berkaitan: [bersuai][1]

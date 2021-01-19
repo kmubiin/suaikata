@@ -120,8 +120,8 @@ dilakukan selepas itu.
 panduan tetapi di luar tumpuan. Semua laman rujukan membawa
 maklumat sokongan bagi bab-bab panduan.
 
-- Kelas daftar ialah senarai kumpulan daftar yang mengumpul
-semua daftar yang disediakan mengikut ciri tertentu
+- Kelas daftar ialah senarai kumpulan daftar yang dikenal
+pasti mengikut ciri tertentu
 - Contoh daftar ialah senarai pendek daftar bersama lajur
 dan baris terhad yang disalin daripada laman sumber
 - Soal terjemah ialah senarai masalah yang dikenal pasti
