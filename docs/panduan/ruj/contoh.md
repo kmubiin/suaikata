@@ -2,7 +2,7 @@
 published: true
 ---
 
-### Contoh daftar khusus
+### Contoh daftar
 
 &nbsp;  
 **Daftar PSAT**: Daftar dwibahasa beregu ini ada lajur
@@ -21,10 +21,10 @@ apabila memilih terjemahan yang sesuai untuk setiap lema.
 | ...         | .. | ...                            | .. |
 
 &nbsp;  
-**Daftar kata kerap dan kerapu**: Kedua-dua daftar dwibahasa
-umum ini mengandungi dua lajur pertama yang sama, dan hanya
-daftar kerapu ada dua lajur tambahan. Lagi maklumat daftar
-di laman bersuai (pautan lompat di bawah).
+**Daftar kata kerap dan kerapu**: Mana-mana daftar dwibahasa
+ini menggunakan dua lajur pertama yang sama, dan hanya
+daftar kerapu ada dua lajur tambahan. Kedua-dua daftar ini
+adalah contoh daftar di luar rancangan.
 
 | perkataan | terjemahan  | unik | aksara |
 | --------- | ----------- | ---- | ------ |
@@ -40,8 +40,8 @@ di laman bersuai (pautan lompat di bawah).
 &nbsp;  
 **Daftar kata dua-huruf**: Daftar tanpa makna telah
 diperkenalkan pada masa daftar PSAT menjadi lengkap. Bermula
-dengan bahasa Melayu (ms2) bersama terbitan 1.4.1, diikuti
-bahasa Inggeris (en2) bersama terbitan 1.4.6.
+dengan bahasa Melayu (ms2) pada tahun 2019, diikuti bahasa
+Inggeris (en2) pada tahun seterusnya.
 
 Kata dua-huruf Melayu (ms2):
 

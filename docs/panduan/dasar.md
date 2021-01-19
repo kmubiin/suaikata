@@ -122,8 +122,8 @@ maklumat sokongan bagi bab-bab panduan.
 
 - Kelas daftar ialah senarai kumpulan daftar yang mengumpul
 semua daftar yang disediakan mengikut ciri tertentu
-- Contoh daftar khusus ialah penerangan ringkas daftar yang
-disediakan khusus bagi projek suaikata
+- Contoh daftar ialah senarai pendek daftar bersama lajur
+dan baris terhad yang disalin daripada laman sumber
 - Soal terjemah ialah senarai masalah yang dikenal pasti
 semasa menyedia terjemahan bagi sesuatu daftar
 - Soal piawai ialah senarai peraturan yang wajar menjadi

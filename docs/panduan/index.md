@@ -34,7 +34,7 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 #### Rujukan
 
 - [Kelas daftar](ruj/kelas.md)
-- [Contoh daftar khusus](ruj/contoh.md)
+- [Contoh daftar](ruj/contoh.md)
 - [Soal terjemah](ruj/terjemah.md)
 - [Soal piawai](ruj/piawai.md)
 - [Format helai daftar](ruj/format.md)
