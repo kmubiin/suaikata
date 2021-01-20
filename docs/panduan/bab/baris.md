@@ -10,9 +10,9 @@ mungkin menggunakan **penamat baris yang berbeza**. Senarai
 platform umum dan penamat baris yang digunakan adalah
 seperti berikut:
 
-- Unix: LF (`\n`)
-- Mac: CR (`\r`)
-- DOS/Windows: CR LF (`\r \n`)
+- Unix: `\n` (LF)
+- Mac: `\r` (CR)
+- DOS/Windows: `\r \n` (CR LF)
 
 Teks biasa dengan mana-mana penamat baris boleh dibaca
 seperti biasa menggunakan aplikasi lazim. Namun begitu,
