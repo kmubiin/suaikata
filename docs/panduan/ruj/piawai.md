@@ -4,7 +4,6 @@ published: true
 
 ### Soal piawai
 
-&nbsp;  
 **Bahasa Melayu piawai**: Wikipedia bahasa Melayu ada garis
 panduan tersendiri yang menerangkan bahasa Melayu piawai.
 Berdasarkan rencana wiki itu, projek suaikata menggariskan
@@ -42,7 +41,6 @@ Indonesia, Malaysia, dan Brunei. Kosa kata yang diterima
 oleh penerbit kamus yang disanjung tinggi seperti Dewan
 Bahasa dan Pustaka (DBP) dan Oxford-Fajar adalah piawai.
 
-&nbsp;  
 **ISO 639**: Nama-nama bahasa sedunia boleh dikenal pasti
 dengan menggunakan kod perwakilan oleh pertubuhan badan
 bukan kerajaan ISO. Piawai antarabangsa ISO 639 terdiri

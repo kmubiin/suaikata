@@ -4,7 +4,6 @@ published: true
 
 ### Penamat baris
 
-&nbsp;  
 Apabila menyunting fail di platform tertentu, teks biasa
 mungkin menggunakan **penamat baris yang berbeza**. Senarai
 platform umum dan penamat baris yang digunakan adalah

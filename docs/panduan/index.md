@@ -4,7 +4,6 @@ published: true
 
 ### Panduan projek suaikata
 
-&nbsp;  
 Laman ini disediakan mengikut [dasar panduan](dasar.md)
 
 #### Bab 1: Satu permulaan

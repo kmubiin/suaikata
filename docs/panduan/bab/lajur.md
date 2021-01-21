@@ -4,7 +4,6 @@ published: true
 
 ### Dua atau lebih lajur
 
-&nbsp;  
 Daftar dwibahasa yang lazim ada dua lajur sahaja, iaitu satu
 bahasa untuk setiap lajur. Apabila dua orang pengusaha ingin
 bekerjasama, dua lajur sudah tidak memadai.

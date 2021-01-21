@@ -4,7 +4,6 @@ published: true
 
 ### Bentuk lazim daftar
 
-&nbsp;  
 Biasanya, daftar didapati dalam bentuk senarai mudah atau
 jadual memanjang yang terdiri daripada lajur dan baris.
 Bentuk lazim bagi sesuatu daftar boleh berbeza.

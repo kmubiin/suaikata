@@ -4,7 +4,6 @@ published: true
 
 ### Menyedia daftar sendiri
 
-&nbsp;  
 Daftar harus disediakan mengikut cara sendiri kerana tidak
 ada aturan kerja yang tetap. Tambahan pula, projek suaikata
 menyedia daftar dengan cara berlainan. Bagaimanapun, apa

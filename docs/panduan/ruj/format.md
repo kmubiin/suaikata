@@ -4,7 +4,6 @@ published: true
 
 ### Format helai daftar
 
-&nbsp;  
 Helai daftar disimpan sebagai fail pada komputer supaya
 boleh dibaca semula kemudian. Fail tersebut boleh disimpan
 dalam dua bentuk:
@@ -18,7 +17,6 @@ warna dan lebar sel untuk memapar seluruh kandungan pada
 keadaan asal. Sebaliknya, format mudah alih mengandungi
 teks biasa dan pemisah teks sahaja.
 
-&nbsp;  
 **Format asal**: Apabila menyimpan fail baharu, perisian
 komputer akan menyarankan format asal seperti XLS dan ODS.
 Microsoft Office menggunakan XLS, atau XLSX sejak 2007,
@@ -34,7 +32,6 @@ lajur berabjad dan baris bernombor.
 | `2` | vocabulary | kosa kata       |
 | `3` |            | cuba, satu, dua |
 
-&nbsp;  
 **Format mudah alih**: Apabila menggunakan beberapa perisian
 yang berbeza, fail tersebut sewajarnya disimpan dalam format
 mudah alih seperti CSV dan TSV. Perisian web seperti Google
@@ -65,7 +62,6 @@ Bagaimanapun, TSV kelihatan lebih baik kerana ruang lebar
 kosong antara teks yang mudah dibaca oleh pengguna dan masih 
 mudah dipapar seperti CSV menggunakan perisian yang berbeza.
 
-&nbsp;  
 **CSV (Comma-separated values)** biasanya menggunakan aksara
 tanda koma `,` sebagai pemisah teks. Bergantung pada bahasa
 pengguna yang ditetapkan pada komputer, aksara lain mungkin
@@ -86,7 +82,6 @@ teks yang mengandungi tanda koma atau tanda petik tambahan.
 Tanda-tanda itu harus dielakkan bagi CSV, dan sekiranya
 masih rumit, gunakan TSV.
 
-&nbsp;  
 **TSV (Tab-separated values)** menggunakan aksara kekunci
 `<TAB>` bagi menggantikan aksara tanda koma `,` sebagai
 pemisah teks. Berbeza dengan CSV, tanda koma tambahan dalam

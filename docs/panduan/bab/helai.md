@@ -4,7 +4,6 @@ published: true
 
 ### Mencipta helai daftar
 
-&nbsp;  
 Helai daftar disedia mengikut keperluan dan kesesuaian cara
 kerja individu atau berkumpulan. Helai daftar boleh disedia
 dengan dua cara:

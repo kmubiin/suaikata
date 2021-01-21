@@ -8,7 +8,6 @@ published: true
 Bab kenal tidak ditulis #todo #terkemudian
 {% endcomment %}
 
-&nbsp;  
 Asal usul projek suaikata dan hala tuju projek ini.
 
 &nbsp;  

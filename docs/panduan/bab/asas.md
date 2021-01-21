@@ -4,7 +4,6 @@ published: true
 
 ### Asas penyediaan takrif
 
-&nbsp;  
 Daftar kata terdiri daripada kata masukan (lema) dan makna.
 Kebanyakan lema Inggeris boleh disuai dengan lema Melayu
 yang sama makna. Setiap pasangan lema selalunya berbeza

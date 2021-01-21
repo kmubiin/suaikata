@@ -4,7 +4,6 @@ published: true
 
 ### Hak cipta tidak terpelihara
 
-&nbsp;  
 Sumber pilihan yang baik adalah senarai kata masukan tanpa
 makna. Secara umum, sebarang senarai bahan atau kandungan
 semata-mata adalah di luar kuasa undang-undang dan hak cipta

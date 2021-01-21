@@ -2,9 +2,8 @@
 published: true
 ---
 
-## Lesen sumber terbuka
+### Lesen sumber terbuka
 
-&nbsp;  
 Laman sumber awam di GitHub dan kemudahan web seumpamanya
 membolehkan kandungan tersedia dibaca, diubah, dan disebar
 secara bebas oleh orang ramai. Kandungan tersebut adalah

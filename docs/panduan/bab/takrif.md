@@ -4,7 +4,6 @@ published: true
 
 ### Takrif asal dan terjemah
 
-&nbsp;  
 Perbandingan takrif adalah cara lazim untuk membawakan
 takrif daripada bahasa asal kepada bahasa terjemah. Sebelum
 membuat pilihan terjemah, **buat perbandingan takrif** bagi

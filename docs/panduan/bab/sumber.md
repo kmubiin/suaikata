@@ -4,7 +4,6 @@ published: true
 
 ### Sumber kata masukan
 
-&nbsp;  
 Usaha membangunkan daftar bermula dengan memilih sumber kata
 masukan. Projek suaikata menggariskan tiga ciri sumber:
 

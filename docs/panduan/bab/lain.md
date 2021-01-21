@@ -4,7 +4,6 @@ published: true
 
 ### Kelainan ciri daftar
 
-&nbsp;  
 Dalam bentuk lazim, daftar tanpa makna adalah senarai mudah
 manakala daftar yang ada makna adalah jadual memanjang.
 Namun, sesuatu daftar boleh memiliki bentuk lain yang

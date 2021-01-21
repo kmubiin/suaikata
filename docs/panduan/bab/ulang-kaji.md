@@ -4,7 +4,6 @@ published: true
 
 ### Mengulang kaji
 
-&nbsp;  
 Perkembangan daftar kata tidak berakhir apabila pengusaha
 selesai memuat daftar. Daftar kata yang termuat di laman
 sumber mungkin ada kesilapan ejaan atau takrif dan mungkin

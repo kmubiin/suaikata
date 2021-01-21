@@ -4,7 +4,6 @@ published: true
 
 ### Kelas daftar
 
-&nbsp;  
 Semua daftar boleh dikumpul mengikut kelas tertentu. Projek
 suaikata mengenal pasti dua kelas utama:
 
@@ -31,7 +30,6 @@ kelas umum mengumpul daftar di luar rancangan.
 Dengan kata lain, projek suaikata memberi perhatian penuh
 pada daftar yang rasmi sahaja.
 
-&nbsp;  
 **101** adalah kelas bagi daftar tanpa makna. Kelas ini
 berciri bebas dan pelbagai guna. Senarai kata masukan tanpa
 makna adalah hak cipta tidak terpelihara, yakni bebas syarat
@@ -52,7 +50,6 @@ dinyatakan secara halus dengan pembayang.
 Sebarang daftar dalam kelas ini boleh disalin semula dan
 disertakan makna menjadi daftar baharu dalam kelas lain.
 
-&nbsp;  
 **eka** adalah kelas bagi daftar satu bahasa. Kelas ini
 mengambil nama daripada tiga huruf pertama lema 'ekabahasa'.
 
@@ -84,7 +81,6 @@ Kata sama Melayu-Melayu (cth4b):
 | kanan  | timur        |
 | ...    | ...          |
 
-&nbsp;  
 **dwi** adalah kelas bagi daftar dua bahasa. Kelas ini
 mengambil nama daripada tiga huruf pertama lema 'dwibahasa'.
 

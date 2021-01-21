@@ -4,7 +4,6 @@ published: true
 
 ### Contoh daftar
 
-&nbsp;  
 **Daftar PSAT**: Daftar dwibahasa beregu ini ada lajur
 khas yang memuatkan rujukan nama penterjemah. Lajur itu
 diisi dengan huruf pertama nama salah seorang penterjemah
@@ -20,7 +19,6 @@ apabila memilih terjemahan yang sesuai untuk setiap lema.
 | chronicle   | 2  | mencatat dalam riwayat         | M  |
 | ...         | .. | ...                            | .. |
 
-&nbsp;  
 **Daftar kata kerap dan kerapu**: Mana-mana daftar dwibahasa
 ini menggunakan dua lajur pertama yang sama, dan hanya
 daftar kerapu ada dua lajur tambahan. Kedua-dua daftar ini
@@ -37,7 +35,6 @@ adalah contoh daftar di luar rancangan.
 | be        | adanya      | 8    | 2      |
 | ...       | ...         | ..   | ..     |
 
-&nbsp;  
 **Daftar kata dua-huruf**: Daftar tanpa makna telah
 diperkenalkan pada masa daftar PSAT menjadi lengkap. Bermula
 dengan bahasa Melayu (ms2) pada tahun 2019, diikuti bahasa

@@ -4,7 +4,6 @@ published: true
 
 ### Menyimpan helai dengan nama
 
-&nbsp;  
 Setiap helai daftar akan diberi nama apabila disimpan
 sebagai fail menggunakan perisian komputer. Nama penuh
 fail `nama.anu` ada dua bahagian:

@@ -4,7 +4,6 @@ published: true
 
 ### Memuat daftar
 
-&nbsp;  
 Sebelum memuat daftar, pengusaha harus mencipta helai daftar
 dan menyimpan helai daftar dengan nama terlebih dahulu. Jika
 belum, sila teliti bab-bab sebelum ini.
