@@ -4,10 +4,11 @@ published: true
 
 ### Soal piawai
 
-**Bahasa Melayu piawai**: Wikipedia bahasa Melayu ada garis
-panduan tersendiri yang menerangkan bahasa Melayu piawai.
-Berdasarkan rencana wiki itu, projek suaikata menggariskan
-tiga ciri penting seperti berikut.
+**Bahasa Melayu piawai**
+&ndash; Wikipedia bahasa Melayu ada garis panduan tersendiri
+yang menerangkan bahasa Melayu piawai. Berdasarkan rencana
+wiki itu, projek suaikata menggariskan tiga ciri penting
+seperti berikut.
 
 Pertama: Gunakan **kosa kata Melayu**, jika ada, dan bukan
 semata-mata kosa kata Melayu yang berbeza ejaan. Setiap
@@ -41,11 +42,11 @@ Indonesia, Malaysia, dan Brunei. Kosa kata yang diterima
 oleh penerbit kamus yang disanjung tinggi seperti Dewan
 Bahasa dan Pustaka (DBP) dan Oxford-Fajar adalah piawai.
 
-**ISO 639**: Nama-nama bahasa sedunia boleh dikenal pasti
-dengan menggunakan kod perwakilan oleh pertubuhan badan
-bukan kerajaan ISO. Piawai antarabangsa ISO 639 terdiri
-daripada beberapa bahagian, tetapi hanya tiga sahaja yang
-laku pada masa ini.
+**ISO 639**
+&ndash; Nama-nama bahasa sedunia boleh dikenal pasti dengan
+menggunakan kod perwakilan oleh pertubuhan badan bukan
+kerajaan ISO. Piawai antarabangsa ISO 639 terdiri daripada
+beberapa bahagian, tetapi hanya tiga yang laku.
 
 - ISO 639-1 (kod Alfa-2)
 - ISO 639-2 (kod Alfa-3 dengan jenis T dan B)

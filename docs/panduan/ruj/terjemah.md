@@ -4,10 +4,10 @@ published: true
 
 ### Soal terjemah
 
-**Salinan terjemah**: Apabila suatu kata masukan (lema)
-sudah ada terjemah tetapi hendak menambah satu lagi terjemah
-lain, boleh timbul persoalan: Apakah wajar satu atau dua
-salinan terjemah.
+**Salinan terjemah**
+&ndash; Apabila suatu kata masukan (lema) sudah ada terjemah
+tetapi hendak menambah satu lagi terjemah lain, boleh timbul
+persoalan: Apakah wajar satu atau dua salinan terjemah.
 
 Berikut adalah ciri-ciri salinan terjemah untuk diteliti:
 
@@ -49,9 +49,9 @@ ketara antara makna salah dan makna betul. Hakikatnya,
 golongan kata bagi makna salah (kata adjektif) adalah tidak
 sama dengan makna asal (kata nama).
 
-**Terjemahan mesin**: Cara mudah untuk menterjemah satu lema
-daripada satu bahasa kepada satu bahasa lain adalah melalui
-terjemahan mesin.
+**Terjemahan mesin**
+&ndash; Cara mudah menterjemah lema daripada satu bahasa
+kepada satu bahasa lain adalah melalui terjemahan mesin.
 
 Terjemahan boleh dilakukan dengan bantuan mesin, terutamanya
 komputer yang dipasang perisian luar talian, atau yang boleh

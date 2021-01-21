@@ -4,10 +4,11 @@ published: true
 
 ### Contoh daftar
 
-**Daftar PSAT**: Daftar dwibahasa beregu ini ada lajur
-khas yang memuatkan rujukan nama penterjemah. Lajur itu
-diisi dengan huruf pertama nama salah seorang penterjemah
-apabila memilih terjemahan yang sesuai untuk setiap lema.
+**kata kerap PSAT** (psat)
+&ndash; Daftar dwibahasa beregu ini ada lajur khas yang
+memuatkan rujukan nama penterjemah. Lajur itu diisi dengan
+huruf pertama nama salah seorang penterjemah apabila memilih
+terjemahan yang sesuai untuk setiap lema.
 
 | inggeris    | ke | melayu                         | di |
 | ----------- | -- | ------------------------------ | -- |
@@ -19,10 +20,11 @@ apabila memilih terjemahan yang sesuai untuk setiap lema.
 | chronicle   | 2  | mencatat dalam riwayat         | M  |
 | ...         | .. | ...                            | .. |
 
-**Daftar kata kerap dan kerapu**: Mana-mana daftar dwibahasa
-ini menggunakan dua lajur pertama yang sama, dan hanya
-daftar kerapu ada dua lajur tambahan. Kedua-dua daftar ini
-adalah contoh daftar di luar rancangan.
+**kata kerap dan kerap unik** (katakerap, kerapu)
+&ndash; Mana-mana daftar ini menggunakan dua lajur pertama
+yang sama, dan hanya daftar kerapu ada dua lajur tambahan.
+Kedua-dua daftar ini adalah daftar dwibahasa umum dan contoh
+daftar di luar rancangan.
 
 | perkataan | terjemahan  | unik | aksara |
 | --------- | ----------- | ---- | ------ |
@@ -35,10 +37,10 @@ adalah contoh daftar di luar rancangan.
 | be        | adanya      | 8    | 2      |
 | ...       | ...         | ..   | ..     |
 
-**Daftar kata dua-huruf**: Daftar tanpa makna telah
-diperkenalkan pada masa daftar PSAT menjadi lengkap. Bermula
-dengan bahasa Melayu (ms2) pada tahun 2019, diikuti bahasa
-Inggeris (en2) pada tahun seterusnya.
+**kata dua-huruf**
+&ndash; Daftar tanpa makna telah diperkenalkan pada masa
+daftar PSAT menjadi lengkap. Bermula dengan bahasa Melayu
+pada tahun 2019, diikuti bahasa Inggeris pada tahun 2020.
 
 Kata dua-huruf Melayu (ms2):
 
