@@ -4,6 +4,7 @@ published: true
 
 ### Glosari
 
+Senarai istilah tertentu dikumpul dan dipapar terus di sini.
 Istilah disusun mengikut simbol dan abjad. Sebarang istilah
 yang tersenarai disertakan dengan istilah asal dan makna.
 Bagaimanapun, mana-mana istilah tidak semestinya ada.

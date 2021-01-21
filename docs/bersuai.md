@@ -21,16 +21,13 @@ pada pembaikan bagi daftar kata rasmi, dan pengkajian aturan
 kerja untuk mengusahakan daftar kata. Selain itu, daftar
 kata baharu tidak diusahakan.
 
-Mana-mana daftar kata tidak dipapar di sini. Hanya senarai
-istilah yang terhad dipapar terus di [glosari](glosari.md).
-Kandungan penuh boleh didapati di laman sumber.
-
 {% include senarai.md %}
 
 &nbsp;  
-laman lompat berkaitan: [contoh][1]
+laman lompat berkaitan: [glosari][1], [contoh][2]
 
 laman kembali: [utama][0]
 
   [0]: index.md
-  [1]: panduan/ruj/contoh.md
+  [1]: glosari.md
+  [2]: panduan/ruj/contoh.md
