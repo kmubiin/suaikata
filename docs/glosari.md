@@ -4,18 +4,16 @@ published: true
 
 ### Glosari
 
-&nbsp;  
 Istilah disusun mengikut simbol dan abjad. Sebarang istilah
 yang tersenarai disertakan dengan istilah asal dan makna.
 Bagaimanapun, mana-mana istilah tidak semestinya ada.
 
 {% comment %}
 satu baris tertentu ditambah sebelum setiap baris istilah
-membolehkan carian segera dibuat seperti laman bersuai,
-entiti XML `&nbsp;` akan menukarkan aksara berikut menjadi
-kata kunci &#9251;&#46; yang sah dalam pelayar web, dua
-aksara `  ` terakhir menjadikan baris itu hadir sebagai
-baris baharu dan terasing daripada baris istilah
+membolehkan carian segera dibuat, entiti XML `&nbsp;` akan
+menukarkan aksara berikut menjadi kata kunci &#9251;&#46;
+yang sah dalam pelayar web, dua aksara &#9251;&#9251; yang
+terakhir mengasingkan kata kunci daripada baris istilah
 {% endcomment %}
 
 #### Simbol
