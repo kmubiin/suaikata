@@ -22,6 +22,7 @@
     makna: true   # ada lajur makna atau terjemah
     rasmi: true   # usaha mengikut rancangan
     baiki: false  # usaha memperbaik daftar terdahulu
+    tanda: true   # usaha secara beregu ada tanda nama
   nota:  # maklumat tambahan bagi daftar ini
     Daftar pertama projek suaikata.
     Daftar dwibahasa beregu.
@@ -47,6 +48,7 @@
     makna: true
     rasmi: false
     baiki: false
+    tanda: false
   nota:
     Daftar sumbangan sukarela.
     Berdasarkan daftar yang tidak dinamakan.
@@ -71,6 +73,7 @@
     makna: false
     rasmi: true
     baiki: false
+    tanda: false
   nota:
     Daftar tanpa makna, ada pembayang bahasa Melayu.
     Lema Melayu terhad pada 2 aksara sahaja.
@@ -93,6 +96,7 @@
     makna: false
     rasmi: true
     baiki: false
+    tanda: false
   nota:
     Daftar tanpa makna, ada pembayang bahasa Inggeris.
     Lema Inggeris terhad pada 2 aksara sahaja.
@@ -115,6 +119,7 @@
     makna: true
     rasmi: false
     baiki: true
+    tanda: false
   nota:
     Daftar sumbangan sukarela.
     Berdasarkan daftar kata kerap dengan pembaikan terhad.
