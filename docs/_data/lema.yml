@@ -3,13 +3,11 @@
 -
   id: abstract  # nama lema ini
   lang: en      # bahasa lema ini
-  nama:  # nama lema dalam bahasa asal dan lain jika ada
-    en: abstract
-    ms: abstrak
   ciri:  # ciri lema yang hadir dalam daftar
     lema: true     # ada di lajur lema
     makna: false   # ada di lajur makna
     selisih: true  # pernah ada selisih terjemah
+    serupa: true   # ejaan hampir/serupa bagi kata asing
   nota:  # maklumat tambahan bagi lema ini
     4 lema dalam daftar PSAT.
     Pernah selisih terjemah abstract(1).
@@ -17,13 +15,11 @@
 -
   id: charlatan
   lang: en
-  nama:
-    en: charlatan
-    ms:
   ciri:
     lema: true
     makna: false
     selisih: true
+    serupa: false
   nota:
     1 lema dalam daftar PSAT.
     Pernah selisih terjemah charlatan(1).
@@ -31,13 +27,11 @@
 -
   id: didactic
   lang: en
-  nama:
-    en: didactic
-    ms:
   ciri:
     lema: true
     makna: false
     selisih: true
+    serupa: false
   nota:
     1 lema dalam daftar PSAT.
     Pernah selisih terjemah didactic(1).
@@ -45,13 +39,11 @@
 -
   id: immutable
   lang: en
-  nama:
-    en: immutable
-    ms:
   ciri:
     lema: true
     makna: false
     selisih: true
+    serupa: false
   nota:
     1 lema dalam daftar PSAT.
     Pernah selisih terjemah immutable(1).
@@ -59,13 +51,11 @@
 -
   id: refute
   lang: en
-  nama:
-    en: refute
-    ms:
   ciri:
     lema: true
     makna: false
     selisih: true
+    serupa: false
   nota:
     1 lema dalam daftar PSAT.
     Pernah selisih terjemah refute(1).
@@ -73,13 +63,11 @@
 -
   id: repudiate
   lang: en
-  nama:
-    en: repudiate
-    ms:
   ciri:
     lema: true
     makna: false
     selisih: true
+    serupa: false
   nota:
     1 lema dalam daftar PSAT.
     Pernah selisih terjemah repudiate(1).
@@ -88,13 +76,11 @@
 -
   id: suspend
   lang: en
-  nama:
-    en: suspend
-    ms:
   ciri:
     lema: true
     makna: false
     selisih: false
+    serupa: false
   nota:
     2 lema dalam daftar PSAT.
     Bahas terjemah betul gantung.
@@ -102,14 +88,11 @@
 -
   id: niskala
   lang: ms
-  nama:
-    sa: nishkala
-    en:
-    ms: niskala
   ciri:
     lema: false
     makna: true
     selisih: false
+    serupa: true  # sa:nishkala
   nota:
     1 makna dalam daftar PSAT.
     Hadir makna bagi abstract(4).
