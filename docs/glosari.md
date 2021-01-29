@@ -329,10 +329,17 @@ menyatakan perakuan hak cipta asal
 #### T
 
 &nbsp; .  
-**teks asal** (en: source text)
+**teks asal**&#178; (en: source text, original text)
+&ndash; teks yang membawa maklumat daripada sumber; istilah
+dalam bidang penterjemahan yang merujuk pada teks dalam
+bahasa asal yang hendak dibawakan dalam bahasa lain
 
 &nbsp; .  
 **teks biasa** (en: plain text)
+
+&nbsp; .  
+**teks sumber** (en: source text)
+&ndash; lihat "teks asal"
 
 &nbsp; .  
 **terjemahan mesin** (en: machine translation)
