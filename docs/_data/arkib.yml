@@ -1,144 +1,98 @@
 # maklumat meta bagi kandungan bersejarah dalam projek
 ---
 -
-  o: 2018-02-25  # tarikh kandungan
-  p:  # petunjuk kandungan
-    Perihal helai daftar awal.
-    # sebaris huraian pendek dan lagi huraian jika ada
-  q: Helai daftar awal  # tajuk rujukan jika ada
-  r: arkib/2018/ha.md   # pautan rujukan jika ada
+  o: 2018-02-25  # tarikh terawal kandungan
+  p:  # sebaris komen atau petunjuk terutama tanpa rujukan
+  q: Helai daftar awal  # jika ada tajuk rujukan
+  r: arkib/2018/ha.md   # jika ada fail rujukan
 -
-  o: 2018-03-12
-  p:
-    Laman rancangan projek suaikata.
-    Salinan teks penuh bagi papan projek rancangan.
-    Kemas kini 7 Nov, semakan terakhir 17 Nov 2018.
+  o: 2018-03-12  # kemas 2018-11-07, semak 2018-11-17
+  p: Salinan papan projek 1 yang telah dipadam.
   q: Papan Projek 1 - Rancangan
   r: arkib/2018/pp1.md
 -
-  o: 2018-03-12
-  p:
-    Laman pencapaian projek suaikata.
-    Salinan teks penuh bagi papan projek pencapaian.
-    Kemas kini 19 May, semakan terakhir 17 Nov 2018.
+  o: 2018-03-12  # kemas 2018-05-19, semak 2018-11-17
+  p: Salinan papan projek 2 yang telah dipadam.
   q: Papan Projek 2 - Pencapaian
   r: arkib/2018/pp2.md
 -
-  o: 2018-03-12
-  p:
-    Laman semasa projek suaikata.
-    Salinan teks penuh bagi papan projek semasa.
-    Kemas kini 15 Nov, semakan terakhir 17 Nov 2018.
+  o: 2018-03-12  # kemas 2018-11-15, semak 2018-11-17
+  p: Salinan papan projek 3 yang telah dipadam.
   q: Papan Projek 3 - Semasa
   r: arkib/2018/pp3.md
 -
   o: 2018-04-28
   p:
-    Perihal helai daftar beregu.
   q: Helai daftar beregu
   r: arkib/2018/hb.md
 -
   o: 2018-04-30
-  p:
-    Kajian daftar kata kerap PSAT.
-    Ini adalah kajian daftar pertama.
+  p: Lebih maklumat helai daftar pertama (psat).
   q: Kajian daftar 1
   r: arkib/2018/kd1.md
 -
   o: 2018-05-03
-  p:
-    Kajian daftar kata kerap (Inggeris).
-    Ini adalah kajian daftar kedua.
+  p: Lebih maklumat helai daftar kedua (katakerap).
   q: Kajian daftar 2
   r: arkib/2018/kd2.md
 -
   o: 2018-12-02
   p:  # git log --since=2018-01-01 --until=2018-12-31
-    Tahun 2018 adalah tahun pertama projek suaikata.
-  q: Imbas tahun 2018
+  q: Imbas tahun 2018  # tahun pertama
   r: arkib/2018/t1.md
 -
   o: 2019-03-31
-  p:
-    Perihal kumpulan helai daftar.
-    Helai daftar pada mulanya dibahagi kepada tiga kumpulan
-    iaitu, tidak berkumpulan; lazim; regu.
+  p: Pada mulanya ada tiga kumpulan helai daftar.
   q: Kumpulan helai daftar
   r: arkib/2019/kh.md
 -
   o: 2019-04-01
-  p:
-    Perihal helai daftar beregu terperinci.
-    Maklumat paparan, kejadian, peranan tanda soal dan tanda
-    pagar, kegunaan warna, dan kesesuaian cara kerja.
+  p: Lebih maklumat ciri-ciri helai daftar PSAT.
   q: Helai daftar beregu terperinci
   r: arkib/2019/hb10.md
 -
   o: 2019-12-02
   p:  # git log --since=2019-01-01 --until=2019-12-31
-    Tahun 2019 adalah tahun kedua projek suaikata.
-  q: Imbas tahun 2019
+  q: Imbas tahun 2019  # tahun kedua
   r: arkib/2019/t2.md
 -
   o: 2020-03-10
-  p:
-    Perihal rumus bagi helai daftar.
-    Senarai rumus gunaan yang digunakan untuk menghasilkan
-    lajur baharu “terjemah” dalam daftar kerapu.
+  p: Pergunaan rumus bagi lajur baharu "terjemah".
   q: Rumus gunaan daftar kerapu
   r: arkib/2020/rh3.md
 -
   o: 2020-03-10
-  p:
-    Perihal hasil luar dugaan bagi helai daftar.
-    Semasa mengusahakan daftar kerapu, rumus gunaan memberi
-    jumlah baris unik yang salah kerana ada hasil "#N/A".
+  p: Kehadiran aksara '~' boleh jejaskan hasil rumus.
   q: Daftar kerapu ada hasil "#N/A"
   r: arkib/2020/rh3na.md
 -
   o: 2020-04-08
-  p:
-    Kajian daftar kata kerap unik (Inggeris).
-    Ini adalah kajian daftar ketiga.
+  p: Lebih maklumat helai daftar ketiga (kerapu).
   q: Kajian daftar 3
   r: arkib/2020/kd3.md
 -
   o: 2020-08-08
-  p:
-    Perihal objek bagi laman Jekyll.
-    Senarai laman bagi suatu kategori boleh dipapar melalui
-    objek, tetapi terhad pada laman bertarikh (post) dalam
-    "_posts" dan laman umum (page) di luar diabai.
+  p: Cara Jekyll mengurus page/post.
   q: Objek gunaan pertama di laman Jekyll
   r: arkib/2020/obj1.md
 -
   o: 2020-09-14
-  p:
-    Perihal tukaran data oleh Liquid.
-    Data dalam "_data" boleh dicapai melalui "site.data".
-    Mengikut cara Liquid, data harus ditukar menjadi string
-    terlebih dahulu sebelum menjadi array. Hasilnya, data
-    dapat disusun tetapi bukan lagi objek seperti asal.
+  p: Cara Liquid mengendali data/string.
   q: Kod cubaan awal memapar data
   r: arkib/2020/dat1.md
 -
   o: 2020-12-31
-  p:
-    Perihal paparan nilai oleh Liquid.
-    Mengikut cara Liquid, cara memapar nilai dalam gelung
-    "for" adalah lain berbanding JavaScript dan Python. Guna
-    fungsi terbina Liquid "capture", "increment", "plus".
+  p: Cara Liquid mengendali nilai dalam gelung.
   q: Kod cubaan memapar data terubah
   r: arkib/2020/dat2.md
 -
   o: 2020-12-31
   p:  # git log --since=2020-01-01 --until=2020-12-31
-    Tahun 2020 adalah tahun ketiga projek suaikata.
-  q: Imbas tahun 2020
+  q: Imbas tahun 2020  # tahun ketiga
   r: arkib/2020/t3.md
 -
   o: 2021-01-17
-  p: Dahan bertukar nama dari "master" ke "asal".
+  p: Dahan bertukar nama (master => asal).
   q:
   r:
 ...
