@@ -5,6 +5,6 @@
 Keadaan projek pada masa ini:
 
 - Bilangan daftar: `{{ d | size }}`
-- Tarikh terakhir daftar: `{{ d.last.tarikh.c }}`
-- Tarikh terakhir terbit: `{{ t.last.lagi.last.o }}`
+- Tarikh terakhir daftar: `(nyahaktif sementara)`
+- Tarikh terakhir terbit: `(nyahaktif sementara)`
 - Tarikh laman: `{{ m }}`
