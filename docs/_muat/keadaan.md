@@ -1,4 +1,3 @@
-{% assign m = site.time %}
 {% assign d = site.data.daftar %}
 {% assign t = site.data.terbit %}
 
@@ -7,4 +6,9 @@ Keadaan projek pada masa ini:
 - Bilangan daftar: `{{ d | size }}`
 - Tarikh terakhir daftar: `(nyahaktif sementara)`
 - Tarikh terakhir terbit: `(nyahaktif sementara)`
-- Tarikh laman: `{{ m }}`
+
+{% if site.url == 'https://kmubiin.github.io/suaikata' %}
+Laman bertarikh `{{ site.time }}`
+{% else %}
+Laman berada di luar talian atau salah papar
+{% endif %}
