@@ -16,7 +16,6 @@ membawakan takrif terpilih atau sekadar memadai.
 Syarat "sebut nama". Daftar kata itu boleh digunakan secara
 bebas dengan syarat menyatakan perakuan hak cipta asal.
 
-{% include keadaan.md %}
-
 Untuk maklumat lanjut, [lihat bersuai](bersuai.md)
 
+{% include keadaan.md %}
