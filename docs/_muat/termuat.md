@@ -1,9 +1,9 @@
 {{ '---' }}
-Laman termuat berada di `{{ page.name }}`
+Laman termuat berada di {{ page.name }}
 
 {% comment %}
-Laman termuat adalah laman khas untuk menyelidik kandungan
-yang boleh dicapai dengan anu terbina bagi Jekyll.
+laman termuat adalah laman khas untuk menyelidik kandungan
+yang boleh dicapai dengan anu terbina bagi Jekyll
 {% endcomment %}
 
 site.repository
