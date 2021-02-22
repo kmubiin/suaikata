@@ -13,3 +13,8 @@ Laman dalam talian bertarikh {{ site.time }}
 {% else %}
 Laman luar talian atau alamat telah berubah
 {% endif %}
+
+{% assign u = site.url | truncate: 16, "" %}
+{% if u == 'http://localhost' %}
+{% include termuat.md %}
+{% endif %}
