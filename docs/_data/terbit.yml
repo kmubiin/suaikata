@@ -71,4 +71,11 @@
   bila:
     - c: 2020-11-12
       x: a557cf9/0
+-
+  id: '2.21.0301'
+  ix:  # isi rujukan selepas "selesai terbitan"
+  ga: false
+  bila:
+    - c: 2021-03-01
+      x:  # isi rujukan selepas "selesai terbitan"
 ...
