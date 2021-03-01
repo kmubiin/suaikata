@@ -1,160 +1,74 @@
 # maklumat meta bagi terbitan dan butir perubahan
+#  rujukan A: git log --abbrev-commit <tag>
+#  rujukan B: git log --date=short  # =format:'%Y-%m-%d'
+#  rujukan N: terbitan am(0) atau pokok(1)
 ---
 -
-  id: '0.0'       # tag rujukan atau nama terbitan ini
-  idc: '7e5cf23'  # git log --abbrev-commit <id>
-  rev: 1          # git rev-list --count <id>
-  ciri:  # ciri terbitan yang hadir
-    arkib: false  # tersalin bagi GitHub Archive Program
-    muat: false   # ada butir muat daftar baharu
-  lagi:  # butir berkenaan dalam senarai jika ada
-    - m:  # nama daftar yang dimuat jika ada
-      n:  # git log --abbrev-commit \
-      o:  # --date=short  # =format:'%Y-%m-%d'
-      p:  # lagi huraian jika ada
+  id: '0.0'      # tag rujukan atau nama terbitan ini
+  ix: 7e5cf23/0  # nama rujukan A/N
+  ga: false  # tersalin bagi GitHub Archive Program
+  bila:  # butir perubahan dalam senarai
+    - c: 2018-03-01  # tarikh perubahan rujukan B
+      x: 7e5cf23/0   # ulang rujukan di baris terakhir
 -
   id: '1.0'
-  idc: '1e9baa9'
-  rev: 100
-  ciri:
-    arkib: false
-    muat: true
-  lagi:
-    - m: katakerap
-      n: '5c4032d'
-      o: 2018-05-03  # +0800
-      p:  # git diff --stat 747de60 5c4032d
-        Daftar kata kerap ada penamat baris CR yang hanya
-        dikira 0 atau 1 baris (GitHub), sebenarnya 23020.
-    - m: psat
-      n: 'ae3db55'
-      o: 2018-05-08  # +0800
-      p:  # git diff --stat c30f034 ae3db55
-        Daftar PSAT ada lema sementara 24.
+  ix: 1e9baa9/1  # terbitan pokok ke-1
+  ga: false
+  bila:  # jika saiz senarai >1 anggap ada muat daftar
+    - c: 2018-05-03  # +0800
+      x: 5c4032d/1  # katakerap
+    - c: 2018-05-08  # +0800
+      x: ae3db55/1  # psat
+    - c: 2018-05-09  # +0800
+      x: 1e9baa9/1
 -
   id: '1.4.1'  # mewarisi 1.1.0...1.4.0
-  idc: 'd0b30e2'
-  rev: 343
-  ciri:
-    arkib: true  # mula tersimpan kerana ada 1 star
-    muat: true   # mewarisi ms2 dari 1.4.0
-  lagi:
-    - m:
-      n: '6adaf67'  # merge 7df2543 1c6c2d0
-      o: 2018-11-10  # +0800
-      p:  # git diff --stat 7df2543 6adaf67
-        Daftar PSAT ada lema selesai 17, sementara 6.
-        Pembaikan keluaran pertama (#18).
-    - m:
-      n: '7d62d70'  # merge ad9c7d4 b515952
-      o: 2018-12-03  # +0800
-      p:  # git diff --stat ad9c7d4 7d62d70
-        Had panjang aksara adalah 60 setiap baris.
-        Hasil kajian Mac 2018 (#2 berkait).
-    - m:
-      n: 'dfc9f2b'
-      o: 2019-02-24  # +0800
-      p:  # git diff --stat c2065d5 dfc9f2b
-        Selesai terjemah pendua dalam daftar PSAT (#23).
-    - m:
-      n: '34caf02'
-      o: 2019-03-26  # +0800
-      p:  # git diff --stat cd36004 34caf02
-        Selesai terjemah pilihan salah daftar PSAT (#26).
-    - m: ms2
-      n: '3438cb7'
-      o: 2019-03-28  # +0800
-      p:  # git diff --stat a1a2b0d 3438cb7
-        Daftar kata dua-huruf Melayu (ms2).
-    - m:
-      n: '4a00c5d'  # merge 3bce53a 29dcebc
-      o: 2019-04-06  # +0800
-      p:  # git diff --stat 3bce53a 4a00c5d
-        Selesai lengkap daftar PSAT (#27), ada 344 lema.
-    - m:
-      n: 'd250f16'  # merge 58628bd a27b840
-      o: 2019-10-31  # mula guna tarikh UTC
-      p:  # git diff --stat 58628bd d250f16
-        Terbitan jangka panjang ke-2 selepas 1.0.
+  ix: d0b30e2/1  # terbitan pokok ke-2
+  ga: true  # tersalin ada 1 Star
+  bila:
+    - c: 2018-11-10  # +0800
+      x: 64470a0/1  # psat lema selesai 17, sementara 6
+    - c: 2018-11-20  # +0800
+      x: 7b6fd49/1  # hasil kajian Mac 2018
+    - c: 2019-02-24  # +0800
+      x: dfc9f2b/1  # psat selesai terjemah pendua
+    - c: 2019-03-26  # +0800
+      x: 34caf02/1  # psat selesai terjemah pilihan salah
+    - c: 2019-03-28  # +0800
+      x: 3438cb7/1  # mewarisi ms2 dari 1.4.0
+    - c: 2019-03-27  # +0800
+      x: a037ad7/1  # psat selesai lengkap 344
+    - c: 2019-10-31  # +0800
+      x: d0b30e2/1
 -
   id: '1.6.0'  # mewarisi 1.4.5...1.5.7
-  idc: '3b796fb'
-  rev: 494
-  ciri:
-    arkib: false
-    muat: true  # mewarisi en2 kerapu dari 1.4.6
-  lagi:
-    - m:
-      n: 'bb12376'
-      o: 2020-04-03
-      p:  # git diff --stat 993e547 bb12376
-        Semua nota terbitan ada butir perubahan.
-    - m: en2
-      n: 'a93f3c5'
-      o: 2020-04-06
-      p:  # git diff --stat b2b7058 a93f3c5
-        Daftar kata dua-huruf Inggeris (en2).
-    - m: kerapu
-      n: '30c95bf'
-      o: 2020-04-08
-      p:  # git diff --stat 77f4e27 30c95bf
-        Daftar kata kerap unik (kerapu).
-        Selesai salin dan perbaik daftar kata kerap (#32).
-    - m:
-      n: '1bb4ab1'
-      o: 2020-04-20
-      p:  # git diff --stat f28ff8a 1bb4ab1
-        Hasil kajian April 2020 (2004).
-    - m:
-      n: '6d2092a'  # merge 6858af2 1436fc0
-      o: 2020-07-05
-      p:  # git diff --stat 6858af2 6d2092a
-        Permudah simpanan daftar dan bab panduan (#34).
-        Perbetul aksara tanda petik satu (#35).
-    - m:
-      n: 'f8c9d65'
-      o: 2020-07-26
-      p:  # git diff --stat e0cf155 f8c9d65
-        Selesai kemas dan capai semula dari bersuai (#38).
+  ix: 3b796fb/1  # terbitan pokok ke-3
+  ga: false
+  bila:
+    - c: 2020-04-06
+      x: a93f3c5/1  # en2 dari 1.4.6
+    - c: 2020-04-08
+      x: 30c95bf/1  # kerapu dari 1.4.6
+    - c: 2020-04-20
+      x: 1bb4ab1/1  # hasil kajian April 2020
+    - c: 2020-06-30
+      x: bb9cdc3/1  # en2 tukar format csv => tsv
+    - c: 2020-06-30
+      x: bb9cdc3/1  # ms2 tukar format csv => tsv
+    - c: 2020-07-27
+      x: 3b796fb/1
 -
   id: '2.20.0731'  # mula siri kedua N.YY.MMDD
-  idc: '527ac21'
-  rev: 501
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
-    - m:
-      n: '527ac21'
-      o: 2020-07-31
-      p:  # git diff --stat e0a1fa2 527ac21
-        Terbitan jangka panjang ke-3 selepas 1.4.1.
-        Sebelum ini, terbitan asal X.Y dan imbuh X.Y.Z, kini
-        semua terbitan baharu X.YY.ZZZZ; X adalah nombor
-        siri semasa, YY adalah dua nombor terakhir tahun
-        semasa, ZZZZ adalah empat nombor berturutan bulan
-        dan hari semasa tahun itu. Sebaiknya ikut UTC+0.
+  ix: 527ac21/0
+  ga: false
+  bila:
+    - c: 2020-07-31
+      x: 527ac21/0
 -
   id: '2.20.1112'
-  idc: 'a557cf9'
-  rev: 650
-  ciri:
-    arkib: false
-    muat: false
-  lagi:
-    - m:
-      n: 'c70eac8'
-      o: 2020-08-12
-      p:  # git diff --stat 41f1932 c70eac8
-        Pindah glosari ke aras sama dengan laman utama.
-    - m:
-      n: '0fb4466'
-      o: 2020-10-16
-      p:  # git diff --stat e9ed4c5 0fb4466
-        Buang kod cubaan dan pindah bersama nota ke arkib.
-    - m:
-      n: '8746219'  # merge eead24c 8980ac5
-      o: 2020-11-12
-      p:  # git diff --stat eead24c 8980ac5
-        Selesai isu kandungan terabai arkib/utama (#44).
+  ix: a557cf9/0
+  ga: false
+  bila:
+    - c: 2020-11-12
+      x: a557cf9/0
 ...
