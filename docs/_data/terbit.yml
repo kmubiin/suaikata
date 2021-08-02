@@ -1,20 +1,23 @@
 # maklumat meta bagi terbitan dan butir perubahan
-#  rujukan A: git log --abbrev-commit <tag>
-#  rujukan B: git log --date=short  # =format:'%Y-%m-%d'
-#  rujukan N: terbitan am(0) atau pokok(1)
+# petunjuk:
+# . A: git log --abbrev-commit <tag>
+# . B: git log --date=short  # =format:'%Y-%m-%d'
+# . N: nombor kedudukan atau indeks meta 0,1,2...N
+# . jika saiz senarai 'bila' >1, anggap ada muat daftar
+#   dan itu adalah terbitan pokok; sebaliknya terbitan am
 ---
 -
   id: '0.0'      # tag rujukan atau nama terbitan ini
   ix: 7e5cf23/0  # nama rujukan A/N
   ga: false  # tersalin bagi GitHub Archive Program
   bila:  # butir perubahan dalam senarai
-    - c: 2018-03-01  # tarikh perubahan rujukan B
+    - c: 2018-03-01  # tarikh perubahan B
       x: 7e5cf23/0   # ulang rujukan di baris terakhir
 -
   id: '1.0'
   ix: 1e9baa9/1  # terbitan pokok ke-1
   ga: false
-  bila:  # jika saiz senarai >1 anggap ada muat daftar
+  bila:
     - c: 2018-05-03  # +0800
       x: 5c4032d/1  # katakerap
     - c: 2018-05-08  # +0800
@@ -23,59 +26,59 @@
       x: 1e9baa9/1
 -
   id: '1.4.1'  # mewarisi 1.1.0...1.4.0
-  ix: d0b30e2/1  # terbitan pokok ke-2
+  ix: d0b30e2/2  # terbitan pokok ke-2
   ga: true  # tersalin ada 1 Star
   bila:
     - c: 2018-11-10  # +0800
-      x: 64470a0/1  # psat lema selesai 17, sementara 6
+      x: 64470a0/2  # psat lema selesai 17, sementara 6
     - c: 2018-11-20  # +0800
-      x: 7b6fd49/1  # hasil kajian Mac 2018
+      x: 7b6fd49/2  # hasil kajian Mac 2018
     - c: 2019-02-24  # +0800
-      x: dfc9f2b/1  # psat selesai terjemah pendua
+      x: dfc9f2b/2  # psat selesai terjemah pendua
     - c: 2019-03-26  # +0800
-      x: 34caf02/1  # psat selesai terjemah pilihan salah
+      x: 34caf02/2  # psat selesai terjemah pilihan salah
     - c: 2019-03-28  # +0800
-      x: 3438cb7/1  # mewarisi ms2 dari 1.4.0
+      x: 3438cb7/2  # mewarisi ms2 dari 1.4.0
     - c: 2019-03-27  # +0800
-      x: a037ad7/1  # psat selesai lengkap 344
+      x: a037ad7/2  # psat selesai lengkap 344
     - c: 2019-10-31  # +0800
-      x: d0b30e2/1
+      x: d0b30e2/2
 -
   id: '1.6.0'  # mewarisi 1.4.5...1.5.7
-  ix: 3b796fb/1  # terbitan pokok ke-3
+  ix: 3b796fb/3  # terbitan pokok ke-3
   ga: false
   bila:
     - c: 2020-04-06
-      x: a93f3c5/1  # en2 dari 1.4.6
+      x: a93f3c5/3  # en2 dari 1.4.6
     - c: 2020-04-08
-      x: 30c95bf/1  # kerapu dari 1.4.6
+      x: 30c95bf/3  # kerapu dari 1.4.6
     - c: 2020-04-20
-      x: 1bb4ab1/1  # hasil kajian April 2020
+      x: 1bb4ab1/3  # hasil kajian April 2020
     - c: 2020-06-30
-      x: bb9cdc3/1  # en2 tukar format csv => tsv
+      x: bb9cdc3/3  # en2 tukar format csv => tsv
     - c: 2020-06-30
-      x: bb9cdc3/1  # ms2 tukar format csv => tsv
+      x: bb9cdc3/3  # ms2 tukar format csv => tsv
     - c: 2020-07-27
-      x: 3b796fb/1
+      x: 3b796fb/3
 -
   id: '2.20.0731'  # mula siri kedua N.YY.MMDD
-  ix: 527ac21/0
+  ix: 527ac21/4
   ga: false
   bila:
     - c: 2020-07-31
-      x: 527ac21/0
+      x: 527ac21/4
 -
   id: '2.20.1112'
-  ix: a557cf9/0
+  ix: a557cf9/5
   ga: false
   bila:
     - c: 2020-11-12
-      x: a557cf9/0
+      x: a557cf9/5
 -
   id: '2.21.0301'
-  ix: 6098079/0
+  ix: 6098079/6
   ga: false
   bila:
     - c: 2021-03-01
-      x: 6098079/0
+      x: 6098079/6
 ...
