@@ -10,10 +10,6 @@
     ms: Daftar PSAT suaikata
   sumber:  # sumber asal daftar ini jika ada
     https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
-  tarikh:  # tarikh usaha daftar ini jika ada
-    c: 2018-05-08  # tarikh muat untuk rujukan lalai
-    mula: 2018-03-29
-    ubah: 2019-04-06  # juga tarikh lengkap
   para:  # maklumat berkaitan dalam senarai
     penerbit: [archive, cabrinihigh, suaikata]
     pengusaha: [kmubiin, raafsmakmal]
@@ -29,6 +25,13 @@
     Lajur terakhir ada dua huruf (A, M, A+, M+) yang
     merujuk pada nama dua orang pengusaha; simbol adalah
     tanda pilihan dibuat selepas ada selisih terjemah.
+  bila:  # tarikh usaha daftar ini jika ada
+    - c: 2018-03-29
+      x:  # belum termuat pada masa ini
+    - c: 2018-05-08
+      x: ae3db55/1  # rujukan bagi tarikh muat
+    - c: 2019-03-27
+      x: a037ad7/2  # rujukan bagi tarikh lengkap
 -
   id: katakerap
   ia:
@@ -36,10 +39,6 @@
   nama:
     c: kata kerap
   sumber:
-  tarikh:
-    c: 2018-05-03
-    mula:
-    ubah:
   para:
     penerbit: [suaikata]
     pengusaha: [raafsmakmal]
@@ -54,6 +53,9 @@
     Berdasarkan daftar yang tidak dinamakan.
     Disusun mengikut kekerapan; lagi tinggi kedudukan di
     senarai, lagi kerap perkataan itu digunakan.
+  bila:
+    - c: 2018-05-03
+      x: 5c4032d/1
 -
   id: ms2
   ia:
@@ -61,10 +63,6 @@
   nama:
     c: kata dua-huruf Melayu
   sumber:
-  tarikh:
-    c: 2019-03-28
-    mula:
-    ubah:
   para:
     penerbit: [suaikata]
     pengusaha: [kmubiin]
@@ -77,6 +75,9 @@
   nota:
     Daftar tanpa makna, ada pembayang bahasa Melayu.
     Lema Melayu terhad pada 2 aksara sahaja.
+  bila:
+    - c: 2019-03-28
+      x: 3438cb7/2
 -
   id: en2
   ia:
@@ -84,10 +85,6 @@
   nama:
     c: kata dua-huruf Inggeris
   sumber:
-  tarikh:
-    c: 2020-04-06
-    mula:
-    ubah:
   para:
     penerbit: [suaikata]
     pengusaha: [kmubiin]
@@ -100,6 +97,9 @@
   nota:
     Daftar tanpa makna, ada pembayang bahasa Inggeris.
     Lema Inggeris terhad pada 2 aksara sahaja.
+  bila:
+    - c: 2020-04-06
+      x: a93f3c5/3
 -
   id: kerapu
   ia: katakerap
@@ -107,10 +107,6 @@
   nama:
     c: kata kerap unik
   sumber:
-  tarikh:
-    c: 2020-04-08
-    mula: 2020-03-08
-    ubah:
   para:
     penerbit: [suaikata]
     pengusaha: [kmubiin]
@@ -125,4 +121,9 @@
     Berdasarkan daftar kata kerap dengan pembaikan terhad.
     Disusun mengikut kekerapan, setara dengan yang asal.
     Lema terhad pada 3 aksara atau kurang sahaja.
+  bila:
+    - c: 2020-03-08
+      x:  # belum termuat pada masa ini
+    - c: 2020-04-08
+      x: 30c95bf/3
 ...
