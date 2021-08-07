@@ -1,11 +1,12 @@
 # maklumat meta bagi kajian lema
+# petunjuk:
+# . jika ciri 'selisih' !=nil, atau bersamaan true/false,
+#   anggap lema itu ada dalam mana-mana daftar termuat
 ---
 -
   id: abstract  # nama lema ini
   lang: en      # bahasa lema ini
   ciri:  # ciri lema yang hadir dalam daftar
-    lema: true     # ada di lajur lema
-    makna: false   # ada di lajur makna
     selisih: true  # pernah ada selisih terjemah
     serupa: true   # ejaan hampir/serupa bagi kata asing
   nota:  # maklumat tambahan bagi lema ini
@@ -16,8 +17,6 @@
   id: charlatan
   lang: en
   ciri:
-    lema: true
-    makna: false
     selisih: true
     serupa: false
   nota:
@@ -28,8 +27,6 @@
   id: didactic
   lang: en
   ciri:
-    lema: true
-    makna: false
     selisih: true
     serupa: false
   nota:
@@ -40,8 +37,6 @@
   id: immutable
   lang: en
   ciri:
-    lema: true
-    makna: false
     selisih: true
     serupa: false
   nota:
@@ -52,8 +47,6 @@
   id: refute
   lang: en
   ciri:
-    lema: true
-    makna: false
     selisih: true
     serupa: false
   nota:
@@ -64,8 +57,6 @@
   id: repudiate
   lang: en
   ciri:
-    lema: true
-    makna: false
     selisih: true
     serupa: false
   nota:
@@ -77,8 +68,6 @@
   id: suspend
   lang: en
   ciri:
-    lema: true
-    makna: false
     selisih: false
     serupa: false
   nota:
@@ -89,8 +78,6 @@
   id: niskala
   lang: ms
   ciri:
-    lema: false
-    makna: true
     selisih: false
     serupa: true  # sa:nishkala
   nota:
