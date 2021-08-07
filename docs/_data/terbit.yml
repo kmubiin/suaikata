@@ -15,7 +15,7 @@
       x: 7e5cf23/0   # ulang rujukan di baris terakhir
 -
   id: '1.0'
-  ix: 1e9baa9/1  # terbitan pokok ke-1
+  ix: 1e9baa9/1
   ga: false
   bila:
     - c: 2018-05-03  # +0800
@@ -26,7 +26,7 @@
       x: 1e9baa9/1
 -
   id: '1.4.1'  # mewarisi 1.1.0...1.4.0
-  ix: d0b30e2/2  # terbitan pokok ke-2
+  ix: d0b30e2/2
   ga: true  # tersalin ada 1 Star
   bila:
     - c: 2018-11-10  # +0800
@@ -45,7 +45,7 @@
       x: d0b30e2/2
 -
   id: '1.6.0'  # mewarisi 1.4.5...1.5.7
-  ix: 3b796fb/3  # terbitan pokok ke-3
+  ix: 3b796fb/3
   ga: false
   bila:
     - c: 2020-04-06
@@ -55,9 +55,7 @@
     - c: 2020-04-20
       x: 1bb4ab1/3  # hasil kajian April 2020
     - c: 2020-06-30
-      x: bb9cdc3/3  # en2 tukar format csv => tsv
-    - c: 2020-06-30
-      x: bb9cdc3/3  # ms2 tukar format csv => tsv
+      x: bb9cdc3/3  # en2/ms2 tukar format csv => tsv
     - c: 2020-07-27
       x: 3b796fb/3
 -
