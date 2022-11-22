@@ -14,3 +14,5 @@ Pautan relatif ke fail dan folder tersedia:
 - [contoh](contoh)
 - [lagi/dalam](lagi/dalam)
 - [sintaks](sintaks)
+
+Dahan ini menggunakan [lesen yang sama](LICENSE) (CC-BY 4.0)
