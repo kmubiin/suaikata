@@ -21,18 +21,17 @@ Projek suaikata menggariskan **tiga jenis pola** bagi
 menamakan fail yang disimpan di laman sumber. Nama-nama
 yang ditentukan adalah seperti berikut.
 
-1. Daftar contoh: `cthN.anu` atau `cthNx.anu`
+1. Daftar contoh: `contoh.anu`
 2. Daftar tanpa makna: `xxN.anu`
 3. Daftar ada makna: `14.anu`
 
 Penerangan pola bagi nama-nama yang tersenarai di atas
 adalah seperti berikut.
 
-Pola 1: Bagi daftar contoh, berikan nama awalan `cth` dan
-diikuti `N` atau `Nx`, di mana `N` ialah angka yang diberi
-kepada setiap contoh yang didapati dalam panduan dan `Nx`
-ialah angka tersebut bersama aksara tambahan bagi mewakili
-contoh yang sedikit berbeza daripada contoh asal.
+Pola 1: Bagi daftar contoh, berikan nama `contoh` dan tidak
+ada aksara tambahan. Oleh itu, daftar contoh adalah sengaja
+terhad pada satu fail sahaja. Jika diberi anu lain, boleh
+simpan dua atau lebih fail dengan nama sama.
 
 Pola 2: Bagi daftar tanpa makna, berikan nama awalan `xxN`,
 di mana `xx` ialah kod perwakilan dua-huruf bagi nama-nama

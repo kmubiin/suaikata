@@ -55,31 +55,16 @@ mengambil nama daripada tiga huruf pertama lema 'ekabahasa'.
 
 Contoh daftar satu bahasa adalah seperti berikut.
 
-Kata lawan Melayu-Melayu (cth4a):
+Kata sama dan kata lawan Melayu-Melayu (contoh.csv):
 
-| melayu | kata lawan |
-|:------ |:---------- |
-| awal   | akhir      |
-| baik   | buruk      |
-| bujang | kahwin     |
-| dikit  | banyak     |
-| kanan  | kiri       |
-| ...    | ...        |
-
-Kata sama Melayu-Melayu (cth4b):
-
-| melayu | kata sama    |
-|:------ |:------------ |
-| awal   | cepat        |
-| baik   | bagus        |
-| baik   | elok         |
-| bujang | dara         |
-| bujang | teruna       |
-| dikit  | sedikit      |
-| dikit  | kurang       |
-| dikit  | tidak banyak |
-| kanan  | timur        |
-| ...    | ...          |
+| melayu | kata sama                     | kata lawan |
+|:------ |:----------------------------- |:---------- |
+| awal   | cepat                         | akhir      |
+| baik   | bagus, elok                   | buruk      |
+| bujang | dara, teruna                  | kahwin     |
+| dikit  | sedikit, kurang, tidak banyak | banyak     |
+| kanan  | timur                         | kiri       |
+| ...    | ...                           | ...        |
 
 **dwi** adalah kelas bagi daftar dua bahasa. Kelas ini
 mengambil nama daripada tiga huruf pertama lema 'dwibahasa'.
