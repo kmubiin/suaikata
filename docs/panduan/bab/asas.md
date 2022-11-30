@@ -1,5 +1,9 @@
 ---
 published: true
+tajuk: Asas penyediaan takrif
+bahagian: bab
+bab: 1
+urutan: 5
 ---
 
 ### Asas penyediaan takrif

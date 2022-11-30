@@ -1,5 +1,9 @@
 ---
 published: true
+tajuk: Mengenal projek suaikata
+bahagian: bab
+bab: 1
+urutan: 1
 ---
 
 ### Mengenal projek suaikata

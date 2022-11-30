@@ -1,5 +1,7 @@
 ---
 published: true
+tajuk: Soal terjemah
+bahagian: ruj
 ---
 
 ### Soal terjemah

@@ -1,5 +1,9 @@
 ---
 published: true
+tajuk: Mengulang kaji
+bahagian: bab
+bab: 3
+urutan: 3
 ---
 
 ### Mengulang kaji

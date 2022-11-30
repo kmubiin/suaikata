@@ -1,5 +1,9 @@
 ---
 published: true
+tajuk: Hak cipta tidak terpelihara
+bahagian: bab
+bab: 1
+urutan: 3
 ---
 
 ### Hak cipta tidak terpelihara

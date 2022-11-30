@@ -1,5 +1,9 @@
 ---
 published: true
+tajuk: Menyedia daftar sendiri
+bahagian: bab
+bab: 3
+urutan: 1
 ---
 
 ### Menyedia daftar sendiri

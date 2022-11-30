@@ -1,5 +1,7 @@
 ---
 published: true
+tajuk: Format helai daftar
+bahagian: ruj
 ---
 
 ### Format helai daftar

@@ -1,5 +1,7 @@
 ---
 published: true
+tajuk: Soal piawai
+bahagian: ruj
 ---
 
 ### Soal piawai

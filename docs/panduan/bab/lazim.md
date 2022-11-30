@@ -1,5 +1,9 @@
 ---
 published: true
+tajuk: Bentuk lazim daftar
+bahagian: bab
+bab: 2
+urutan: 1
 ---
 
 ### Bentuk lazim daftar

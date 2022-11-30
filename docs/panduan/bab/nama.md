@@ -1,5 +1,9 @@
 ---
 published: true
+tajuk: Menyimpan helai dengan nama
+bahagian: bab
+bab: 2
+urutan: 6
 ---
 
 ### Menyimpan helai dengan nama

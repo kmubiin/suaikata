@@ -1,5 +1,9 @@
 ---
 published: true
+tajuk: Sumber kata masukan
+bahagian: bab
+bab: 1
+urutan: 2
 ---
 
 ### Sumber kata masukan

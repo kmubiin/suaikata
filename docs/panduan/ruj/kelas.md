@@ -1,5 +1,7 @@
 ---
 published: true
+tajuk: Kelas daftar
+bahagian: ruj
 ---
 
 ### Kelas daftar

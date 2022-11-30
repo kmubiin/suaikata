@@ -1,5 +1,7 @@
 ---
 published: true
+tajuk: Contoh daftar
+bahagian: ruj
 ---
 
 ### Contoh daftar

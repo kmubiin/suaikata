@@ -1,5 +1,9 @@
 ---
 published: true
+tajuk: Dua atau lebih lajur
+bahagian: bab
+bab: 2
+urutan: 4
 ---
 
 ### Dua atau lebih lajur

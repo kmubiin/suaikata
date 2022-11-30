@@ -1,5 +1,9 @@
 ---
 published: true
+tajuk: Takrif asal dan terjemah
+bahagian: bab
+bab: 1
+urutan: 6
 ---
 
 ### Takrif asal dan terjemah

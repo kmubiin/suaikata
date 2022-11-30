@@ -1,5 +1,9 @@
 ---
 published: true
+tajuk: Penamat baris
+bahagian: bab
+bab: 2
+urutan: 5
 ---
 
 ### Penamat baris
