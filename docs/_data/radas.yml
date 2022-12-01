@@ -1,0 +1,86 @@
+# maklumat meta bagi radas dan alat tulis berperanan
+# penyediaan:
+# . salin dan tampal rangka data di baris terbawah sebelum
+#   3-titik `...`, buang 3-aksara `## ` di awalan baris
+# petunjuk:
+# . mana-mana 'id' data radas berkenaan akan disalin ke
+#   senarai 'oleh.radas' data daftar
+# . jika nilai 'uri' hadir, anggap radas itu perisian
+# rangka data:
+## -
+##   id:   # nama rujukan radas atau alat tulis
+##   alt:  # nama radas atau keterangan ringkas
+##   uri:  # alamat laman rasmi/sumber jika ada
+##   lain: []  # senarai radas lain berpaut pada radas ini
+---
+-
+  id: bebas
+  alt: guna pensil dan kertas
+  uri:  # alat tulis yang biasa didapati
+  lain: []
+-
+  id: editor
+  alt: guna penyunting teks biasa
+  uri:  # alat terbina pada sistem operasi komputer
+  lain: []
+-
+  id: git
+  alt: Git
+  uri: https://git-scm.com/
+  lain: []
+-
+  id: sheets
+  alt: Google Sheets
+  uri: https://docs.google.com/spreadsheets/
+  lain: []
+-
+  id: calc
+  alt: LibreOffice Calc
+  uri: https://www.libreoffice.org/
+  lain: []
+-
+  id: firefox
+  alt: Mozilla Firefox
+  uri: https://www.mozilla.org/en-US/firefox/
+  lain: [markdown-viewer, side-view]
+-
+  id: markdown-viewer
+  alt: Markdown Viewer Webext
+  uri: https://github.com/KeithLRobertson/markdown-viewer
+  lain: []
+-
+  id: side-view
+  alt: Side View
+  uri: https://github.com/mozilla/side-view
+  lain: []
+-
+  id: smurf
+  alt: simple markdown surfer
+  uri: https://github.com/oxalorg/smurf
+  lain: [pandoc, markdown2]
+-
+  id: pandoc
+  alt: Pandoc
+  uri: https://pandoc.org/
+  lain: []
+-
+  id: coreutils
+  alt: GNU core utilities
+  uri: http://www.gnu.org/software/coreutils/
+  lain: [head, sort, tail, wc]  # termasuk sekali
+-
+  id: grep
+  alt: GNU Grep
+  uri: http://www.gnu.org/software/grep/
+  lain: []
+-
+  id: sed
+  alt: GNU sed
+  uri: https://www.gnu.org/software/sed/
+  lain: []
+-
+  id: yamllint
+  alt: Pemeriksa fail YAML
+  uri: https://github.com/adrienverge/yamllint
+  lain: []
+...
