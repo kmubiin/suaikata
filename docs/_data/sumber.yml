@@ -1,0 +1,84 @@
+# maklumat meta bagi sumber carian dan rujukan
+# penyediaan:
+# . salin dan tampal rangka data di baris terbawah sebelum
+#   3-titik `...`, buang 3-aksara `## ` di awalan baris
+# petunjuk:
+# . mana-mana 'id' data sumber berkenaan akan disalin ke
+#   senarai 'oleh.sumber' data daftar
+# . jika nama rujukan 'id' ada aksara `/` satu atau lebih,
+#   anggap ada senarai kata atau laman berkenaan
+# rangka data:
+## -
+##   id:   # nama rujukan sumber ini
+##   alt:  # nama sumber ini
+##   uri:  # alamat sumber http:// atau seumpamanya
+---
+-
+  id: bebas
+  alt: mula dari senarai kosong
+  uri:  # bersumberkan mana-mana bahan bacaan bercetak
+-
+  id: ia
+  alt: Internet Archive
+  uri: https://archive.org/
+-
+  id: ia/ch/psatwords
+  alt: PSAT High Frequency Words
+  uri: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
+-
+  id: wt
+  alt: Wiktionary
+  uri: https://wiktionary.org/
+-
+  id: wt/sl
+  alt: Wiktionary:Simple_English_word_list
+  uri: https://simple.wiktionary.org/wiki/Wiktionary:Simple_English_word_list
+-
+  id: wt/fl
+  alt: Wiktionary:Frequency_lists
+  uri: https://en.wiktionary.org/wiki/WT:FL
+-
+  id: wt/be850
+  alt: Wiktionary:Basic_English_alphabetical_wordlist
+  uri: https://simple.wiktionary.org/wiki/WT:BE850
+-
+  id: wt/bnc1k
+  alt: Wiktionary:Most_frequent_1000_words_in_English
+  uri: https://simple.wiktionary.org/wiki/Wiktionary:Most_frequent_1000_words_in_English
+-
+  id: wy
+  alt: Wikipedia
+  uri: https://wikipedia.org/
+-
+  id: wy/enid
+  alt: List of English words of Indonesian origin (wiki)
+  uri: https://en.wikipedia.org/wiki/List_of_English_words_of_Indonesian_origin
+-
+  id: wy/enms
+  alt: List of English words of Malay origin (wiki)
+  uri: https://en.wikipedia.org/wiki/List_of_English_words_of_Malay_origin
+-
+  id: wy/ms18
+  alt: Kategori:Perbendaharaan kata (wiki)
+  uri: https://ms.wikipedia.org/wiki/Kategori:Perbendaharaan_kata
+-
+  id: wy/ms10
+  alt: Kategori:Peribahasa (wiki)
+  uri: https://ms.wikipedia.org/wiki/Kategori:Peribahasa
+-
+  id: wy/msidar
+  alt: Senarai kata pinjaman dari bahasa Arab (wiki)
+  uri: https://ms.wikipedia.org/wiki/Senarai_kata_pinjaman_dari_bahasa_Arab_dalam_bahasa_Melayu_dan_bahasa_Indonesia
+-
+  id: wy/msid
+  alt: Perbezaan antara Bahasa Melayu Piawai dan Bahasa Indonesia (wiki)
+  uri: https://ms.wikipedia.org/wiki/Perbezaan_antara_Bahasa_Melayu_Piawai_dan_Bahasa_Indonesia
+-
+  id: ia/ms38
+  alt: Perkataan pinjaman dalam Bahasa Melayu (2008) (arkib)
+  uri: https://web.archive.org/web/20140723030634/http://lincahtaiping.wordpress.com/2008/08/29/perkataan-pinjaman-dalam-bahasa-melayu/
+-
+  id: wy/en26
+  alt: Glossary of literary terms (wiki)
+  uri: https://en.wikipedia.org/wiki/Glossary_of_literary_terms
+...
