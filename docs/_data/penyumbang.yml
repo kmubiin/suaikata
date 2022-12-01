@@ -1,0 +1,30 @@
+# maklumat meta bagi penyumbang projek
+# penyediaan:
+# . salin dan tampal rangka data di baris terbawah sebelum
+#   3-titik `...`, buang 3-aksara `## ` di awalan baris
+# petunjuk:
+# . mana-mana 'id' data penyumbang berkenaan akan disalin ke
+#   senarai 'oleh.ahli' data daftar
+# rangka data:
+## -
+##   id:    # nama pengguna atau nama pena
+##   ahli:  # adakah penyumbang rapat: false|true
+##   bila:  # tarikh terawal penyertaan
+##   mana: []  # senarai nama rujukan untuk disemak
+---
+-
+  id: kmubiin
+  ahli: true
+  bila: 2018-03-01
+  mana: [
+    7e5cf23,  # mencipta kandungan terawal
+    d0b30e2   # menerbit 1.4.1 yang tersalin ke arkib
+  ]
+-
+  id: raafsmakmal
+  ahli: true
+  bila: 2018-03-07
+  mana: [
+    5c4032d  # memuat daftar katakerap
+  ]
+...
