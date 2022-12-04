@@ -7,9 +7,9 @@ tukaran ke kod HTML lebih kemas, mungkin ralat pada Liquid
 
 {% assign d = site.data.daftar %}
 
-<ul>{% for sa in d %}{% if sa.ciri.rasmi %}
-<li>"{{ sa.nama.c }}"{% capture n %}{% increment i %}{% endcapture %}
-oleh {{ sa.para.pengusaha | join: ", " }}</li>
+<ul>{% for sa in d %}{% if sa.rasmi %}
+<li>"{{ sa.alt }}"{% capture n %}{% increment i %}{% endcapture %}
+oleh {{ sa.oleh.ahli | join: ", " }}</li>
 {% endif %}{% endfor %}</ul>
 
 Bilangan daftar rasmi/semua:

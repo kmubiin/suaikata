@@ -1,129 +1,151 @@
 # maklumat meta bagi kajian daftar
+# penyediaan:
+# . salin dan tampal rangka data di baris terbawah sebelum
+#   3-titik `...`, buang 3-aksara `## ` di awalan baris;
+# . nyatakan nilai 'id alt rasmi'; selebihnya kemudian
+# . senarai 'ubah' bagi daftar baru ada pilihan untuk
+#   diisi atau dibiar kosong
+# perbezaan:
+# . bagi daftar yang dimuat sebelum Jun 2021, senarai 'ubah'
+#   lebih lengkap dan mudah dicapai kerana sejarah git
+#   bercerai selepas pindah ke folder tunggal (4162148)
+# petunjuk:
+# . nilai 'bina' adalah suatu rantaian (string) yang diberi
+#   tanda petik satu; jika tidak diisi, anggap tiada fail
+# . jika saiz senarai 'oleh.ahli' >1, anggap usaha beregu
+# . jika saiz senarai 'oleh.bahasa' >=2, anggap diterjemah
+# . jika saiz senarai 'oleh.sumber' =1 dan nilainya 'bebas',
+#   anggap asli; 'oleh.daftar' >=1, anggap unik;
+# . selain itu, anggap luar tumpuan
+# rangka data:
+## -
+##   id:   # nama rujukan daftar ini
+##   alt:  # nama daftar ini
+##   rasmi:  # usaha mengikut rancangan: false|true
+##   oleh:  # rujuk 'id' dalam fail data berkenaan jika ada
+##     ahli: []    # terhad untuk ahli projek sahaja
+##     bahasa: []
+##     daftar: []  # rujuk silang bagi daftar terbitan
+##     radas: []
+##     sumber: []
+##   nota:  # catatan bermakna bagi daftar ini
+##   bila:  # git log --date=short    # =format:'%Y-%m-%d'
+##   bina:  # git log --abbrev-commit # rujuk 7-aksara unik
+##   ubah: []  # senarai bila/bina terdahulu jika berubah
 ---
 -
-  id: psat     # nama daftar ini
-  ia:          # nama daftar asal jika ada
-  lang: en+ms  # bahasa pengantar daftar ini
-  nama:  # nama daftar dalam bahasa asal dan lain jika ada
-    c: kata kerap PSAT  # nama umum untuk rujukan lalai
-    en: PSAT High Frequency Words
-    ms: Daftar PSAT suaikata
-  sumber:  # sumber asal daftar ini jika ada
-    https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
-  para:  # maklumat berkaitan dalam senarai
-    penerbit: [archive, cabrinihigh, suaikata]
-    pengusaha: [kmubiin, raafsmakmal]
-  ciri:  # ciri daftar yang hadir
-    daftar: true  # ada fail daftar
-    makna: true   # ada lajur makna atau terjemah
-    rasmi: true   # usaha mengikut rancangan
-    baiki: false  # usaha memperbaik daftar terdahulu
-    tanda: true   # usaha secara beregu ada tanda nama
-  nota:  # maklumat tambahan bagi daftar ini
-    Daftar pertama projek suaikata.
-    Daftar dwibahasa beregu.
+  id: psat
+  alt: kata kerap PSAT
+  rasmi: true  # daftar pertama projek suaikata
+  oleh:
+    ahli: [kmubiin, raafsmakmal]
+    bahasa: [en, ms]
+    daftar: []
+    radas: [sheets, calc]
+    sumber: [ia/ch/psatwords]
+  nota:
     Lajur terakhir ada dua huruf (A, M, A+, M+) yang
     merujuk pada nama dua orang pengusaha; simbol adalah
     tanda pilihan dibuat selepas ada selisih terjemah.
-  bila:  # tarikh usaha daftar ini jika ada
-    - c: 2018-03-29
-      x:  # belum termuat pada masa ini
-    - c: 2018-05-08
-      x: ae3db55/1  # rujukan bagi tarikh muat
-    - c: 2019-03-27
-      x: a037ad7/2  # rujukan bagi tarikh lengkap
+  bila: 2019-03-27
+  bina: 'a037ad7'
+  ubah:
+    - bila: 2018-03-29
+      bina:  # mula dan belum termuat pada masa itu
+    - bila: 2018-05-08
+      bina: 'ae3db55'  # muat dalam 1.0
+    - bila: 2018-11-10  # +0800
+      bina: '64470a0'  # lema selesai 17, sementara 6
+    - bila: 2019-02-24  # +0800
+      bina: 'dfc9f2b'  # selesai terjemah pendua
+    - bila: 2019-03-26  # +0800
+      bina: '34caf02'  # selesai terjemah pilihan salah
+    - bila: 2019-03-27
+      bina: 'a037ad7'  # lengkap 344 dalam 1.4.1
 -
   id: katakerap
-  ia:
-  lang: en+ms
-  nama:
-    c: kata kerap
-  sumber:
-  para:
-    penerbit: [suaikata]
-    pengusaha: [raafsmakmal]
-  ciri:
-    daftar: true
-    makna: true
-    rasmi: false
-    baiki: false
-    tanda: false
+  alt: kata kerap
+  rasmi: false  # sumbangan sukarela
+  oleh:
+    ahli: [raafsmakmal]
+    bahasa: [en, ms]
+    daftar: []
+    radas: []
+    sumber: []
   nota:
-    Daftar sumbangan sukarela.
     Berdasarkan daftar yang tidak dinamakan.
     Disusun mengikut kekerapan; lagi tinggi kedudukan di
     senarai, lagi kerap perkataan itu digunakan.
-  bila:
-    - c: 2018-05-03
-      x: 5c4032d/1
+  bila: 2018-05-03
+  bina: '5c4032d'  # terbit dalam 1.0
+  ubah: []
 -
   id: ms2
-  ia:
-  lang: ms
-  nama:
-    c: kata dua-huruf Melayu
-  sumber:
-  para:
-    penerbit: [suaikata]
-    pengusaha: [kmubiin]
-  ciri:
-    daftar: true
-    makna: false
-    rasmi: true
-    baiki: false
-    tanda: false
+  alt: kata dua-huruf Melayu
+  rasmi: true
+  oleh:
+    ahli: [kmubiin]
+    bahasa: [ms]
+    daftar: []
+    radas: [editor, calc]
+    sumber: [bebas]  # mula dari senarai kosong
   nota:
     Daftar tanpa makna, ada pembayang bahasa Melayu.
     Lema Melayu terhad pada 2 aksara sahaja.
-  bila:
-    - c: 2019-03-28
-      x: 3438cb7/2
+  bila: 2020-08-03
+  bina: '5b06d15'
+  ubah:
+    - bila: 2019-03-28
+      bina: '3438cb7'  # terbit dalam 1.4.1
+    - bila: 2020-06-30
+      bina: 'bb9cdc3'  # ms2 tukar format csv => tsv
+    - bila: 2020-08-03
+      bina: '4c346b0'  # semak lema 'ya' bagi ms2
+    - bila: 2020-08-03
+      bina: '4a80eb9'  # tambah lema 'ai bi ha oi ok'
+    - bila: 2020-08-03
+      bina: '5b06d15'  # buang lema 'pi' percakapan
 -
   id: en2
-  ia:
-  lang: en
-  nama:
-    c: kata dua-huruf Inggeris
-  sumber:
-  para:
-    penerbit: [suaikata]
-    pengusaha: [kmubiin]
-  ciri:
-    daftar: true
-    makna: false
-    rasmi: true
-    baiki: false
-    tanda: false
+  alt: kata dua-huruf Inggeris
+  rasmi: true
+  oleh:
+    ahli: [kmubiin]
+    bahasa: [en]
+    daftar: []
+    radas: [editor, calc]
+    sumber: [bebas]  # mula dari senarai kosong
   nota:
     Daftar tanpa makna, ada pembayang bahasa Inggeris.
     Lema Inggeris terhad pada 2 aksara sahaja.
-  bila:
-    - c: 2020-04-06
-      x: a93f3c5/3
+  bila: 2020-08-21
+  bina: '4c24632'
+  ubah:
+    - bila: 2020-04-06
+      bina: 'a93f3c5'  # terbit dalam 1.6.0
+    - bila: 2020-06-30
+      bina: 'bb9cdc3'  # en2 tukar format csv => tsv
+    - bila: 2020-08-21
+      bina: '4c24632'  # semak semula lema 'ya'
 -
   id: kerapu
-  ia: katakerap
-  lang: en+ms
-  nama:
-    c: kata kerap unik
-  sumber:
-  para:
-    penerbit: [suaikata]
-    pengusaha: [kmubiin]
-  ciri:
-    daftar: true
-    makna: true
-    rasmi: false
-    baiki: true
-    tanda: false
+  alt: kata kerap unik
+  rasmi: false  # sumbangan sukarela
+  oleh:
+    ahli: [kmubiin]
+    bahasa: [en, ms]
+    daftar: [katakerap]
+    radas: [calc]
+    sumber: []
   nota:
-    Daftar sumbangan sukarela.
     Berdasarkan daftar kata kerap dengan pembaikan terhad.
     Disusun mengikut kekerapan, setara dengan yang asal.
     Lema terhad pada 3 aksara atau kurang sahaja.
-  bila:
-    - c: 2020-03-08
-      x:  # belum termuat pada masa ini
-    - c: 2020-04-08
-      x: 30c95bf/3
+  bila: 2020-04-08
+  bina: '30c95bf'
+  ubah:
+    - bila: 2020-03-08
+      bina:  # belum termuat pada masa itu
+    - bila: 2020-04-08
+      bina: '30c95bf'  # terbit dalam 1.6.0
 ...
