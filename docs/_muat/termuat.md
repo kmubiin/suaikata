@@ -19,57 +19,61 @@ site.timezone
 : {{ site.timezone }}
 
 site.data ({{ site.data.size }})
-: kandungan data seperti berikut
+: kandungan data seperti berikut<br><br>
 
 {% comment %}
-site.data adalah JSON dan Liquid tiada cara `Object.keys()`
-sepertimana JavaScript; gunakan gelung `for d in site.data`
+site.data mengandungi objek JSON;
+JavaScript ada `Object.keys()` untuk memapar JSON, tetapi
+Liquid tiada cara itu; gunakan gelung `for d in site.data`
 {% endcomment %}
 
-{% if site.data.size > 0 %}
-{% for d in site.data %}
-{% if d[1].size > 2 %}
-site.data.{{ d[0] }} ({{ d[1].size }})
-: terakhir {{ d[1].last }}
-{% else %}
-site.data.{{ d[0] }}
-: terhad {{ d[1] | default: '(tiada data)' }}
-{% endif %}
-{% endfor %}
+{% assign o = site.data | sort %}
+{% if o.size > 0 %}{% for d in o %}
+site.data.{{ d[0] }} ({{ d[1].size | default: 0 }})
+: {% if d[1].last.id %}{% for sa in d[1] %}{{ sa.id }}, {% endfor %}
+{% else %}objek tiada 'id'{% endif %}
+
+{% if d[1].last %}terakhir {{ d[1].last | default: 'tiada' }}
+{% else %}pangkal {{ d[1] | default: 'tiada' }}{% endif %}
+{% endfor %}{% endif %}
+
+{% assign o = site.static_files %}
+<br>{% if o.size > 0 %}
+site.static&#95;files ({{ o.size }}) {% for f in o %}
+: {{ f.extname }}&emsp;{{ f.path }}{% endfor %}
 {% endif %}
 
-{% assign o = site.pages %}{% if o.size > 0 %}
+{% assign o = site.pages %}
+<br>{% if o.size > 0 %}
 site.pages ({{ o.size }}) {% for f in o %}
 : {{ f.layout }}&emsp;{{ f.url }}{% endfor %}
 {% endif %}
 
 {% comment %}
-site.static_files adalah longgokan data terbina Jekyll;
-gunakan gelung `for f in site.static_files`
+site.pages mengandungi sebarang fail yang ada bahagian awal,
+tetapi tersimpan di luar folder "posts" dan "collections"
 {% endcomment %}
 
-{% assign o = site.static_files %}{% if o.size > 0 %}
-site.static&#95;files ({{ o.size }}) {% for f in o %}
-: {{ f.extname }}&emsp;{{ f.path }}{% endfor %}
-{% endif %}
+{% assign o = site.posts %}
+<br>site.posts ({{ o.size }}) {% if o.size > 0 %}{% for f in o %}
+: {{ f.layout }}&emsp;{{ f.url }}{% endfor %}{% else %}
+: tiada{% endif %}
 
-{% assign o = site.posts %}{% if o.size > 0 %}
-site.posts ({{ o.size }}) {% for f in o %}
-: {{ f.layout }}&emsp;{{ f.url }}{% endfor %}
-{% endif %}
-
-{% comment %}
-site.collections.size ialah `1` meskipun array kosong `[]`;
-senarai fail tanpa bahagian awal di `f.files` dan sebaliknya
-di `f.docs`, kecuali `published: false` tidak tersenarai
-{% endcomment %}
-
-{% if site.documents.size > 0 %}
 {% assign o = site.collections %}
-site.collections ({{ o.size }}) {% for f in o %}
-: {{ f.label }} {{ f.docs.size }} {{ f.files.size }}{% endfor %}
+<br>site.collections ({{ o.size }}) {% for f in o %}
+: {{ f.label }} {{ f.files.size }} terbit: {{ f.docs.size }}{% endfor %}
 
 {% assign o = site.documents %}
-site.documents ({{ o.size }}) {% for f in o %}
-: {{ f.collection }}&emsp;{{ f.url | default: false }}{% endfor %}
-{% endif %}
+<br>{% if o.size > 0 %}
+site.documents ({{ o.size }}) {% for f in o %}{% if f.url %}
+: {{ f.collection }}&emsp;{{ f.url }}{% endif %}{% endfor %}{% endif %}
+
+{% comment %}
+site.documents mengandungi semua fail yang disimpan dalam
+folder "posts" dan "collections";
+`f.files` adalah senarai fail tanpa bahagian awal;
+`f.docs` adalah senarai fail ada bahagian awal, kecuali
+fail tidak tersenarai dengan `published: false`;
+{% endcomment %}
+
+Termuat tamat.
