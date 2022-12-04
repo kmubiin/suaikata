@@ -1,82 +1,61 @@
 # maklumat meta bagi terbitan dan butir perubahan
+# penyediaan:
+# . salin dan tampal rangka data di baris terbawah sebelum
+#   3-titik `...`, buang 3-aksara `## ` di awalan baris;
+# . nyatakan nilai 'id beku'; selebihnya kemudian
 # petunjuk:
-# . A: git log --abbrev-commit <tag>
-# . B: git log --date=short  # =format:'%Y-%m-%d'
-# . N: nombor kedudukan atau indeks meta 0,1,2...N
-# . jika saiz senarai 'bila' >1, anggap ada muat daftar
-#   dan itu adalah terbitan pokok; sebaliknya terbitan am
+# . nilai 'bina' adalah suatu rantaian (string) yang diberi
+#   tanda petik satu sepertimana nilai 'id'
+# . jika saiz senarai 'muat' >=1, anggap ada daftar baru dan
+#   itu terbitan pokok; sebaliknya, terbitan am
+# rangka data:
+## -
+##   id:  # tag rujukan atau nama terbitan ini
+##   beku:  # tersalin ke mana-mana arkib: false|true
+##   bila:  # git log --date=short|=format:'%Y-%m-%d'
+##   bina:  # git log --abbrev-commit <tag>  # 7-aksara unik
+##   muat: []  # senarai muat daftar baru bagi terbitan ini
 ---
 -
-  id: '0.0'      # tag rujukan atau nama terbitan ini
-  ix: 7e5cf23/0  # nama rujukan A/N
-  ga: false  # tersalin bagi GitHub Archive Program
-  bila:  # butir perubahan dalam senarai
-    - c: 2018-03-01  # tarikh perubahan B
-      x: 7e5cf23/0   # ulang rujukan di baris terakhir
+  id: '0.0'
+  beku: false
+  bila: 2018-03-01
+  bina: '7e5cf23'
+  muat: []
 -
   id: '1.0'
-  ix: 1e9baa9/1
-  ga: false
-  bila:
-    - c: 2018-05-03  # +0800
-      x: 5c4032d/1  # katakerap
-    - c: 2018-05-08  # +0800
-      x: ae3db55/1  # psat
-    - c: 2018-05-09  # +0800
-      x: 1e9baa9/1
+  beku: false
+  bila: 2018-05-09  # +0800
+  bina: '1e9baa9'
+  muat: [katakerap, psat]
 -
-  id: '1.4.1'  # mewarisi 1.1.0...1.4.0
-  ix: d0b30e2/2
-  ga: true  # tersalin ada 1 Star
-  bila:
-    - c: 2018-11-10  # +0800
-      x: 64470a0/2  # psat lema selesai 17, sementara 6
-    - c: 2018-11-20  # +0800
-      x: 7b6fd49/2  # hasil kajian Mac 2018
-    - c: 2019-02-24  # +0800
-      x: dfc9f2b/2  # psat selesai terjemah pendua
-    - c: 2019-03-26  # +0800
-      x: 34caf02/2  # psat selesai terjemah pilihan salah
-    - c: 2019-03-28  # +0800
-      x: 3438cb7/2  # mewarisi ms2 dari 1.4.0
-    - c: 2019-03-27  # +0800
-      x: a037ad7/2  # psat selesai lengkap 344
-    - c: 2019-10-31  # +0800
-      x: d0b30e2/2
+  id: '1.4.1'  # mewarisi 1.1.0...1.4.0, ada 1 Star
+  beku: true   # GitHub Archive Program (2020-02-20)
+  bila: 2019-10-31
+  bina: 'd0b30e2'
+  muat: [ms2]
 -
   id: '1.6.0'  # mewarisi 1.4.5...1.5.7
-  ix: 3b796fb/3
-  ga: false
-  bila:
-    - c: 2020-04-06
-      x: a93f3c5/3  # en2 dari 1.4.6
-    - c: 2020-04-08
-      x: 30c95bf/3  # kerapu dari 1.4.6
-    - c: 2020-04-20
-      x: 1bb4ab1/3  # hasil kajian April 2020
-    - c: 2020-06-30
-      x: bb9cdc3/3  # en2/ms2 tukar format csv => tsv
-    - c: 2020-07-27
-      x: 3b796fb/3
+  beku: false
+  bila: 2020-07-27
+  bina: '3b796fb'
+  muat: [en2, kerapu]
 -
-  id: '2.20.0731'  # mula siri kedua N.YY.MMDD
-  ix: 527ac21/4
-  ga: false
-  bila:
-    - c: 2020-07-31
-      x: 527ac21/4
+  id: '2.20.0731'  # mula siri baharu N.YY.MMDD
+  beku: false
+  bila: 2020-07-31
+  bina: '527ac21'
+  muat: []
 -
-  id: '2.20.1112'
-  ix: a557cf9/5
-  ga: false
-  bila:
-    - c: 2020-11-12
-      x: a557cf9/5
+  id: '2.20.1112'  # terabai !! tag ini bakal dipadam
+  beku: false
+  bila: 2020-11-12
+  bina: 'a557cf9'
+  muat: []
 -
-  id: '2.21.0301'
-  ix: 6098079/6
-  ga: false
-  bila:
-    - c: 2021-03-01
-      x: 6098079/6
+  id: '2.21.0301'  # terabai !! tag ini bakal dipadam
+  beku: false
+  bila: 2021-03-01
+  bina: '6098079'
+  muat: []
 ...

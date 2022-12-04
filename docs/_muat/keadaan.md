@@ -4,11 +4,10 @@ Keadaan projek pada masa ini:
 {% assign d = site.data.daftar %}
 {% assign dt = d.last.bila %}
 {% assign t = site.data.terbit %}
-{% assign tt = t.last.bila %}
 
 - Bilangan daftar: {{ d | size }}
 - Tarikh terakhir daftar: {{ dt.last.c }}
-- Tarikh terakhir terbit: {{ tt.last.c }}
+- Tarikh terakhir terbit: {{ t.last.bila }}
 
 {% assign u = site.url | truncate: 16, "" %}
 {% if u == 'http://localhost' %}
