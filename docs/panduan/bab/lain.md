@@ -1,9 +1,9 @@
 ---
 published: true
-tajuk: Kelainan ciri daftar
-bahagian: bab
+title: Kelainan ciri daftar
+rak: bab
 bab: 2
-urutan: 2
+jilid: 2.2
 ---
 
 ### Kelainan ciri daftar

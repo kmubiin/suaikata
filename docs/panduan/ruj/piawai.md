@@ -1,7 +1,9 @@
 ---
 published: true
-tajuk: Soal piawai
-bahagian: ruj
+title: Soal piawai
+rak: panduan
+bab: 0
+jilid: 99.0
 ---
 
 ### Soal piawai

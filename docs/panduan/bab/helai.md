@@ -1,9 +1,9 @@
 ---
 published: true
-tajuk: Mencipta helai daftar
-bahagian: bab
+title: Mencipta helai daftar
+rak: bab
 bab: 2
-urutan: 3
+jilid: 2.3
 ---
 
 ### Mencipta helai daftar

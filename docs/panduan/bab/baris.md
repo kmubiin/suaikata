@@ -1,9 +1,9 @@
 ---
 published: true
-tajuk: Penamat baris
-bahagian: bab
+title: Penamat baris
+rak: bab
 bab: 2
-urutan: 5
+jilid: 2.5
 ---
 
 ### Penamat baris

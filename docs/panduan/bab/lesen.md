@@ -1,9 +1,9 @@
 ---
 published: true
-tajuk: Lesen sumber terbuka
-bahagian: bab
+title: Lesen sumber terbuka
+rak: bab
 bab: 1
-urutan: 4
+jilid: 1.4
 ---
 
 ### Lesen sumber terbuka

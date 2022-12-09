@@ -1,9 +1,9 @@
 ---
 published: true
-tajuk: Asas penyediaan takrif
-bahagian: bab
+title: Asas penyediaan takrif
+rak: bab
 bab: 1
-urutan: 5
+jilid: 1.5
 ---
 
 ### Asas penyediaan takrif

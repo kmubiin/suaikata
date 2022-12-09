@@ -1,9 +1,9 @@
 ---
 published: true
-tajuk: Bentuk lazim daftar
-bahagian: bab
+title: Bentuk lazim daftar
+rak: bab
 bab: 2
-urutan: 1
+jilid: 2.1
 ---
 
 ### Bentuk lazim daftar

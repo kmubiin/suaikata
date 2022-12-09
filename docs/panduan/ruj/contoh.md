@@ -1,7 +1,9 @@
 ---
 published: true
-tajuk: Contoh daftar
-bahagian: ruj
+title: Contoh daftar
+rak: panduan
+bab: 0
+jilid: 99.0
 ---
 
 ### Contoh daftar

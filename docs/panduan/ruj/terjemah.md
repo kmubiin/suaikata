@@ -1,7 +1,9 @@
 ---
 published: true
-tajuk: Soal terjemah
-bahagian: ruj
+title: Soal terjemah
+rak: panduan
+bab: 0
+jilid: 99.0
 ---
 
 ### Soal terjemah

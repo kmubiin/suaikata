@@ -1,9 +1,9 @@
 ---
 published: true
-tajuk: Memuat daftar
-bahagian: bab
+title: Memuat daftar
+rak: bab
 bab: 3
-urutan: 2
+jilid: 3.2
 ---
 
 ### Memuat daftar

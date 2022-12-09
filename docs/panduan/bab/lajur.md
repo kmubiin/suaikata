@@ -1,9 +1,9 @@
 ---
 published: true
-tajuk: Dua atau lebih lajur
-bahagian: bab
+title: Dua atau lebih lajur
+rak: bab
 bab: 2
-urutan: 4
+jilid: 2.4
 ---
 
 ### Dua atau lebih lajur

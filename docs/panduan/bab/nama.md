@@ -1,9 +1,9 @@
 ---
 published: true
-tajuk: Menyimpan helai dengan nama
-bahagian: bab
+title: Menyimpan helai dengan nama
+rak: bab
 bab: 2
-urutan: 6
+jilid: 2.6
 ---
 
 ### Menyimpan helai dengan nama

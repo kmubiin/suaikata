@@ -1,9 +1,9 @@
 ---
 published: true
-tajuk: Hak cipta tidak terpelihara
-bahagian: bab
+title: Hak cipta tidak terpelihara
+rak: bab
 bab: 1
-urutan: 3
+jilid: 1.3
 ---
 
 ### Hak cipta tidak terpelihara

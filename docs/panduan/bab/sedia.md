@@ -1,9 +1,9 @@
 ---
 published: true
-tajuk: Menyedia daftar sendiri
-bahagian: bab
+title: Menyedia daftar sendiri
+rak: bab
 bab: 3
-urutan: 1
+jilid: 3.1
 ---
 
 ### Menyedia daftar sendiri

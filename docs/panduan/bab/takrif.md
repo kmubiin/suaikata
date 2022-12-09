@@ -1,9 +1,9 @@
 ---
 published: true
-tajuk: Takrif asal dan terjemah
-bahagian: bab
+title: Takrif asal dan terjemah
+rak: bab
 bab: 1
-urutan: 6
+jilid: 1.6
 ---
 
 ### Takrif asal dan terjemah
