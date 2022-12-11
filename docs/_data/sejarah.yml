@@ -1,0 +1,53 @@
+# maklumat meta bagi sejarah dan usul projek
+# penyediaan:
+# . salin dan tampal rangka data di baris terbawah sebelum
+#   3-titik `...`, buang 3-aksara `## ` di awalan baris;
+# . nyatakan nilai 'bila umum'; selebihnya kemudian
+# petunjuk:
+# . nilai 'usul' adalah alamat relatif fail berkenaan di
+#   laman sumber bagi mencipta pautan jika perlu;
+# . rujuk silang dengan site.documents atau seumpamanya
+#   untuk papar permalink seperti /YYYY/MM/DD/nama.anu
+# rangka data:
+## -
+##   bila:  # tarikh terawal sejarah YYYY-MM-DD
+##   umum:  # sebaris tajuk untuk paparan umum
+##   usul:  # semak usul dalam fail ini jika ada
+---
+-
+  bila: 2018-03-01
+  umum: Projek suaikata bermula
+  usul:
+-
+  bila: 2018-03-29
+  umum: Daftar pertama bermula
+  usul:
+-
+  bila: 2018-04-30
+  umum: Daftar pertama siap
+  usul: arkib/2018/hb.md
+-
+  bila: 2018-05-08
+  umum: Daftar pertama terbit dan kajian daftar
+  usul: arkib/2018/kd1.md
+-
+  bila: 2019-02-24
+  umum: Isu terjemah pendua selesai
+  usul:
+-
+  bila: 2019-03-26
+  umum: Isu terjemah pilihan salah selesai
+  usul:
+-
+  bila: 2019-04-06
+  umum: Daftar pertama lengkap dan ciri terperinci
+  usul: arkib/2019/hb10.md
+-
+  bila: 2020-02-20
+  umum: Laman sumber tersalin dan terbeku
+  usul:
+-
+  bila: 2021-01-17
+  umum: Dahan bertukar nama 'master' menjadi 'asal'
+  usul:
+...
