@@ -3,20 +3,18 @@
 # . salin dan tampal rangka data di baris terbawah sebelum
 #   3-titik `...`, buang 3-aksara `## ` di awalan baris;
 # . nyatakan nilai 'id alt rasmi'; selebihnya kemudian
-# . senarai 'ubah' bagi daftar baru ada pilihan untuk
-#   diisi atau dibiar kosong
-# perbezaan:
-# . bagi daftar yang dimuat sebelum Jun 2021, senarai 'ubah'
-#   lebih lengkap dan mudah dicapai kerana sejarah git
-#   bercerai selepas pindah ke folder tunggal (4162148)
 # petunjuk:
 # . nilai 'bina' adalah suatu rantaian (string) yang diberi
 #   tanda petik satu; jika tidak diisi, anggap tiada fail
-# . jika saiz senarai 'oleh.ahli' >1, anggap usaha beregu
-# . jika saiz senarai 'oleh.bahasa' >=2, anggap diterjemah
-# . jika saiz senarai 'oleh.sumber' =1 dan nilainya 'bebas',
-#   anggap asli; 'oleh.daftar' >=1, anggap unik;
-# . selain itu, anggap luar tumpuan
+# . jika saiz senarai 'oleh.ahli' >=2, anggap usaha beregu
+# . jika saiz senarai 'oleh.bahasa' =1, anggap tanpa makna;
+#   >=2, anggap diterjemah antara dua bahasa sama/lain
+# perbezaan:
+# . bagi daftar yang dimuat sebelum Jun 2021, senarai 'ubah'
+#   diisi supaya lebih mudah dicapai kerana sejarah git
+#   bercerai selepas pindah ke folder tunggal (4162148)
+# . bagi daftar yang dimuat selepas itu, senarai 'ubah'
+#   boleh dibiar kosong atau boleh juga diisi
 # rangka data:
 ## -
 ##   id:   # nama rujukan daftar ini
@@ -29,7 +27,7 @@
 ##     radas: []
 ##     sumber: []
 ##   nota:  # catatan bermakna bagi daftar ini
-##   bila:  # git log --date=short    # =format:'%Y-%m-%d'
+##   bila:  # git log --date=short|=format:'%Y-%m-%d'
 ##   bina:  # git log --abbrev-commit # rujuk 7-aksara unik
 ##   ubah: []  # senarai bila/bina terdahulu jika berubah
 ---
@@ -52,8 +50,10 @@
   ubah:
     - bila: 2018-03-29
       bina:  # mula dan belum termuat pada masa itu
+    - bila: 2018-04-30
+      bina:  # siap 339, belum termuat
     - bila: 2018-05-08
-      bina: 'ae3db55'  # muat dalam 1.0
+      bina: 'ae3db55'  # termuat di 1.0
     - bila: 2018-11-10  # +0800
       bina: '64470a0'  # lema selesai 17, sementara 6
     - bila: 2019-02-24  # +0800
@@ -61,7 +61,7 @@
     - bila: 2019-03-26  # +0800
       bina: '34caf02'  # selesai terjemah pilihan salah
     - bila: 2019-03-27
-      bina: 'a037ad7'  # lengkap 344 dalam 1.4.1
+      bina: 'a037ad7'  # lengkap 344, termuat di 1.4.1
 -
   id: katakerap
   alt: kata kerap
@@ -77,7 +77,7 @@
     Disusun mengikut kekerapan; lagi tinggi kedudukan di
     senarai, lagi kerap perkataan itu digunakan.
   bila: 2018-05-03
-  bina: '5c4032d'  # terbit dalam 1.0
+  bina: '5c4032d'  # termuat di 1.0
   ubah: []
 -
   id: ms2
@@ -96,7 +96,7 @@
   bina: '5b06d15'
   ubah:
     - bila: 2019-03-28
-      bina: '3438cb7'  # terbit dalam 1.4.1
+      bina: '3438cb7'  # termuat di 1.4.1
     - bila: 2020-06-30
       bina: 'bb9cdc3'  # ms2 tukar format csv => tsv
     - bila: 2020-08-03
@@ -122,7 +122,7 @@
   bina: '4c24632'
   ubah:
     - bila: 2020-04-06
-      bina: 'a93f3c5'  # terbit dalam 1.6.0
+      bina: 'a93f3c5'  # termuat di 1.6.0
     - bila: 2020-06-30
       bina: 'bb9cdc3'  # en2 tukar format csv => tsv
     - bila: 2020-08-21
@@ -147,5 +147,5 @@
     - bila: 2020-03-08
       bina:  # belum termuat pada masa itu
     - bila: 2020-04-08
-      bina: '30c95bf'  # terbit dalam 1.6.0
+      bina: '30c95bf'  # termuat di 1.6.0
 ...
