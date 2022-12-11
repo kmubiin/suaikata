@@ -1,7 +1,7 @@
 ---
 published: true
 title: Mengenal projek suaikata
-rak: bab
+rak: panduan
 bab: 1
 jilid: 1.1
 ---

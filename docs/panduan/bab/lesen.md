@@ -1,7 +1,7 @@
 ---
 published: true
 title: Lesen sumber terbuka
-rak: bab
+rak: panduan
 bab: 1
 jilid: 1.4
 ---

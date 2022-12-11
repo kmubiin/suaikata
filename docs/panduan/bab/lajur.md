@@ -1,7 +1,7 @@
 ---
 published: true
 title: Dua atau lebih lajur
-rak: bab
+rak: panduan
 bab: 2
 jilid: 2.4
 ---

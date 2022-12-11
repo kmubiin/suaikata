@@ -1,7 +1,7 @@
 ---
 published: true
 title: Kelainan ciri daftar
-rak: bab
+rak: panduan
 bab: 2
 jilid: 2.2
 ---

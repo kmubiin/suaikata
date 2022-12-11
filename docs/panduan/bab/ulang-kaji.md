@@ -1,7 +1,7 @@
 ---
 published: true
 title: Mengulang kaji
-rak: bab
+rak: panduan
 bab: 3
 jilid: 3.3
 ---

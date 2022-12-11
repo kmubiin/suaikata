@@ -1,7 +1,7 @@
 ---
 published: true
 title: Menyimpan helai dengan nama
-rak: bab
+rak: panduan
 bab: 2
 jilid: 2.6
 ---

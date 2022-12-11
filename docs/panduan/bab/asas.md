@@ -1,7 +1,7 @@
 ---
 published: true
 title: Asas penyediaan takrif
-rak: bab
+rak: panduan
 bab: 1
 jilid: 1.5
 ---

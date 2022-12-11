@@ -1,7 +1,7 @@
 ---
 published: true
 title: Bentuk lazim daftar
-rak: bab
+rak: panduan
 bab: 2
 jilid: 2.1
 ---

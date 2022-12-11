@@ -1,7 +1,7 @@
 ---
 published: true
 title: Hak cipta tidak terpelihara
-rak: bab
+rak: panduan
 bab: 1
 jilid: 1.3
 ---

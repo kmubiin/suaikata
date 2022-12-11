@@ -1,7 +1,7 @@
 ---
 published: true
 title: Sumber kata masukan
-rak: bab
+rak: panduan
 bab: 1
 jilid: 1.2
 ---

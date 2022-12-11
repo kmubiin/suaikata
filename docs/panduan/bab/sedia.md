@@ -1,7 +1,7 @@
 ---
 published: true
 title: Menyedia daftar sendiri
-rak: bab
+rak: panduan
 bab: 3
 jilid: 3.1
 ---

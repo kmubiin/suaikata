@@ -1,7 +1,7 @@
 ---
 published: true
 title: Penamat baris
-rak: bab
+rak: panduan
 bab: 2
 jilid: 2.5
 ---

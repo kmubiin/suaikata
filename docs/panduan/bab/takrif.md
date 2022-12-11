@@ -1,7 +1,7 @@
 ---
 published: true
 title: Takrif asal dan terjemah
-rak: bab
+rak: panduan
 bab: 1
 jilid: 1.6
 ---
