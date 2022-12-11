@@ -1,4 +1,9 @@
-### Daftar kerapu ada hasil #N/A
+---
+date: 2020-03-10
+title: Daftar kerapu ada hasil '#N/A'
+---
+
+### Daftar kerapu ada hasil '#N/A'
 
 Semasa mengusahakan daftar kata kerap unik (kerapu), rumus
 gunaan memberi jumlah baris unik yang salah. Hal ini kerana

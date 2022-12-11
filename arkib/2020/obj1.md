@@ -1,3 +1,8 @@
+---
+date: 2020-08-08
+title: Objek gunaan pertama di laman Jekyll
+---
+
 ### Objek gunaan pertama di laman Jekyll
 
 Di sini, objek gunaan merangkumi dua jenis objek:

@@ -1,3 +1,8 @@
+---
+date: 2018-02-25
+title: Helai daftar awal
+---
+
 ### Helai daftar awal
 
 Helai daftar awal telah disalin semula daripada beberapa

@@ -1,3 +1,8 @@
+---
+date: 2020-04-08
+title: Kajian daftar kata kerap unik
+---
+
 ### Kajian daftar kata kerap unik (kd3)
 
 &nbsp;  

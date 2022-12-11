@@ -1,3 +1,8 @@
+---
+date: 2020-12-31
+title: Kod cubaan memapar data terubah
+---
+
 ### Kod cubaan memapar data terubah
 
 Di sini, kod cubaan merujuk pada objek dan kenyataan Liquid

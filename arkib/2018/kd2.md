@@ -1,3 +1,8 @@
+---
+date: 2018-05-03
+title: Kajian daftar kata kerap
+---
+
 ### Kajian daftar kata kerap (kd2)
 
 &nbsp;  

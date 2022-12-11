@@ -1,3 +1,8 @@
+---
+date: 2020-03-10
+title: Rumus gunaan daftar kerapu
+---
+
 ### Rumus gunaan daftar kerapu
 
 Berikut adalah senarai rumus gunaan bagi daftar kata kerap
