@@ -1,12 +1,16 @@
 {{ '---' }}
 Keadaan projek pada masa ini:
 
-{% assign d = site.data.daftar %}
-{% assign t = site.data.terbit %}
+> Kandungan laman sedang disemak semula pada masa ini.
+> Kecuali laman utama, kebanyakan kandungan laman akan
+> disalin dan disusun semula dalam masa terdekat.
+> -- Nota bertarikh 15 Dis 2022 (Khamis)
 
-- Bilangan daftar: {{ d | size }}
-- Tarikh terakhir daftar: {{ d.last.bila }}
-- Tarikh terakhir terbit: {{ t.last.bila }}
+{% comment %}
+ruang ini akan memapar senarai tarikh terakhir yang lebih
+menyeluruh--senarai baru akan dijana berdasarkan fail-fail
+data yang dicipta semula baru-baru ini
+{% endcomment %}
 
 {% assign u = site.url | truncate: 16, "" %}
 {% if u == 'http://localhost' %}
