@@ -6,22 +6,23 @@
 # . mana-mana 'id' data radas berkenaan akan disalin ke
 #   senarai 'oleh.radas' data daftar
 # . jika nilai 'uri' hadir, anggap radas itu perisian
+#   tambahan dan bukan terbina pada sistem operasi
 # rangka data:
 ## -
 ##   id:   # nama rujukan radas atau alat tulis
 ##   alt:  # nama radas atau keterangan ringkas
 ##   uri:  # alamat laman rasmi/sumber jika ada
-##   lain: []  # senarai radas lain berpaut pada radas ini
+##   lain: []  # senarai radas lain yang berpaut/termasuk
 ---
 -
   id: bebas
   alt: guna pensil dan kertas
-  uri:  # alat tulis yang biasa didapati
-  lain: []
+  uri:  # alat tulis yang boleh diguna secara langsung
+  lain: [pen, pena, buku]
 -
   id: editor
-  alt: guna penyunting teks biasa
-  uri:  # alat terbina pada sistem operasi komputer
+  alt: guna penyunting teks biasa yang sedia ada
+  uri:  # alat tulis terbina pada sistem operasi komputer
   lain: []
 -
   id: git
@@ -42,7 +43,7 @@
   id: firefox
   alt: Mozilla Firefox
   uri: https://www.mozilla.org/en-US/firefox/
-  lain: [markdown-viewer, side-view]
+  lain: [markdown-viewer, side-view]  # add-ons
 -
   id: markdown-viewer
   alt: Markdown Viewer Webext
@@ -57,12 +58,12 @@
   id: smurf
   alt: simple markdown surfer
   uri: https://github.com/oxalorg/smurf
-  lain: [pandoc, markdown2]
+  lain: []
 -
   id: pandoc
   alt: Pandoc
   uri: https://pandoc.org/
-  lain: []
+  lain: [smurf]
 -
   id: coreutils
   alt: GNU core utilities
