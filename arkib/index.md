@@ -20,6 +20,7 @@ senarai. Hanya satu kandungan setiap baris.
 - [Kod cubaan awal memapar data](2020/dat1.md)
 - [Kod cubaan memapar data terubah](2020/dat2.md)
 - [Imbas tahun 2020](2020/t3.md)
+- [Kelas daftar](2021/kh2.md) atau kumpulan helai versi 2
 
 > Lagi salinan maklumat bersejarah?
 

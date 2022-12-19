@@ -115,8 +115,6 @@ dilakukan selepas itu.
 panduan tetapi di luar tumpuan. Semua laman rujukan membawa
 maklumat sokongan bagi bab-bab panduan.
 
-- Kelas daftar ialah senarai kumpulan daftar yang dikenal
-pasti mengikut ciri tertentu
 - Contoh daftar ialah senarai pendek daftar bersama lajur
 dan baris terhad yang disalin daripada laman sumber
 - Soal terjemah ialah senarai masalah yang dikenal pasti
@@ -130,8 +128,6 @@ Sumber asal bagi laman rujukan berkenaan:
 
 - [Penyelesaian kesulitan terjemah tunggal #14][#14]
   &ndash; kmubiin/suaikata on Apr 16, 2018
-- [Kelas daftar terkumpul #29][#29]
-  &ndash; kmubiin/suaikata on Sep 20, 2019
 - [Google Translate][rt1]
   &ndash; perisian web Google
 - [Google Translate licenses][rt2]
@@ -157,7 +153,6 @@ Sumber asal bagi laman rujukan berkenaan:
 &nbsp;  
 
   [#14]: https://github.com/kmubiin/suaikata/issues/14
-  [#29]: https://github.com/kmubiin/suaikata/issues/29
   [rt1]: https://translate.google.com
   [rt2]: https://translate.google.com/intl/en/about/license/
   [rt3]: https://www.bing.com/translator/
