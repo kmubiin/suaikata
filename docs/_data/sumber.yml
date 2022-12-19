@@ -7,78 +7,133 @@
 #   senarai 'oleh.sumber' data daftar
 # . jika nama rujukan 'id' ada aksara `/` satu atau lebih,
 #   anggap ada senarai kata atau laman berkenaan
+# . pastikan nilai 'uri' boleh dicapai pada masa diisi;
+# . jika alamat laman berubah, gunakan alamat yang tersimpan
+#   di arkib atau di laman bersejarah umpama wiki dan git;
+# . jika nilai 'xai' diisi, anggap 'uri' telah berubah atau
+#   tidak mudah dicapai; maka, alamat laman yang boleh
+#   dicapai semula adalah gabungan alamat 'xai/uri'
+# . nilai 'xai' harus berakhir dengan aksara '/' supaya
+#   mudah digabung dengan 'uri' sebelum dipapar bersama
+# pengecualian:
+# . bagi pangkal sumber seperti Internet Archive dan
+#   Wiktionary, senarai 'lain' tidak diisi
+# . mana-mana sumber yang merujuk pada sumber asal, senarai
+#   'lain' pada asal boleh diisi dengan mana-mana itu
 # rangka data:
 ## -
 ##   id:   # nama rujukan sumber ini
 ##   alt:  # nama sumber ini
 ##   uri:  # alamat sumber http:// atau seumpamanya
+##   xai:  # alamat arkib bagi imbuhan uri, jika ada
+##   lain: []  # senarai sumber lain yang berpaut/termasuk
 ---
 -
   id: bebas
   alt: mula dari senarai kosong
   uri:  # bersumberkan mana-mana bahan bacaan bercetak
+  xai:  # termasuk bahan yang bebas daripada hak cipta
+  lain: []
 -
   id: ia
   alt: Internet Archive
   uri: https://archive.org/
+  xai:  # laman pangkal sumber
+  lain: []
 -
-  id: ia/ch/psatwords
+  id: ch/psatwords
   alt: PSAT High Frequency Words
-  uri: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
+  uri: http://cabrinihigh.com/academics/psatwords
+  xai: https://web.archive.org/web/20170427204836/
+  lain: []
+-
+  id: barron/psat
+  alt: Barron's PSAT High Frequency List
+  uri: https://www.quia.com/jg/160741list.html
+  xai:
+  lain: [ch/psatwords]
 -
   id: wt
   alt: Wiktionary
   uri: https://wiktionary.org/
+  xai:  # laman pangkal sumber
+  lain: []
 -
   id: wt/sl
   alt: Wiktionary:Simple_English_word_list
   uri: https://simple.wiktionary.org/wiki/Wiktionary:Simple_English_word_list
+  xai:
+  lain: []
 -
   id: wt/fl
   alt: Wiktionary:Frequency_lists
   uri: https://en.wiktionary.org/wiki/WT:FL
+  xai:
+  lain: []
 -
   id: wt/be850
   alt: Wiktionary:Basic_English_alphabetical_wordlist
   uri: https://simple.wiktionary.org/wiki/WT:BE850
+  xai:
+  lain: []
 -
   id: wt/bnc1k
   alt: Wiktionary:Most_frequent_1000_words_in_English
   uri: https://simple.wiktionary.org/wiki/Wiktionary:Most_frequent_1000_words_in_English
+  xai:
+  lain: []
 -
   id: wy
   alt: Wikipedia
   uri: https://wikipedia.org/
+  xai:  # laman pangkal sumber
+  lain: []
 -
   id: wy/enid
   alt: List of English words of Indonesian origin (wiki)
   uri: https://en.wikipedia.org/wiki/List_of_English_words_of_Indonesian_origin
+  xai:
+  lain: []
 -
   id: wy/enms
   alt: List of English words of Malay origin (wiki)
   uri: https://en.wikipedia.org/wiki/List_of_English_words_of_Malay_origin
+  xai:
+  lain: []
 -
   id: wy/ms18
   alt: Kategori:Perbendaharaan kata (wiki)
   uri: https://ms.wikipedia.org/wiki/Kategori:Perbendaharaan_kata
+  xai:
+  lain: []
 -
   id: wy/ms10
   alt: Kategori:Peribahasa (wiki)
   uri: https://ms.wikipedia.org/wiki/Kategori:Peribahasa
+  xai:
+  lain: []
 -
   id: wy/msidar
   alt: Senarai kata pinjaman dari bahasa Arab (wiki)
   uri: https://ms.wikipedia.org/wiki/Senarai_kata_pinjaman_dari_bahasa_Arab_dalam_bahasa_Melayu_dan_bahasa_Indonesia
+  xai:
+  lain: []
 -
   id: wy/msid
   alt: Perbezaan antara Bahasa Melayu Piawai dan Bahasa Indonesia (wiki)
   uri: https://ms.wikipedia.org/wiki/Perbezaan_antara_Bahasa_Melayu_Piawai_dan_Bahasa_Indonesia
+  xai:
+  lain: []
 -
-  id: ia/ms38
-  alt: Perkataan pinjaman dalam Bahasa Melayu (2008) (arkib)
-  uri: https://web.archive.org/web/20140723030634/http://lincahtaiping.wordpress.com/2008/08/29/perkataan-pinjaman-dalam-bahasa-melayu/
+  id: wp/ms38
+  alt: Perkataan pinjaman dalam Bahasa Melayu (2008)
+  uri: http://lincahtaiping.wordpress.com/2008/08/29/perkataan-pinjaman-dalam-bahasa-melayu/
+  xai: https://web.archive.org/web/20140723030634/
+  lain: []
 -
   id: wy/en26
   alt: Glossary of literary terms (wiki)
   uri: https://en.wikipedia.org/wiki/Glossary_of_literary_terms
+  xai:
+  lain: []
 ...
