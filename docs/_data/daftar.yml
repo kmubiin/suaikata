@@ -40,7 +40,7 @@
     bahasa: [en, ms]
     daftar: []
     radas: [sheets, calc]
-    sumber: [ia/ch/psatwords]
+    sumber: [ch/psatwords, barron/psat]
   nota:
     Lajur terakhir ada dua huruf (A, M, A+, M+) yang
     merujuk pada nama dua orang pengusaha; simbol adalah
