@@ -115,8 +115,6 @@ dilakukan selepas itu.
 panduan tetapi di luar tumpuan. Semua laman rujukan membawa
 maklumat sokongan bagi bab-bab panduan.
 
-- Contoh daftar ialah senarai pendek daftar bersama lajur
-dan baris terhad yang disalin daripada laman sumber
 - Soal terjemah ialah senarai masalah yang dikenal pasti
 semasa menyedia terjemahan bagi sesuatu daftar
 - Soal piawai ialah senarai peraturan yang wajar menjadi

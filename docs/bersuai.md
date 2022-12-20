@@ -30,4 +30,4 @@ laman kembali: [utama][0]
 
   [0]: index.md
   [1]: glosari.md
-  [2]: panduan/ruj/contoh.md
+  [2]: panduan/contoh.md

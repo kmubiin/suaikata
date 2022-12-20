@@ -1,12 +1,13 @@
 ---
 published: true
 title: Contoh daftar
-rak: panduan
-bab: 0
-jilid: 99.0
+rak: lampiran
 ---
 
 ### Contoh daftar
+
+Contoh daftar ialah senarai pendek daftar bersama lajur
+dan baris terhad yang disalin daripada laman sumber
 
 **kata kerap PSAT** (psat)
 &ndash; Daftar dwibahasa beregu ini ada lajur khas yang
@@ -78,9 +79,6 @@ Kata dua-huruf Inggeris (en2):
 | ...      | .. | ...           |
 
 &nbsp;  
-laman lompat berkaitan: [bersuai][1]
+laman kembali: [bersuai][0]
 
-laman kembali: [panduan][0]
-
-  [0]: ../index.md
-  [1]: ../../bersuai.md
+  [0]: ../bersuai.md
