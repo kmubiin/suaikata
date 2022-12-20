@@ -1,5 +1,7 @@
 ---
 published: true
+title: Glosari
+rak: lampiran
 ---
 
 ### Glosari

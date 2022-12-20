@@ -1,5 +1,7 @@
 ---
 published: true
+title: Dasar panduan
+rak: lampiran
 ---
 
 ### Dasar panduan
