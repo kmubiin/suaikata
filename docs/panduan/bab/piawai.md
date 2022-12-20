@@ -2,8 +2,8 @@
 published: true
 title: Soal piawai
 rak: panduan
-bab: 0
-jilid: 99.0
+bab: 3
+jilid: 3.5
 ---
 
 ### Soal piawai
@@ -81,5 +81,5 @@ laman lompat berkaitan: [sumber][1], [nama][2]
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [1]: ../bab/sumber.md
-  [2]: ../bab/nama.md
+  [1]: sumber.md
+  [2]: nama.md

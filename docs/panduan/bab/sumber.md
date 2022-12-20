@@ -54,4 +54,4 @@ laman lompat berkaitan: [piawai][1]
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [1]: ../ruj/piawai.md
+  [1]: piawai.md

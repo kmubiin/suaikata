@@ -2,8 +2,8 @@
 published: true
 title: Soal terjemah
 rak: panduan
-bab: 0
-jilid: 99.0
+bab: 3
+jilid: 3.4
 ---
 
 ### Soal terjemah

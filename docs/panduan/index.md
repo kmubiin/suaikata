@@ -30,11 +30,8 @@ Laman ini disediakan mengikut [dasar panduan](dasar.md)
 31. [Menyedia daftar sendiri](bab/sedia.md)
 32. [Memuat daftar](bab/muat.md)
 33. [Mengulang kaji](bab/ulang-kaji.md)
-
-#### Rujukan
-
-- [Soal terjemah](ruj/terjemah.md)
-- [Soal piawai](ruj/piawai.md)
+34. [Soal terjemah](bab/terjemah.md)
+35. [Soal piawai](bab/piawai.md)
 
 &nbsp;  
 laman kembali: [bersuai][0]

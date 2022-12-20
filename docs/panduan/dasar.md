@@ -120,25 +120,6 @@ dilakukan selepas itu.
   &ndash; kmubiin/suaikata on Nov 17, 2018
 - [Salin dan perbaik daftar kata kerap #32][#32]
   &ndash; kmubiin/suaikata on Mar 6, 2020
-
-&nbsp;  
-
-  [32a]: https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository
-  [32b]: https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line
-  [#20]: https://github.com/kmubiin/suaikata/issues/20
-  [#32]: https://github.com/kmubiin/suaikata/issues/32
-
-**Rujukan** mengumpul sebarang kandungan yang menyokong
-panduan tetapi di luar tumpuan. Semua laman rujukan membawa
-maklumat sokongan bagi bab-bab panduan.
-
-- Soal terjemah ialah senarai masalah yang dikenal pasti
-semasa menyedia terjemahan bagi sesuatu daftar
-- Soal piawai ialah senarai peraturan yang wajar menjadi
-ikutan untuk kemudahan ramai
-
-Sumber asal bagi laman rujukan berkenaan:
-
 - [Penyelesaian kesulitan terjemah tunggal #14][#14]
   &ndash; kmubiin/suaikata on Apr 16, 2018
 - [Google Translate][rt1]
@@ -153,6 +134,10 @@ Sumber asal bagi laman rujukan berkenaan:
 
 &nbsp;  
 
+  [32a]: https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository
+  [32b]: https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line
+  [#20]: https://github.com/kmubiin/suaikata/issues/20
+  [#32]: https://github.com/kmubiin/suaikata/issues/32
   [#14]: https://github.com/kmubiin/suaikata/issues/14
   [rt1]: https://translate.google.com
   [rt2]: https://translate.google.com/intl/en/about/license/

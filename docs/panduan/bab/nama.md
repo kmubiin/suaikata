@@ -68,6 +68,6 @@ laman lompat berkaitan: [muat][3], [piawai][1], [format][2]
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [1]: ../ruj/piawai.md
+  [1]: piawai.md
   [2]: format.md
   [3]: muat.md
