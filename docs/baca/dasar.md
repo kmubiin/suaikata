@@ -148,6 +148,6 @@ dilakukan selepas itu.
   [rp1]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: index.md

@@ -79,6 +79,6 @@ Kata dua-huruf Inggeris (en2):
 | ...      | .. | ...           |
 
 &nbsp;  
-laman kembali: [bersuai][0]
+laman kembali: [kandungan][0]
 
-  [0]: ../bersuai.md
+  [0]: index.md

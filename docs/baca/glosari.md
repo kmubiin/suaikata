@@ -377,6 +377,6 @@ oleh sesiapa sahaja dengan menggunakan pelayar web
 &#179; istilah akademik atau khusus dalam bidang tertentu  
 
 &nbsp;  
-laman kembali: [bersuai][0]
+laman kembali: [kandungan][0]
 
-  [0]: bersuai.md
+  [0]: index.md
