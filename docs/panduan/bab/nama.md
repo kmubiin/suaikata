@@ -69,5 +69,5 @@ laman kembali: [panduan][0]
 
   [0]: ../index.md
   [1]: ../ruj/piawai.md
-  [2]: ../ruj/format.md
+  [2]: format.md
   [3]: muat.md

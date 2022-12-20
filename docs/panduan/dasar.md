@@ -80,6 +80,18 @@ sesuai supaya dapat dibaca semula kemudian.
   &ndash; kmubiin/suaikata on May 3, 2018
 - [Malay translation for Notepad++][25a]
   &ndash; "Show Newline" diterjemah "Tunjuk Penamat Baris"
+- [Standards - Frequently Asked Questions (FAQ)][rp2]
+  &ndash; Codes for the representation of the names of
+  languages (Library of Congress)
+- [ISO 639-1 (pautan ke senarai tidak tentu)][rp3]
+  &ndash; Wikipedia bahasa Melayu, ensiklopedia bebas
+- [Rendering CSV and TSV data][rf1]
+  &ndash; GitHub Help
+- [RFC 4180][rf2]
+  &ndash; Common Format and MIME Type for Comma-Separated
+  Values (CSV) Files, IETF
+- [text/tab-separated-values][rf3]
+  &ndash; Definition of tab-separated-values (tsv), IANA
 
 &nbsp;  
 
@@ -90,6 +102,11 @@ sesuai supaya dapat dibaca semula kemudian.
   [23a]: https://docs.google.com/spreadsheets/
   [23b]: https://office.live.com/start/Excel.aspx
   [25a]: https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/installer/nativeLang/malay.xml
+  [rp2]: https://www.loc.gov/standards/iso639-2/faq.html
+  [rp3]: https://ms.wikipedia.org/wiki/ISO_639-1
+  [rf1]: https://help.github.com/articles/rendering-csv-and-tsv-data/
+  [rf2]: https://tools.ietf.org/html/rfc4180
+  [rf3]: https://www.iana.org/assignments/media-types/text/tab-separated-values
 
 **Bab 3: Aturan kerja** menerangkan semula cara menyedia dan
 memuat daftar ke laman sumber dan usaha lain yang boleh
@@ -119,8 +136,6 @@ maklumat sokongan bagi bab-bab panduan.
 semasa menyedia terjemahan bagi sesuatu daftar
 - Soal piawai ialah senarai peraturan yang wajar menjadi
 ikutan untuk kemudahan ramai
-- Format helai daftar ialah penerangan format bagi helai
-daftar yang disimpan sebagai fail pada komputer
 
 Sumber asal bagi laman rujukan berkenaan:
 
@@ -135,18 +150,6 @@ Sumber asal bagi laman rujukan berkenaan:
 - [Yandex.Translate][rt4]
   &ndash; perisian web Yandex
 - [Wikipedia:Gunakan bahasa Melayu piawai][rp1]
-- [Standards - Frequently Asked Questions (FAQ)][rp2]
-  &ndash; Codes for the representation of the names of
-  languages (Library of Congress)
-- [ISO 639-1 (pautan ke senarai tidak tentu)][rp3]
-  &ndash; Wikipedia bahasa Melayu, ensiklopedia bebas
-- [Rendering CSV and TSV data][rf1]
-  &ndash; GitHub Help
-- [RFC 4180][rf2]
-  &ndash; Common Format and MIME Type for Comma-Separated
-  Values (CSV) Files, IETF
-- [text/tab-separated-values][rf3]
-  &ndash; Definition of tab-separated-values (tsv), IANA
 
 &nbsp;  
 
@@ -156,11 +159,6 @@ Sumber asal bagi laman rujukan berkenaan:
   [rt3]: https://www.bing.com/translator/
   [rt4]: https://translate.yandex.com/
   [rp1]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai
-  [rp2]: https://www.loc.gov/standards/iso639-2/faq.html
-  [rp3]: https://ms.wikipedia.org/wiki/ISO_639-1
-  [rf1]: https://help.github.com/articles/rendering-csv-and-tsv-data/
-  [rf2]: https://tools.ietf.org/html/rfc4180
-  [rf3]: https://www.iana.org/assignments/media-types/text/tab-separated-values
 
 &nbsp;  
 laman kembali: [panduan][0]

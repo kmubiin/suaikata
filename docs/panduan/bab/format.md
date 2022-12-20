@@ -2,8 +2,8 @@
 published: true
 title: Format helai daftar
 rak: panduan
-bab: 0
-jilid: 99.0
+bab: 2
+jilid: 2.7
 ---
 
 ### Format helai daftar
@@ -111,4 +111,4 @@ laman lompat berkaitan: [nama][1]
 laman kembali: [panduan][0]
 
   [0]: ../index.md
-  [1]: ../bab/nama.md
+  [1]: nama.md
