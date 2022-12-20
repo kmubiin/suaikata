@@ -11,7 +11,16 @@ Daftar kata boleh didapati di laman sumber dan tidak dipapar
 di laman ini. Sebaliknya, laman ini hanya menyediakan
 [salinan terhad daftar](contoh.md).
 
-> senarai daftar di sini
+Senarai daftar kata yang rasmi:
+
+{% assign d = site.data.daftar %}
+<ul>{% for sa in d %}{% if sa.rasmi %}
+<li>"{{ sa.alt }}"{% capture n %}{% increment i %}{% endcapture %}
+oleh {{ sa.oleh.ahli | join: ", " }}</li>
+{% endif %}{% endfor %}</ul>
+
+Bilangan daftar rasmi/semua:
+{{ n | plus: 1 }}/{{ d | size }}
 
 #### Senarai ura
 
