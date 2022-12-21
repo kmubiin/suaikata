@@ -22,7 +22,11 @@ terus di laman ini. Sebaliknya, laman ini hanya menyediakan
 
 Laman berikut disediakan untuk bacaan umum.
 
-> senarai rencana di sini
+{% assign rencana = site.pages | where: "rak", "rencana" %}
+<ul>{% for sa in rencana %}
+<li>{{ sa.date }}
+<a href="{{ sa.url }}">{{ sa.title }}</a></li>
+{% endfor %}</ul>
 
 #### Senarai bab
 
