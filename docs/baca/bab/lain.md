@@ -48,6 +48,6 @@ Mana-mana daftar boleh memiliki bentuk lain dan bentuk lazim
 boleh berubah mengikut ketentuan atau keperluan.
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md

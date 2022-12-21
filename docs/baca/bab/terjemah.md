@@ -98,6 +98,6 @@ Sebagai kesimpulan, terjemahan mesin tidak harus digunakan
 semata-mata untuk menggantikan terjemahan lazim.
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md

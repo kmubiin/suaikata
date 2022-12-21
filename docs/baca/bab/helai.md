@@ -58,7 +58,7 @@ hanya dua orang dalam kumpulan pada masa itu.
 &nbsp;  
 laman lompat berkaitan: [muat][1]
 
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md
   [1]: muat.md

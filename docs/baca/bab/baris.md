@@ -65,6 +65,6 @@ yang betul bagi fail yang menggunakan penamat baris CR. Oleh
 sebab itu, lebih baik gunakan penamat baris LF atau CR LF.
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md

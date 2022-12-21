@@ -52,6 +52,6 @@ kegunaan dua orang pengusaha sahaja. Cara ini agak rumit
 dan tidak sesuai untuk kegunaan umum.
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md

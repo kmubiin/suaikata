@@ -62,6 +62,6 @@ kekal bebas dan terbuka
 &#179; lesen bagi pangkalan data dan sumber bercampur  
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md

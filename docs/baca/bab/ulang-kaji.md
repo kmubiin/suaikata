@@ -45,6 +45,6 @@ membawakan takrif yang betul. Kesemua manfaat ini menjadikan
 projek suaikata lebih matang sebagai sumber terpelajar.
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md

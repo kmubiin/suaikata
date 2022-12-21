@@ -61,6 +61,6 @@ tujuan yang jelas, maka wajar menyalin semula dan menyunting
 sebagai daftar baharu.
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md

@@ -42,6 +42,6 @@ seperti daftar kata Inggeris-Melayu pula akan ada lajur
 "inggeris" dan "melayu".
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md

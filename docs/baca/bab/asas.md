@@ -135,6 +135,6 @@ pasti kebetulan dan kesalahan sesuatu takrif. Kamus hanyalah
 rujukan sampingan bagi perbandingan takrif.
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md

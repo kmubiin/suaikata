@@ -65,7 +65,7 @@ ditentukan di atas.
 &nbsp;  
 laman lompat berkaitan: [muat][3], [piawai][1], [format][2]
 
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md
   [1]: piawai.md

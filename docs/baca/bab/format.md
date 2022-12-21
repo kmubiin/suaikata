@@ -108,7 +108,7 @@ dibaca dan disunting menggunakan perisian yang berbeza.
 &nbsp;  
 laman lompat berkaitan: [nama][1]
 
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md
   [1]: nama.md

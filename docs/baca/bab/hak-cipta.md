@@ -90,6 +90,6 @@ yang diusahakan dengan cara tersendiri berpeluang ada
 nilai kesusasteraan, maka hak cipta boleh terpelihara.
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md

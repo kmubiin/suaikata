@@ -31,6 +31,6 @@ kerja untuk mengusahakan daftar kata. Selain itu, daftar
 kata baharu tidak diusahakan.
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md

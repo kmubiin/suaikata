@@ -99,6 +99,6 @@ pilihan terjemah yang sesuai dan boleh difahami. Untuk
 bantuan, buat carian di web atau bincang secara berkumpulan.
 
 &nbsp;  
-laman kembali: [panduan][0]
+laman kembali: [kandungan][0]
 
   [0]: ../index.md
