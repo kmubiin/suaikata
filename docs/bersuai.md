@@ -2,7 +2,7 @@
 published: true
 ---
 
-### Senarai laman (bersuai)
+Berikut adalah senarai laman (bersuai) yang boleh dicapai:
 
 {% assign pages = site.pages | sort: "path" %}
 {% for p in pages %}
