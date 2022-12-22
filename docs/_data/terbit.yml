@@ -47,15 +47,9 @@
   bina: '527ac21'
   muat: []
 -
-  id: '2.20.1112'  # terabai !! tag ini bakal dipadam
-  beku: false
-  bila: 2020-11-12
-  bina: 'a557cf9'
-  muat: []
--
-  id: '2.21.0301'  # terabai !! tag ini bakal dipadam
-  beku: false
-  bila: 2021-03-01
-  bina: '6098079'
+  id: '2.22.1222'  # semua laman tersusun di docs
+  beku: false      # buat salinan sendiri (dirancang)
+  bila: 2022-12-22
+  bina: ''
   muat: []
 ...
