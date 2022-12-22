@@ -62,8 +62,3 @@ Bilangan semasa bagi daftar kata kerap mengira semua baris
 yang ada dalam fail, kecuali tajuk di baris pertama.
 Bagaimanapun, bilangan semasa adalah termasuk perkataan
 berulang yang mempunyai terjemahan yang berbeza.
-
-&nbsp;  
-laman kembali: [arkib][0]
-
-  [0]: ../index.md

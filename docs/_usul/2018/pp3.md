@@ -8,7 +8,7 @@ Papan Projek 3 - Semasa
 
 Open - Updated on 15 Nov (semakan terakhir: 17 Nov 2018)
 
-Lihat [tangkapan layar Papan Projek 3][3i]
+Lihat [tangkapan layar Papan Projek 3](pp3i.png)
 
 Salinan teks penuh adalah seperti berikut.
 
@@ -134,9 +134,3 @@ Automated as `Done`
 > - [x] Closed with unmerged commits
 
 ---
-
-&nbsp;  
-laman kembali: [arkib][0]
-
-  [0]: ../index.md
-  [3i]: pp3i.png

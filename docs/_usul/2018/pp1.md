@@ -8,7 +8,7 @@ Papan Projek 1 - Rancangan
 
 Closed - Updated on 7 Nov (semakan terakhir: 17 Nov 2018)
 
-Lihat [tangkapan layar Papan Projek 1][1i]
+Lihat [tangkapan layar Papan Projek 1](pp1i.png)
 
 Salinan teks penuh adalah seperti berikut.
 
@@ -194,9 +194,3 @@ batu penanda Akhir.
   Assigned to kmubiin
 
 ---
-
-&nbsp;  
-laman kembali: [arkib][0]
-
-  [0]: ../index.md
-  [1i]: pp1i.png

@@ -194,8 +194,3 @@ Liquid boleh menyusun array, tetapi bukan objek.
 Mengikut cara Liquid, data harus ditukar menjadi string
 terlebih dahulu sebelum menjadi array. Hasilnya, data dapat
 disusun tetapi bukan lagi objek seperti asal.
-
-&nbsp;  
-laman kembali: [arkib][0]
-
-  [0]: ../index.md

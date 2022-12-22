@@ -31,8 +31,3 @@ Daftar dwibahasa yang menggunakan tiga lajur:
 
 Rancangan awal projek telah memutuskan lajur tambahan untuk
 makna tidak diperlukan.
-
-&nbsp;  
-laman kembali: [arkib][0]
-
-  [0]: ../index.md

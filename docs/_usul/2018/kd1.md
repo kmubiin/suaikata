@@ -7,7 +7,7 @@ title: Kajian daftar PSAT
 
 &nbsp;  
 Daftar PSAT terbitan projek suaikata ialah daftar dwibahasa
-Inggeris-Melayu berdasarkan [PSAT High Frequency Words][a].
+Inggeris-Melayu berdasarkan "PSAT High Frequency Words".
 
 Daftar asal tersebut mengandungi perkataan Inggeris yang
 kerap muncul dalam ujian PSAT antara tahun 1980 dan 1999.
@@ -97,9 +97,3 @@ tepat. Had panjang terjemah ditetapkan pada 20 aksara.
 
 **Penafian**: Maklumat perangkaan bagi daftar PSAT adalah
 rujukan laku untuk pengusaha daftar ini sahaja.
-
-&nbsp;  
-laman kembali: [arkib][0]
-
-  [0]: ../index.md
-  [a]: https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords

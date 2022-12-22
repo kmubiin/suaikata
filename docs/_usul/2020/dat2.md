@@ -144,8 +144,3 @@ menyamai nilai akhir yang dibawa oleh fungsi `increment`.
 
 Hasilnya, output pada empat baris akhir, adalah sama seperti
 hasil kod JavaScript dan juga Python.
-
-&nbsp;  
-laman kembali: [arkib][0]
-
-  [0]: ../index.md

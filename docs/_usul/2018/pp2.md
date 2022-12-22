@@ -8,7 +8,7 @@ Papan Projek 2 - Pencapaian
 
 Closed - Updated on 19 May (semakan terakhir: 17 Nov 2018)
 
-Lihat [tangkapan layar Papan Projek 2][2i]
+Lihat [tangkapan layar Papan Projek 2](pp2i.png)
 
 Salinan teks penuh adalah seperti berikut.
 
@@ -507,9 +507,3 @@ Terjemah semua label tersedia kecuali dua yang dijejak oleh
 GitHub.
 
 ---
-
-&nbsp;  
-laman kembali: [arkib][0]
-
-  [0]: ../index.md
-  [2i]: pp2i.png

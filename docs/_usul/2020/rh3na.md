@@ -36,8 +36,3 @@ C7471 dan tidak menjadi masalah.
 Kesimpulannya, ada aksara yang boleh menjejaskan hasil
 kiraan menggunakan rumus dalam helaian rebak; aksara `~`
 diganti dengan `-` yang menyamai fungsi aksara asal.
-
-&nbsp;  
-laman kembali: [arkib][0]
-
-  [0]: ../index.md

@@ -45,8 +45,3 @@ Daftar dwibahasa beregu dengan enam lajur (2.6):
 | inggeris | ke   | melayu | di   | terjemah M | terjemah A |
 | -------- | ---- | ------ | ---- | ---------- | ---------- |
 | ...      | ...  | ...    | ...  | ...        | ...        |
-
-&nbsp;  
-laman kembali: [arkib][0]
-
-  [0]: ../index.md

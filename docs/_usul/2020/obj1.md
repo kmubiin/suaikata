@@ -109,8 +109,3 @@ Objek gunaan boleh digunakan untuk memapar senarai laman
 yang ditanda dengan suatu kategori. Namun, hanya laman
 bertarikh (post) yang berada dalam `_posts` akan dipapar
 dan laman umum (page) yang berada di luar diabai.
-
-&nbsp;  
-laman kembali: [arkib][0]
-
-  [0]: ../index.md
