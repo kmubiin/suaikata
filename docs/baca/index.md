@@ -25,7 +25,7 @@ Laman berikut disediakan untuk bacaan umum.
 {% assign rencana = site.pages | where: "rak", "rencana" %}
 <ul>{% for sa in rencana %}
 <li>{{ sa.date }}
-<a href="{{ sa.url }}">{{ sa.title }}</a></li>
+<a href="{{ site.url }}{{ sa.url }}">{{ sa.title }}</a></li>
 {% endfor %}</ul>
 
 #### Senarai bab
