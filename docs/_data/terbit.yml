@@ -1,7 +1,7 @@
 # maklumat meta bagi terbitan dan butir perubahan
 # penyediaan:
-# . salin dan tampal rangka data di baris terbawah sebelum
-#   3-titik `...`, buang 3-aksara `## ` di awalan baris;
+# . salin rangka data berikut dan tampal di baris terbawah
+#   sebelum titik `...`, buang aksara `## ` di awalan baris
 # . nyatakan nilai 'id beku'; selebihnya kemudian
 # petunjuk:
 # . nilai 'bina' adalah suatu rantaian (string) yang diberi

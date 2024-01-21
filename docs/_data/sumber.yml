@@ -1,7 +1,7 @@
 # maklumat meta bagi sumber carian dan rujukan
 # penyediaan:
-# . salin dan tampal rangka data di baris terbawah sebelum
-#   3-titik `...`, buang 3-aksara `## ` di awalan baris
+# . salin rangka data berikut dan tampal di baris terbawah
+#   sebelum titik `...`, buang aksara `## ` di awalan baris
 # petunjuk:
 # . mana-mana 'id' data sumber berkenaan akan disalin ke
 #   senarai 'oleh.sumber' data daftar

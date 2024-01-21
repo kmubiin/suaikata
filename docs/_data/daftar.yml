@@ -1,7 +1,7 @@
 # maklumat meta bagi kajian daftar
 # penyediaan:
-# . salin dan tampal rangka data di baris terbawah sebelum
-#   3-titik `...`, buang 3-aksara `## ` di awalan baris;
+# . salin rangka data berikut dan tampal di baris terbawah
+#   sebelum titik `...`, buang aksara `## ` di awalan baris
 # . nyatakan nilai 'id alt rasmi'; selebihnya kemudian
 # petunjuk:
 # . nilai 'bina' adalah suatu rantaian (string) yang diberi
