@@ -4,6 +4,13 @@ repository: kmubiin/suaikata  # metadata tanpa .git
 title: suaikata
 description: Koleksi ringkas kosa kata
 
+## tetapan bagi Jekyll
+url: https://kmubiin.github.io/suaikata
+permalink: /:title:output_ext
+timezone: Etc/UTC  # tzdata (IANA time zone database)
+includes_dir: _muat  # asalnya _includes
+# layouts_dir: _layouts  # akan diberi nama lain
+
 ## tetapan bagi GitHub Pages
 theme: jekyll-theme-slate
 show_downloads: false  # mengikut tema
@@ -15,10 +22,6 @@ show_downloads: false  # mengikut tema
 #   tar_url: https://github.com/kmubiin/suaikata/archive/asal.tar.gz
 ## ---TETAPAN LALAI---
 
-## tetapan bagi Jekyll
-url: https://kmubiin.github.io/suaikata
-permalink: /:title:output_ext
-timezone: Etc/UTC  # tzdata (IANA time zone database)
 ## ---TETAPAN LOCALHOST---
 ## hasil paparan di luar talian perlu ada tetapan lain
 ## untuk menyamai hasil paparan di GitHub Pages
@@ -33,7 +36,6 @@ timezone: Etc/UTC  # tzdata (IANA time zone database)
 #     values:
 #       layout: "default"
 ## ---TETAPAN LOCALHOST---
-includes_dir: _muat  # asalnya _includes
 
 ## lagi tetapan mengikut tema dan laman
 ## https://jekyllrb.com/docs/configuration/
