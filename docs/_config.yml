@@ -11,20 +11,8 @@ timezone: Etc/UTC  # tzdata (IANA time zone database)
 includes_dir: _muat  # asalnya _includes
 # layouts_dir: _layouts  # akan diberi nama lain
 
-## tetapan bagi GitHub Pages
 theme: jekyll-theme-slate
-show_downloads: false  # mengikut tema
-## ---TETAPAN LALAI---
-## pautan mengikut pilihan dahan dan boleh diubah
-# github:
-#   repository_url: https://github.com/kmubiin/suaikata
-#   zip_url: https://github.com/kmubiin/suaikata/archive/asal.zip
-#   tar_url: https://github.com/kmubiin/suaikata/archive/asal.tar.gz
-## ---TETAPAN LALAI---
 
-## ---TETAPAN LOCALHOST---
-## hasil paparan di luar talian perlu ada tetapan lain
-## untuk menyamai hasil paparan di GitHub Pages
 # plugins:
 #   - jekyll-relative-links
 #   - jekyll-seo-tag          # mengikut tema
@@ -35,7 +23,13 @@ show_downloads: false  # mengikut tema
 #       path: ""  # merangkumi semua laman
 #     values:
 #       layout: "default"
-## ---TETAPAN LOCALHOST---
+
+show_downloads: false  # mengikut tema
+
+# github:
+#   repository_url: https://github.com/kmubiin/suaikata
+#   zip_url: https://github.com/kmubiin/suaikata/archive/asal.zip
+#   tar_url: https://github.com/kmubiin/suaikata/archive/asal.tar.gz
 
 ## lagi tetapan mengikut tema dan laman
 ## https://jekyllrb.com/docs/configuration/
