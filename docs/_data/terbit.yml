@@ -50,6 +50,6 @@
   id: '2.22.1222'  # semua laman tersusun di docs
   beku: false      # buat salinan sendiri (dirancang)
   bila: 2022-12-22
-  bina: ''
+  bina: '84251f2'
   muat: []
 ...
