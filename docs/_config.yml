@@ -13,8 +13,8 @@ includes_dir: _muat  # asalnya _includes
 
 theme: jekyll-theme-slate
 
-# plugins:
-#   - jekyll-relative-links
+plugins:
+  - jekyll-relative-links
 #   - jekyll-seo-tag          # mengikut tema
 #   - jekyll-github-metadata  # mengikut tema
 # defaults:
