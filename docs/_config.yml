@@ -17,12 +17,12 @@ plugins:
   - jekyll-relative-links
 #   - jekyll-seo-tag          # mengikut tema
 #   - jekyll-github-metadata  # mengikut tema
-# defaults:
-#   -
-#     scope:
-#       path: ""  # merangkumi semua laman
-#     values:
-#       layout: "default"
+defaults:
+  -
+    scope:
+      path: ""  # merangkumi semua laman
+    values:
+      layout: "default"
 
 show_downloads: false  # mengikut tema
 

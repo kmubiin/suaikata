@@ -1,6 +1,5 @@
 ---
 published: true
-layout: default
 ---
 
 Projek suaikata ialah projek perkamusan sumber terbuka yang
