@@ -1,13 +1,13 @@
 ---
 published: true
-title: Contoh daftar
+title: Salinan terhad daftar
 rak: lampiran
 ---
 
-### Contoh daftar
+### Salinan terhad daftar
 
-Contoh daftar ialah senarai pendek daftar bersama lajur
-dan baris terhad yang disalin daripada laman sumber
+Salinan terhad daftar ialah senarai pendek daftar bersama
+lajur dan baris terhad yang disalin daripada laman sumber
 
 **kata kerap PSAT** (psat)
 &ndash; Daftar dwibahasa beregu ini ada lajur khas yang

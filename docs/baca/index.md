@@ -16,7 +16,7 @@ oleh {{ sa.oleh.ahli | join: ", " }}</li>
 
 Daftar kata boleh didapati di laman sumber dan tidak dipapar
 terus di laman ini. Sebaliknya, laman ini hanya menyediakan
-[salinan terhad daftar](contoh.md).
+[salinan terhad daftar](salinan.md).
 
 #### Senarai ura
 
