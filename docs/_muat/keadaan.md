@@ -1,9 +1,12 @@
 {{ '---' }}
 
 {% comment %}
-ruang ini akan memapar senarai tarikh terakhir yang lebih
-menyeluruh--senarai baru akan dijana berdasarkan fail-fail
-data yang dicipta semula baru-baru ini
+ruang ini akan memapar senarai data daftar dan laman secara
+terhad atau memilih; buat masa ini, senarai data dipapar
+secara menyeluruh apabila laman dijana di localhost sahaja
+
+kod liquid dari `baca/index.md` untuk memapar senarai daftar
+akan dipindah salin ke sini (cadangan sementara)
 {% endcomment %}
 
 {% assign u = site.url | truncate: 16, "" %}
