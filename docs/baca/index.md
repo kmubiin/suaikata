@@ -5,15 +5,6 @@ title: Kandungan
 
 ### Kandungan
 
-#### Senarai daftar
-
-Daftar berikut disediakan mengikut rancangan.
-
-<ol>{% for sa in site.data.daftar %}{% if sa.rasmi %}
-<li>"{{ sa.alt }}"
-oleh {{ sa.oleh.ahli | join: ", " }}</li>
-{% endif %}{% endfor %}</ol>
-
 Daftar kata boleh didapati di laman sumber dan tidak dipapar
 terus di laman ini. Sebaliknya, laman ini hanya menyediakan
 [salinan terhad daftar](salinan.md).
