@@ -18,4 +18,6 @@ bebas dengan syarat menyatakan perakuan hak cipta asal.
 Lihat [kandungan](baca/index.md) atau
 [senarai laman](bersuai.md)
 
+{% include_relative nota.md %}
+
 {% include keadaan.md %}

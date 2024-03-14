@@ -1,10 +1,4 @@
 {{ '---' }}
-Keadaan projek pada masa ini:
-
-> Kandungan laman sedang disemak semula pada masa ini.
-> Kecuali laman utama, kebanyakan kandungan laman akan
-> disalin dan disusun semula dalam masa terdekat.
-> -- Nota bertarikh 15 Dis 2022 (Khamis)
 
 {% comment %}
 ruang ini akan memapar senarai tarikh terakhir yang lebih
