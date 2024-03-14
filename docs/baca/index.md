@@ -22,11 +22,8 @@ terus di laman ini. Sebaliknya, laman ini hanya menyediakan
 
 Laman berikut disediakan untuk bacaan umum.
 
-{% assign rencana = site.pages | where: "rak", "rencana" %}
-<ul>{% for sa in rencana %}
-<li>{{ sa.date }}
-<a href="{{ site.url }}{{ sa.url }}">{{ sa.title }}</a></li>
-{% endfor %}</ul>
+- [Hasil kajian Mac 2018](ura/1803.md)
+- [Hasil kajian April 2020](ura/2004.md)
 
 #### Senarai bab
 
