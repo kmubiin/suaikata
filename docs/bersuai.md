@@ -22,6 +22,9 @@ tiada beza bagi localhost, tetapi perlu guna alamat mutlak
 apabila menjana pautan di luar index
 {% endcomment %}
 
+laman lompat: [kandungan][1]
+
 laman kembali: [utama][0]
 
   [0]: index.md
+  [1]: baca/index.md

@@ -16,8 +16,7 @@ membawakan takrif terpilih atau sekadar memadai.
 Syarat "sebut nama". Daftar kata itu boleh digunakan secara
 bebas dengan syarat menyatakan perakuan hak cipta asal.
 
-Lihat [kandungan](baca/index.md) atau
-[senarai laman](bersuai.md)
+Lihat [kandungan](baca/index.md)
 
 {% include_relative nota.md %}
 

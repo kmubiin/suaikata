@@ -54,6 +54,9 @@ Terdapat istilah-istilah yang tidak lazim atau keliru, dan
 perlu diterjemah sendiri semasa mengusahakan projek ini.
 Lihat [senarai istilah](glosari.md).
 
+laman lompat: [senarai laman][1]
+
 laman kembali: [utama][0]
 
   [0]: ../index.md
+  [1]: ../bersuai.md
