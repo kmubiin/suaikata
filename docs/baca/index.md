@@ -1,6 +1,6 @@
 ---
 published: true
-title: Kandungan
+title:  # ruang tajuk sengaja tidak diisi
 ---
 
 ### Kandungan
