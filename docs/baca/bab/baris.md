@@ -68,3 +68,15 @@ sebab itu, lebih baik gunakan penamat baris LF atau CR LF.
 laman kembali: [kandungan][0]
 
   [0]: ../index.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Pengaruh penamat baris untuk teks biasa #17][#17]
+  &ndash; kmubiin/suaikata on May 3, 2018
+- [Malay translation for Notepad++][25a]
+  &ndash; "Show Newline" diterjemah "Tunjuk Penamat Baris"
+
+  [#17]: https://github.com/kmubiin/suaikata/issues/17
+  [25a]: https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/installer/nativeLang/malay.xml

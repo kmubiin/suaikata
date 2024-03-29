@@ -138,3 +138,18 @@ rujukan sampingan bagi perbandingan takrif.
 laman kembali: [kandungan][0]
 
   [0]: ../index.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Panduan penyediaan takrif #10][#10]
+  &ndash; kmubiin/suaikata on Mar 23, 2018
+- [chronicle][15a]
+  &ndash; Wiktionary
+- [transparent][15b]
+  &ndash; Wiktionary
+
+  [#10]: https://github.com/kmubiin/suaikata/issues/10
+  [15a]: https://en.wiktionary.org/wiki/chronicle
+  [15b]: https://en.wiktionary.org/wiki/transparent

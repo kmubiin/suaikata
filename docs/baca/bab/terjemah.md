@@ -101,3 +101,24 @@ semata-mata untuk menggantikan terjemahan lazim.
 laman kembali: [kandungan][0]
 
   [0]: ../index.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Penyelesaian kesulitan terjemah tunggal #14][#14]
+  &ndash; kmubiin/suaikata on Apr 16, 2018
+- [Google Translate][rt1]
+  &ndash; perisian web Google
+- [Google Translate licenses][rt2]
+  &ndash; lesen bagi semua bahasa yang disokong
+- [Microsoft Translator (Bing Translator)][rt3]
+  &ndash; perisian web Microsoft
+- [Yandex.Translate][rt4]
+  &ndash; perisian web Yandex
+
+  [#14]: https://github.com/kmubiin/suaikata/issues/14
+  [rt1]: https://translate.google.com
+  [rt2]: https://translate.google.com/intl/en/about/license/
+  [rt3]: https://www.bing.com/translator/
+  [rt4]: https://translate.yandex.com/

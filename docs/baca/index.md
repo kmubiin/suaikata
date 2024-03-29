@@ -20,6 +20,13 @@ Laman berikut disediakan untuk bacaan umum.
 
 Laman berikut disediakan untuk panduan projek.
 
+{% comment %}
+**Bab 1: Satu permulaan** menerangkan asal usul projek
+suaikata dan pengetahuan umum yang berkaitan. Bab ini juga
+menyusun semula hasil perbincangan bagi menyedia takrif
+semasa menyiapkan daftar pertama.
+{% endcomment %}
+
 ##### Bab 1: Satu permulaan
 
 11. [Mengenal projek suaikata](bab/kenal.md)
@@ -28,6 +35,12 @@ Laman berikut disediakan untuk panduan projek.
 14. [Lesen sumber terbuka](bab/lesen.md)
 15. [Asas penyediaan takrif](bab/asas.md)
 16. [Takrif asal dan terjemah](bab/takrif.md)
+
+{% comment %}
+**Bab 2: Perihal daftar** menerangkan ciri daftar dan helai
+daftar. Bab ini juga menerangkan cara simpan helai yang
+sesuai supaya dapat dibaca semula kemudian.
+{% endcomment %}
 
 ##### Bab 2: Perihal daftar
 
@@ -39,6 +52,12 @@ Laman berikut disediakan untuk panduan projek.
 26. [Menyimpan helai dengan nama](bab/nama.md)
 27. [Format helai daftar](bab/format.md)
 
+{% comment %}
+**Bab 3: Aturan kerja** menerangkan semula cara menyedia dan
+memuat daftar ke laman sumber dan usaha lain yang boleh
+dilakukan selepas itu.
+{% endcomment %}
+
 ##### Bab 3: Aturan kerja
 
 31. [Menyedia daftar sendiri](bab/sedia.md)
@@ -46,6 +65,11 @@ Laman berikut disediakan untuk panduan projek.
 33. [Mengulang kaji](bab/ulang-kaji.md)
 34. [Soal terjemah](bab/terjemah.md)
 35. [Soal piawai](bab/piawai.md)
+
+{% comment %}
+**Dasar panduan** akan dimansuh dan dipindah salin ke laman
+masing-masing sebagai rujukan
+{% endcomment %}
 
 Semua laman dalam senarai bab di atas disediakan mengikut
 [dasar ini](dasar.md).

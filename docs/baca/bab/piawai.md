@@ -83,3 +83,11 @@ laman kembali: [kandungan][0]
   [0]: ../index.md
   [1]: sumber.md
   [2]: nama.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Wikipedia:Gunakan bahasa Melayu piawai][rp1]
+
+  [rp1]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai

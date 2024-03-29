@@ -34,3 +34,15 @@ kata baharu tidak diusahakan.
 laman kembali: [kandungan][0]
 
   [0]: ../index.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Takrif Projek R4 #1][#1]
+  &ndash; kmubiin/suaikata on Mar 1, 2018
+- [Kajian projek tercipta #2][#2]
+  &ndash; kmubiin/suaikata on Mar 8, 2018
+
+  [#1]: https://github.com/kmubiin/suaikata/issues/1
+  [#2]: https://github.com/kmubiin/suaikata/issues/2

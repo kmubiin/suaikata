@@ -102,3 +102,15 @@ bantuan, buat carian di web atau bincang secara berkumpulan.
 laman kembali: [kandungan][0]
 
   [0]: ../index.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Soal kesesuaian takrif #11][#11]
+  &ndash; kmubiin/suaikata on Mar 29, 2018
+- [accessible][16a]
+  &ndash; Collins English Dictionary
+
+  [#11]: https://github.com/kmubiin/suaikata/issues/11
+  [16a]: https://www.collinsdictionary.com/dictionary/english/accessible

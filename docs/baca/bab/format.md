@@ -112,3 +112,19 @@ laman kembali: [kandungan][0]
 
   [0]: ../index.md
   [1]: nama.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Rendering CSV and TSV data][rf1]
+  &ndash; GitHub Help
+- [RFC 4180][rf2]
+  &ndash; Common Format and MIME Type for Comma-Separated
+  Values (CSV) Files, IETF
+- [text/tab-separated-values][rf3]
+  &ndash; Definition of tab-separated-values (tsv), IANA
+
+  [rf1]: https://help.github.com/articles/rendering-csv-and-tsv-data/
+  [rf2]: https://tools.ietf.org/html/rfc4180
+  [rf3]: https://www.iana.org/assignments/media-types/text/tab-separated-values

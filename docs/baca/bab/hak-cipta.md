@@ -93,3 +93,18 @@ nilai kesusasteraan, maka hak cipta boleh terpelihara.
 laman kembali: [kandungan][0]
 
   [0]: ../index.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [What Does Copyright Protect? (FAQ)][13a]
+  &ndash; U.S. Copyright Office
+- [Feist v. Rural][13b]
+  &ndash; Wikipedia
+- [Feist v. Rural, 499 U.S. 340 (1991)][13c]
+  &ndash; Justia US Supreme Court Center
+
+  [13a]: https://www.copyright.gov/help/faq/faq-protect.html
+  [13b]: https://en.wikipedia.org/wiki/Feist_v._Rural
+  [13c]: https://supreme.justia.com/cases/federal/us/499/340/

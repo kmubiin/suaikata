@@ -64,3 +64,12 @@ sebagai daftar baharu.
 laman kembali: [kandungan][0]
 
   [0]: ../index.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Salin dan perbaik daftar kata kerap #32][#32]
+  &ndash; kmubiin/suaikata on Mar 6, 2020
+
+  [#32]: https://github.com/kmubiin/suaikata/issues/32

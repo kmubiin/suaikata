@@ -48,3 +48,12 @@ projek suaikata lebih matang sebagai sumber terpelajar.
 laman kembali: [kandungan][0]
 
   [0]: ../index.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Ulasan pembangun daftar pertama #20][#20]
+  &ndash; kmubiin/suaikata on Nov 17, 2018
+
+  [#20]: https://github.com/kmubiin/suaikata/issues/20

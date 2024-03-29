@@ -62,3 +62,18 @@ laman kembali: [kandungan][0]
 
   [0]: ../index.md
   [1]: muat.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Penyediaan helaian rebak #9][#9]
+  &ndash; kmubiin/suaikata on Mar 22, 2018
+- [Google Sheets][23a]
+  &ndash; perisian web Google
+- [Microsoft Excel Online][23b]
+  &ndash; perisian web Microsoft
+
+  [#9]: https://github.com/kmubiin/suaikata/issues/9
+  [23a]: https://docs.google.com/spreadsheets/
+  [23b]: https://office.live.com/start/Excel.aspx

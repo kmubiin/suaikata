@@ -158,3 +158,15 @@ laman kembali: [kandungan][0]
   [0]: ../index.md
   [1]: helai.md
   [2]: nama.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Adding a file to a repository][32a]
+  &ndash; GitHub Help
+- [Adding a file to a repository using the command line][32b]
+  &ndash; GitHub Help
+
+  [32a]: https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository
+  [32b]: https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line

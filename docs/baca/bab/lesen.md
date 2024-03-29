@@ -65,3 +65,21 @@ kekal bebas dan terbuka
 laman kembali: [kandungan][0]
 
   [0]: ../index.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Pelesenan projek #3][#3]
+  &ndash; kmubiin/suaikata on Mar 9, 2018
+- [Choose an open source license][14a]
+  &ndash; curated by GitHub
+- [Conformant Licenses][14b]
+  &ndash; Open Definition
+- [CC BY 4.0][14c]
+  &ndash; Creative Commons
+
+  [#3]: https://github.com/kmubiin/suaikata/issues/3
+  [14a]: https://choosealicense.com/
+  [14b]: https://opendefinition.org/licenses/
+  [14c]: https://creativecommons.org/licenses/by/4.0/

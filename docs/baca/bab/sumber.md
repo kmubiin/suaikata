@@ -55,3 +55,12 @@ laman kembali: [kandungan][0]
 
   [0]: ../index.md
   [1]: piawai.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Keterbalikan antara sumber dan bidang kosa kata #7][#7]
+  &ndash; kmubiin/suaikata on Mar 21, 2018
+
+  [#7]: https://github.com/kmubiin/suaikata/issues/7

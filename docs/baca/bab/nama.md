@@ -71,3 +71,16 @@ laman kembali: [kandungan][0]
   [1]: piawai.md
   [2]: format.md
   [3]: muat.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Standards - Frequently Asked Questions (FAQ)][rp2]
+  &ndash; Codes for the representation of the names of
+  languages (Library of Congress)
+- [ISO 639-1 (pautan ke senarai tidak tentu)][rp3]
+  &ndash; Wikipedia bahasa Melayu, ensiklopedia bebas
+
+  [rp2]: https://www.loc.gov/standards/iso639-2/faq.html
+  [rp3]: https://ms.wikipedia.org/wiki/ISO_639-1

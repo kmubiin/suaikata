@@ -55,3 +55,15 @@ dan tidak sesuai untuk kegunaan umum.
 laman kembali: [kandungan][0]
 
   [0]: ../index.md
+
+----
+
+Pindah salin dari laman dasar (dimansuh):
+
+- [Rangkuman kosa kata #4][#4]
+  &ndash; kmubiin/suaikata on Mar 9, 2018
+- [Pengendalian data #5][#5]
+  &ndash; kmubiin/suaikata on Mar 12, 2018
+
+  [#4]: https://github.com/kmubiin/suaikata/issues/4
+  [#5]: https://github.com/kmubiin/suaikata/issues/5
