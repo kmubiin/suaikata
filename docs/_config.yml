@@ -5,18 +5,15 @@ title: suaikata
 description: Koleksi ringkas kosa kata
 
 ## tetapan bagi Jekyll
-url: https://kmubiin.github.io/suaikata
+# url: https://kmubiin.github.io
+# baseurl: /suaikata
 permalink: /:title:output_ext
 timezone: Etc/UTC  # tzdata (IANA time zone database)
 includes_dir: _muat  # asalnya _includes
-# layouts_dir: _layouts  # akan diberi nama lain
+# layouts_dir: _rupa   # asalnya _layouts
 
 theme: jekyll-theme-slate
 
-plugins:
-  - jekyll-relative-links
-#   - jekyll-seo-tag          # mengikut tema
-#   - jekyll-github-metadata  # mengikut tema
 defaults:
   -
     scope:
@@ -30,6 +27,11 @@ show_downloads: false  # mengikut tema
 #   repository_url: https://github.com/kmubiin/suaikata
 #   zip_url: https://github.com/kmubiin/suaikata/archive/asal.zip
 #   tar_url: https://github.com/kmubiin/suaikata/archive/asal.tar.gz
+
+plugins:
+  - jekyll-relative-links  # bagi pautan tanpa tag link
+#   - jekyll-seo-tag          # mengikut tema
+#   - jekyll-github-metadata  # mengikut tema
 
 ## lagi tetapan mengikut tema dan laman
 ## https://jekyllrb.com/docs/configuration/
