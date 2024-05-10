@@ -7,9 +7,10 @@ Berikut adalah senarai laman (bersuai) yang boleh dicapai:
 
 {% assign pages = site.pages | sort: "path" %}
 {% for p in pages %}
-&nbsp;. {{ p.path }}{% if p.title %}
-<a href="{{ site.url }}{{ p.url }}">{{ p.title }}</a>{% endif %}
-<br>{% endfor %}
+&nbsp;{{ p.path }} {% if p.title %}..
+[{{ p.title }}](.{{ site.baseurl }}{{ p.url }})
+{% endif %}{% comment %}sini ada baris baru{% endcomment %}
+{% endfor %}
 
 {% comment %}
 kod liquid diliputi oleh `if` supaya sebarang fail tanpa
