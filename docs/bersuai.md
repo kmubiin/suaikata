@@ -8,7 +8,7 @@ Berikut adalah senarai laman (bersuai) yang boleh dicapai:
 {% assign pages = site.pages | sort: "path" %}
 {% for p in pages %}
 &nbsp;{{ p.path }} {% if p.title %}..
-[{{ p.title }}](.{{ site.baseurl }}{{ p.url }})
+[{{ p.title }}](.{{ p.url }})
 {% endif %}{% comment %}sini ada baris baru{% endcomment %}
 {% endfor %}
 
