@@ -1,8 +1,10 @@
 # suaikata
 Koleksi ringkas kosa kata
 
-Laman utama di <https://kmubiin.github.io/suaikata/>  
-&emsp;bersumber pada [docs/index.md](docs/index.md)
+Bermula Jun 2024, laman dalam talian dinyahaktif dengan
+sengaja dan secara lalai. Cara menerbit laman menggunakan
+Pages kini menggunakan Actions, yang lebih rumit. Tumpuan
+diberi bagi menjana laman di luar talian sahaja.
 
 ## Pemerian sumber
 
@@ -14,7 +16,7 @@ Laman utama di <https://kmubiin.github.io/suaikata/>
 &emsp;`../_muat` &ndash; kandungan muat bila perlu  
 &emsp;`../_usul` &ndash; kandungan bersejarah  
 &emsp;`../bersuai.md` &ndash; senarai laman (2)  
-&emsp;`../_config.yml` &ndash; tetapan laman  
+&emsp;`../_config.yml` &ndash; tetapan laman (3)  
 &emsp;`../index.md` &ndash; laman utama  
 `index.md` &ndash; fail rujukan di luar talian  
 `LICENSE` &ndash; fail salinan lesen projek ini  
@@ -27,3 +29,6 @@ sedia dipapar dengan sokongan Markdown
 (2) "senarai laman" dikemas kini secara auto, bergantung
 pada kod Liquid dan penjana Jekyll supaya dapat dipapar
 dengan sokongan HTML
+
+(3) sumber ini menyediakan tetapan laman bagi menjana laman
+di luar talian sahaja dan bergantung pada penjana laman Jekyll
