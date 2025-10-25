@@ -73,3 +73,32 @@ Pindah salin dari laman dasar (dimansuh):
   &ndash; kmubiin/suaikata on Mar 6, 2020
 
   [#32]: https://github.com/kmubiin/suaikata/issues/32
+
+----
+
+Pindah salin dari data radas (dimansuh):
+
+- bebas; guna pensil dan kertas, atau alat tulis yang boleh
+  diguna secara langsung seperti pen, pena, buku;
+- editor; guna penyunting teks biasa yang sedia ada, atau
+  alat tulis terbina pada sistem operasi komputer;
+- git; https://git-scm.com/
+- sheets; https://docs.google.com/spreadsheets/
+- calc; https://www.libreoffice.org/
+- firefox; pelayar web bersama add-ons seperti
+  markdown-viewer, side-view;
+  https://www.mozilla.org/en-US/firefox/
+- markdown-viewer; add-ons bagi Firefox
+  https://github.com/KeithLRobertson/markdown-viewer
+- side-view; add-ons bagi Firefox
+  https://github.com/mozilla/side-view
+- smurf; simple markdown surfer
+  https://github.com/oxalorg/smurf
+- pandoc; https://pandoc.org/
+- coreutils; GNU core utilities menyedia garis perintah
+  seperti head, sort, tail, wc;
+  http://www.gnu.org/software/coreutils/
+- grep; http://www.gnu.org/software/grep/
+- sed; https://www.gnu.org/software/sed/
+- yamllint; Pemeriksa fail YAML
+  https://github.com/adrienverge/yamllint
