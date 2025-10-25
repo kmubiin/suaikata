@@ -64,3 +64,45 @@ Pindah salin dari laman dasar (dimansuh):
   &ndash; kmubiin/suaikata on Mar 21, 2018
 
   [#7]: https://github.com/kmubiin/suaikata/issues/7
+
+----
+
+Pindah salin dari data sumber (dimansuh):
+
+- bebas; mula dari senarai kosong, bersumberkan mana-mana
+  bahan bacaan bercetak, termasuk bahan yang bebas daripada
+  hak cipta
+- ia; Internet Archive, laman pangkal sumber;
+  https://archive.org/
+- ch/psatwords; PSAT High Frequency Words;
+  https://web.archive.org/web/20170427204836/http://cabrinihigh.com/academics/psatwords
+- barron/psat; Barron's PSAT High Frequency List;
+  https://www.quia.com/jg/160741list.html
+- wt; Wiktionary, laman pangkal sumber;
+  https://wiktionary.org/
+- wt/sl; Wiktionary:Simple_English_word_list;
+  https://simple.wiktionary.org/wiki/Wiktionary:Simple_English_word_list
+- wt/fl; Wiktionary:Frequency_lists
+  https://en.wiktionary.org/wiki/WT:FL
+- wt/be850; Wiktionary:Basic_English_alphabetical_wordlist
+  https://simple.wiktionary.org/wiki/WT:BE850
+- wt/bnc1k; Wiktionary:Most_frequent_1000_words_in_English
+  https://simple.wiktionary.org/wiki/Wiktionary:Most_frequent_1000_words_in_English
+- wy; Wikipedia, laman pangkal sumber;
+  https://wikipedia.org/
+- wy/enid; List of English words of Indonesian origin (wiki)
+  https://en.wikipedia.org/wiki/List_of_English_words_of_Indonesian_origin
+- wy/enms; List of English words of Malay origin (wiki)
+  https://en.wikipedia.org/wiki/List_of_English_words_of_Malay_origin
+- wy/ms18; Kategori:Perbendaharaan kata (wiki)
+  https://ms.wikipedia.org/wiki/Kategori:Perbendaharaan_kata
+- wy/ms10; Kategori:Peribahasa (wiki)
+  https://ms.wikipedia.org/wiki/Kategori:Peribahasa
+- wy/msidar; Senarai kata pinjaman dari bahasa Arab (wiki)
+  https://ms.wikipedia.org/wiki/Senarai_kata_pinjaman_dari_bahasa_Arab_dalam_bahasa_Melayu_dan_bahasa_Indonesia
+- wy/msid; Perbezaan antara Bahasa Melayu Piawai dan Bahasa Indonesia (wiki)
+  https://ms.wikipedia.org/wiki/Perbezaan_antara_Bahasa_Melayu_Piawai_dan_Bahasa_Indonesia
+- wp/ms38; Perkataan pinjaman dalam Bahasa Melayu (2008)
+  https://web.archive.org/web/20140723030634/http://lincahtaiping.wordpress.com/2008/08/29/perkataan-pinjaman-dalam-bahasa-melayu/
+- wy/en26; Glossary of literary terms (wiki)
+  https://en.wikipedia.org/wiki/Glossary_of_literary_terms
