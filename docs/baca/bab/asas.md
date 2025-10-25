@@ -8,6 +8,9 @@ jilid: 1.5
 
 ### Asas penyediaan takrif
 
+Panduan ini adalah berdasarkan isu tercipta yang bertajuk
+"Panduan penyediaan takrif" (23 Mac 2018)[^1].
+
 Daftar kata terdiri daripada kata masukan (lema) dan makna.
 Kebanyakan lema Inggeris boleh disuai dengan lema Melayu
 yang sama makna. Setiap pasangan lema selalunya berbeza
@@ -42,7 +45,7 @@ Misalnya, fahamkan takrif bagi lema 'chronicle':
 > 1. A written account of events and when they happened,
 ordered by time.
 > 
-> Sumber: Wiktionary
+> Sumber: Wiktionary[^2]
 
 Setelah fahamkan takrif dalam bahasa asal, barulah mula
 mencari kata kunci atau lema Melayu yang berkaitan. Setiap
@@ -122,7 +125,7 @@ takrif dalam bahasa asal bagi lema 'transparent':
 > 2. (of a system or organization) Open, public
 > 3. Obvious; readily apparent; easy to see or understand
 > 
-> Sumber: Wiktionary
+> Sumber: Wiktionary[^3]
 
 Apabila perbandingan takrif dibuat seperti di atas, lema
 'transparent' sebenarnya tidak terhad pada makna 'lut sinar'
@@ -139,17 +142,13 @@ laman kembali: [kandungan][0]
 
   [0]: ../index.md
 
-----
+{% comment %}
+Semua rujukan di bawah hanya mengandungi pautan ke sumber
+asal menggunakan sintaksis nota kaki bagi Kramdown. Jika
+nota kaki tidak muncul, maka pautan mutlak akan muncul
+pada teks yang dirujuk dalam mana-mana perenggan di atas.
+{% endcomment %}
 
-Pindah salin dari laman dasar (dimansuh):
-
-- [Panduan penyediaan takrif #10][#10]
-  &ndash; kmubiin/suaikata on Mar 23, 2018
-- [chronicle][15a]
-  &ndash; Wiktionary
-- [transparent][15b]
-  &ndash; Wiktionary
-
-  [#10]: https://github.com/kmubiin/suaikata/issues/10
-  [15a]: https://en.wiktionary.org/wiki/chronicle
-  [15b]: https://en.wiktionary.org/wiki/transparent
+[^1]: https://github.com/kmubiin/suaikata/issues/10
+[^2]: https://en.wiktionary.org/wiki/chronicle
+[^3]: https://en.wiktionary.org/wiki/transparent
