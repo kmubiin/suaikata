@@ -8,6 +8,10 @@ jilid: 1.2
 
 ### Sumber kata masukan
 
+Panduan ini adalah berdasarkan isu tercipta yang bertajuk
+"Keterbalikan antara sumber dan bidang kosa kata" (22 Mac
+2018)[^1].
+
 Usaha membangunkan daftar bermula dengan memilih sumber kata
 masukan. Projek suaikata menggariskan tiga ciri sumber:
 
@@ -56,14 +60,14 @@ laman kembali: [kandungan][0]
   [0]: ../index.md
   [1]: piawai.md
 
-----
+{% comment %}
+Semua rujukan di bawah hanya mengandungi pautan ke sumber
+asal menggunakan sintaksis nota kaki bagi Kramdown. Jika
+nota kaki tidak muncul, maka pautan mutlak akan muncul
+pada teks yang dirujuk dalam mana-mana perenggan di atas.
+{% endcomment %}
 
-Pindah salin dari laman dasar (dimansuh):
-
-- [Keterbalikan antara sumber dan bidang kosa kata #7][#7]
-  &ndash; kmubiin/suaikata on Mar 21, 2018
-
-  [#7]: https://github.com/kmubiin/suaikata/issues/7
+[^1]: https://github.com/kmubiin/suaikata/issues/7
 
 ----
 
