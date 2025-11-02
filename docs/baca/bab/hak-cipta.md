@@ -29,7 +29,7 @@ Hujah 1:
 > public records.
 >
 > Sumber: What Does Copyright Protect? (FAQ),
-> U.S. Copyright Office
+> U.S. Copyright Office[^1]
 
 Hujah 1 menyatakan bahawa: "sekiranya perlu merahsiakan
 sesuatu seperti bahan istimewa dalam resipi, maklumat
@@ -64,8 +64,8 @@ Hujah 2:
 > standard for eligibility but provides a stronger level of
 > protection.
 >
-> Sumber: Feist v. Rural, 499 U.S. 340 (1991), via Justia,
-> via Wikipedia
+> Sumber: Feist v. Rural, 499 U.S. 340 (1991),
+> via Justia[^2], via Wikipedia[^3]
 
 Hujah 2 menyatakan bahawa: "mahkamah telah memutuskan bahawa
 maklumat yang terkandung dalam buku direktori telefon adalah
@@ -94,17 +94,13 @@ laman kembali: [kandungan][0]
 
   [0]: ../index.md
 
-----
+{% comment %}
+Semua rujukan di bawah hanya mengandungi pautan ke sumber
+asal menggunakan sintaksis nota kaki bagi Kramdown. Jika
+nota kaki tidak muncul, maka pautan mutlak akan muncul
+pada teks yang dirujuk dalam mana-mana perenggan di atas.
+{% endcomment %}
 
-Pindah salin dari laman dasar (dimansuh):
-
-- [What Does Copyright Protect? (FAQ)][13a]
-  &ndash; U.S. Copyright Office
-- [Feist v. Rural][13b]
-  &ndash; Wikipedia
-- [Feist v. Rural, 499 U.S. 340 (1991)][13c]
-  &ndash; Justia US Supreme Court Center
-
-  [13a]: https://www.copyright.gov/help/faq/faq-protect.html
-  [13b]: https://en.wikipedia.org/wiki/Feist_v._Rural
-  [13c]: https://supreme.justia.com/cases/federal/us/499/340/
+[^1]: https://www.copyright.gov/help/faq/faq-protect.html
+[^2]: https://supreme.justia.com/cases/federal/us/499/340/
+[^3]: https://en.wikipedia.org/wiki/Feist_v._Rural
