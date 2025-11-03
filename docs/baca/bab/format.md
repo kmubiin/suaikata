@@ -8,6 +8,11 @@ jilid: 2.7
 
 ### Format helai daftar
 
+Panduan ini adalah berdasarkan perubahan dari semasa ke
+semasa dan berkaitan dengan isu tercipta yang bertajuk
+"Pengendalian data" (13 Mac 2018)[^1] dan "Kemudahan
+capaian data" (14 Mac 2018)[^2].
+
 Helai daftar disimpan sebagai fail pada komputer supaya
 boleh dibaca semula kemudian. Fail tersebut boleh disimpan
 dalam dua bentuk:
@@ -45,7 +50,7 @@ Kandungan format mudah alih adalah lebih ringkas berbanding
 format asal, dan dipapar mengikut pilihan pengguna bagi
 perisian web atau perisian komputer yang digunakan.
 
-Misalnya, pemapar fail di GitHub akan memaparkan CSV
+Misalnya, pemapar fail di GitHub[^3] akan memaparkan CSV
 sebagai jadual ala helaian rebak. Nombor baris mungkin
 ditunjukkan di ruang paling kiri, bergantung pada ciri
 pemapar fail yang disediakan.
@@ -66,10 +71,10 @@ Bagaimanapun, TSV kelihatan lebih baik kerana ruang lebar
 kosong antara teks yang mudah dibaca oleh pengguna dan masih 
 mudah dipapar seperti CSV menggunakan perisian yang berbeza.
 
-**CSV (Comma-separated values)** biasanya menggunakan aksara
-tanda koma `,` sebagai pemisah teks. Bergantung pada bahasa
-pengguna yang ditetapkan pada komputer, aksara lain mungkin
-juga digunakan sebagai pemisah teks.
+**CSV (Comma-separated values)**[^4] biasanya menggunakan
+aksara tanda koma `,` sebagai pemisah teks. Bergantung pada
+bahasa pengguna yang ditetapkan pada komputer, aksara lain
+mungkin juga digunakan sebagai pemisah teks.
 
     inggeris,melayu
     vocabulary,kosa kata
@@ -86,10 +91,10 @@ teks yang mengandungi tanda koma atau tanda petik tambahan.
 Tanda-tanda itu harus dielakkan bagi CSV, dan sekiranya
 masih rumit, gunakan TSV.
 
-**TSV (Tab-separated values)** menggunakan aksara kekunci
-`<TAB>` bagi menggantikan aksara tanda koma `,` sebagai
-pemisah teks. Berbeza dengan CSV, tanda koma tambahan dalam
-sel tidak perlukan tanda petik dua lagi.
+**TSV (Tab-separated values)**[^5] menggunakan aksara
+kekunci `<TAB>` bagi menggantikan aksara tanda koma `,`
+sebagai pemisah teks. Berbeza dengan CSV, tanda koma
+tambahan dalam sel tidak perlukan tanda petik dua lagi.
 
     inggeris<TAB>melayu
     vocabulary<TAB>kosa kata
@@ -113,18 +118,15 @@ laman kembali: [kandungan][0]
   [0]: ../index.md
   [1]: nama.md
 
-----
+{% comment %}
+Semua rujukan di bawah hanya mengandungi pautan ke sumber
+asal menggunakan sintaksis nota kaki bagi Kramdown. Jika
+nota kaki tidak muncul, maka pautan mutlak akan muncul
+pada teks yang dirujuk dalam mana-mana perenggan di atas.
+{% endcomment %}
 
-Pindah salin dari laman dasar (dimansuh):
-
-- [Rendering CSV and TSV data][rf1]
-  &ndash; GitHub Help
-- [RFC 4180][rf2]
-  &ndash; Common Format and MIME Type for Comma-Separated
-  Values (CSV) Files, IETF
-- [text/tab-separated-values][rf3]
-  &ndash; Definition of tab-separated-values (tsv), IANA
-
-  [rf1]: https://help.github.com/articles/rendering-csv-and-tsv-data/
-  [rf2]: https://tools.ietf.org/html/rfc4180
-  [rf3]: https://www.iana.org/assignments/media-types/text/tab-separated-values
+[^1]: https://github.com/kmubiin/suaikata/issues/5
+[^2]: https://github.com/kmubiin/suaikata/issues/6
+[^3]: https://help.github.com/articles/rendering-csv-and-tsv-data/
+[^4]: https://tools.ietf.org/html/rfc4180
+[^5]: https://www.iana.org/assignments/media-types/text/tab-separated-values
