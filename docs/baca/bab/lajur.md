@@ -8,6 +8,10 @@ jilid: 2.4
 
 ### Dua atau lebih lajur
 
+Panduan ini adalah berdasarkan isu tercipta yang bertajuk
+"Rangkuman kosa kata" (12 Mac 2018)[^1] dan "Penyediaan
+helaian rebak" (22 Mac 2018, kemas kini 30 Mac 2018)[^2].
+
 Daftar dwibahasa yang lazim ada dua lajur sahaja, iaitu satu
 bahasa untuk setiap lajur. Apabila dua orang pengusaha ingin
 bekerjasama, dua lajur sudah tidak memadai.
@@ -56,14 +60,12 @@ laman kembali: [kandungan][0]
 
   [0]: ../index.md
 
-----
+{% comment %}
+Semua rujukan di bawah hanya mengandungi pautan ke sumber
+asal menggunakan sintaksis nota kaki bagi Kramdown. Jika
+nota kaki tidak muncul, maka pautan mutlak akan muncul
+pada teks yang dirujuk dalam mana-mana perenggan di atas.
+{% endcomment %}
 
-Pindah salin dari laman dasar (dimansuh):
-
-- [Rangkuman kosa kata #4][#4]
-  &ndash; kmubiin/suaikata on Mar 9, 2018
-- [Pengendalian data #5][#5]
-  &ndash; kmubiin/suaikata on Mar 12, 2018
-
-  [#4]: https://github.com/kmubiin/suaikata/issues/4
-  [#5]: https://github.com/kmubiin/suaikata/issues/5
+[^1]: https://github.com/kmubiin/suaikata/issues/4
+[^2]: https://github.com/kmubiin/suaikata/issues/9
