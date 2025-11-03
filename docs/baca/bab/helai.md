@@ -8,6 +8,9 @@ jilid: 2.3
 
 ### Mencipta helai daftar
 
+Panduan ini adalah berdasarkan isu tercipta yang bertajuk
+"Penyediaan helaian rebak" (22 Mac 2018)[^1].
+
 Helai daftar disedia mengikut keperluan dan kesesuaian cara
 kerja individu atau berkumpulan. Helai daftar boleh disedia
 dengan dua cara:
@@ -28,7 +31,7 @@ aplikasi mudah alih atau pelayar web.
 - Perisian komputer:
 Microsoft Office, Excel; LibreOffice, Calc
 - Perisian web:
-Microsoft Excel Online, Google Sheets
+Google Sheets[^2], Microsoft Excel Online[^3]
 
 Daftar yang disedia oleh perisian komputer dikenal sebagai
 "hamparan elektronik" atau "helaian rebak".
@@ -63,17 +66,13 @@ laman kembali: [kandungan][0]
   [0]: ../index.md
   [1]: muat.md
 
-----
+{% comment %}
+Semua rujukan di bawah hanya mengandungi pautan ke sumber
+asal menggunakan sintaksis nota kaki bagi Kramdown. Jika
+nota kaki tidak muncul, maka pautan mutlak akan muncul
+pada teks yang dirujuk dalam mana-mana perenggan di atas.
+{% endcomment %}
 
-Pindah salin dari laman dasar (dimansuh):
-
-- [Penyediaan helaian rebak #9][#9]
-  &ndash; kmubiin/suaikata on Mar 22, 2018
-- [Google Sheets][23a]
-  &ndash; perisian web Google
-- [Microsoft Excel Online][23b]
-  &ndash; perisian web Microsoft
-
-  [#9]: https://github.com/kmubiin/suaikata/issues/9
-  [23a]: https://docs.google.com/spreadsheets/
-  [23b]: https://office.live.com/start/Excel.aspx
+[^1]: https://github.com/kmubiin/suaikata/issues/9
+[^2]: https://docs.google.com/spreadsheets/
+[^3]: https://excel.cloud.microsoft/
