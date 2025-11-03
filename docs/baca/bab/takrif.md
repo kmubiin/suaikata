@@ -8,6 +8,9 @@ jilid: 1.6
 
 ### Takrif asal dan terjemah
 
+Panduan ini adalah berdasarkan isu tercipta yang bertajuk
+"Soal kesesuaian takrif" (29 Mac 2018)[^1].
+
 Perbandingan takrif adalah cara lazim untuk membawakan
 takrif daripada bahasa asal kepada bahasa terjemah. Sebelum
 membuat pilihan terjemah, **buat perbandingan takrif** bagi
@@ -33,7 +36,7 @@ Takrif dalam bahasa asal:
 > 4. easy for disabled people to enter or use
 >    ...
 > 
-> Sumber: Kamus ekabahasa Inggeris (versi dalam talian)
+> Sumber: Kamus ekabahasa Inggeris (versi dalam talian)[^2]
 
 Takrif dalam bahasa terjemah:
 
@@ -103,14 +106,12 @@ laman kembali: [kandungan][0]
 
   [0]: ../index.md
 
-----
+{% comment %}
+Semua rujukan di bawah hanya mengandungi pautan ke sumber
+asal menggunakan sintaksis nota kaki bagi Kramdown. Jika
+nota kaki tidak muncul, maka pautan mutlak akan muncul
+pada teks yang dirujuk dalam mana-mana perenggan di atas.
+{% endcomment %}
 
-Pindah salin dari laman dasar (dimansuh):
-
-- [Soal kesesuaian takrif #11][#11]
-  &ndash; kmubiin/suaikata on Mar 29, 2018
-- [accessible][16a]
-  &ndash; Collins English Dictionary
-
-  [#11]: https://github.com/kmubiin/suaikata/issues/11
-  [16a]: https://www.collinsdictionary.com/dictionary/english/accessible
+[^1]: https://github.com/kmubiin/suaikata/issues/11
+[^2]: https://www.collinsdictionary.com/dictionary/english/accessible
