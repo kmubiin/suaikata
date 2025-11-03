@@ -8,6 +8,9 @@ jilid: 2.6
 
 ### Menyimpan helai dengan nama
 
+Panduan ini adalah berdasarkan perubahan dari semasa ke
+semasa dan tidak memetik mana-mana isu tercipta.
+
 Setiap helai daftar akan diberi nama apabila disimpan
 sebagai fail menggunakan perisian komputer. Nama penuh
 fail `nama.anu` ada dua bahagian:
@@ -39,8 +42,9 @@ simpan dua atau lebih fail dengan nama sama.
 
 Pola 2: Bagi daftar tanpa makna, berikan nama awalan `xxN`,
 di mana `xx` ialah kod perwakilan dua-huruf bagi nama-nama
-bahasa sedunia (ISO 639-1) dan `N` ialah angka yang mewakili
-had bilangan huruf untuk lema yang dikumpul dalam daftar.
+bahasa sedunia[^1] (ISO 639-1 via Wikipedia[^2]) dan
+`N` ialah angka yang mewakili had bilangan huruf untuk lema
+yang dikumpul dalam daftar.
 
 Pola 3: Bagi daftar ada makna atau bermakna, berikan nama
 awalan dengan nama pilihan sendiri yang ada 1 aksara atau
@@ -72,15 +76,12 @@ laman kembali: [kandungan][0]
   [2]: format.md
   [3]: muat.md
 
-----
+{% comment %}
+Semua rujukan di bawah hanya mengandungi pautan ke sumber
+asal menggunakan sintaksis nota kaki bagi Kramdown. Jika
+nota kaki tidak muncul, maka pautan mutlak akan muncul
+pada teks yang dirujuk dalam mana-mana perenggan di atas.
+{% endcomment %}
 
-Pindah salin dari laman dasar (dimansuh):
-
-- [Standards - Frequently Asked Questions (FAQ)][rp2]
-  &ndash; Codes for the representation of the names of
-  languages (Library of Congress)
-- [ISO 639-1 (pautan ke senarai tidak tentu)][rp3]
-  &ndash; Wikipedia bahasa Melayu, ensiklopedia bebas
-
-  [rp2]: https://www.loc.gov/standards/iso639-2/faq.html
-  [rp3]: https://ms.wikipedia.org/wiki/ISO_639-1
+[^1]: https://www.loc.gov/standards/iso639-2/faq.html
+[^2]: https://ms.wikipedia.org/wiki/ISO_639-1
