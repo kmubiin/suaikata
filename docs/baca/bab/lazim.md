@@ -9,8 +9,7 @@ jilid: 2.1
 ### Bentuk lazim daftar
 
 Panduan ini adalah berdasarkan isu tercipta yang bertajuk
-"Rangkuman kosa kata" (12 Mac 2018)[^1] dan "Pengendalian
-data" (13 Mac 2018)[^2].
+"Rangkuman kosa kata" (12 Mac 2018)[^1].
 
 Biasanya, daftar didapati dalam bentuk senarai mudah atau
 jadual memanjang yang terdiri daripada lajur dan baris.
@@ -58,4 +57,3 @@ pada teks yang dirujuk dalam mana-mana perenggan di atas.
 {% endcomment %}
 
 [^1]: https://github.com/kmubiin/suaikata/issues/4
-[^2]: https://github.com/kmubiin/suaikata/issues/5
