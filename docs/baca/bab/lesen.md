@@ -8,6 +8,9 @@ jilid: 1.4
 
 ### Lesen sumber terbuka
 
+Panduan ini adalah berdasarkan isu tercipta yang bertajuk
+"Pelesenan projek" (10 Mac 2018)[^1].
+
 Laman sumber awam di GitHub dan kemudahan web seumpamanya
 membolehkan kandungan tersedia dibaca, diubah, dan disebar
 secara bebas oleh orang ramai. Kandungan tersebut adalah
@@ -42,9 +45,9 @@ Lesen bagi sumber bukan atur cara seperti:
 - Open Data Commons Open Database License (ODbL)&#179;
 
 Pemilik sumber perlu mengesahkan syarat penggunaan sumber
-dengan memilih **lesen yang sesuai** sebelum sumber itu
+dengan memilih **lesen yang sesuai**[^2] sebelum sumber itu
 boleh digunakan oleh orang ramai. Lesen itu sebaiknya ada
-**saranan daripada badan bebas**.
+**saranan daripada badan bebas**[^3].
 
 Projek suaikata menyedia dan memuat daftar kata di laman
 sumber awam. Daftar kata itu adalah data sumber terbuka.
@@ -52,7 +55,7 @@ Lesen yang sesuai adalah lesen bagi sumber bukan atur cara.
 Dua orang pengusaha telah memutuskan bahawa "sebut nama"
 sebagai syarat penggunaan sudah memadai.
 
-Projek suaikata menggunakan CC-BY-4.0 bagi lesen semua
+Projek suaikata menggunakan CC-BY-4.0[^4] bagi lesen semua
 kandungan termasuk daftar kata di laman sumber.
 
 &mdash;  
@@ -66,20 +69,14 @@ laman kembali: [kandungan][0]
 
   [0]: ../index.md
 
-----
+{% comment %}
+Semua rujukan di bawah hanya mengandungi pautan ke sumber
+asal menggunakan sintaksis nota kaki bagi Kramdown. Jika
+nota kaki tidak muncul, maka pautan mutlak akan muncul
+pada teks yang dirujuk dalam mana-mana perenggan di atas.
+{% endcomment %}
 
-Pindah salin dari laman dasar (dimansuh):
-
-- [Pelesenan projek #3][#3]
-  &ndash; kmubiin/suaikata on Mar 9, 2018
-- [Choose an open source license][14a]
-  &ndash; curated by GitHub
-- [Conformant Licenses][14b]
-  &ndash; Open Definition
-- [CC BY 4.0][14c]
-  &ndash; Creative Commons
-
-  [#3]: https://github.com/kmubiin/suaikata/issues/3
-  [14a]: https://choosealicense.com/
-  [14b]: https://opendefinition.org/licenses/
-  [14c]: https://creativecommons.org/licenses/by/4.0/
+[^1]: https://github.com/kmubiin/suaikata/issues/3
+[^2]: https://choosealicense.com/
+[^3]: https://opendefinition.org/licenses/
+[^4]: https://creativecommons.org/licenses/by/4.0/
