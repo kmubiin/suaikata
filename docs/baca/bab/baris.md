@@ -8,6 +8,11 @@ jilid: 2.5
 
 ### Penamat baris
 
+Panduan ini adalah berdasarkan isu tercipta yang bertajuk
+"Pengaruh penamat baris untuk teks biasa" (3 Mei 2018)[^1]
+dan berkaitan dengan fungsi pada penyunting teks biasa
+"Show Newline" atau "Tunjuk Penamat Baris"[^2].
+
 Apabila menyunting fail di platform tertentu, teks biasa
 mungkin menggunakan **penamat baris yang berbeza**. Senarai
 platform umum dan penamat baris yang digunakan adalah
@@ -69,14 +74,12 @@ laman kembali: [kandungan][0]
 
   [0]: ../index.md
 
-----
+{% comment %}
+Semua rujukan di bawah hanya mengandungi pautan ke sumber
+asal menggunakan sintaksis nota kaki bagi Kramdown. Jika
+nota kaki tidak muncul, maka pautan mutlak akan muncul
+pada teks yang dirujuk dalam mana-mana perenggan di atas.
+{% endcomment %}
 
-Pindah salin dari laman dasar (dimansuh):
-
-- [Pengaruh penamat baris untuk teks biasa #17][#17]
-  &ndash; kmubiin/suaikata on May 3, 2018
-- [Malay translation for Notepad++][25a]
-  &ndash; "Show Newline" diterjemah "Tunjuk Penamat Baris"
-
-  [#17]: https://github.com/kmubiin/suaikata/issues/17
-  [25a]: https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/installer/nativeLang/malay.xml
+[^1]: https://github.com/kmubiin/suaikata/issues/17
+[^2]: https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/installer/nativeLang/malay.xml#L113
