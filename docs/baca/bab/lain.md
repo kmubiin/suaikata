@@ -15,7 +15,7 @@ data" (13 Mac 2018)[^2].
 Dalam bentuk lazim, daftar tanpa makna adalah senarai mudah
 manakala daftar yang ada makna adalah jadual memanjang.
 Namun, sesuatu daftar boleh memiliki bentuk lain yang
-**bukan lazim atau berbeza**.
+bukan lazim atau berbeza.
 
 Misal pertama: Projek suaikata membawakan daftar tanpa makna
 bersama pembayang. Daftar ini ada lajur "melayu" dan
