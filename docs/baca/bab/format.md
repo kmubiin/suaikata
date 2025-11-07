@@ -20,14 +20,14 @@ dalam dua bentuk:
 1. Format asal
 2. Format mudah alih
 
-Perbezaan dua format tersebut adalah **lebih maklumat**.
+Perbezaan dua format tersebut adalah lebih maklumat.
 Format asal mengandungi maklumat lengkap seperti rumus,
 warna dan lebar sel untuk memapar seluruh kandungan pada
 keadaan asal. Sebaliknya, format mudah alih mengandungi
 teks biasa dan pemisah teks sahaja.
 
-**Format asal**: Apabila menyimpan fail baharu, perisian
-komputer akan menyarankan format asal seperti XLS dan ODS.
+Apabila menyimpan fail baharu, perisian komputer akan
+menyarankan format asal seperti XLS dan ODS.
 Microsoft Office menggunakan XLS, atau XLSX sejak 2007,
 manakala LibreOffice menggunakan ODS.
 
@@ -41,10 +41,10 @@ lajur berabjad dan baris bernombor.
 | `2` | vocabulary | kosa kata       |
 | `3` |            | cuba, satu, dua |
 
-**Format mudah alih**: Apabila menggunakan beberapa perisian
-yang berbeza, fail tersebut sewajarnya disimpan dalam format
-mudah alih seperti CSV dan TSV. Perisian web seperti Google
-Sheets dan GitHub turut menyokong format mudah alih.
+Apabila menggunakan beberapa perisian yang berbeza, fail
+tersebut sewajarnya disimpan dalam format mudah alih seperti
+CSV dan TSV. Perisian web seperti Google Sheets dan GitHub
+turut menyokong format mudah alih.
 
 Kandungan format mudah alih adalah lebih ringkas berbanding
 format asal, dan dipapar mengikut pilihan pengguna bagi
@@ -67,8 +67,8 @@ sebarang teks biasa dan pemisah teks.
 
 Pilihan format mudah alih antara CSV dan TSV adalah mengikut
 kehendak pengguna. CSV mungkin lebih biasa dipilih.
-Bagaimanapun, TSV kelihatan lebih baik kerana ruang lebar
-kosong antara teks yang mudah dibaca oleh pengguna dan masih 
+Bagaimanapun, TSV kelihatan lebih baik kerana ruang kosong
+antara teks yang mudah dibaca oleh pengguna dan masih 
 mudah dipapar seperti CSV menggunakan perisian yang berbeza.
 
 **CSV (Comma-separated values)**[^4] biasanya menggunakan
