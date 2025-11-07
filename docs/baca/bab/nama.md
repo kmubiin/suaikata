@@ -24,21 +24,21 @@ suatu helai daftar. Nama awalan "katakerap" ialah nama
 pilihan yang diberi manakala nama akhiran ".csv" ialah
 imbuhan nama bagi format mudah alih CSV.
 
-Projek suaikata menggariskan **tiga jenis pola** bagi
+Projek suaikata menggariskan tiga jenis pola bagi
 menamakan fail yang disimpan di laman sumber. Nama-nama
 yang ditentukan adalah seperti berikut.
 
 1. Daftar contoh: `contoh.anu`
 2. Daftar tanpa makna: `xxN.anu`
-3. Daftar ada makna: `14.anu`
+3. Daftar ada makna: `[1~14].anu`
 
 Penerangan pola bagi nama-nama yang tersenarai di atas
 adalah seperti berikut.
 
 Pola 1: Bagi daftar contoh, berikan nama `contoh` dan tidak
 ada aksara tambahan. Oleh itu, daftar contoh adalah sengaja
-terhad pada satu fail sahaja. Jika diberi anu lain, boleh
-simpan dua atau lebih fail dengan nama sama.
+terhad pada satu fail sahaja. Jika diberi anu lain, maka
+boleh simpan dua atau lebih fail dengan nama sama.
 
 Pola 2: Bagi daftar tanpa makna, berikan nama awalan `xxN`,
 di mana `xx` ialah kod perwakilan dua-huruf bagi nama-nama
@@ -51,7 +51,7 @@ awalan dengan nama pilihan sendiri yang ada 1 aksara atau
 lebih, dan tidak melebihi 14 aksara.
 
 Sebagai prasyarat, berdasarkan pola dalam senarai bernombor
-di atas, **pola di kedudukan awal diberi keutamaan**. Ini
+di atas, pola di kedudukan awal diberi keutamaan. Ini
 bermakna pola 3 (akhir) tidak boleh menggunakan mana-mana
 nama yang ditentukan untuk pola 2 dan pola 1 (awal).
 
