@@ -14,7 +14,7 @@ dan berkaitan dengan fungsi pada penyunting teks biasa
 "Show Newline" atau "Tunjuk Penamat Baris"[^2].
 
 Apabila menyunting fail di platform tertentu, teks biasa
-mungkin menggunakan **penamat baris yang berbeza**. Senarai
+mungkin menggunakan penamat baris yang berbeza. Senarai
 platform umum dan penamat baris yang digunakan adalah
 seperti berikut:
 
@@ -29,8 +29,8 @@ kesemua penamat baris.
 
 Misalnya di GitHub, jumlah sumbangan yang terpapar di laman
 dipengaruhi oleh penamat baris. Bandingkan dua sumbangan
-berkaitan (0bda916, 5c4032d) dan kiraan baris fail CSV
-berkenaan seperti berikut:
+berkaitan (`0bda916` dan `5c4032d`), kemudian semak kiraan
+baris bagi fail-fail berkenaan seperti berikut:
 
     $ git log --oneline | grep -A3 'Muatnaik'
     5c4032d Muatnaik 4000 perkataan Inggeris paling biasa
