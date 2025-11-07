@@ -19,14 +19,15 @@ dengan dua cara:
 2. Perisian komputer
 
 Pensel dan kertas adalah cara bebas untuk menyediakan helai
-daftar. Bagi **cara kerja individu**, pensel dan kertas
-sudah memadai. Tuliskan dalam sebuah buku supaya helai
-daftar sentiasa terkumpul pada satu tempat.
+daftar. Sediakan sebuah buku tulis dan catatkan apa-apa
+daftar yang diusahakan supaya terkumpul dalam buku itu dan
+mudah disemak semula.
 
-Sebaliknya, bagi **cara kerja berkumpulan**, lebih baik
-gunakan perisian komputer atau perisian web yang ada
-sokongan pengguna ramai. Perisian web boleh diguna melalui
-aplikasi mudah alih atau pelayar web.
+Bagi cara kerja individu, pensel dan kertas sudah memadai.
+Sebaliknya, bagi cara kerja berkumpulan, lebih baik gunakan
+perisian komputer atau perisian web yang ada sokongan
+pengguna ramai. Perisian web boleh diguna melalui aplikasi
+mudah alih atau pelayar web.
 
 - Perisian komputer:
 Microsoft Office, Excel; LibreOffice, Calc
