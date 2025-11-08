@@ -50,7 +50,6 @@ sesuai supaya dapat dibaca semula kemudian.
 24. [Dua atau lebih lajur](bab/lajur.md)
 25. [Penamat baris](bab/baris.md)
 26. [Menyimpan helai dengan nama](bab/nama.md)
-27. [Format helai daftar](bab/format.md)
 
 {% comment %}
 **Bab 3: Aturan kerja** menerangkan semula cara menyedia dan
@@ -65,6 +64,7 @@ dilakukan selepas itu.
 33. [Mengulang kaji](bab/ulang-kaji.md)
 34. [Soal terjemah](bab/terjemah.md)
 35. [Soal piawai](bab/piawai.md)
+36. [Soal format helai](bab/format.md)
 
 {% comment %}
 **Dasar panduan** akan dimansuh dan dipindah salin ke laman
