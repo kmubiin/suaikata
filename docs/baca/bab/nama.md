@@ -66,6 +66,11 @@ daripada aksara termudah dan berhuruf kecil (a-z, 0-9).
 Gunakan pedoman ini bersama pola bagi nama-nama yang
 ditentukan di atas.
 
+Helai daftar biasanya disimpan dalam suatu format fail pada
+komputer. Bagaimanapun, soal format boleh dilupakan jika
+helai daftar itu direka dan disimpan pada storan awan
+melalui aplikasi web.
+
 &nbsp;  
 laman lompat berkaitan: [muat][3], [piawai][1], [format][2]
 
