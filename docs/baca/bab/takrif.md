@@ -8,8 +8,9 @@ jilid: 1.6
 
 ### Takrif asal dan terjemah
 
-Panduan ini adalah berdasarkan isu tercipta yang bertajuk
-"Soal kesesuaian takrif" (29 Mac 2018)[^1].
+Panduan ini adalah berdasarkan isu-isu tercipta yang
+bertajuk "Panduan penyediaan takrif" (23 Mac 2018)[^1] dan
+"Soal kesesuaian takrif" (29 Mac 2018)[^2].
 
 Perbandingan takrif adalah cara lazim untuk membawakan
 takrif daripada bahasa asal kepada bahasa terjemah. Sebelum
@@ -36,7 +37,7 @@ Takrif dalam bahasa asal:
 > 4. easy for disabled people to enter or use
 >    ...
 > 
-> Sumber: Kamus ekabahasa Inggeris (versi dalam talian)[^2]
+> Sumber: Kamus ekabahasa Inggeris (versi dalam talian)[^3]
 
 Takrif dalam bahasa terjemah:
 
@@ -113,5 +114,6 @@ nota kaki tidak muncul, maka pautan mutlak akan muncul
 pada teks yang dirujuk dalam mana-mana perenggan di atas.
 {% endcomment %}
 
-[^1]: https://github.com/kmubiin/suaikata/issues/11
-[^2]: https://www.collinsdictionary.com/dictionary/english/accessible
+[^1]: https://github.com/kmubiin/suaikata/issues/10
+[^2]: https://github.com/kmubiin/suaikata/issues/11
+[^3]: https://www.collinsdictionary.com/dictionary/english/accessible
