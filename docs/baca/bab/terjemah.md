@@ -8,6 +8,11 @@ jilid: 3.4
 
 ### Soal terjemah
 
+Panduan ini adalah berdasarkan isu-isu tercipta yang
+bertajuk "Panduan penyediaan takrif" (23 Mac 2018)[^1] dan
+"Penyelesaian kesulitan terjemah tunggal" (16 April
+2018)[^2].
+
 **Salinan terjemah**
 &ndash; Apabila suatu kata masukan (lema) sudah ada terjemah
 tetapi hendak menambah satu lagi terjemah lain, boleh timbul
@@ -61,15 +66,15 @@ Terjemahan boleh dilakukan dengan bantuan mesin, terutamanya
 komputer yang dipasang perisian luar talian, atau yang boleh
 dicapai dalam talian melalui pelayar web.
 
-- Google Translate
-- Microsoft Translator (dahulunya Bing Translator)
-- Yandex.Translate (dahulunya Yandex.Translation)
+- Google Translate[^3]
+- Microsoft Translator (dahulunya Bing Translator)[^4]
+- Yandex.Translate (dahulunya Yandex.Translation)[^5]
 
 Sebilangan bantuan mesin juga boleh didapati sebagai
 perisian mudah alih, manakala sebilangan yang lain boleh
 dicapai dalam perisian lazim untuk kemudahan pengguna.
 Di sebalik kemudahan ini, terjemahan mesin harus dianggap
-**tidak sama dengan terjemahan lazim**.
+tidak sama dengan terjemahan lazim.
 
 Terjemahan mesin asalnya dikatakan cuba meniru cara lazim
 terjemah dengan memahami takrif dalam bahasa asal dan
@@ -77,7 +82,7 @@ mengikut kesesuaian ayat yang diberi. Cara ini kelihatan
 rumit, lambat, dan gagal mendapat perhatian pada masa itu.
 
 Komputer menjadi lebih berupaya sekitar hujung abad ke-20
-dan cara terjemah **tanpa memahami takrif** membolehkan
+dan cara terjemah tanpa memahami takrif membolehkan
 terjemahan mesin menjadi lebih cepat dan laku. Ini kerana
 komputer masih tidak mampu "faham" seperti manusia.
 
@@ -90,8 +95,8 @@ pembelajaran mesin, dan boleh membawa lesen yang berbeza
 
 Google Translate misalnya menyatakan sumber terbuka yang
 digunakan dan setiap bahasa mempunyai sumber dan lesen
-yang tersendiri. Sebarang terjemah yang dicapai melalui
-Google Translate boleh **tertakluk pada lesen** berkenaan
+yang tersendiri[^6]. Sebarang terjemah yang dicapai melalui
+Google Translate boleh tertakluk pada lesen berkenaan
 dan hak cipta asal harus diperakui.
 
 Sebagai kesimpulan, terjemahan mesin tidak harus digunakan
@@ -102,23 +107,16 @@ laman kembali: [kandungan][0]
 
   [0]: ../index.md
 
-----
+{% comment %}
+Semua rujukan di bawah hanya mengandungi pautan ke sumber
+asal menggunakan sintaksis nota kaki bagi Kramdown. Jika
+nota kaki tidak muncul, maka pautan mutlak akan muncul
+pada teks yang dirujuk dalam mana-mana perenggan di atas.
+{% endcomment %}
 
-Pindah salin dari laman dasar (dimansuh):
-
-- [Penyelesaian kesulitan terjemah tunggal #14][#14]
-  &ndash; kmubiin/suaikata on Apr 16, 2018
-- [Google Translate][rt1]
-  &ndash; perisian web Google
-- [Google Translate licenses][rt2]
-  &ndash; lesen bagi semua bahasa yang disokong
-- [Microsoft Translator (Bing Translator)][rt3]
-  &ndash; perisian web Microsoft
-- [Yandex.Translate][rt4]
-  &ndash; perisian web Yandex
-
-  [#14]: https://github.com/kmubiin/suaikata/issues/14
-  [rt1]: https://translate.google.com
-  [rt2]: https://translate.google.com/intl/en/about/license/
-  [rt3]: https://www.bing.com/translator/
-  [rt4]: https://translate.yandex.com/
+[^1]: https://github.com/kmubiin/suaikata/issues/10
+[^2]: https://github.com/kmubiin/suaikata/issues/14
+[^3]: https://translate.google.com
+[^4]: https://www.bing.com/translator/
+[^5]: https://translate.yandex.com/
+[^6]: https://translate.google.com/intl/en/about/license/
