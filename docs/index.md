@@ -22,4 +22,9 @@ Lihat [{{ tajuk }}](.{% link baca/index.md %}){% comment %}
 
 {% include_relative nota.md %}
 
+{{ site.time }} &middot;
+[{{ site.pages | size }} laman](.{% link bersuai.md %})
+{% comment %}
+&brvbar; [bersuai.md](bersuai.md){% endcomment %}
+
 {% include keadaan.md %}
