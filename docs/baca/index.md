@@ -6,8 +6,8 @@ title:  # ruang tajuk sengaja tidak diisi
 ### Kandungan
 
 Daftar kata boleh didapati di laman sumber dan tidak dipapar
-terus di laman ini. Sebaliknya, laman ini hanya menyediakan
-[salinan terhad daftar](salinan.md).
+terus di laman ini. Sebaliknya, laman ini menyediakan
+bahan bacaan dan rujukan projek.
 
 #### Senarai ura
 
@@ -66,13 +66,24 @@ dilakukan selepas itu.
 35. [Soal piawai](bab/piawai.md)
 36. [Soal format helai](bab/format.md)
 
-{% comment %}
-**Dasar panduan** akan dimansuh dan dipindah salin ke laman
-masing-masing sebagai rujukan
-{% endcomment %}
+[Dasar panduan](dasar.md) ada senarai rujukan untuk semua
+bab di atas, tetapi telah dipindah salin ke setiap bab.
+Oleh itu, laman dasar akan dimansuh kelak.
 
-Semua laman dalam senarai bab di atas disediakan mengikut
-[dasar ini](dasar.md).
+[Laman salinan](salinan.md) ada senarai salinan terhad
+daftar, tetapi bakal dipindah salin ke data daftar dengan
+reka bentuk baharu.
+Oleh itu, laman salinan akan dimansuh kelak.
+
+{% comment %}
+Apabila salinan terhad daftar dipindah salin ke data daftar,
+salinan itu dapat dijana di mana-mana laman menggunakan kod
+Liquid. Kebaikan cara ini adalah salinan terhad daftar
+dapat diurus tanpa perlu menyunting laman satu demi satu.
+Keburukan cara ini adalah salinan terhad daftar tidak dapat
+dipapar terus seperti kod Markdown, dan bergantung pada
+penjana laman untuk melihat salinan data itu.
+{% endcomment %}
 
 Terdapat istilah-istilah yang tidak lazim atau keliru, dan
 perlu diterjemah sendiri semasa mengusahakan projek ini.
