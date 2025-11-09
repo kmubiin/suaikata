@@ -1,12 +1,19 @@
 ---
 published: true
-title: Mengulang kaji
+title: Menyelenggara daftar
 rak: panduan
 bab: 3
 jilid: 3.3
 ---
 
-### Mengulang kaji
+### Menyelenggara daftar
+
+{% comment %}
+Bab selenggara belum ditulis dan tidak teratur #todo
+{% endcomment %}
+
+&nbsp;  
+Tajuk lama: Mengulang kaji
 
 Perkembangan daftar kata tidak berakhir apabila pengusaha
 selesai memuat daftar. Daftar kata yang termuat di laman

@@ -61,7 +61,7 @@ dilakukan selepas itu.
 
 31. [Menyedia daftar sendiri](bab/sedia.md)
 32. [Memuat daftar](bab/muat.md)
-33. [Mengulang kaji](bab/ulang-kaji.md)
+33. [Menyelenggara daftar](bab/selenggara.md)
 34. [Soal terjemah](bab/terjemah.md)
 35. [Soal piawai](bab/piawai.md)
 36. [Soal format helai](bab/format.md)
