@@ -17,10 +17,19 @@ kod liquid diliputi oleh `if` supaya sebarang fail tanpa
 bahagian awal dan tanpa tajuk boleh dikecualikan sekaligus;
 pautan hanya dijana apabila bahagian awal `title:` hadir.
 
-objek `{{ site.url }}{{ p.url }}` mewakili alamat mutlak,
-manakala `{{ p.url }}` mewakili alamat relatif laman;
+objek `{{ site.url }}` dan `{{ site.baseurl }}` kelihatan
+sama tetapi tidak serupa;
+`{{ site.url }}` boleh mewakili alamat laman mutlak, tetapi
+sah untuk index sahaja, dan bukan untuk laman selain itu.
+
+objek `{{ site.baseurl }}{{ p.url }}` mewakili alamat mutlak
+dan `{{ p.url }}` mewakili alamat relatif laman;
 tiada beza bagi localhost, tetapi perlu guna alamat mutlak
 apabila menjana pautan di luar index
+
+objek `.{{ p.url }}` juga mewakili alamat mutlak, kerana
+imbuhan aksara titik `.` di hadapan alamat laman adalah
+setara dengan `{{ site.baseurl }}` apabila dijana.
 {% endcomment %}
 
 laman kembali: [utama][0]
