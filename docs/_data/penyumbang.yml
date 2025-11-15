@@ -1,30 +1,48 @@
 # maklumat meta bagi penyumbang projek
-# penyediaan:
-# . salin rangka data berikut dan tampal di baris terbawah
-#   sebelum titik `...`, buang aksara `## ` di awalan baris
+# aturan:
+# . salin rangka data bahagian paling atas dalam senarai,
+# . dan tampal pada bahagian paling bawah dalam senarai,
+#   pada baris kedua sebelum terakhir, sebelum tiga noktah
+# . jika komen tidak diperlukan, buang bahagian baris yang
+#   bermula dengan ' # salinan...'
+# . isi nilai baharu bagi setiap ruang berkenaan
 # petunjuk:
-# . mana-mana 'id' data penyumbang berkenaan akan disalin ke
-#   senarai 'oleh.ahli' data daftar
-# rangka data:
-## -
-##   id:    # nama pengguna atau nama pena
-##   ahli:  # adakah penyumbang rapat: false|true
-##   bila:  # tarikh terawal penyertaan
-##   mana: []  # senarai nama rujukan untuk disemak
+# . OBJEK data ini: site.data.penyumbang
+# . bilangan penyumbang = {{ OBJEK.size - 1 }}
+# nota 1:
+# . 'id' adalah nama pengguna, atau nama yang dapat dirujuk
+#   secara langsung pada penyumbang itu;
+# . nilai 'id' akan disalin ke senarai penyumbang dalam
+#   data daftar, jika berkenaan
+# nota 2:
+# . 'pena' adalah nama pengguna yang unik, berhuruf BESAR,
+#   yang disebut dalam mana-mana daftar, jika ada
+# . jika nilai 'pena' hadir, maka anggap penyumbang itu
+#   ialah ahli projek dan pernah menyumbang daftar rasmi
+# nota 3:
+# . 'mengapa' adalah senarai sumbangan yang dikenal pasti
+#   bagi penyumbang itu;
+# . setiap sumbangan ditulis dalam satu baris sahaja;
+# . sebaiknya tidak melebihi 60 aksara dalam satu baris
+#   (termasuk tarikh, tanda bina, atau #isu dalam kurungan)
 ---
+-  # salinan rangka data baharu
+  id:
+  pena:
+  mengapa:
+    - 
 -
   id: kmubiin
-  ahli: true
-  bila: 2018-03-01
-  mana: [
-    7e5cf23,  # mencipta kandungan terawal
-    d0b30e2   # menerbit 1.4.1 yang tersalin ke arkib
-  ]
+  pena: M
+  mengapa:
+    - menyertai projek suaikata (2018-03-01)
+    - menyumbang daftar PSAT di Google Docs
+    - menyelenggara sumber yang tersalin ke arkib (d0b30e2)
 -
   id: raafsmakmal
-  ahli: true
-  bila: 2018-03-07
-  mana: [
-    5c4032d  # memuat daftar katakerap
-  ]
+  pena: A
+  mengapa:
+    - menyertai projek suaikata (2018-03-07)
+    - menyumbang daftar PSAT di Google Docs
+    - menyedia dan memuat daftar katakerap (5c4032d)
 ...
