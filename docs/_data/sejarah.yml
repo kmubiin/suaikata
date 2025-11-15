@@ -56,6 +56,10 @@
   apa: Daftar pertama terbit dan kajian daftar
   mana: _usul/2018/kd1.md
 -
+  bila: 2018-05-09  # +0800
+  apa: Terbitan pokok pertama (1.0)
+  mana:  # tambah daftar: psat, katakerap
+-
   bila: 2019-02-24
   apa: Isu terjemah pendua (#23) selesai
   mana:
@@ -68,11 +72,27 @@
   apa: Daftar pertama lengkap dan ciri terperinci
   mana: _usul/2019/hb10.md
 -
+  bila: 2019-10-31
+  apa: Terbitan pokok kedua (1.4.1)
+  mana:  # tambah daftar: ms2
+-
   bila: 2020-02-20
   apa: Projek tersalin ke arkib (GitHub Archive Program)
   mana:
 -
+  bila: 2020-07-27
+  apa: Terbitan pokok ketiga (1.6.0)
+  mana:  # tambah daftar: en2, kerapu
+-
+  bila: 2020-07-31
+  apa: Terbitan am (2.20.0731)
+  mana:  # mula siri baharu N.YY.MMDD
+-
   bila: 2021-01-17
   apa: Nama dahan 'master' menjadi 'asal' (#40)
   mana:
+-
+  bila: 2022-12-22
+  apa: Terbitan am (2.22.1222)
+  mana:  # semua laman tersusun di docs
 ...
