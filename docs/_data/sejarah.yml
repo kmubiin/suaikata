@@ -24,6 +24,8 @@
 # . nilai 'mana' boleh digunakan untuk menyatakan ada
 #   catatan berkaitan sejarah itu, atau ada data berkenaan
 #   yang boleh dirujuk semula
+# . nilai 'mana' mungkin diakhiri dengan kata kunci #id
+#   bagi data berkenaan dan `#` sebagai aksara pembahagi
 ---
 -  # salinan rangka data baharu
   bila:
@@ -33,6 +35,14 @@
   bila: 2018-03-01
   apa: Projek suaikata bermula
   mana:
+-
+  bila: 2018-03-01
+  apa: kmubiin menyertai projek suaikata
+  mana: _data/penyumbang.yml#kmubiin
+-
+  bila: 2018-03-08
+  apa: raafsmakmal menyertai projek suaikata
+  mana: _data/penyumbang.yml#raafsmakmal
 -
   bila: 2018-03-29
   apa: Daftar pertama bermula
