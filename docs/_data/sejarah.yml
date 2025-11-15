@@ -17,8 +17,11 @@
 # nota 2:
 # . 'apa' adalah sebaris tajuk yang dapat menerangkan
 #   sejarah yang berlaku pada tarikh tersebut;
-# . nilai 'apa' boleh diakhiri dengan nota (bertanda)
-#   bagi #isu, atau N-aksara unik dan @terbitan, jika ada
+# . nilai 'apa' mungkin diakhiri dengan nota (bertanda)
+#   bagi #isu, atau kata kunci lain, jika ada
+# . jika nilai 'apa' terdiri daripada N-aksara atau
+#   ada satu atau dua aksara titik `.` di antaranya, maka
+#   anggap tajuk khusus untuk nama terbitan
 # nota 3:
 # . 'mana' adalah sama ada alamat relatif di laman sumber,
 #   atau N-aksara unik bagi sejarah git;
@@ -60,7 +63,7 @@
   mana: _usul/2018/kd1.md
 -
   bila: 2018-05-09  # +0800
-  apa: Terbitan pokok pertama (1.0)
+  apa: '1.0'       # terbitan pokok pertama
   mana: '1e9baa9'  # tambah daftar: psat, katakerap
 -
   bila: 2019-02-24
@@ -76,7 +79,7 @@
   mana: _usul/2019/hb10.md
 -
   bila: 2019-10-31
-  apa: Terbitan pokok kedua (1.4.1)
+  apa: '1.4.1'     # terbitan pokok kedua
   mana: 'd0b30e2'  # tambah daftar: ms2
 -
   bila: 2020-02-20
@@ -84,18 +87,18 @@
   mana:
 -
   bila: 2020-07-27
-  apa: Terbitan pokok ketiga (1.6.0)
+  apa: '1.6.0'     # terbitan pokok ketiga
   mana: '3b796fb'  # tambah daftar: en2, kerapu
 -
   bila: 2020-07-31
-  apa: Terbitan am (2.20.0731)
-  mana: '527ac21'  # mula siri baharu N.YY.MMDD
+  apa: '2.20.0731'  # terbitan am
+  mana: '527ac21'   # mula siri baharu N.YY.MMDD
 -
   bila: 2021-01-17
   apa: Nama dahan 'master' menjadi 'asal' (#40)
   mana:
 -
   bila: 2022-12-22
-  apa: Terbitan am (2.22.1222)
-  mana: '84251f2'  # semua laman tersusun di docs
+  apa: '2.22.1222'  # terbitan am
+  mana: '84251f2'   # semua laman tersusun di docs
 ...
