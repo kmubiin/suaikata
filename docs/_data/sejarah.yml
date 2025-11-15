@@ -1,53 +1,68 @@
 # maklumat meta bagi sejarah dan usul projek
-# penyediaan:
-# . salin rangka data berikut dan tampal di baris terbawah
-#   sebelum titik `...`, buang aksara `## ` di awalan baris
-# . nyatakan nilai 'bila umum'; selebihnya kemudian
+# aturan:
+# . salin rangka data bahagian paling atas dalam senarai,
+# . dan tampal pada bahagian paling bawah dalam senarai,
+#   pada baris kedua sebelum terakhir, sebelum tiga noktah
+# . jika komen tidak diperlukan, buang bahagian baris yang
+#   bermula dengan ' # salinan...'
+# . isi nilai baharu bagi setiap ruang berkenaan
 # petunjuk:
-# . nilai 'usul' adalah alamat relatif fail berkenaan di
-#   laman sumber bagi mencipta pautan jika perlu;
-# . rujuk silang dengan site.documents atau seumpamanya
-#   untuk papar permalink seperti /YYYY/MM/DD/nama.anu
-# rangka data:
-## -
-##   bila:  # tarikh terawal sejarah YYYY-MM-DD
-##   umum:  # sebaris tajuk untuk paparan umum
-##   usul:  # semak usul dalam fail ini jika ada
+# . OBJEK data ini: site.data.sejarah
+# . bilangan sejarah = {{ OBJEK.size - 1}}
+# nota 1:
+# . 'bila' adalah tarikh terawal sejarah dalam format ISO
+#    tahun-bulan-hari (YYYY-MM-DD);
+# . nilai 'bila' boleh disalin semula untuk menyimpan
+#   beberapa sejarah yang lain pada tarikh yang sama
+# nota 2:
+# . 'apa' adalah sebaris tajuk yang dapat menerangkan
+#   sejarah yang berlaku pada tarikh tersebut;
+# . nilai 'apa' boleh diakhiri dengan nota (bertanda)
+#   bagi #isu, atau 7-aksara unik dan @terbitan, jika ada
+# nota 3:
+# . 'mana' adalah alamat relatif di laman sumber;
+# . nilai 'mana' boleh digunakan untuk menyatakan ada
+#   catatan berkaitan sejarah itu, atau ada data berkenaan
+#   yang boleh dirujuk semula
 ---
+-  # salinan rangka data baharu
+  bila:
+  apa:
+  mana:
 -
   bila: 2018-03-01
-  umum: Projek suaikata bermula
-  usul:
+  apa: Projek suaikata bermula
+  mana:
 -
   bila: 2018-03-29
-  umum: Daftar pertama bermula
-  usul:
+  apa: Daftar pertama bermula
+  mana:
 -
   bila: 2018-04-30
-  umum: Daftar pertama siap
-  usul: _usul/2018/hb.md
+  apa: Daftar pertama siap
+  mana: _usul/2018/hb.md
 -
   bila: 2018-05-08
-  umum: Daftar pertama terbit dan kajian daftar
-  usul: _usul/2018/kd1.md
+  apa: Daftar pertama terbit dan kajian daftar
+  mana: _usul/2018/kd1.md
 -
   bila: 2019-02-24
-  umum: Isu terjemah pendua selesai
-  usul:
+  apa: Isu terjemah pendua selesai
+  mana:
 -
   bila: 2019-03-26
-  umum: Isu terjemah pilihan salah selesai
-  usul:
+  apa: Isu terjemah pilihan salah selesai
+  mana:
 -
   bila: 2019-04-06
-  umum: Daftar pertama lengkap dan ciri terperinci
-  usul: _usul/2019/hb10.md
+  apa: Daftar pertama lengkap dan ciri terperinci
+  mana: _usul/2019/hb10.md
 -
   bila: 2020-02-20
-  umum: Laman sumber tersalin dan terbeku
-  usul:
+  apa: Laman sumber tersalin dan terbeku
+  mana:
 -
   bila: 2021-01-17
-  umum: Dahan bertukar nama 'master' menjadi 'asal'
-  usul:
+  apa: Dahan bertukar nama 'master' menjadi 'asal'
+  mana:
 ...
