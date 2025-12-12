@@ -16,10 +16,6 @@ membawakan takrif terpilih atau sekadar memadai.
 Syarat "sebut nama". Daftar kata itu boleh digunakan secara
 bebas dengan syarat menyatakan perakuan hak cipta asal.
 
-{% assign tajuk = "kandungan" %}  
-Lihat [{{ tajuk }}](.{% link baca/index.md %}){% comment %}
-&brvbar; [baca/index.md](baca/index.md){% endcomment %}  
-
 {% include_relative nota.md %}
 
 {{ site.time }} &middot;
