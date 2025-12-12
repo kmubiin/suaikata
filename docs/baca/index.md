@@ -89,6 +89,6 @@ Terdapat istilah-istilah yang tidak lazim atau keliru, dan
 perlu diterjemah sendiri semasa mengusahakan projek ini.
 Lihat [senarai istilah](glosari.md).
 
-laman kembali: [utama][0]
-
-  [0]: ../index.md
+{% assign tajuk = "kembali ke laman utama" %}
+[{{ tajuk }}](..{% link index.md %}){% comment %}
+&brvbar; [../index.md](../index.md){% endcomment %}

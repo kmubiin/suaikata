@@ -32,6 +32,6 @@ imbuhan aksara titik `.` di hadapan alamat laman adalah
 setara dengan `{{ site.baseurl }}` apabila dijana.
 {% endcomment %}
 
-laman kembali: [utama][0]
-
-  [0]: index.md
+{% assign tajuk = "kembali ke laman utama" %}
+[{{ tajuk }}](.{% link index.md %}){% comment %}
+&brvbar; [index.md](index.md){% endcomment %}
