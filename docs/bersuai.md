@@ -3,7 +3,15 @@ published: true
 title:  # ruang tajuk sengaja tidak diisi
 ---
 
-Berikut adalah senarai laman (bersuai) yang boleh dicapai:
+Berikut adalah kandungan (bersuai) yang boleh dicapai:
+
+{% include_relative baca/kandungan.md %}{% comment %}
+&brvbar; [baca/kandungan.md](baca/kandungan.md)
+{% endcomment %}
+
+----
+
+Senarai laman tanpa susunan bab:
 
 {% assign pages = site.pages | sort: "path" %}
 {% for p in pages %}
