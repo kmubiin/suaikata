@@ -60,12 +60,11 @@ secara berkumpulan menggunakan Google Sheets, bagaimanapun
 hanya dua orang dalam kumpulan pada masa itu.
 
 &nbsp;  
-laman lompat berkaitan: [muat][1]
+laman lompat berkaitan: [muat](muat.md)
 
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
-  [1]: muat.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber

@@ -44,10 +44,9 @@ ada lajur "kata dasar" dan "kata lawan". Daftar dua bahasa
 seperti daftar kata Inggeris-Melayu pula akan ada lajur
 "inggeris" dan "melayu".
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber

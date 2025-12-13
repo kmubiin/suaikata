@@ -51,10 +51,9 @@ tersebut diubah bagi mengendali dua cadangan terjemah.
 Mana-mana daftar boleh memiliki bentuk lain dan bentuk lazim
 boleh berubah mengikut ketentuan atau keperluan.
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber

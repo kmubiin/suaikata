@@ -53,12 +53,11 @@ ada atau senarai kosong. Sumber pilihan yang baik adalah
 tanpa makna dan mematuhi piawai.
 
 &nbsp;  
-laman lompat berkaitan: [piawai][1]
+laman lompat berkaitan: [piawai](piawai.md)
 
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
-  [1]: piawai.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber

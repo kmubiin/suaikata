@@ -137,10 +137,9 @@ bahasa yang menguasai bahasa asal dengan baik boleh mengenal
 pasti kebetulan dan kesalahan sesuatu takrif. Kamus hanyalah
 rujukan sampingan bagi perbandingan takrif.
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber

@@ -72,14 +72,12 @@ helai daftar itu direka dan disimpan pada storan awan
 melalui aplikasi web.
 
 &nbsp;  
-laman lompat berkaitan: [muat][3], [piawai][1], [format][2]
+laman lompat berkaitan: [muat](muat.md),
+[piawai](piawai.md), [format](format.md)
 
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
-  [1]: piawai.md
-  [2]: format.md
-  [3]: muat.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber

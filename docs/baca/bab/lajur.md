@@ -55,10 +55,9 @@ cara kerja percubaan yang dibuat oleh projek suaikata bagi
 kegunaan dua orang pengusaha sahaja. Cara ini agak rumit
 dan tidak sesuai untuk kegunaan umum.
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber

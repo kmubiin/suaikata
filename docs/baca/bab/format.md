@@ -111,12 +111,11 @@ kandungan. Ciri ini menjadikan CSV dan TSV lebih mudah
 dibaca dan disunting menggunakan perisian yang berbeza.
 
 &nbsp;  
-laman lompat berkaitan: [nama][1]
+laman lompat berkaitan: [nama](nama.md)
 
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
-  [1]: nama.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber

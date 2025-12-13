@@ -94,10 +94,9 @@ daftar kata dapat mengurangkan kadar kesilapan dan
 membawakan takrif yang betul. Kesemua manfaat ini menjadikan
 projek suaikata lebih matang sebagai sumber terpelajar.
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 ----
 

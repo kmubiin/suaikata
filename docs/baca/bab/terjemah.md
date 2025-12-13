@@ -102,10 +102,9 @@ dan hak cipta asal harus diperakui.
 Sebagai kesimpulan, terjemahan mesin tidak harus digunakan
 semata-mata untuk menggantikan terjemahan lazim.
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber

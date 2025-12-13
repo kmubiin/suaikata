@@ -89,10 +89,9 @@ bagi mengusahakan daftar baharu yang bermakna. Daftar baharu
 yang diusahakan dengan cara tersendiri berpeluang ada
 nilai kesusasteraan, maka hak cipta boleh terpelihara.
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber

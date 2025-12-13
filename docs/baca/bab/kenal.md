@@ -44,10 +44,9 @@ pada pembaikan bagi daftar kata rasmi, dan pengkajian aturan
 kerja untuk mengusahakan daftar kata. Selain itu, daftar
 kata baharu tidak diusahakan.
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber

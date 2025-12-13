@@ -64,10 +64,9 @@ kandungan termasuk daftar kata di laman sumber.
 kekal bebas dan terbuka  
 &#179; lesen bagi pangkalan data dan sumber bercampur  
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber

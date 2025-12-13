@@ -17,7 +17,6 @@ yang pernah dicuba masih boleh dijadikan panduan.
 Bab sedia tidak ditulis dan tidak teratur #todo #beta
 {% endcomment %}
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}

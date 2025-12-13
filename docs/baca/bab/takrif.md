@@ -102,10 +102,9 @@ Sebagai kesimpulan, buat perbandingan takrif dan tentukan
 pilihan terjemah yang sesuai dan boleh difahami. Untuk
 bantuan, buat carian di web atau bincang secara berkumpulan.
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber

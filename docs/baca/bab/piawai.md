@@ -79,13 +79,11 @@ sememangnya adalah piawai yang digunakan bagi istilah,
 bidang perkamusan, dan bidang bahasa.
 
 &nbsp;  
-laman lompat berkaitan: [sumber][1], [nama][2]
+laman lompat berkaitan: [sumber](sumber.md), [nama](nama.md)
 
-laman kembali: [kandungan][0]
-
-  [0]: ../index.md
-  [1]: sumber.md
-  [2]: nama.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
+&brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
 
 {% comment %}
 Semua rujukan di bawah hanya mengandungi pautan ke sumber
