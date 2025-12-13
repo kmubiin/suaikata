@@ -377,7 +377,6 @@ oleh sesiapa sahaja dengan menggunakan pelayar web
 &#178; istilah pilihan, berbeza pendapat atau tidak rasmi  
 &#179; istilah akademik atau khusus dalam bidang tertentu  
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](..{% link bersuai.md %}){% comment %}
+&brvbar; [kandungan.md](kandungan.md){% endcomment %}

@@ -147,7 +147,6 @@ dilakukan selepas itu.
   [rt4]: https://translate.yandex.com/
   [rp1]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](..{% link bersuai.md %}){% comment %}
+&brvbar; [kandungan.md](kandungan.md){% endcomment %}

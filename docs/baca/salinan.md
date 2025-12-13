@@ -78,7 +78,6 @@ Kata dua-huruf Inggeris (en2):
 | cc       | 1  | ‘carbon copy’ |
 | ...      | .. | ...           |
 
-&nbsp;  
-laman kembali: [kandungan][0]
-
-  [0]: index.md
+{% assign tajuk = "kembali ke kandungan (bersuai)" %}  
+[{{ tajuk }}](..{% link bersuai.md %}){% comment %}
+&brvbar; [kandungan.md](kandungan.md){% endcomment %}

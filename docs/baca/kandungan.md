@@ -100,4 +100,6 @@ perlu diterjemah sendiri semasa mengusahakan projek ini.
 Lihat [{{ "senarai istilah" }}](.{% link baca/glosari.md %}){% comment %} &brvbar; [glosari.md](glosari.md){% endcomment %}.
 
 {% comment %} kembali ke laman utama
-&brvbar; [../index.md](../index.md){% endcomment %}
+&brvbar; [../index.md](../index.md)  
+atau kembali ke laman dimuat (bersuai)
+&brvbar; [../bersuai.md](../bersuai.md){% endcomment %}
