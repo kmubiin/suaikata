@@ -111,7 +111,9 @@ kandungan. Ciri ini menjadikan CSV dan TSV lebih mudah
 dibaca dan disunting menggunakan perisian yang berbeza.
 
 &nbsp;  
-laman lompat berkaitan: [nama](nama.md)
+laman lompat berkaitan:
+[{{ "nama" }}](../..{% link baca/bab/nama.md %}){% comment %}
+&brvbar; [nama.md](nama.md){% endcomment %}
 
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}

@@ -72,8 +72,13 @@ helai daftar itu direka dan disimpan pada storan awan
 melalui aplikasi web.
 
 &nbsp;  
-laman lompat berkaitan: [muat](muat.md),
-[piawai](piawai.md), [format](format.md)
+laman lompat berkaitan:
+[{{ "muat" }}](../..{% link baca/bab/muat.md %}){% comment %}
+&brvbar; [muat.md](muat.md){% endcomment %},
+[{{ "piawai" }}](../..{% link baca/bab/piawai.md %}){% comment %}
+&brvbar; [piawai.md](piawai.md){% endcomment %},
+[{{ "format" }}](../..{% link baca/bab/format.md %}){% comment %}
+&brvbar; [format.md](format.md){% endcomment %}
 
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}

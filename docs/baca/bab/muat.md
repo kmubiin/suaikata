@@ -151,7 +151,11 @@ adalah sekadar cadangan dan di luar rancangan
 {% endcomment %}
 
 &nbsp;  
-laman lompat berkaitan: [helai](helai.md), [nama](nama.md)
+laman lompat berkaitan:
+[{{ "helai" }}](../..{% link baca/bab/helai.md %}){% comment %}
+&brvbar; [helai.md](helai.md){% endcomment %},
+[{{ "nama" }}](../..{% link baca/bab/nama.md %}){% comment %}
+&brvbar; [nama.md](nama.md){% endcomment %}
 
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
