@@ -8,7 +8,8 @@ title: Kod pautan sah URL
 
 Usul ini adalah berdasarkan isu tercipta yang ditanda
 label "pepijat" dan yang bertajuk "Pengaruh kod untuk
-menjana pautan yang sah" (22 Mac 2024)[^1].
+menjana pautan yang sah" (22 Mac 2024)[^1]. Isu ini telah
+diselesai pada 14 Disember 2025.
 
 Di sini, "pautan yang sah" adalah sama ada pautan mutlak
 atau pautan relatif yang boleh menghubungkan suatu laman
