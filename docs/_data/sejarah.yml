@@ -66,6 +66,10 @@
   apa: '1.0'       # terbitan pokok pertama
   mana: '1e9baa9'  # tambah daftar: psat, katakerap
 -
+  bila: 2018-11-20
+  apa: Hasil kajian Mac 2018 terbit (7b6fd49)
+  mana:
+-
   bila: 2019-02-24
   apa: Isu terjemah pendua (#23) selesai
   mana:
@@ -84,6 +88,10 @@
 -
   bila: 2020-02-20
   apa: Projek tersalin ke arkib (GitHub Archive Program)
+  mana:
+-
+  bila: 2020-04-20
+  apa: Hasil kajian April 2020 terbit (1bb4ab1)
   mana:
 -
   bila: 2020-07-27
