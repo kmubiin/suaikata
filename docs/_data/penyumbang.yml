@@ -22,15 +22,15 @@
 # nota 3:
 # . 'mengapa' adalah senarai sumbangan yang dikenal pasti
 #   bagi penyumbang itu;
-# . setiap sumbangan ditulis dalam satu baris sahaja;
-# . sebaiknya tidak melebihi 60 aksara dalam satu baris
+# . setiap sumbangan ditulis dalam satu baris sahaja, dan
+#   harus tidak melebihi 60 aksara dalam satu baris
 #   (termasuk tarikh, tanda bina, atau #isu dalam kurungan)
 ---
 -  # salinan rangka data baharu
   id:
   pena:
   mengapa:
-    - 
+    -
 -
   id: kmubiin
   pena: M
