@@ -28,26 +28,32 @@ kandungan di laman web yang boleh dicapai oleh orang ramai.
 
 Lesen bagi sumber atur cara seperti:
 
-- The Unlicense&#185;
+- The Unlicense
 - MIT License
 - Apache License
 - ISC License
-- GNU GPL&#178;
+- GNU GPL
 
 Lesen bagi sumber bukan atur cara seperti:
 
-- Creative Commons CCZero (CC0)&#185;
+- Creative Commons CCZero (CC0)
 - Creative Commons Attribution (CC-BY)
 - Creative Commons Attribution Share-Alike (CC-BY-SA)
 - Open Data Commons Public Domain Dedication and Licence
-(PDDL)&#179;
-- Open Data Commons Attribution License (ODC-BY)&#179;
-- Open Data Commons Open Database License (ODbL)&#179;
+(PDDL)
+- Open Data Commons Attribution License (ODC-BY)
+- Open Data Commons Open Database License (ODbL)
+
+Daripada senarai di atas, lesen bagi sumber domain awam
+ialah The Unlicense dan CC0. Lesen bagi atur cara, GNU GPL,
+adalah seumpama BY-SA, tetapi sumber mesti kekal bebas dan
+terbuka. Lesen bagi pangkalan data dan sumber bercampur
+ialah PDDL, ODC-BY, dan ODbL.
 
 Pemilik sumber perlu mengesahkan syarat penggunaan sumber
-dengan memilih **lesen yang sesuai**[^2] sebelum sumber itu
+dengan memilih lesen yang sesuai[^2] sebelum sumber itu
 boleh digunakan oleh orang ramai. Lesen itu sebaiknya ada
-**saranan daripada badan bebas**[^3].
+saranan daripada badan bebas[^3].
 
 Projek suaikata menyedia dan memuat daftar kata di laman
 sumber awam. Daftar kata itu adalah data sumber terbuka.
@@ -57,12 +63,6 @@ sebagai syarat penggunaan sudah memadai.
 
 Projek suaikata menggunakan CC-BY-4.0[^4] bagi lesen semua
 kandungan termasuk daftar kata di laman sumber.
-
-&mdash;  
-&#185; lesen bagi sumber domain awam  
-&#178; lesen bagi atur cara ala BY-SA, tetapi sumber mesti
-kekal bebas dan terbuka  
-&#179; lesen bagi pangkalan data dan sumber bercampur  
 
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
