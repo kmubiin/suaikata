@@ -28,21 +28,9 @@ Perbandingan dari segi lesen dan kata masukan yang dibawakan
 oleh projek-projek tersebut telah dibuat pada 16 Mac 2018
 dan hasil kajian itu selesai dibentang pada 19 Mac 2018[^2].
 
----
-
-Pindah salin dari laman bersuai:
-
-Projek suaikata mempunyai pendekatan tersendiri bagi
-mengusahakan daftar kata. Suatu daftar kata harus bermula
-dengan senarai tanpa makna.
-
-Sebelum daftar pertama diusahakan, projek suaikata telah
-membuat kajian rinci. Hasil kajian terawal ialah Mac 2018.
-
 Selepas daftar pertama disiapkan, projek suaikata bertumpu
-pada pembaikan bagi daftar kata rasmi, dan pengkajian aturan
-kerja untuk mengusahakan daftar kata. Selain itu, daftar
-kata baharu tidak diusahakan.
+pada pembaikan bagi daftar kata yang sedia ada dan
+pengkajian aturan kerja yang boleh dirujuk semula.
 
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
