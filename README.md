@@ -8,16 +8,17 @@ diberi bagi menjana laman di luar talian sahaja.
 
 ## Pemerian sumber
 
-[`daftar`](daftar) &ndash; sumber daftar kata  
-[`docs`](docs) &ndash; sumber laman dan kandungan  
-&emsp;`../_baca` &ndash; yang berasas  
-&emsp;`../../kandungan.md` &ndash; yang tersedia [^1]  
-&emsp;`../_data` &ndash; yang berurus  
-&emsp;`../_muat` &ndash; yang muat bila perlu  
-&emsp;`../_usul` &ndash; yang bersejarah  
-&emsp;`../bersuai.md` &ndash; yang terbina [^2]  
-&emsp;`../_config.yml` &ndash; tetapan laman  
-&emsp;[`../index.md`](docs/index.md) &ndash; laman utama  
+[daftar](daftar) &ndash; sumber daftar kata  
+[docs](docs) &ndash; sumber laman dan kandungan  
+&emsp;../_baca &ndash; yang berasas  
+&emsp;[../../kandungan.md](docs/baca/kandungan.md) &ndash;
+yang tersedia [^1]  
+&emsp;../_data &ndash; yang berurus  
+&emsp;../_muat &ndash; yang muat bila perlu  
+&emsp;../_usul &ndash; yang bersejarah  
+&emsp;../bersuai.md &ndash; yang terbina [^2]  
+&emsp;../_config.yml &ndash; tetapan laman  
+&emsp;[../index.md](docs/index.md) &ndash; laman utama  
 `index.md` &ndash; fail rujukan di luar talian  
 `LICENSE` &ndash; fail salinan lesen projek ini  
 `README.md` &ndash; fail asal (laman ini)  
