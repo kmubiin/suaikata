@@ -23,220 +23,240 @@ terakhir mengasingkan kata kunci daripada baris istilah
 #### Simbol
 
 &nbsp; .  
-**¶** (en: paragraph sign)
-&ndash; aksara yang menandakan perenggan atau baris yang
+¶ (en: paragraph sign)
+: aksara yang menandakan perenggan atau baris yang
 boleh diisi oleh pengguna di ruang menulis dalam perisian
 
 #### A
 
 &nbsp; .  
-**aksara** (en: character)
-&ndash; bahagian terkecil dalam teks biasa yang boleh
+aksara (en: character)
+: bahagian terkecil dalam teks biasa yang boleh
 memuatkan huruf, angka, simbol, dan ruang kosong
 
 &nbsp; .  
-**antara muka**&#179; (en: interface)
-&ndash; ruang interaksi antara pengguna dan mesin, lebih
+antara muka (en: interface)
+: istilah bidang
+: ruang interaksi antara pengguna dan mesin, lebih
 terkenal dengan antara muka web (WUI), antara muka grafik
 (GUI), antara muka garis perintah (CLI) pada komputer
 
 &nbsp; .  
-**anu**&#178; (en: unknown, variable)
-&ndash; nama am bagi nilai yang boleh berubah atau yang
+anu (en: unknown, variable)
+: istilah pilihan
+: nama am bagi nilai yang boleh berubah atau yang
 tidak diketahui
 
 &nbsp; .  
-**aplikasi mudah alih**
-&ndash; lihat "app"
+aplikasi mudah alih
+: lihat "app"
 
 &nbsp; .  
-**app** (en: app, mobile app)
-&ndash; nama pendek bagi aplikasi mudah alih, atau perisian
+app (en: app, mobile app)
+: nama pendek bagi aplikasi mudah alih, atau perisian
 pada peranti mudah alih, khususnya telefon pintar
 
 #### B
 
 &nbsp; .  
-**bahasa asal**&#178; (en: source language)
-&ndash; bahasa yang digunakan dalam mana-mana daftar asal,
+bahasa asal (en: source language)
+: istilah pilihan
+: bahasa yang digunakan dalam mana-mana daftar asal,
 sama ada bahasa Melayu atau bahasa lain
 
 &nbsp; .  
-**bahasa Melayu piawai**
-&ndash; bahasa Melayu yang mematuhi tatabahasa untuk
+bahasa Melayu piawai
+: bahasa Melayu yang mematuhi tatabahasa untuk
 kegunaan rasmi dan umum, dan diiktiraf oleh pihak pemantau
 bahasa dalam negara dan tempat serantau
 
 &nbsp; .  
-**bahasa sasaran**
-&ndash; lihat "bahasa terjemah"
+bahasa sasaran
+: lihat "bahasa terjemah"
 
 &nbsp; .  
-**bahasa sumber**
-&ndash; lihat "bahasa asal"
+bahasa sumber
+: lihat "bahasa asal"
 
 &nbsp; .  
-**bahasa terjemah**&#178; (en: target language)
-&ndash; bahasa yang digunakan dalam mana-mana daftar
+bahasa terjemah (en: target language)
+: istilah pilihan
+: bahasa yang digunakan dalam mana-mana daftar
 tersedia atau daftar asal yang disunting, sama ada bahasa
 Melayu atau bahasa lain
 
 &nbsp; .  
-**baris perintah**
-&ndash; lihat "garis perintah"
+baris perintah
+: lihat "garis perintah"
 
 #### C
 
 &nbsp; .  
-**cabang**&#178; &#179; (en: fork)
-&ndash; satu atau lebih salinan asing sumber; beberapa
+cabang (en: fork)
+: istilah pilihan dan bidang
+: satu atau lebih salinan asing sumber; beberapa
 cabang boleh lahir daripada satu dahan dan jika dahan itu
 hilang, maka cabang terawal boleh mengganti dahan
 
 &nbsp; .  
-**CLI** (en: command line interface)
-&ndash; lihat "antara muka"
+CLI (en: command line interface)
+: lihat "antara muka"
 
 #### D
 
 &nbsp; .  
-**daftar dwibahasa lazim**
-&ndash; satu daftar kata dengan dua lajur yang memuatkan
+daftar dwibahasa lazim
+: satu daftar kata dengan dua lajur yang memuatkan
 perkataan dalam satu bahasa dan terjemahan dalam bahasa lain
 seperti kamus Inggeris-Melayu
 
 &nbsp; .  
-**daftar dwibahasa beregu**&#185;
-&ndash; satu daftar kata dengan beberapa lajur tambahan bagi
+daftar dwibahasa beregu
+: istilah gunaan
+: satu daftar kata dengan beberapa lajur tambahan bagi
 memuatkan dua salinan terjemah dan memetik salah satunya
 bersama tanda nama pengusaha
 
 &nbsp; .  
-**dahan**&#179; (en: branch)
-&ndash; satu atau lebih salinan asal sumber
+dahan (en: branch)
+: istilah bidang
+: satu atau lebih salinan asal sumber
 
 &nbsp; .  
-**dalam talian** (en: online)
+dalam talian (en: online)
 
 #### E
 #### F
 
 &nbsp; .  
-**fail**&#179; (en: file)
-&ndash; kandungan dan maklumat yang dikumpul dan dikenal
+fail (en: file)
+: istilah bidang
+: kandungan dan maklumat yang dikumpul dan dikenal
 dengan nama tertentu dan disimpan dalam peranti storan,
 umpama fail kertas kerja yang disusun dalam almari
 
 &nbsp; .  
-**folder**&#179; (en: folder)
-&ndash; fail yang mengandungi fail lain
+folder (en: folder)
+: istilah bidang
+: fail yang mengandungi fail lain
 
 &nbsp; .  
-**format asal** (en: native format)
+format asal (en: native format)
 
 &nbsp; .  
-**format mudah alih** (en: portable format)
+format mudah alih (en: portable format)
 
 #### G
 
 &nbsp; .  
-**garis perintah**&#178; (en: command line)
-&ndash; arahan yang digunakan oleh pengguna komputer untuk
+garis perintah (en: command line)
+: istilah pilihan
+: arahan yang digunakan oleh pengguna komputer untuk
 melakukan sesuatu tugas melalui antara muka teks sahaja
 
 &nbsp; .  
-**GUI** (en: graphical user interface)
-&ndash; lihat "antara muka"
+GUI (en: graphical user interface)
+: lihat "antara muka"
 
 #### H
 
 &nbsp; .  
-**hak capaian**&#178; (en: access)
-&ndash; hak yang ada pada pembangun dan penyumbang rapat
+hak capaian (en: access)
+: istilah pilihan
+: hak yang ada pada pembangun dan penyumbang rapat
 untuk membuat kemas kini secara langsung di laman sumber
 
 &nbsp; .  
-**hamparan elektronik**
-&ndash; lihat "helaian rebak"
+hamparan elektronik
+: lihat "helaian rebak"
 
 &nbsp; .  
-**helai daftar**&#185;
-&ndash; nama am bagi helaian rebak yang mengandungi daftar,
+helai daftar
+: istilah gunaan
+: nama am bagi helaian rebak yang mengandungi daftar,
 khususnya fail yang menyimpan daftar kata
-&ndash; lihat juga "helaian rebak" dan "fail"
+: lihat juga "helaian rebak" dan "fail"
 
 &nbsp; .  
-**helaian rebak**&#178; (en: spreadsheet)
-&ndash; satu atau lebih helai yang berisi sel-sel berpetak
+helaian rebak (en: spreadsheet)
+: istilah pilihan
+: satu atau lebih helai yang berisi sel-sel berpetak
 di sepanjang lajur dan baris, terutama helai yang dicipta
 oleh perisian komputer bagi menyediakan daftar kata
 
 &nbsp; .  
-**heret dan letak** (en: drag and drop)
+heret dan letak (en: drag and drop)
 
 #### I
 #### J
 #### K
 
 &nbsp; .  
-**korpus**&#179; (en: corpus; lat: corpus)
-&ndash; kata masukan dalam teks yang dikumpul bersama untuk
+korpus (en: corpus; lat: corpus)
+: istilah bidang
+: kata masukan dalam teks yang dikumpul bersama untuk
 penyelidikan bahasa
 
 #### L
 
 &nbsp; .  
-**laman cabang**&#178; (en: fork, forked repository)
-&ndash; laman sumber yang tercipta kemudian atau yang
+laman cabang (en: fork, forked repository)
+: istilah pilihan
+: laman sumber yang tercipta kemudian atau yang
 menyalin kemas kini daripada laman punca
-&ndash; lihat juga "cabang"
+: lihat juga "cabang"
 
 &nbsp; .  
-**laman punca**&#178; (en: root, upstream repository)
-&ndash; laman sumber yang tercipta mula-mula sekali atau
+laman punca (en: root, upstream repository)
+: istilah pilihan
+: laman sumber yang tercipta mula-mula sekali atau
 yang membuat kemas kini sendiri dan terawal
 
 &nbsp; .  
-**laman sumber**&#178; (en: repository)
-&ndash; laman yang menyediakan kemudahan untuk melawat
+laman sumber (en: repository)
+: istilah pilihan
+: laman yang menyediakan kemudahan untuk melawat
 kandungan penuh projek
 
 &nbsp; .  
-**laman sumber asal**
-&ndash; lihat "laman punca"
+laman sumber asal
+: lihat "laman punca"
 
 &nbsp; .  
-**laman sumber awam** (en: public repository)
-&ndash; laman sumber yang boleh dicapai oleh pengguna awam
+laman sumber awam (en: public repository)
+: laman sumber yang boleh dicapai oleh pengguna awam
 dan siapa-siapa juga
 
 &nbsp; .  
-**laman sumber sulit** (en: private repository)
-&ndash; laman sumber yang tidak boleh dicapai oleh pengguna
+laman sumber sulit (en: private repository)
+: laman sumber yang tidak boleh dicapai oleh pengguna
 awam kecuali pengguna tertentu sahaja
 
 &nbsp; .  
-**laman sumber salinan**
-&ndash; lihat "laman cabang"
+laman sumber salinan
+: lihat "laman cabang"
 
 &nbsp; .  
-**laman utama**&#178; (en: homepage)
-&ndash; laman yang menyediakan kemudahan untuk melawat
+laman utama (en: homepage)
+: istilah pilihan
+: laman yang menyediakan kemudahan untuk melawat
 kandungan mesra pembaca
 
 &nbsp; .  
-**lema**&#179; (en: lemma)
-&ndash; kata masukan dalam kamus, atau kata dasar yang
+lema (en: lemma)
+: istilah bidang
+: kata masukan dalam kamus, atau kata dasar yang
 membentuk kata-kata lain dalam sesuatu bahasa
 
 &nbsp; .  
-**longgokan data**&#178; (en: data dump, database dump)
-&ndash; kandungan dan maklumat yang dikumpul dan disimpan
+longgokan data (en: data dump, database dump)
+: istilah pilihan
+: kandungan dan maklumat yang dikumpul dan disimpan
 dalam satu fail tersendiri, misalnya salinan muat turun
 daripada pangkalan data wiki
 
 &nbsp; .  
-**luar talian** (en: offline)
+luar talian (en: offline)
 
 #### M
 #### N
@@ -244,138 +264,139 @@ daripada pangkalan data wiki
 #### P
 
 &nbsp; .  
-**paparan mudah alih** (en: mobile view)
+paparan mudah alih (en: mobile view)
 
 &nbsp; .  
-**pelayar web** (en: web browser)
+pelayar web (en: web browser)
 
 &nbsp; .  
-**pemaju**
-&ndash; lihat "pengusaha"
+pemaju
+: lihat "pengusaha"
 
 &nbsp; .  
-**pembangun** (en: developer)
-&ndash; pihak asal yang memulakan sesuatu rancangan dan
+pembangun (en: developer)
+: pihak asal yang memulakan sesuatu rancangan dan
 menyedia hasil kerja daripada kosong
 &ndash; lihat juga "pengusaha"
 
 &nbsp; .  
-**pemboleh ubah** (en: variable)
-&ndash; suatu rujukan bagi nilai yang boleh berubah; istilah
+pemboleh ubah (en: variable)
+: suatu rujukan bagi nilai yang boleh berubah; istilah
 dalam bidang matematik, sains dan kejuruteraan
-&ndash; lihat juga "anu"
+: lihat juga "anu"
 
 &nbsp; .  
-**pemisah teks** (en: separator)
+pemisah teks (en: separator)
 
 &nbsp; .  
-**penamat baris** (en: newline)
+penamat baris (en: newline)
 
 &nbsp; .  
-**pengusaha**&#178; (en: developer, collaborator)
-&ndash; pihak atau gabungan pihak yang mengusaha rancangan,
+pengusaha (en: developer, collaborator)
+: istilah pilihan
+: pihak atau gabungan pihak yang mengusaha rancangan,
 yang menyedia hasil kerja, yang diberi kelebihan untuk
 bekerjasama, mana-mana satu atau beberapa peranan tersebut
 
 &nbsp; .  
-**penyumbang** (en: contributor)
-&ndash; pihak umum yang terutamanya membantu pengusaha
+penyumbang (en: contributor)
+: pihak umum yang terutamanya membantu pengusaha
 dengan memberi maklum balas atau memperbaik hasil kerja
 
 &nbsp; .  
-**penyumbang rapat**&#178; (en: collaborator)
-&ndash; pihak umum yang diberi kelebihan tertentu untuk
+penyumbang rapat (en: collaborator)
+: istilah pilihan
+: pihak umum yang diberi kelebihan tertentu untuk
 bekerjasama dengan pengusaha
-&ndash; lihat juga "pengusaha"
+: lihat juga "pengusaha"
 
 &nbsp; .  
-**penyunting teks biasa** (en: text editor)
+penyunting teks biasa (en: text editor)
 
 &nbsp; .  
-**perangkaan** (en: statistic)
-&ndash; maklumat dalam bentuk angka yang disusun dengan
+perangkaan (en: statistic)
+: maklumat dalam bentuk angka yang disusun dengan
 teratur berdasarkan ciri tertentu
 
 &nbsp; .  
-**peranti storan** (en: storage device)
+peranti storan (en: storage device)
 
 &nbsp; .  
-**perisian** (en: software)
+perisian (en: software)
 
 #### Q
 #### R
 
 &nbsp; .  
-**rumus gunaan**&#178; (en: applied formula)
-&ndash; satu atau lebih rumus yang ditulis semula untuk
+rumus gunaan (en: applied formula)
+: istilah pilihan
+: satu atau lebih rumus yang ditulis semula untuk
 membuat perangkaan dan selidik terhad dalam perisian seperti
 helaian rebak
 
 #### S
 
 &nbsp; .  
-**sebut nama**&#178; (en: attribution)
-&ndash; satu syarat yang ditetapkan oleh lesen sumber
+sebut nama (en: attribution)
+: istilah pilihan
+: satu syarat yang ditetapkan oleh lesen sumber
 terbuka; apabila karya yang dilesenkan sedemikian hendak
 digunakan semula untuk apa-apa tujuan, pengguna mesti
 menyatakan perakuan hak cipta asal
 
 &nbsp; .  
-**storan awan** (en: cloud storage)
+storan awan (en: cloud storage)
 
 &nbsp; .  
-**sumbangan** (en: contribution)
+sumbangan (en: contribution)
 
 &nbsp; .  
-**sumber terbuka** (en: open source)
+sumber terbuka (en: open source)
 
 #### T
 
 &nbsp; .  
-**teks asal**&#178; (en: source text, original text)
-&ndash; teks yang membawa maklumat daripada sumber; istilah
+teks asal (en: source text, original text)
+: istilah pilihan
+: teks yang membawa maklumat daripada sumber; istilah
 dalam bidang penterjemahan yang merujuk pada teks dalam
 bahasa asal yang hendak dibawakan dalam bahasa lain
 
 &nbsp; .  
-**teks biasa** (en: plain text)
+teks biasa (en: plain text)
 
 &nbsp; .  
-**teks sumber** (en: source text)
-&ndash; lihat "teks asal"
+teks sumber (en: source text)
+: lihat "teks asal"
 
 &nbsp; .  
-**terjemahan mesin** (en: machine translation)
+terjemahan mesin (en: machine translation)
 
 &nbsp; .  
-**tetapan lalai**&#179; (en: default settings)
+tetapan lalai (en: default settings)
+: istilah bidang
 
 #### U
 
 &nbsp; .  
-**UI** (en: user interface)
-&ndash; lihat "antara muka"
+UI (en: user interface)
+: lihat "antara muka"
 
 #### V
 #### W
 
 &nbsp; .  
-**wiki** (en: wiki; haw: wikiwiki)
-&ndash; laman web sumbangan ramai yang boleh disunting
+wiki (en: wiki; haw: wikiwiki)
+: laman web sumbangan ramai yang boleh disunting
 oleh sesiapa sahaja dengan menggunakan pelayar web
 
 &nbsp; .  
-**WUI** (en: web user interface)
-&ndash; lihat "antara muka"
+WUI (en: web user interface)
+: lihat "antara muka"
 
 #### X
 #### Y
 #### Z
-
-&mdash;  
-&#185; istilah gunaan projek suaikata  
-&#178; istilah pilihan, berbeza pendapat atau tidak rasmi  
-&#179; istilah akademik atau khusus dalam bidang tertentu  
 
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](..{% link bersuai.md %}){% comment %}
