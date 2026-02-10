@@ -22,7 +22,6 @@ terakhir mengasingkan kata kunci daripada baris istilah
 
 #### Simbol
 
-&nbsp; .  
 ¶ (en: paragraph sign)
 : aksara yang menandakan perenggan atau baris yang
 boleh diisi oleh pengguna di ruang menulis dalam perisian
@@ -281,7 +280,7 @@ pemaju
 pembangun (en: developer)
 : pihak asal yang memulakan sesuatu rancangan dan
 menyedia hasil kerja daripada kosong
-&ndash; lihat juga "pengusaha"
+: lihat juga "pengusaha"
 
 &nbsp; .  
 pemboleh ubah (en: variable)
