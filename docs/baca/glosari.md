@@ -27,6 +27,10 @@ terakhir mengasingkan kata kunci daripada baris istilah
 : aksara yang menandakan perenggan atau baris yang
 boleh diisi oleh pengguna di ruang menulis dalam perisian
 
+/ (en: slash, solidus, forward slash)
+: aksara yang menghubungkan beberapa kata, nombor, atau
+kedua-duanya dengan maksud "atau", "dan", "daripada"
+
 #### A
 
 &nbsp; .  
