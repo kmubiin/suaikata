@@ -94,7 +94,7 @@ soalan yang dikemukakan di atas:
 yang disenaraikan, yang paling berkemungkinan murid sekolah
 menengah pernah berdepan ialah perkataan "kosa kata".
 
-3. Buat carian di web&mdash;hasilnya "tangkapan layar". Jika
+3. Buat carian di web---hasilnya "tangkapan layar". Jika
 tiada terjemahan ke bahasa Melayu boleh pilih yang
 Indonesia. Pastikan terjemahan boleh difahami.
 
