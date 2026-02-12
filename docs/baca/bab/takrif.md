@@ -21,49 +21,40 @@ Misalnya, perbandingan takrif bagi lema 'accessible' dalam
 daftar pertama projek suaikata telah dibuat menggunakan dua
 kamus ekabahasa dan empat kamus dwibahasa seperti berikut.
 
-Takrif dalam bahasa asal:
+Takrif dalam bahasa asal daripada Kamus ekabahasa Inggeris
+(versi buku, 2012):
 
-> .  
 > accessible *adj.* easy to reach
-> 
-> Sumber: Kamus ekabahasa Inggeris (versi buku, 2012)
 
-> .  
-> accessible *adjective*
-> 
+Dan juga daripada Kamus ekabahasa Inggeris (versi dalam
+talian)[^3]:
+
+> accessible *adjective*  
 > 1. easy to approach, enter, use, or understand
 > 2. accessible to
 > 3. obtainable; available
 > 4. easy for disabled people to enter or use
->    ...
-> 
-> Sumber: Kamus ekabahasa Inggeris (versi dalam talian)[^3]
 
-Takrif dalam bahasa terjemah:
+Takrif dalam bahasa terjemah daripada Kamus dwibahasa
+Inggeris-Melayu (1996):
 
-> .  
 > accessible - boleh dilalui.
-> 
-> Sumber: Kamus dwibahasa Inggeris-Melayu (1996)
 
-> .  
+Dan juga daripada Kamus dwibahasa Inggeris-Melayu (1997):
+
 > accessible *a.* dapat diperoleh.
-> 
-> Sumber: Kamus dwibahasa Inggeris-Melayu (1997)
 
-> .  
+Dan juga daripada Kamus dwibahasa Inggeris-Melayu (2000):
+
 > accessible *adj* yang dapat ditempuhi, digunakan;
 > dokumen yang tidak boleh dilihat [...]
-> 
-> Sumber: Kamus dwibahasa Inggeris-Melayu (2000)
 
-> .  
-> accessible *adj*
-> 
+Dan juga daripada Kamus dwibahasa Inggeris-Inggeris-Melayu
+(2004):
+
+> accessible *adj*  
 > 1. boleh sampai (ke situ); dapat didatangi
 > 2. mudah didapati, digunakan atau difahami
-> 
-> Sumber: Kamus dwibahasa Inggeris-Inggeris-Melayu (2004)
 
 Berdasarkan perbandingan takrif di atas, projek suaikata
 mendapati pilihan terjemah bagi lema 'accessible' ialah:
