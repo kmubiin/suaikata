@@ -22,11 +22,11 @@ terakhir mengasingkan kata kunci daripada baris istilah
 
 #### Simbol
 
-¶ (en: paragraph sign)
+¶&ensp;(en: paragraph sign)
 : aksara yang menandakan perenggan atau baris yang
 boleh diisi oleh pengguna di ruang menulis dalam perisian
 
-/ (en: slash, solidus, forward slash)
+/&ensp;(en: slash, solidus)
 : aksara yang menghubungkan beberapa kata, nombor, atau
 kedua-duanya dengan maksud "atau", "dan", "daripada"
 
