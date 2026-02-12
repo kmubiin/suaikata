@@ -37,15 +37,12 @@ Untuk memahami bagaimana suatu lema dapat disuai dengan
 lema Melayu yang setara, pengusaha daftar perlu memahami
 **takrif dalam bahasa asal**.
 
-Misalnya, fahamkan takrif bagi lema 'chronicle':
+Misalnya, fahamkan takrif bagi lema 'chronicle' daripada
+laman Wiktionary[^2]:
 
-> .  
-> chronicle (plural chronicles)
-> 
+> chronicle (plural chronicles)  
 > 1. A written account of events and when they happened,
-ordered by time.
-> 
-> Sumber: Wiktionary[^2]
+> ordered by time.
 
 Setelah fahamkan takrif dalam bahasa asal, barulah mula
 mencari kata kunci atau lema Melayu yang berkaitan. Setiap
@@ -100,32 +97,28 @@ tersebut diambil bulat-bulat tanpa menguasai bahasa asal.
 Misalnya, bandingkan takrif dalam bahasa terjemah dan
 takrif dalam bahasa asal bagi lema 'transparent':
 
-> .  
+Lema 'transparent' daripada Kamus Dwibahasa Oxford Fajar,
+Edisi Kedua (1997):
+
 > transparent *a.* lut sinar
-> 
-> Sumber terjemah: Kamus Dwibahasa Oxford Fajar,
-> Edisi Kedua (1997)
 
-> .  
+Lema 'transparent' daripada New Oxford English-English-Malay
+Dictionary Oxford Fajar, Edisi Semakan (2004):
+
 > transparent *adj* lut sinar; jernih
-> 
-> Sumber terjemah: New Oxford English-English-Malay
-> Dictionary Oxford Fajar, Edisi Semakan (2004)
 
-> .  
+Lema 'transparent' daripada Collins Gem Dictionary English
+(2012):
+
 > transparent *adj* able to be seen through, clear;
 > easily understood or recognized
-> 
-> Sumber: Collins Gem Dictionary English (2012)
 
-> .  
-> transparent *Adjective*
-> 
+Lema 'transparent' daripada laman Wiktionary[^3]:
+
+> transparent *Adjective*  
 > 1. (of a material or object) See-through, clear
 > 2. (of a system or organization) Open, public
 > 3. Obvious; readily apparent; easy to see or understand
-> 
-> Sumber: Wiktionary[^3]
 
 Apabila perbandingan takrif dibuat seperti di atas, lema
 'transparent' sebenarnya tidak terhad pada makna 'lut sinar'
