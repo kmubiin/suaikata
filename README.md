@@ -30,6 +30,23 @@ yang tersedia [^1]
       tetapan laman yang disediakan; laman ini menggunakan
       fungsi kod Liquid untuk menjana kandungan ke HTML.
 
+## Pemerian teks dan aturan
+
+Kebanyakan kandungan dalam projek ini disedia dan disimpan
+sebagai teks biasa. Bagaimanapun, teks biasa boleh memiliki
+ciri yang berlainan berdasarkan mana-mana aturan berikut:
+
+- Markdown--bahasa penanda bagi elemen asas dan juga format
+  fail bagi semua laman pra-HTML
+- kramdown--pemproses bagi Markdown dan elemen tambahan
+  seperti nota kaki dan senarai definisi
+- Liquid--bahasa templat bagi memapar data sendiri dan
+  memuat kandungan secara memilih
+- YAML--format fail bagi tetapan laman, bahagian awal laman
+  dan tambahan data sendiri
+- CSV--format fail bagi daftar ada makna
+- TSV--format fail bagi daftar tanpa makna
+
 Semua laman sedia dipapar menggunakan penyunting teks, atau
 pelayar web bersama add-ons, yang ada sokongan Markdown.
 Jika menggunakan penjana laman Jekyll, maka semua laman
