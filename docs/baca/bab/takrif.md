@@ -89,6 +89,42 @@ menengah pernah berdepan ialah perkataan "kosa kata".
 tiada terjemahan ke bahasa Melayu boleh pilih yang
 Indonesia. Pastikan terjemahan boleh difahami.
 
+Apabila suatu lema daripada bahasa lain hendak diterjemah
+menjadi bahasa Melayu, pastikan takrif itu menggunakan
+**bahasa Melayu piawai**.
+
+Wikipedia bahasa Melayu ada garis panduan tersendiri[^4]
+yang menerangkan bahasa Melayu piawai. Berdasarkan rencana
+wiki itu, projek suaikata menggariskan tiga ciri penting
+seperti berikut.
+
+Pertama: Gunakan kosa kata Melayu, jika ada, dan bukan
+semata-mata kosa kata Melayu yang berbeza ejaan. Setiap
+makna yang pertama mesti mematuhi perkara ini.
+
+> component  
+> ! salah: 1 komponen dalam litar; 2 bahagian  
+> . betul: 1 bahagian; 2 komponen dalam litar  
+
+Kedua: Gunakan ejaan penuh dan bukan singkatan.
+
+> ! salah: yg, drpd, kpd  
+> . betul: yang, daripada, kepada  
+
+Ketiga: Gunakan kosa kata Melayu untuk penulisan dan
+bukan percakapan, sekalipun dengan tujuan mencadangkan kosa
+kata mudah dan biasa digunakan.
+
+> random  
+> ! salah: hentam saja (bahasa percakapan)  
+> . betul: sembarangan  
+
+Secara tidak langsung, bahasa Melayu piawai adalah bahasa
+Melayu yang diiktiraf oleh pihak pemantau bahasa dari
+Indonesia, Malaysia, dan Brunei. Kosa kata yang diterima
+oleh penerbit kamus yang disanjung tinggi seperti Dewan
+Bahasa dan Pustaka (DBP) dan Oxford-Fajar adalah piawai.
+
 Sebagai kesimpulan, buat perbandingan takrif dan tentukan
 pilihan terjemah yang sesuai dan boleh difahami. Untuk
 bantuan, buat carian di web atau bincang secara berkumpulan.
@@ -107,3 +143,4 @@ pada teks yang dirujuk dalam mana-mana perenggan di atas.
 [^1]: https://github.com/kmubiin/suaikata/issues/10
 [^2]: https://github.com/kmubiin/suaikata/issues/11
 [^3]: https://www.collinsdictionary.com/dictionary/english/accessible
+[^4]: https://ms.wikipedia.org/wiki/Wikipedia:Gunakan_bahasa_Melayu_piawai
