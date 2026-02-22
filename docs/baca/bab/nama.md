@@ -46,6 +46,20 @@ bahasa sedunia[^1] (ISO 639-1 via Wikipedia[^2]) dan
 `N` ialah angka yang mewakili had bilangan huruf untuk lema
 yang dikumpul dalam daftar.
 
+Kod perwakilan dua-huruf[^3] bagi bahasa Melayu dan beberapa
+bahasa lain yang dikenal pasti adalah seperti berikut:
+
+- bahasa Melayu: ms
+- bahasa Arab: ar
+- bahasa Cina: zh
+- bahasa Inggeris: en
+- bahasa Jerman: de
+- bahasa Indonesia: id
+- bahasa Jepun: ja
+- bahasa Latin: la
+- bahasa Parsi: fa
+- bahasa Zulu: zu
+
 Pola 3: Bagi daftar ada makna atau bermakna, berikan nama
 awalan dengan nama pilihan sendiri yang ada 1 aksara atau
 lebih, dan tidak melebihi 14 aksara.
@@ -75,8 +89,6 @@ melalui aplikasi web.
 laman lompat berkaitan:
 [{{ "muat" }}](../..{% link baca/bab/muat.md %}){% comment %}
 &brvbar; [muat.md](muat.md){% endcomment %},
-[{{ "piawai" }}](../..{% link baca/bab/piawai.md %}){% comment %}
-&brvbar; [piawai.md](piawai.md){% endcomment %},
 [{{ "format" }}](../..{% link baca/bab/format.md %}){% comment %}
 &brvbar; [format.md](format.md){% endcomment %}
 
@@ -93,3 +105,4 @@ pada teks yang dirujuk dalam mana-mana perenggan di atas.
 
 [^1]: https://www.loc.gov/standards/iso639-2/faq.html
 [^2]: https://ms.wikipedia.org/wiki/ISO_639-1
+[^3]: https://ms.wikipedia.org/wiki/Senarai_kod_ISO_639-2
