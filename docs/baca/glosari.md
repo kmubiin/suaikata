@@ -314,7 +314,6 @@ bahasa asal yang hendak dibawakan dalam bahasa lain
 / terjemahan mesin (en: machine translation)
 
 / tetapan lalai (en: default settings)
-: istilah bidang
 
 #### U
 
