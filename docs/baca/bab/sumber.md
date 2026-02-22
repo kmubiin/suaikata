@@ -52,11 +52,6 @@ Tuntasnya, sumber kata masukan bermula dengan senarai sedia
 ada atau senarai kosong. Sumber pilihan yang baik adalah
 tanpa makna dan mematuhi piawai.
 
-&nbsp;  
-laman lompat berkaitan:
-[{{ "piawai" }}](../..{% link baca/bab/piawai.md %}){% comment %}
-&brvbar; [piawai.md](piawai.md){% endcomment %}
-
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
 &brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
