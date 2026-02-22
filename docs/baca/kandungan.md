@@ -71,7 +71,7 @@ dilakukan selepas itu.
 32. [{{ "Memuat daftar" }}](.{% link baca/bab/muat.md %}){% comment %} &brvbar; [bab/muat.md](bab/muat.md){% endcomment %}
 33. [{{ "Menyelenggara daftar" }}](.{% link baca/bab/selenggara.md %}){% comment %} &brvbar; [bab/selenggara.md](bab/selenggara.md){% endcomment %}
 34. [{{ "Soal terjemah" }}](.{% link baca/bab/terjemah.md %}){% comment %} &brvbar; [bab/terjemah.md](bab/terjemah.md){% endcomment %}
-35. [{{ "Soal piawai" }}](.{% link baca/bab/piawai.md %}){% comment %} &brvbar; [bab/piawai.md](bab/piawai.md){% endcomment %}
+35. Tajuk ini akan diperbaharu (bab 3, jilid 3.5)
 36. [{{ "Soal format helai" }}](.{% link baca/bab/format.md %}){% comment %} &brvbar; [bab/format.md](bab/format.md){% endcomment %}
 
 [{{ "Dasar panduan" }}](.{% link baca/dasar.md %}){% comment %} &brvbar; [dasar.md](dasar.md){% endcomment %}
