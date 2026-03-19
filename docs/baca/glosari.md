@@ -315,6 +315,10 @@ bahasa asal yang hendak dibawakan dalam bahasa lain
 
 / tetapan lalai (en: default settings)
 
+/ templat (en: template)
+: benda yang digunakan sebagai panduan untuk memberi hasil
+yang setara dan kemudahan guna semula
+
 #### U
 
 / UI (en: user interface)
