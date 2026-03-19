@@ -42,5 +42,9 @@ ciri yang berlainan berdasarkan mana-mana aturan berikut:
 
 Semua laman sedia dipapar menggunakan penyunting teks, atau
 pelayar web bersama add-ons, yang ada sokongan Markdown.
+Nota kaki dan senarai definisi, kedua-duanya masih boleh
+dipapar sebagai pautan biasa dan perenggan biasa, sekalipun
+kramdown tidak digunakan.
+
 Jika menggunakan penjana laman Jekyll, maka semua laman
 boleh dipapar menggunakan pelayar web secara lalai.
