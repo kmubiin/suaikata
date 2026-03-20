@@ -227,6 +227,10 @@ daripada pangkalan data wiki
 
 / paparan mudah alih (en: mobile view)
 
+/ pautan mutlak (en: permalink)
+
+/ pautan relatif (en: relative link)
+
 / pelayar web (en: web browser)
 
 / pemaju
