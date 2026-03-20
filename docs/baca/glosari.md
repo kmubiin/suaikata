@@ -44,7 +44,6 @@ terkenal dengan antara muka web (WUI), antara muka grafik
 (GUI), antara muka garis perintah (CLI) pada komputer
 
 / anu (en: unknown, variable)
-: istilah pilihan
 : nama am bagi nilai yang boleh berubah atau yang
 tidak diketahui
 
@@ -205,7 +204,6 @@ awam kecuali pengguna tertentu sahaja
 : lihat "laman cabang"
 
 / laman utama (en: homepage)
-: istilah pilihan
 : laman yang menyediakan kemudahan untuk melawat
 kandungan mesra pembaca
 
@@ -264,7 +262,7 @@ dengan memberi maklum balas atau memperbaik hasil kerja
 bekerjasama dengan pengusaha
 : lihat juga "pengusaha"
 
-/ penyunting teks biasa (en: text editor)
+/ penyunting teks (en: text editor)
 
 / perangkaan (en: statistic)
 : maklumat dalam bentuk angka yang disusun dengan
