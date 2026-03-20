@@ -20,10 +20,13 @@ bahan bacaan dan rujukan projek.
 
 Laman berikut disediakan untuk bacaan umum.
 
-- [{{ "Hasil kajian Mac 2018" }}](.{% link baca/ura/1803.md %}){% comment %}
+- [Hasil kajian Mac 2018][1803] {% comment %}
 &brvbar; [ura/1803.md](ura/1803.md){% endcomment %}
-- [{{ "Hasil kajian April 2020" }}](.{% link baca/ura/2004.md %}){% comment %}
+- [Hasil kajian April 2020][2004] {% comment %}
 &brvbar; [ura/2004.md](ura/2004.md){% endcomment %}
+
+[1803]: .{% link baca/ura/1803.md %}  
+[2004]: .{% link baca/ura/2004.md %}  
 
 Laman berikut disediakan untuk panduan projek.
 
@@ -36,13 +39,25 @@ semasa menyiapkan daftar pertama.
 
 #### Bab 1: Satu permulaan
 
-11. [{{ "Mengenal projek suaikata" }}](.{% link baca/bab/kenal.md %}){% comment %}
+1. [Mengenal projek suaikata][11] {% comment %}
 &brvbar; [bab/kenal.md](bab/kenal.md){% endcomment %}
-12. [{{ "Sumber kata masukan" }}](.{% link baca/bab/sumber.md %}){% comment %} &brvbar; [bab/sumber.md](bab/sumber.md){% endcomment %}
-13. [{{ "Hak cipta tidak terpelihara" }}](.{% link baca/bab/hak-cipta.md %}){% comment %} &brvbar; [bab/hak-cipta.md](bab/hak-cipta.md){% endcomment %}
-14. [{{ "Lesen sumber terbuka" }}](.{% link baca/bab/lesen.md %}){% comment %} &brvbar; [bab/lesen.md](bab/lesen.md){% endcomment %}
-15. [{{ "Asas penyediaan takrif" }}](.{% link baca/bab/asas.md %}){% comment %} &brvbar; [bab/asas.md](bab/asas.md){% endcomment %}
-16. [{{ "Takrif asal dan terjemah" }}](.{% link baca/bab/takrif.md %}){% comment %} &brvbar; [bab/takrif.md](bab/takrif.md){% endcomment %}
+2. [Sumber kata masukan][12] {% comment %}
+&brvbar; [bab/sumber.md](bab/sumber.md){% endcomment %}
+3. [Hak cipta tidak terpelihara][13] {% comment %}
+&brvbar; [bab/hak-cipta.md](bab/hak-cipta.md){% endcomment %}
+4. [Lesen sumber terbuka][14] {% comment %}
+&brvbar; [bab/lesen.md](bab/lesen.md){% endcomment %}
+5. [Asas penyediaan takrif][15] {% comment %}
+&brvbar; [bab/asas.md](bab/asas.md){% endcomment %}
+6. [Takrif asal dan terjemah][16] {% comment %}
+&brvbar; [bab/takrif.md](bab/takrif.md){% endcomment %}
+
+[11]: .{% link baca/bab/kenal.md %}  
+[12]: .{% link baca/bab/sumber.md %}  
+[13]: .{% link baca/bab/hak-cipta.md %}  
+[14]: .{% link baca/bab/lesen.md %}  
+[15]: .{% link baca/bab/asas.md %}  
+[16]: .{% link baca/bab/takrif.md %}  
 
 {% comment %}
 **Bab 2: Perihal daftar** menerangkan ciri daftar dan helai
@@ -52,12 +67,25 @@ sesuai supaya dapat dibaca semula kemudian.
 
 #### Bab 2: Perihal daftar
 
-21. [{{ "Bentuk lazim daftar" }}](.{% link baca/bab/lazim.md %}){% comment %} &brvbar; [bab/lazim.md](bab/lazim.md){% endcomment %}
-22. [{{ "Kelainan ciri daftar" }}](.{% link baca/bab/lain.md %}){% comment %} &brvbar; [bab/lain.md](bab/lain.md){% endcomment %}
-23. [{{ "Mencipta helai daftar" }}](.{% link baca/bab/helai.md %}){% comment %} &brvbar; [bab/helai.md](bab/helai.md){% endcomment %}
-24. [{{ "Dua atau lebih lajur" }}](.{% link baca/bab/lajur.md %}){% comment %} &brvbar; [bab/lajur.md](bab/lajur.md){% endcomment %}
-25. [{{ "Penamat baris" }}](.{% link baca/bab/baris.md %}){% comment %} &brvbar; [bab/baris.md](bab/baris.md){% endcomment %}
-26. [{{ "Menyimpan helai dengan nama" }}](.{% link baca/bab/nama.md %}){% comment %} &brvbar; [bab/nama.md](bab/nama.md){% endcomment %}
+1. [Bentuk lazim daftar][21] {% comment %}
+&brvbar; [bab/lazim.md](bab/lazim.md){% endcomment %}
+2. [Kelainan ciri daftar][22] {% comment %}
+&brvbar; [bab/lain.md](bab/lain.md){% endcomment %}
+3. [Mencipta helai daftar][23] {% comment %}
+&brvbar; [bab/helai.md](bab/helai.md){% endcomment %}
+4. [Dua atau lebih lajur][24] {% comment %}
+&brvbar; [bab/lajur.md](bab/lajur.md){% endcomment %}
+5. [Penamat baris][25] {% comment %}
+&brvbar; [bab/baris.md](bab/baris.md){% endcomment %}
+6. [Menyimpan helai dengan nama][26] {% comment %}
+&brvbar; [bab/nama.md](bab/nama.md){% endcomment %}
+
+[21]: .{% link baca/bab/lazim.md %}  
+[22]: .{% link baca/bab/lain.md %}  
+[23]: .{% link baca/bab/helai.md %}  
+[24]: .{% link baca/bab/lajur.md %}  
+[25]: .{% link baca/bab/baris.md %}  
+[26]: .{% link baca/bab/nama.md %}  
 
 {% comment %}
 **Bab 3: Aturan kerja** menerangkan semula cara menyedia dan
@@ -67,12 +95,24 @@ dilakukan selepas itu.
 
 #### Bab 3: Aturan kerja
 
-31. [{{ "Menyedia daftar sendiri" }}](.{% link baca/bab/sedia.md %}){% comment %} &brvbar; [bab/sedia.md](bab/sedia.md){% endcomment %}
-32. [{{ "Memuat daftar" }}](.{% link baca/bab/muat.md %}){% comment %} &brvbar; [bab/muat.md](bab/muat.md){% endcomment %}
-33. [{{ "Menyelenggara daftar" }}](.{% link baca/bab/selenggara.md %}){% comment %} &brvbar; [bab/selenggara.md](bab/selenggara.md){% endcomment %}
-34. [{{ "Soal terjemah" }}](.{% link baca/bab/terjemah.md %}){% comment %} &brvbar; [bab/terjemah.md](bab/terjemah.md){% endcomment %}
-35. Tajuk ini akan diperbaharu (bab 3, jilid 3.5)
-36. [{{ "Soal format helai" }}](.{% link baca/bab/format.md %}){% comment %} &brvbar; [bab/format.md](bab/format.md){% endcomment %}
+1. [Menyedia daftar sendiri][31] {% comment %}
+&brvbar; [bab/sedia.md](bab/sedia.md){% endcomment %}
+2. [Memuat daftar][32] {% comment %}
+&brvbar; [bab/muat.md](bab/muat.md){% endcomment %}
+3. [Menyelenggara daftar][33] {% comment %}
+&brvbar; [bab/selenggara.md](bab/selenggara.md){% endcomment %}
+4. [Soal terjemah][34] {% comment %}
+&brvbar; [bab/terjemah.md](bab/terjemah.md){% endcomment %}
+5. Tajuk ini akan diperbaharu (bab 3, jilid 3.5)
+6. [Soal format helai][36] {% comment %}
+&brvbar; [bab/format.md](bab/format.md){% endcomment %}
+
+[31]: .{% link baca/bab/sedia.md %}  
+[32]: .{% link baca/bab/muat.md %}  
+[33]: .{% link baca/bab/selenggara.md %}  
+[34]: .{% link baca/bab/terjemah.md %}  
+[35]: #  
+[36]: .{% link baca/bab/format.md %}  
 
 [{{ "Dasar panduan" }}](.{% link baca/dasar.md %}){% comment %} &brvbar; [dasar.md](dasar.md){% endcomment %}
 ada senarai rujukan untuk semua
