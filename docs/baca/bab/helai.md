@@ -59,11 +59,6 @@ Projek suaikata telah menyediakan helai daftar pertama
 secara berkumpulan menggunakan Google Sheets, bagaimanapun
 hanya dua orang dalam kumpulan pada masa itu.
 
-&nbsp;  
-laman lompat berkaitan:
-[{{ "muat" }}](../..{% link baca/bab/muat.md %}){% comment %}
-&brvbar; [muat.md](muat.md){% endcomment %}
-
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
 &brvbar; [../kandungan.md](../kandungan.md){% endcomment %}

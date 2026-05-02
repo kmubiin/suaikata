@@ -85,13 +85,6 @@ komputer. Bagaimanapun, soal format boleh dilupakan jika
 helai daftar itu direka dan disimpan pada storan awan
 melalui aplikasi web.
 
-&nbsp;  
-laman lompat berkaitan:
-[{{ "muat" }}](../..{% link baca/bab/muat.md %}){% comment %}
-&brvbar; [muat.md](muat.md){% endcomment %},
-[{{ "format" }}](../..{% link baca/bab/format.md %}){% comment %}
-&brvbar; [format.md](format.md){% endcomment %}
-
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
 &brvbar; [../kandungan.md](../kandungan.md){% endcomment %}

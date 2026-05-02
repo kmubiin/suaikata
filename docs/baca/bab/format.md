@@ -110,11 +110,6 @@ Format mudah alih hanya mengingati isi dan rupa ringkas
 kandungan. Ciri ini menjadikan CSV dan TSV lebih mudah
 dibaca dan disunting menggunakan perisian yang berbeza.
 
-&nbsp;  
-laman lompat berkaitan:
-[{{ "nama" }}](../..{% link baca/bab/nama.md %}){% comment %}
-&brvbar; [nama.md](nama.md){% endcomment %}
-
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
 &brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
