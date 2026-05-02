@@ -22,15 +22,23 @@ masukan. Projek suaikata menggariskan tiga ciri sumber:
 Ciri 1 bermaksud kata masukan sudah dikumpul dan ada dalam
 bentuk senarai. Boleh juga mengumpul kata masukan sendiri,
 tetapi bermula dengan senarai kosong akan mengambil masa
-lebih lama berbanding **bermula dengan senarai sedia ada**.
+lebih lama berbanding bermula dengan senarai sedia ada.
+
+{% comment %}
+"senarai sedia ada" harus petik salah satu atau dua contoh
+daripada teks "pindah salin dari data sumber" di hujung
+laman ini, kemudian semua teks tersebut boleh dibuang
+{% endcomment %}
 
 Ciri 2 bermaksud kata masukan tidak disertakan dengan makna
 dalam senarai yang sama. Jika disertakan bersama makna,
 abaikan makna dan senaraikan kata masukan sahaja. Senarai
-tanpa makna adalah **hak cipta tidak terpelihara**.
+tanpa makna adalah [hak cipta tidak terpelihara][13].
+
+[13]: ../..{% link baca/bab/hak-cipta.md %}
 
 Ciri 3 bermaksud kata masukan mematuhi peraturan bahasa dan
-ejaan terbaharu. Gunakan **bahasa Melayu piawai**, kecuali
+ejaan terbaharu. Gunakan bahasa Melayu piawai, kecuali
 senarai kata masukan bertujuan mengumpul ejaan lama dan
 baharu bersama untuk rujukan bersejarah.
 
