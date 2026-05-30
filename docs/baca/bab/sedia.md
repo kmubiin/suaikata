@@ -8,14 +8,10 @@ jilid: 3.1
 
 ### Menyedia daftar sendiri
 
-Daftar harus disediakan mengikut cara sendiri kerana tidak
-ada aturan kerja yang tetap. Tambahan pula, projek suaikata
-menyedia daftar dengan cara berlainan. Bagaimanapun, apa
-yang pernah dicuba masih boleh dijadikan panduan.
+Panduan ini adalah berdasarkan perubahan dari semasa ke
+semasa dan tidak memetik mana-mana isu tercipta.
 
-{% comment %}
-Bab sedia tidak ditulis dan tidak teratur #todo #beta
-{% endcomment %}
+> Laman ini sengaja tidak ditulis buat masa ini.
 
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
