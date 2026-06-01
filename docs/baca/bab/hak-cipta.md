@@ -174,11 +174,17 @@ kemahiran dan usaha yang banyak, tetapi tanpa sebarang ciri
 kreativiti adalah hak cipta tidak terpelihara.
 
 Senarai kata tanpa makna adalah hak cipta tidak terpelihara.
-Projek suaikata bermula dengan senarai kata tanpa makna bagi
-mengusahakan daftar baharu yang bermakna. Seterusnya, daftar
-baharu yang diusahakan dengan cara tersendiri berpeluang ada
-nilai kesusasteraan dan boleh menambah keaslian hasil kerja,
-maka hak cipta boleh terpelihara.
+Projek suaikata memulakan daftar baharu dengan senarai kata
+yang tidak disertakan dengan makna. Senarai sedemikian boleh
+didapati dengan memilih [sumber kata masukan][12].
+
+[12]: ../..{% link baca/bab/sumber.md %}
+
+Seterusnya, senarai kata itu ditambah dengan lajur-lajur
+baharu bersama makna dan huraian yang berbeza atau tidak
+didapati pada asalnya. Jika daftar baharu seperti itu
+diusahakan dengan cara tersendiri dan dapat menambah
+keaslian hasil kerja, maka hak cipta boleh terpelihara.
 
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
