@@ -113,11 +113,6 @@ dilakukan selepas itu.
 [35]: #  
 [36]: .{% link baca/bab/format.md %}  
 
-[{{ "Dasar panduan" }}](.{% link baca/dasar.md %}){% comment %} &brvbar; [dasar.md](dasar.md){% endcomment %}
-ada senarai rujukan untuk semua
-bab di atas, tetapi telah dipindah salin ke setiap bab.
-Oleh itu, laman dasar akan dimansuh kelak.
-
 [{{ "Laman salinan" }}](.{% link baca/salinan.md %}){% comment %} &brvbar; [salinan.md](salinan.md){% endcomment %}
 ada senarai salinan terhad
 daftar, tetapi bakal dipindah salin ke data daftar dengan
