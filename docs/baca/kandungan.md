@@ -69,8 +69,7 @@ sesuai supaya dapat dibaca semula kemudian.
 
 1. [Bentuk lazim daftar][21] {% comment %}
 &brvbar; [bab/lazim.md](bab/lazim.md){% endcomment %}
-2. [Kelainan ciri daftar][22] {% comment %}
-&brvbar; [bab/lain.md](bab/lain.md){% endcomment %}
+2. Tajuk ini akan diperbaharu (bab 2, jilid 2.2)
 3. [Mencipta helai daftar][23] {% comment %}
 &brvbar; [bab/helai.md](bab/helai.md){% endcomment %}
 4. [Dua atau lebih lajur][24] {% comment %}
@@ -81,7 +80,7 @@ sesuai supaya dapat dibaca semula kemudian.
 &brvbar; [bab/nama.md](bab/nama.md){% endcomment %}
 
 [21]: .{% link baca/bab/lazim.md %}  
-[22]: .{% link baca/bab/lain.md %}  
+[22]: #  
 [23]: .{% link baca/bab/helai.md %}  
 [24]: .{% link baca/bab/lajur.md %}  
 [25]: .{% link baca/bab/baris.md %}  
