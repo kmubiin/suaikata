@@ -13,102 +13,128 @@ semasa dan berkaitan dengan isu tercipta yang bertajuk
 "Pengendalian data" (13 Mac 2018)[^1] dan "Kemudahan
 capaian data" (14 Mac 2018)[^2].
 
-Helai daftar disimpan sebagai fail pada komputer supaya
-boleh dibaca semula kemudian. Fail tersebut boleh disimpan
-dalam dua bentuk:
+Helai daftar harus disimpan sebagai fail pada komputer
+untuk salinan sendiri dan boleh dipapar semula secara bebas.
+Secara umum, fail boleh disimpan dalam dua format:
 
 1. Format asal
 2. Format mudah alih
 
-Perbezaan dua format tersebut adalah lebih maklumat.
-Format asal mengandungi maklumat lengkap seperti rumus,
-warna dan lebar sel untuk memapar seluruh kandungan pada
-keadaan asal. Sebaliknya, format mudah alih mengandungi
-teks biasa dan pemisah teks sahaja.
+Format asal mengandungi teks biasa dan pelengkap teks
+seperti warna teks, rumus pengiraan dan rujukan sel, panjang
+dan lebar sel, dan lain-lain. Format mudah alih pula
+mengandungi teks biasa dan pemisah teks sahaja.
+
+Perbezaan dua format tersebut adalah lebih maklumat. Bagi
+memapar semula helai daftar pada keadaan asal, pengguna
+perlu menyimpan fail dalam format asal.
 
 Apabila menyimpan fail baharu, perisian komputer akan
-menyarankan format asal seperti XLS dan ODS.
+menyarankan format asal seperti XLS dan ODS. Secara lalai,
 Microsoft Office menggunakan XLS, atau XLSX sejak 2007,
 manakala LibreOffice menggunakan ODS.
 
-Kandungan format asal yang dibaca oleh perisian komputer
-biasanya dipapar dalam helaian rebak yang terdiri daripada
-lajur berabjad dan baris bernombor.
+Gambaran daftar pada perisian komputer:
 
-|     |`A`         | `B`             |
-|:---:| ---------- | --------------- |
-| `1` | inggeris   | melayu          |
-| `2` | vocabulary | kosa kata       |
-| `3` |            | cuba, satu, dua |
+    .------------.---.-----------------.
+    |   |     A      |        B        :
+    |---|------------|-----------------.
+    | 1 | inggeris   | melayu          :
+    |---|------------|-----------------.
+    | 2 | vocabulary | kosa kata       :
+    |---|------------|-----------------.
+    | 3 |            | cuba, satu, dua :
+    | . | . . . . . .| . . . . . . . . .
 
-Apabila menggunakan beberapa perisian yang berbeza, fail
-tersebut sewajarnya disimpan dalam format mudah alih seperti
-CSV dan TSV. Perisian web seperti Google Sheets dan GitHub
-turut menyokong format mudah alih.
+Fail dalam format asal biasanya dipapar pada helaian rebak
+atau hamparan elektronik. Setiap muka pada helaian itu
+terdiri daripada lajur berabjad dan baris bernombor. Ruang
+di atas lajur berabjad menunjukkan koordinat dan kandungan
+sel yang sedang dipilih.
 
-Kandungan format mudah alih adalah lebih ringkas berbanding
-format asal, dan dipapar mengikut pilihan pengguna bagi
-perisian web atau perisian komputer yang digunakan.
+Walaupun fail dalam format asal dapat menyimpan helai daftar
+pada keadaan asal, namun fail itu tidak mesti dapat dipapar
+menggunakan perisian yang berbeza. Fail itu mungkin perlu
+dimuat dan disimpan semula dalam format mudah alih.
 
-Misalnya, pemapar fail di GitHub[^3] akan memaparkan CSV
-sebagai jadual ala helaian rebak. Nombor baris mungkin
-ditunjukkan di ruang paling kiri, bergantung pada ciri
-pemapar fail yang disediakan.
+Gambaran daftar pada pemapar fail atau perisian lain:
 
-|     |            |                 |
-|:---:| ---------- | --------------- |
-| `1` | inggeris   | melayu          |
-| `2` | vocabulary | kosa kata       |
-| `3` |            | cuba, satu, dua |
+    ....................................
+    : 1 : inggeris   : melayu          :
+    :   :............:.................:
+    : 2 : vocabulary : kosa kata       :
+    :   :............:.................:
+    : 3 :            : cuba, satu, dua :
+    :...:............:.................:
 
-Dalam misal lain, penyunting teks biasa dan garis perintah
-akan memaparkan CSV baris demi baris yang mengandungi
-sebarang teks biasa dan pemisah teks.
+Fail dalam format mudah alih dapat dipapar terus pada
+pemapar fail atau perisian yang berbeza. Misalnya, GitHub
+ada kemudahan memapar data[^3] secara langsung bagi fail
+yang dimuat dalam format mudah alih. Ruang di paling kiri
+menunjukkan nombor baris, jika berkenaan.
 
-Pilihan format mudah alih antara CSV dan TSV adalah mengikut
-kehendak pengguna. CSV mungkin lebih biasa dipilih.
-Bagaimanapun, TSV kelihatan lebih baik kerana ruang kosong
-antara teks yang mudah dibaca oleh pengguna dan masih 
-mudah dipapar seperti CSV menggunakan perisian yang berbeza.
+Dalam misal lain, penyunting teks biasa atau garis perintah
+akan memapar baris demi baris bagi fail yang sama. Setiap
+baris itu mengandungi sebarang teks biasa dan pemisah teks
+sahaja, yang mungkin dipapar secara berjarak.
 
-**CSV (Comma-separated values)**[^4] biasanya menggunakan
-aksara tanda koma `,` sebagai pemisah teks. Bergantung pada
-bahasa pengguna yang ditetapkan pada komputer, aksara lain
-mungkin juga digunakan sebagai pemisah teks.
+Gambaran daftar yang dipapar dengan garis perintah:
+
+    $ column -t -s ',' daftar.csv 
+    inggeris    melayu            
+    vocabulary  kosa kata         
+                "cuba       satu   dua"
+
+Helai daftar yang disimpan dengan format mudah alih hanya
+mengingati isi dan rupa ringkas kandungan. Format mudah alih
+ada dua pilihan lazim:
+
+1. CSV (Comma-separated values)[^4]
+2. TSV (Tab-separated values)[^5]
+
+Kandungan fail CSV:
 
     inggeris,melayu
     vocabulary,kosa kata
     ,"cuba, satu, dua"
 
+Fail CSV biasanya menggunakan aksara tanda koma `,` sebagai
+pemisah teks. Bergantung pada bahasa pengguna yang
+ditetapkan pada komputer, aksara selain tanda koma mungkin
+digunakan sebagai pemisah teks.
+
 Jika tanda koma turut digunakan dalam mana-mana sel, maka
 perisian akan menambah tanda petik dua `" "` meliputi
 seluruh kandungan sel itu. Tanda petik ini tersembunyi
-apabila dipapar dalam helaian rebak dan sebaliknya terdedah
-apabila dipapar dalam penyunting teks biasa.
+apabila dipapar pada helaian rebak dan sebaliknya terdedah
+apabila dipapar pada penyunting teks biasa.
 
-Kandungan fail CSV boleh menjadi rumit apabila melibatkan
-teks yang mengandungi tanda koma atau tanda petik tambahan.
-Tanda-tanda itu harus dielakkan bagi CSV, dan sekiranya
-masih rumit, gunakan TSV.
+CSV boleh menjadi rumit apabila melibatkan teks yang ada
+tanda koma atau tanda petik tambahan. Tanda-tanda itu harus
+dielakkan bagi CSV, dan sekiranya masih rumit, gunakan TSV.
 
-**TSV (Tab-separated values)**[^5] menggunakan aksara
-kekunci `<TAB>` bagi menggantikan aksara tanda koma `,`
-sebagai pemisah teks. Berbeza dengan CSV, tanda koma
-tambahan dalam sel tidak perlukan tanda petik dua lagi.
+Kandungan fail TSV:
 
     inggeris<TAB>melayu
     vocabulary<TAB>kosa kata
     <TAB>cuba, satu, dua
 
-Dalam paparan sebenar, aksara `<TAB>` hanyalah ruang lebar
-kosong antara teks dan mana-mana sel yang dibiar kosong
-boleh kelihatan janggal dan tidak tersusun. Oleh itu, TSV
+Fail TSV menggunakan aksara kekunci `<TAB>` bagi
+menggantikan aksara tanda koma `,` sebagai pemisah teks.
+Berbeza dengan CSV, tanda koma tambahan dalam sel tidak
+perlukan tanda petik dua lagi.
+
+Dalam paparan sebenar, aksara `<TAB>` hanyalah jarak lebar
+antara teks dan mana-mana sel yang dibiar kosong boleh
+kelihatan janggal dan tidak tersusun. Oleh itu, TSV
 sewajarnya digunakan untuk menyimpan teks yang sama panjang
 bagi satu-satu lajur.
 
-Format mudah alih hanya mengingati isi dan rupa ringkas
-kandungan. Ciri ini menjadikan CSV dan TSV lebih mudah
-dibaca dan disunting menggunakan perisian yang berbeza.
+Pilihan format mudah alih antara CSV dan TSV adalah mengikut
+kehendak pengguna. CSV mungkin lebih biasa dipilih.
+Bagaimanapun, TSV kelihatan lebih baik kerana ruang kosong
+antara teks yang mudah dibaca oleh pengguna dan masih
+mudah dipapar menggunakan perisian yang berbeza.
 
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
