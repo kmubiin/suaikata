@@ -38,26 +38,42 @@ Daftar yang disedia oleh perisian komputer dikenal sebagai
 "hamparan elektronik" atau "helaian rebak".
 
 Helaian rebak boleh mengandungi satu atau lebih helai.
-Setiap helai berisi sel-sel berpetak di sepanjang lajur
-dan baris yang tidak terhingga banyaknya. Contoh helai
-digambarkan seperti berikut.
+Apabila membuka helai pada perisian komputer, terdapat
+paparan nama dan isi asal sel (lihat "B1" dan "=4+1")
+seperti gambar rajah berikut.
 
-|     |`A`            | `B`               | ... |
-|:---:| ------------- | ----------------- | --- |
-| `1` | inggeris`¶`   | melayu`¶`         | ... |
-| `2` | vocabulary`¶` | kosa kata`¶`      | ... |
-| `3` | `¶`           | cuba, satu, dua`¶`| ... |
-| ... | ...           | ...               | ... |
+    -------------.---.----------------.
+    | B1         | = | =4+1           :
+    -------------.---.----------------.
+    |   |      A      |   B   |   C   :
+    |---|-------------#=======#-------.
+    | 1 |hasil tambah |     5 |       :
+    |---|-------------#=======#-------.
+    | 2 |             |       |       :
+    |---|-------------|---------------.
+    | 3 |             |       | ini   :
+    | . | . . . . . . | . . . | . . . .
 
-Lajur-lajur ditandakan dengan abjad A, B, C... di ruang
-paling atas sel manakala baris-baris ditandakan dengan angka
-1, 2, 3... di ruang paling kiri sel dalam helaian rebak.
-Sel-sel berpetak boleh diisi dengan teks atau formula dan
-disunting mengikut keperluan pengguna.
+Setiap helai berisi ruang berpetak yang dinamakan sel, di
+sepanjang lajur dan baris yang terhingga banyaknya.
+Lajur-lajur ditanda dengan abjad bermula dari A manakala
+baris-baris ditanda dengan angka bermula dari 1.
+
+Mana-mana lajur dan baris yang bertemu pada petak yang sama
+adalah sel yang dirujuk dengan abjad dan angka berkenaan.
+Misalnya, sel C3 terletak pada lajur C dan baris 3 dan juga
+diisi dengan perkataan "ini".
+
+Setiap sel boleh diisi dengan teks atau rumus. Apabila
+mengisi rumus yang bermula dengan tanda bersamaan `=`,
+hasilnya dipapar terus dalam sel itu. Misalnya, sel B1
+berisi rumus `=4+1` dan hasilnya ialah `5`.
 
 Projek suaikata telah menyediakan helai daftar pertama
-secara berkumpulan menggunakan Google Sheets, bagaimanapun
-hanya dua orang dalam kumpulan pada masa itu.
+secara berkumpulan menggunakan Google Sheets. Bagaimanapun,
+kumpulan itu hanya terdiri daripada dua orang pada masa itu.
+Helai-helai daftar selain itu disedia secara perseorangan
+mengikut cara kerja sendiri.
 
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
