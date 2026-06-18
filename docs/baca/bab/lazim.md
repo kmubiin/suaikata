@@ -11,38 +11,51 @@ jilid: 2.1
 Panduan ini adalah berdasarkan isu tercipta yang bertajuk
 "Rangkuman kosa kata" (12 Mac 2018)[^1].
 
-Biasanya, daftar didapati dalam bentuk senarai mudah atau
-jadual memanjang yang terdiri daripada lajur dan baris.
-Bentuk lazim bagi sesuatu daftar boleh berbeza.
+Daftar kata boleh didapati dalam bentuk senarai atau jadual
+yang terdiri daripada lajur dan baris. Bentuk lazim bagi
+sesuatu daftar boleh berbeza.
 
-Bagi daftar tanpa makna, semua lema disusun dalam satu
-lajur. Setiap lema dalam satu baris. Bentuk lazim daftar ini
-adalah senarai mudah yang disusun mengikut abjad.
+Dalam bentuk yang termudah, semua lema boleh disusun dalam
+satu lajur yang mengandungi satu lema bagi setiap baris.
+Daftar dalam bentuk ini adalah senarai mudah yang menjadi
+lebih panjang apabila lema bertambah baris demi baris.
 
-- (lema 1)
-- (lema 2)
+- lema 1
+- lema 2
 - ...
+- lema N
 
-Bagi daftar yang ada makna, semua lema disertakan bersama
-huraian dan disusun dalam dua atau lebih lajur. Setiap lema
-bersama huraian berkenaan dalam satu baris. Bentuk lazim
-daftar ini adalah jadual memanjang yang disusun mengikut
-abjad dan lajur.
+Apabila setiap lema ditulis bersama makna, semua lema boleh
+disusun dalam satu lajur juga. Bezanya, lema mungkin
+ditambah dengan tanda baca seperti titik dua bertindih atau
+sempang pendek, diselangi satu jarak sebelum diikuti makna
+bagi setiap baris.
 
-| (perkataan) | (huraian)     |
-| ----------- | ------------- |
-| (lema 1)    | (berkenaan 1) |
-| (lema 2)    | (berkenaan 2) |
-| ...         | ...           |
+- lema 1: makna untuk 1
+- lema 2: makna untuk 2
+- ...
+- lema N: makna untuk N
 
-Bagi daftar satu bahasa dan dua bahasa, bentuk lazim adalah
-sama seperti daftar yang ada makna. Daftar-daftar ini
-biasanya ada dua lajur.
+Dalam bentuk yang terkumpul, semua lema dan makna boleh
+disusun dalam dua atau lebih lajur yang mengandungi satu
+lema dan satu makna bagi setiap baris.
 
-Misalnya, daftar satu bahasa seperti daftar kata lawan akan
-ada lajur "kata dasar" dan "kata lawan". Daftar dua bahasa
-seperti daftar kata Inggeris-Melayu pula akan ada lajur
-"inggeris" dan "melayu".
+| tajuk pertama | tajuk kedua   |
+| ------------- | ------------- |
+| lema 1        | makna untuk 1 |
+| lema 2        | makna untuk 2 |
+| ...           | ...           |
+| lema N        | makna untuk N |
+
+Daftar dalam bentuk ini adalah jadual mudah yang menjadi
+lebih panjang apabila lema bertambah baris demi baris, dan
+menjadi lebih lebar apabila makna atau ciri-ciri lain
+bertambah lajur demi lajur.
+
+Bentuk lazim boleh diubah daripada senarai menjadi jadual,
+atau sebaliknya. Bagaimanapun, mengubah bentuk lazim adalah
+tidak mudah apabila jadual ada tiga lajur dan boleh menjadi
+tidak munasabah apabila ada banyak lajur.
 
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
