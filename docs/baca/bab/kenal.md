@@ -28,6 +28,12 @@ Perbandingan dari segi lesen dan kata masukan yang dibawakan
 oleh projek-projek tersebut telah dibuat pada 16 Mac 2018
 dan hasil kajian itu selesai dibentang pada 19 Mac 2018[^2].
 
+Projek ini mengusahakan daftar kata di laman sumber awam.
+Dua orang pengusaha telah memutuskan bahawa "sebut nama"
+sebagai syarat penggunaan sudah memadai. Daftar kata itu
+adalah sumber bukan atur cara, dan lesen berkenaan yang
+dipilih ialah CC-BY-4.0[^3].
+
 Selepas daftar pertama disiapkan, projek suaikata bertumpu
 pada pembaikan bagi daftar kata yang sedia ada dan
 pengkajian aturan kerja yang boleh dirujuk semula.
@@ -45,3 +51,4 @@ pada teks yang dirujuk dalam mana-mana perenggan di atas.
 
 [^1]: https://github.com/kmubiin/suaikata/issues/1
 [^2]: https://github.com/kmubiin/suaikata/issues/2
+[^3]: https://creativecommons.org/licenses/by/4.0/

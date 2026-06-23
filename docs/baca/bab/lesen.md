@@ -55,15 +55,6 @@ dengan memilih lesen yang sesuai[^2] sebelum sumber itu
 boleh digunakan oleh orang ramai. Lesen itu sebaiknya ada
 saranan daripada badan bebas[^3].
 
-Projek suaikata menyedia dan memuat daftar kata di laman
-sumber awam. Daftar kata itu adalah data sumber terbuka.
-Lesen yang sesuai adalah lesen bagi sumber bukan atur cara.
-Dua orang pengusaha telah memutuskan bahawa "sebut nama"
-sebagai syarat penggunaan sudah memadai.
-
-Projek suaikata menggunakan CC-BY-4.0[^4] bagi lesen semua
-kandungan termasuk daftar kata di laman sumber.
-
 {% assign tajuk = "kembali ke kandungan (bersuai)" %}  
 [{{ tajuk }}](../..{% link bersuai.md %}){% comment %}
 &brvbar; [../kandungan.md](../kandungan.md){% endcomment %}
@@ -78,4 +69,3 @@ pada teks yang dirujuk dalam mana-mana perenggan di atas.
 [^1]: https://github.com/kmubiin/suaikata/issues/3
 [^2]: https://choosealicense.com/
 [^3]: https://opendefinition.org/licenses/
-[^4]: https://creativecommons.org/licenses/by/4.0/
