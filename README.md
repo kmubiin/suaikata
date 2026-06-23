@@ -29,10 +29,8 @@ Kebanyakan kandungan dalam projek ini disedia dan disimpan
 sebagai teks biasa. Bagaimanapun, teks biasa boleh memiliki
 ciri yang berlainan berdasarkan mana-mana aturan berikut:
 
-- Markdown--bahasa penanda bagi elemen asas dan juga format
-  fail bagi semua laman pra-HTML
-- kramdown--pemproses bagi Markdown dan elemen tambahan
-  seperti nota kaki dan senarai definisi
+- Markdown--bahasa penanda bagi menyedia kandungan dan juga
+  format fail bagi semua laman pra-HTML
 - Liquid--bahasa templat bagi memapar data sendiri dan
   memuat kandungan secara memilih
 - YAML--format fail bagi tetapan laman, bahagian awal laman
@@ -42,9 +40,15 @@ ciri yang berlainan berdasarkan mana-mana aturan berikut:
 
 Semua laman sedia dipapar menggunakan penyunting teks, atau
 pelayar web bersama add-ons, yang ada sokongan Markdown.
-Nota kaki dan senarai definisi, kedua-duanya masih boleh
-dipapar sebagai pautan biasa dan perenggan biasa, sekalipun
-kramdown tidak digunakan.
+Elemen asas seperti perenggan, senarai berturutan, dan
+pautan boleh dipapar seperti sepatutnya.
 
-Jika menggunakan penjana laman Jekyll, maka semua laman
-boleh dipapar menggunakan pelayar web secara lalai.
+Beberapa elemen tambahan seperti nota kaki dan senarai
+definisi bergantung pada pemproses kramdown. Bagaimanapun,
+kedua-duanya digunakan secara terhad dan masih dapat dipapar
+tanpa kramdown, sebagai pautan dan perenggan biasa.
+
+Penjana laman Jekyll menggunakan pemproses kramdown yang
+menyokong elemen asas dan elemen tambahan. Jika Jekyll
+digunakan untuk menjana laman, maka semua laman dapat
+dipapar pada pelayar web secara lalai.
