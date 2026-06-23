@@ -10,18 +10,20 @@ diberi bagi menjana laman di luar talian sahaja.
 
 [daftar](daftar) -- sumber daftar kata  
 [docs](docs) -- sumber laman dan kandungan  
-&emsp;../_baca -- yang berasas  
-&emsp;[../../kandungan.md](docs/baca/kandungan.md) --
-yang tersedia  
+&emsp;../baca -- yang berasas  
+&emsp;[../baca/kandungan.md](docs/baca/kandungan.md) --
+yang tersedia \#  
 &emsp;../_data -- yang berurus  
-&emsp;../_muat -- yang muat bila perlu  
+&emsp;../_muat -- yang muat bila perlu \#  
 &emsp;../_usul -- yang bersejarah  
-&emsp;../bersuai.md -- yang disedia guna templat  
+&emsp;../bersuai.md -- yang disedia guna templat \#  
 &emsp;../_config.yml -- tetapan laman  
 &emsp;[../index.md](docs/index.md) -- laman utama  
 `index.md` -- fail rujukan di luar talian  
 `LICENSE` -- fail salinan lesen projek ini  
 `README.md` -- fail asal (laman ini)  
+
+\# akan disemak semula dan pasti dipermudah
 
 ## Pemerian teks dan aturan
 
