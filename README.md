@@ -25,7 +25,7 @@ yang tersedia \#
 
 \# akan disemak semula dan pasti dipermudah
 
-## Pemerian teks dan aturan
+## Pemerian format
 
 Kebanyakan kandungan dalam projek ini disedia dan disimpan
 sebagai teks biasa, dengan mana-mana format berikut.
@@ -44,10 +44,11 @@ sebagai teks biasa, dengan mana-mana format berikut.
    guna aksara jarak lebar atau kekunci `<TAB>` bagi
    menggantikan aksara koma sebagai pemisah teks.
 
-Semua laman sedia dipapar menggunakan penyunting teks, atau
-pelayar web bersama add-ons, yang ada sokongan Markdown.
-Elemen asas seperti perenggan, senarai berturutan, dan
-pautan boleh dipapar seperti sepatutnya.
+Penyunting teks boleh membaca semua kandungan teks tanpa
+membezakan mana-mana format. Bagaimanapun, perisian yang
+lebih khusus harus digunakan untuk memapar secara betul.
+
+## Kelainan bahasa dan aturan
 
 Beberapa elemen tambahan seperti nota kaki dan senarai
 definisi bergantung pada pemproses kramdown. Bagaimanapun,
