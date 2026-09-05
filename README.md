@@ -50,12 +50,31 @@ lebih khusus harus digunakan untuk memapar secara betul.
 
 ## Kelainan bahasa dan aturan
 
-Beberapa elemen tambahan seperti nota kaki dan senarai
-definisi bergantung pada pemproses kramdown. Bagaimanapun,
-kedua-duanya digunakan secara terhad dan masih dapat dipapar
-tanpa kramdown, sebagai pautan dan perenggan biasa.
+Markdown yang terpakai bagi sumber ini adalah yang diperluas
+dan khusus untuk penjana laman Jekyll. Markdown ini
+merangkumi ciri-ciri yang lazim berserta yang diperluas
+dengan ciri tambahan seperti jadual dan nota kaki.
 
-Penjana laman Jekyll menggunakan pemproses kramdown yang
-menyokong elemen asas dan elemen tambahan. Jika Jekyll
-digunakan untuk menjana laman, maka semua laman dapat
-dipapar pada pelayar web secara lalai.
+Penjana laman Jekyll adalah perisian banyak-dalam-satu yang
+digunakan untuk membangunkan sumber ini. Jekyll terdiri
+daripada bahagian seperti:
+
+- pemproses penanda kramdown untuk menjana semula kandungan
+  teks dalam fail Markdown menjadi laman HTML;
+
+- bahasa templat Liquid untuk menyokong kod sampingan dalam
+  fail Markdown untuk memuat data melalui YAML dan memuat
+  kandungan secara memilih;
+
+- sebilangan besar perisian kecil berasaskan Ruby untuk
+  mengenal pasti bahagian awal laman, dan menggabungkan
+  kandungan dan gaya laman.
+
+Sekalipun tidak menggunakan Jekyll, ciri tambahan seperti
+senarai definisi dan nota kaki masih dapat dipapar secara
+lalai sebagai perenggan dan pautan biasa.
+
+Penjana laman adalah cara lazim untuk menukarkan Markdown
+menjadi HTML untuk menyedia laman web. Bagi pengguna umum,
+pelayar web bersama add-ons adalah cara yang lebih ringkas
+untuk memapar Markdown secara langsung.
