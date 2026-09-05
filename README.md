@@ -28,17 +28,21 @@ yang tersedia \#
 ## Pemerian teks dan aturan
 
 Kebanyakan kandungan dalam projek ini disedia dan disimpan
-sebagai teks biasa. Bagaimanapun, teks biasa boleh memiliki
-ciri yang berlainan berdasarkan mana-mana aturan berikut:
+sebagai teks biasa, dengan mana-mana format berikut.
 
-- Markdown--bahasa penanda bagi menyedia kandungan dan juga
-  format fail bagi semua laman pra-HTML
-- Liquid--bahasa templat bagi memapar data sendiri dan
-  memuat kandungan secara memilih
-- YAML--format fail bagi tetapan laman, bahagian awal laman
-  dan tambahan data sendiri
-- CSV--format fail bagi daftar ada makna
-- TSV--format fail bagi daftar tanpa makna
+1. Markdown atau `.md`--format bagi semua kandungan yang
+   sedia dibaca dan boleh dijana semula menjadi laman HTML.
+
+2. YAML atau `.yml`--format bagi tetapan laman, bahagian
+   awal laman dan data sendiri, yang guna pasangan teks
+   seperti `anu: nilai`.
+
+3. CSV atau `.csv`--format bagi daftar ada makna, yang guna
+   aksara tanda koma sebagai pemisah teks.
+
+4. TSV atau `.tsv`--format bagi daftar tanpa makna, yang
+   guna aksara jarak lebar atau kekunci `<TAB>` bagi
+   menggantikan aksara koma sebagai pemisah teks.
 
 Semua laman sedia dipapar menggunakan penyunting teks, atau
 pelayar web bersama add-ons, yang ada sokongan Markdown.
